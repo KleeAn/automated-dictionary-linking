@@ -1,0 +1,141 @@
+srcid	srclemma	tgtid	tgtlemma	tgtgram	concept_PfWb
+PA01105	Affe	LA00096	Aff	m.,Affe-kini	kein_Trinken
+PA02263	an-setzen	LA00303	an-setzen	tr. v.	kein_Trinken
+PA02333	an-streichen	LA00308	an-strichen	tr. v.	kein_Trinken
+PA02680	Arm	LA00367	Arm	m.	kein_Trinken
+PA03044	auf-fahren	LU00026	uf-fahren		kein_Trinken
+PA04100	aus-streichen	LU00263	u'streichen	tr. v.	kein_Trinken
+PB00444	Ball	LB00086	Ball(e)	m.	kein_Trinken
+PB00520	Bampel	LB00110	Bampel	m.	kein_Trinken
+PB01111	Patsch-hand	LB00284	Batsch-h&#x00e4;ndel	n.	kein_Trinken
+PB01348	Baum	LB00101	Bam	m.	kein_Trinken
+PB01417	Bause	LB01755	Bus	f.	kein_Trinken
+PB01551	be-duselt	LB00394	be-duselt	adj.	kein_Trinken
+PB01819	be-koren	LK01012	koren	tr. v.	kein_Trinken
+PB05580	Brand	LB01343	Brand	m.	kein_Trinken
+PB05972	brennen	LB01414	brennen	intr. v.	kein_Trinken
+PB06562	Br&#x00fc;he	LB01455	Brih	f.	kein_Trinken
+PB07244	Bummer	LB01696	Bummer	m.	kein_Trinken
+PB07392	B&#x00fc;rde	LB00843	Bird	f.	kein_Trinken
+PB07506	B&#x00fc;rste	LB00857	Birscht	f.	kein_Trinken
+PB07543	Busch	LB01758	Busch	f.	kein_Trinken
+PB07569	Buschon	LB01764	Buschong	m.	kein_Trinken
+PB07638	Butik	LB01665	Budik	f.	kein_Trinken
+PD00009	Tabak	LD01194	Tuwak	m.	kein_Trinken
+PD00583	Dampf	LD00093	Damp	m.	kein_Trinken
+PD00677	Tann(en)-strau&#x00df;	LD00111	Danne-strauss		kein_Trinken
+PD00906	Darauf-geld	LD00962	trucken		kein_Trinken
+PD01371	Daumen	LD01072	Dummen	m.	kein_Trinken
+PD01673	teigig	LD00216	dei	adj.	kein_Trinken
+PD02335	dienen	LD00383	dienen	intr. v.	kein_Trinken
+PD02541	Tisch	LD00455	Disch	m.	kein_Trinken
+PD03110	torkelig	LD00442	tirkelech	adj.,tirkelich	kein_Trinken
+PD03115	Dorn	LD00611	Dor	m.	kein_Trinken
+PD03461	Traget	LD00678	Traht	f.	kein_Trinken
+PD04805	trunken	LD00928	dronken	adj.	kein_Trinken
+PD04986	Duft	LD01058	Duft	m.	kein_Trinken
+PD05219	T&#x00fc;pfen	LD00424	Dippen	m. n.	kein_Trinken
+PD05256	Tur	LD01116	Tur	f.	kein_Trinken
+PD05747	Dusel	LD01174	Dusel	m.	kein_Trinken
+PE00838	ein-schenken	LI00092	in-schenken	tr. v.	kein_Trinken
+PE00896	ein-seifen	LI00099	in-seifen	tr. v.	kein_Trinken
+PE01864	er-geben	LE00273	er-genn	refl. v.	kein_Trinken
+PF00099	Fahne	LF00017	Fahne	m.	kein_Trinken
+PF00858	Veit	LF00193	Veit		kein_Trinken
+PF00952	Feld-webel	LF00220	Feng	f.	kein_Trinken
+PF02228	ver-schmachten	LF00632	ver-schmochten	intr. v.	kein_Trinken
+PF02250	ver-schn&#x00e4;uken	LF00634	ver-schn&#x00e4;kt	adj.	kein_Trinken
+PF02659	ver-z&#x00e4;pfen	LF00762	ver-z&#x00e4;ppen	tr. v.	kein_Trinken
+PF02796	Fetzen	LF00798	Fetzen	m.	kein_Trinken
+PF03115	Viertel	LF00823	Viertel	n.	kein_Trinken
+PF03608	Fl&#x00e4;sche	LF01050	Flesch	f.	kein_Trinken
+PF03839	Flemme	LF01043	Flemm	f.	kein_Trinken
+PF04211	voll	LF01121	voll	adj.	kein_Trinken
+PF04237	Vollheit	LF01125	Vollchit	f.	kein_Trinken
+PG01719	Gelze	LG00446	Gelz	f.	kein_Trinken
+PG03418	Gl&#x00fc;ckser	LG00896	Gluckser	m.	kein_Trinken
+PG04203	Grind-kopf	LG01119	Grind	m. f.	kein_Trinken
+PH00263	Hafer	LH00329	Hawer	m.	kein_Trinken
+PH00512	halb	LH00064	halb	adj.	kein_Trinken
+PH04415	Hieb	LH00573	Hib	m.	kein_Trinken
+PH05549	Hirsch	LH00669	Hirsch	m.	kein_Trinken
+PH05882	Hocker	LH00844	Hucker	m.	kein_Trinken
+PH05915	Hof	LH00684	hischtlen		kein_Trinken
+PH07077	Hund	LH00890	Hund	m.	kein_Trinken
+PH07499	Huren-nest	LH00940	Hurenescht		kein_Trinken
+PK00043	Kaffee	LK00024	Kaffee	m.	kein_Trinken
+PK00044	Kaffee	LK00025	Kaffeebich		kein_Trinken
+PK00048	Kaffee-bohne	LK00060	Kalenner	m.	kein_Trinken
+PK00064	Kaffee-haus	LK00014	Kadaschter	m.	kein_Trinken
+PK00090	Kaffee-satz	LK00060	Kalenner	m.	kein_Trinken
+PK00499	kanonen-voll	LK00144	kanone-voll	adj.	kein_Trinken
+PK00557	Kappe	LK00167	Kapp	f.	kein_Trinken
+PK04261	Kost-haus	LK01019	Kort	f.	kein_Trinken
+PK04361	Kr&#x00e4;ch	LK01066	Kr&#x00e4;ch	f.	kein_Trinken
+PK04414	Kraft	LK01079	Kraft	f.	kein_Trinken
+PK04420	kr&#x00e4;ftig	LK01080	kr&#x00e4;ftich	adj. u. adv.	kein_Trinken
+PK05119	Krone	LK01278	Kron	f.	kein_Trinken
+PL00075	Lack	LL00031	Lack	m.	kein_Trinken
+PL00077	lack	LL00032	lack	adj.	kein_Trinken
+PL01544	Leiter	LL00288	Leiter	f.	kein_Trinken
+PL01729	leuchten	LL00375	lichten	intr. v.	kein_Trinken
+PL01949	Linde	LL00309	Lenn	f.	kein_Trinken
+PL02355	L&#x00f6;we	LL00351	Lew	m.	kein_Trinken
+PL02514	Lump	LL00553	Lump	m.	kein_Trinken
+PL02648	Lust	LL00592	Luscht	f.	kein_Trinken
+PN00728	Nebel	LN00166	Newel	m.	kein_Trinken
+PO00250	Ochse	LO00011	Ochs	m.	kein_Trinken
+PQ00266	Quetsche1	LK01499	Kwetsch I		kein_Trinken
+PR00719	Rausch1	LR00673	Rusch	m.	kein_Trinken
+PR00942	regalieren	LR00242	regalieren		kein_Trinken
+PR01163	Reif2	LR00267	Reif	m.	kein_Trinken
+PR01570	Ribo	LR00400	Ribott	f.	kein_Trinken
+PS00044	S&#x00e4;bel	LS00191	Sawel I	m. n.	kein_Trinken
+PS00721	Satz	LS00146	Satz I	m.	kein_Trinken
+PS00906	S&#x00e4;ufer	LS02449	Suffer, Suffersch		kein_Trinken
+PS00925	Sauf-lappen	LS02447	Suff-lappe	m.	kein_Trinken
+PS01303	Sch&#x00e4;cher	LS00193	S&#x00e4;wer	m.	kein_Trinken
+PS01883	Schaub	LS00306	Schapp	m.	kein_Trinken
+PS02122	schenken	LS00432	schenken	tr. v.	kein_Trinken
+PS02273	schicker	LS00468	schicker	adj.	kein_Trinken
+PS03518	Schluck	LS00775	Schluck I	m.	kein_Trinken
+PS04251	Schnaps-butelle	LS00902	Schnapp-h&#x00e4;hn		kein_Trinken
+PS04256	Schnapser	LS00918	Schnapser	m.	kein_Trinken
+PS04283	Schnaps-nase	LS00902	Schnapp-h&#x00e4;hn		kein_Trinken
+PS05208	schr&#x00e4;g	LS01141	schr&#x00e4;gs		kein_Trinken
+PS06191	schwarz	LS01315	schwarz	adj. u. adv.	kein_Trinken
+PS07146	selig	LS01443	selich	adj.	kein_Trinken
+PS07972	Sonne	LS02469	Sunn	f.	kein_Trinken
+PS09038	Spitz	LS01778	Spitz II	m.	kein_Trinken
+PS09418	spritzen	LS01839	Sprier	f.	kein_Trinken
+PS09424	Spritzer	LS01849	Spritzer	m.	kein_Trinken
+PS09970	St&#x00e4;nder	LS01961	St&#x00e4;nner	m.	kein_Trinken
+PS10105	staubig	LS01970	stawich	adj.	kein_Trinken
+PS10172	Stecher	LS01977	Stecher	m.	kein_Trinken
+PS10261	Stefze	LS01992	Steft II		kein_Trinken
+PS10643	Stern	LS02061	Sterren	n.	kein_Trinken
+PS10680	sternhagel-voll	LS02065	sterrevoll		kein_Trinken
+PS10803	Stieben	LS02143	Stiwen	f.	kein_Trinken
+PS10811	Stieber	LS02015	Steiwer	m.	kein_Trinken
+PS10820	Stiefel1	LS02138	Stiw&#x0259;l	m.	kein_Trinken
+PS11264	Storax	LS02407	Sturek	m.,Sturkes	kein_Trinken
+PS11270	Storch	LS02197	Storich	m.	kein_Trinken
+PS11316	Storren	LS02198	Storre	m.	kein_Trinken
+PS11339	Sto&#x00df;	LS02201	Stoss	m.	kein_Trinken
+PS11418	strack	LS02220	strack	adj. u. adv.	kein_Trinken
+PS11616	Strau&#x00df;2	LS02361	Struss I	m.	kein_Trinken
+PS11780	Strich	LS02303	Strich	m.	kein_Trinken
+PS11977	strubbelig	LS02371	struwelich	adj.	kein_Trinken
+PS12341	Sturm	LS02411	Sturm	m.,Sturme	kein_Trinken
+PS12525	S&#x00fc;ffer	LS01522	Siffer	m.	kein_Trinken
+PW01706	Wein-essig	LW00435	Winkel	m.	kein_Trinken
+PW01853	weisen	LW00487	wisen	tr. v.	kein_Trinken
+PW02673	wild	LW00394	wild	adj. u. adv.	kein_Trinken
+PW02789	Wind1	LW00417	Wind	m.	kein_Trinken
+PW03183	Wirt	LW00464	Wirt	m.	kein_Trinken
+PW03189	Wirtschaft	LW00471	Wirtschaft	f.	kein_Trinken
+PW03195	Wirts-haus	LW00467	Wirtslitt		kein_Trinken
+PZ00153	Zapfen	LZ00034	aZpen	m.	kein_Trinken
+PZ00154	z&#x00e4;pfen	LZ00038	zappen		kein_Trinken
+PZ00197	z&#x00e4;rt	LZ00040	zart	adj. u. adv.	kein_Trinken
+PZ00961	Zopf	LZ00185	Zopp	n.	kein_Trinken

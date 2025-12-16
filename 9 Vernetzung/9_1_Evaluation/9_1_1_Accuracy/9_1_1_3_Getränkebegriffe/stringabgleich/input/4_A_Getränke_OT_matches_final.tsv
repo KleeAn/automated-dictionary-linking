@@ -1,0 +1,707 @@
+xml:id	Lemma	Wortart	Level	Definition	Konzept	Begriff	Begriff_gemappt
+EA00652	Amors	Substantiv	3.	schlechter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Fusel; Schnaps	Schnaps
+EF00900	Fusel	Substantiv		geringer, schlechter Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Fusel; Schnaps	Branntwein; Fusel
+EF01024	Vitriol	Substantiv	2.	schlechter Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Fusel; Schnaps	Branntwein
+EG00225	Rattengift	Substantiv	1.	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+EG00272	Giger	Substantiv	4.	schlechte Sorte Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Fusel; Schnaps	kein_Trinken
+EG00282	Giges, Gigs	Substantiv		schlechter Branntwein, Fusel; schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Branntewein; Branntwein; Fusel; Schnaps; Wein	Branntwein; Fusel; Wein
+EG00283	Burlegiges	Substantiv	1.	schlechter, gewässerter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+EG01048	Geist	Substantiv	2.	Weingeist, Alkohol	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Hochprozentiges; Spirituose	kein_Trinken
+EG01127	Herrgöttel	Substantiv	2.	ein kleines Glas Bier, ein halber Schoppen, ein viertel Liter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Bier; Wein	Wein
+EK00182	Kaffee, Kaffi	Substantiv	1.	Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Kaffee	Kaffee
+EK00183	Schokelakaffee	Substantiv		Milchschokolade mit Brot	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kakao	Milchschokolade; Schokoladenmilch	kein_Trinken
+EK01109	Kirs(e), Kirsch	Substantiv	2.	Kirschbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Kirsch; Kirschgeist; Kirschwasser	kein_Trinken
+EK01744	Kläw(n)er, Kläfler	Substantiv	2.	Wein daraus	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+EK02026	Kräbel	Substantiv		Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Branntwein
+EK02032	Krëbser 	Substantiv	1.	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+EL00463	Vorlauf	Substantiv	2.	der erste Branntwein, der beim Branntweinbrennen herauskommt; er wird nicht getrunken, sondern zur Herstellung einer geringeren Güte Schnaps oder zu Einreibungen verwandt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Fusel; Schnaps	Branntwein; trinken
+EL01179	Lur(e), Lür	Substantiv	3.	schlechter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Fusel; Schnaps	Schnaps
+EL01179	Lur(e), Lür	Substantiv	4.	schlechte Brühe überhaupt, bes. Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	Brühe
+EL01179	Lur(e), Lür	Substantiv	2.	ein Getränk, im Herbst aus wilden Früchten und etwas Wein hergestellt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Fruchtwein; Obstwein	Getränk
+EL01179	Lur(e), Lür	Substantiv	1.	leichter Wein, hergestellt durch Vermischen mit Wasser	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+EL01180	Lappenlur(e), Lappenlür	Substantiv	1.	schwacher, saurer, matter, verwässerter Wein oder Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein 	Brühe; Geplämpe; Geschlapp; Kaffee; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre; Wein	Wein
+EL01546	Lüterung	Substantiv	1.	Vorbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	kein_Trinken
+EM00566	Milch	Substantiv		Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Milch	Milch
+EM00567	Brieschmilch	Substantiv		die erste Milch der Kuh	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Kuhmilch	Milch
+EM00571	Geisenmilch	Substantiv	1.	Ziegenmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Ziegenmilch	kein_Trinken
+EM00577	Surmilch	Substantiv		Sauermilch, Dickmilch, gestockte Milch; wird häufig abends mit Kartoffeln gegessen; auch zu Suppen verwendet	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Dickmilch; Sauermilch; gestandene Milch; saure Milch	Milch; Sauermilch
+EM00624	Molzer	Substantiv	3.	Biersorte, die teils aus Lager-, teils aus Jungbier besteht	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	kein_Trinken
+EM00634	Mëmm; Mëmm(e)le	Substantiv	1.	in der Kinderspr. jede trinkbare Flüssigkeit, besonders Milch; auch verdoppelt	Getränk; Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Milch; Trinkbares	Milch
+EM01478	Most II, Muschk	Substantiv	1.	süsser Apfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Apfelperlwein; Apfelwein	Most
+EM01478	Most II, Muschk	Substantiv	2.	süsser Traubenwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Süßwein	Most
+EM01516	Mët(er)	Substantiv		Met	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk	Honigwein; Met	Met
+EN00683	Näz	Substantiv	4.	schlechtes Getränk	Getränk	Getränk; Trank; Trunk	Getränk
+EP00701	Totenbaümpolitur	Substantiv	2.	schlechter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Fusel; Schnaps	Schnaps
+EP00881	Bemmeri	Substantiv	2.	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+EP00974	Bumpes	Substantiv	2.	gepantschter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+EP01449	Bupperi	Substantiv	4.	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+EP01634	Bier	Substantiv		Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	Bier
+EP01789	Bërliner 	Substantiv	2.	schlechter Schnaps, auch Bërliner Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Fusel; Schnaps	Schnaps
+EP02080	Position	Substantiv	2.	ein gewöhnliches Trinkglas voll Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	kein_Trinken
+EP02310	Petrol	Substantiv	2.	Fusel, gemeiner Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Fusel; Schnaps	Fusel; Schnaps
+EP02606	Rachenbutzer	Substantiv	1.	saurer Wein, der vermöge seiner Weinsteinsäure den Schleim im Rachen gerinnen macht und ablöst	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+EP03252	Plämpel, Bämpel	Substantiv	2.	träger, langsamer Mensch; schlechtes Getränk, insbes. dünner schwappelnder Kaffee	Getränk; Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Getränk; Kaffee; Trank; Trunk	Getränk
+EP03335	Plappri, Plappkli	Substantiv	2.	schwaches Getränk, insb. von Wein und Kaffee gesagt	Getränk; Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein 	Getränk; Kaffee; Trank; Trunk; Wein	Getränk
+EP03708	Brüej(e)	Substantiv	1.	Brühe, Sauce; auch Seifenbrühe, frischgepresster Rebensaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Traubensaft	Brühe; Rebensaft
+EP03708	Brüej(e)	Substantiv	2.	schlechte Suppe, schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+EP03711	Bankerottbrüej	Substantiv		schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+EP03723	Leimenbrüej	Substantiv		scherzhaft für den lehmfarbigen neuen Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Federweißer; Sauser	kein_Trinken
+EP03724	Qutschelbrüej	Substantiv	2.	schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	Kaffee
+EP03727	Schnitzbrüej	Substantiv		schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+EP03930	Brenz	Substantiv	1.	Schnaps, Fusel	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Fusel; Schnaps	Fusel; Schnaps
+EP04065	Briest, Briesch	Substantiv	2.	Milch einer frischmelkenden Kuh	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Kuhmilch	Milch
+EP04065	Briest, Briesch	Substantiv	3.	gestockte junge Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Dickmilch; Sauermilch; gestandene Milch; saure Milch	Milch
+ER00626	Rum I	Substantiv		Rum	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Rum; Zuckerrohrschnaps	kein_Trinken
+ER00670	Rämpes	Substantiv	1.	geringer Schnaps; schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein 	Branntewein; Branntwein; Fusel; Schnaps; Wein	Schnaps; Wein
+ER00917	Räppes, Räppis, Räps	Substantiv	1.	schlechter Wein; neuer Wein aus Trauben, die man vor der eigentlichen Weinlese holt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Federweißer; Sauser; Wein	Wein
+ER01113	Rissmichum	Substantiv		gemeiner Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+ES00271	Seifel	Substantiv	3.	minderwertiges Getränk, Bier oder Wein	Getränk; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein 	Getränk; Kaffee; Trank; Trunk; Wein	Bier; Getränk
+ES00292	Gsuff(s)	Substantiv	2.	schlechtes Getränk	Getränk	Getränk; Trank; Trunk	Getränk
+ES00323	Saft	Substantiv		Saft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Saft	Saft
+ES00572	Katzenseckel	Substantiv	1.	Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Branntwein
+ES01193	Suser	Substantiv		gährender Most	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Most
+ES02036	Schoppen	Substantiv	2.	bes. ein Schoppen Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	kein_Trinken
+ES02507	Kaffeeschlabber	Substantiv		schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	Kaffee
+ES02514	Schlabberte, Schlabbete	Substantiv	2.	überh. schlechtes Getränke, kraftlose Brühe	Getränk	Getränk; Trank; Trunk	Brühe
+ES03500	Schnaps, Schnips	Substantiv	1.	Schnaps, Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Branntwein; Schnaps
+ES03505	Quëtschelschnaps, Quëtschenschnaps, Quetschenschnaps	Substantiv		Branntwein aus Zwetschen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Pflaumenbranntwein; Zwetschgenbrand; Zwetschgenschnaps; Zwetschgenwasser	Branntwein
+ES04513	Sprit	Substantiv	2.	schlechter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Fusel; Schnaps	Schnaps
+ES04532	Spritzer, Spretzer	Substantiv	5.	kleine Menge Branntwein, die man in den schwarzen Kaffee giesst	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Branntwein
+ES05370	Stöpferle	Substantiv	1.	petschierter Flaschenwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+ET00024	Tee	Substantiv	2.	Aufguss von getrockneten Blättern oder Blüten heilkräftiger Pflanzen	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Tee	Tee
+ET00025	Brusttee	Substantiv	1.	Brusttee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Tee	kein_Trinken
+ET01557	Düttle, Düttel	Substantiv	4.	Muttermilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Milch	kein_Trinken
+ET01713	Traberen, Träberen	Substantiv	2.	Treberbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Grappa; Tresterbrand; Tresterschnaps	kein_Trinken
+ET01926	Teüfelsdrëck 	Substantiv	2.	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+ET02147	Trank	Substantiv		Trank	Getränk 	Getränk; Trank; Trunk	Trank
+ET02152	Säütränke	Substantiv	2.	schlechtes Getränk, z. B. schlechter Wein	Getränk; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Getränk; Trank; Trunk; Wein	Getränk
+ET02160	Trinken	Substantiv		Getränk	Getränk 	Getränk; Trank; Trunk	Getränk; Trinken
+ET02165	Trunk	Substantiv		Trunk	Getränk 	Getränk; Trank; Trunk	Trunk
+ET02166	Schlaftrunk	Substantiv		urspr. Trunk, der dem Gaste dargereicht wurde, wenn er sich schon zu Bett begeben hatte; später Trinkgelage, das sich an die Abendmahlzeit anschloss.	Getränk; Trinken	Getränk; Trank; Trinken; Trunk	kein_Trinken
+ET02252	Druesen, Drusen	Substantiv	2.	Branntwein aus Weinhefe gewonnen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	kein_Trinken
+EW00675	Äpfelwi(n)	Substantiv		Apfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Apfelperlwein; Apfelwein	kein_Trinken
+EW00678	Birenwi(n)	Substantiv		Birnwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Fruchtwein; Obstwein	kein_Trinken
+EW00679	Branntenwi(n), Brënntewi(n)	Substantiv		Branntwein, Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Branntwein; Schnaps
+EW00682	Dreimännerwin	Substantiv		Wein, der so sauer ist, dass drei Männer den Trinkenden festhalten müssen (sonst würde er  sich weigern, ihn zu nehmen)	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+EW00685	Edelwin	Substantiv		feine Sorte Weisswein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Weißer; Weißwein	kein_Trinken
+EW00686	Ehrwein	Substantiv		Ehrenwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+EW00688	Gänswin	Substantiv		schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+EW00690	Grumbirenbrënntewin	Substantiv		Branntwein aus gegorenen Kartoffeln	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Branntwein
+EW00706	Stichwin	Substantiv		der zur Probe aus dem Fass genommene Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+EW00712	Trinkwi(n)	Substantiv		leichter Wein, der gewonnen wird, wenn man nach dem Pressen der Trauben die Träber mit Wasser übergiesst und nach einem Zuckerzusatz nochmals gären lässt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+EW00713	Truebwi(n), Trüebwi(n)	Substantiv		Trübwein, der letzte, nicht mehr klare W. aus einem Fasse	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+EW01009	Wermuet	Substantiv	2.	Wermutbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Wermutbranntwein	kein_Trinken
+EW01152	Wasser	Substantiv	1.	Wasser, Trinkwasser, Quellwasser, Regenwasser, Fluss, Teich, See, Meer. Von einem Arbeitsscheuen	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Trinkwasser; Wasser	Trinkwasser; Wasser
+EW01154	Bappelwasser	Substantiv	1.	geistige Getränke	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Spirituose	Getränk
+EW01154	Bappelwasser	Substantiv	2.	Tee aus Blättern der Rosenpappel	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Tee	Tee
+EW01168	Kirsenwasser, Kirschenwasser	Substantiv		Branntwein aus Kirschen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Kirsch; Kirschgeist; Kirschwasser	Branntwein
+EW01182	Schüsselwasser	Substantiv	2.	schlechter Kaffee; dünne, kraftlose Suppe	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	Kaffee
+EW01183	Seckelwasser	Substantiv		schlechtes Getränk, Wein und Bier	Getränk; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier; Getränk; Trank; Trunk; Wein	Getränk; Wein
+EW01189	Wichtwasser, Gewichtwasser, Wihwasser	Substantiv	2.	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+EZ00219	Zucker II	Substantiv	2.	Gläschen Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	kein_Trinken
+LA00253	Änes	Substantiv	2.	Anisbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Anisbranntwein; Anislikör; Anisschnaps; Arrak	kein_Trinken
+LA00351	Appelvitz	Substantiv		Apfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Apfelperlwein; Apfelwein	kein_Trinken
+LA00352	Äbbel-win	Substantiv		Apfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Apfelperlwein; Apfelwein	kein_Trinken
+LB00004	Babbel-wasser	Substantiv		Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+LB00183	Bäre-dreck	Substantiv		Süßholzsaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Saft	kein_Trinken
+LB00331	Paure-wein	Substantiv		ungekelteter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+LB00479	Pek I	Substantiv		saurer Wein, aus Trestern hergestellt, indem man Wasser zusetzt u. das Gemisch einige Tage in einem Fasse stehen läßt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+LB00755	Bier II	Substantiv		Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	Bier
+LB01103	Blotz-milch	Substantiv		Buttermilch, die durch Butter blotze entsteht	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Buttermilch	kein_Trinken
+LB01322	Brach	Substantiv		dicke Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Dickmilch; Sauermilch; gestandene Milch; saure Milch	Milch
+LB01350	Brannte-win	Substantiv		Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Branntwein
+LB01497	Brockel	Substantiv	1.	geronnene Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Dickmilch; Sauermilch; gestandene Milch; saure Milch	Milch
+LD00368	Dick-milch	Substantiv		sauer Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Dickmilch; Sauermilch; gestandene Milch; saure Milch	Milch
+LD00695	Drank	Substantiv	1.	Apfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Apfelperlwein; Apfelwein	kein_Trinken
+LD00818	Trep(s)	Substantiv	3.	Gläschen Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	kein_Trinken
+LD00927	Dronk	Substantiv	2.	Trank, heilkräftiges Getränk	Getränk	Getränk; Trank; Trunk	Getränk; Trank
+LD00927	Dronk	Substantiv	1.	Trunk	Getränk	Getränk; Trank; Trunk	Trunk
+LD00971	Druff	Substantiv	1.	trüber Wein als Faßrest	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+LD01008	Drusenbrantwin	Substantiv		fast allg. Branntwein aus Weinhefe gewonnen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	kein_Trinken
+LD01116	Tur II	Substantiv	2.	Runde	Getränk	Getränk; Trank; Trunk	kein_Trinken
+LD01139	Turne	Substantiv	1.	Runde, für jeden am Tisch ein Glas	Getränk	Getränk; Trank; Trunk	kein_Trinken
+LE00056	Eichelkaffee	Substantiv		Eichelkaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Eichelkaffee	kein_Trinken
+LF00916	Vir-schotz	Substantiv		der erste Branntwein, der beim Brennen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Branntwein
+LF00954	Vitz	Substantiv		Obstwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Fruchtwein; Obstwein	kein_Trinken
+LF01130	Föll-wein	Substantiv		Füllwein, Wein zum Nach- und Auffüllen im Fasse	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+LF01160	Vor-laf	Substantiv		Vorlauf d. i. der erste Branntwein, der beim Brennen ausfließt. Er ist zu alkoholreich, um getrunken zu werden, u. dient zu Einreibungen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Branntwein; trinken
+LF01369	Fusel	Substantiv		geringer, schlechter Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Fusel; Schnaps	Branntwein; Fusel
+LG00244	Ge-drenks	Substantiv	1.	Getränke	Getränk	Getränk; Trank; Trunk	Getränk
+LG00339	Geischt	Substantiv		Weingeist, Alkohol	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Hochprozentiges; Spirituose	kein_Trinken
+LG00782	Giges I	Substantiv		schlechter Branntwein, Fusel	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Fusel; Schnaps	Branntwein; Fusel
+LG00947	Gom	Substantiv	4.	ein süßliches Getränk	Getränk	Getränk; Trank; Trunk	Getränk
+LG00987	Grächen	Substantiv		neuer Wein; Wein, der gerade trinkbar geworden. G. genannt wegen seiner grauen Farbe	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Federweißer; Sauser	Wein
+LG01050	Gräwel-wasser	Substantiv		schlechter Branntwein, Fusel	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Fusel; Schnaps	Branntwein; Fusel
+LG01193	Grumberebrantwein	Substantiv		Kartoffelsprit	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	kein_Trinken
+LH00199	Häns-chen	Substantiv		ein Achtel Liter Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Branntwein
+LH00357	Heffen	Substantiv	2.	ein Gläschen Hefenbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	kein_Trinken
+LK00024	Kaffee	Substantiv	1.	Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Kaffee	Kaffee
+LK00028	Kaffeebrih	Substantiv		schlechter Milchkaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Milchkaffee; Plampel; Plempe; Plämpe; Plörre	Milchkaffee
+LK00259	Kassis	Substantiv	2.	Likör, der aus der Frucht derselben zubereitet wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Cassis; Johannisbeerlikör	Likör
+LK00343	Keizen	Substantiv	2.	schlechter Wein, Krätzer	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+LK00372	Kelterwein	Substantiv		Wein von gekelterten Trauben im Gegensatz zu	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+LK00547	Kirsch	Substantiv	2.	Kirschenschnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Kirsch; Kirschgeist; Kirschwasser	kein_Trinken
+LK01060	Kowen-bretchen	Substantiv		Gläschen Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	kein_Trinken
+LK01499	Kwetsch I	Substantiv	2.	Zwetschenschnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Zwetschgenbrand; Zwetschgenschnaps; Zwetschgenwasser	kein_Trinken
+LK01505	Kwetschwasser	Substantiv		Zwetschenbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Zwetschgenbrand; Zwetschgenschnaps; Zwetschgenwasser	kein_Trinken
+LL00401	Lier	Substantiv		Holzapfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Apfelperlwein; Apfelwein	kein_Trinken
+LM00027	Mawebitter	Substantiv		Magenbitter	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Digestif; Magenbitter; Verdauungsschnaps	kein_Trinken
+LM00226	Matten	Substantiv	1.	geronnene Milch, aus der Käse gemacht wird; Käsmatte	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Dickmilch; Sauermilch; gestandene Milch; saure Milch	Milch
+LM00280	Mehlsuffe	Substantiv		Trank mit beigemischtem M. für die Haustiere	Getränk	Getränk; Trank; Trunk	Trank
+LM00317	Melkersch	Substantiv		soviel Milch, als in einem Mal gemolken wird	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Milch	Milch
+LM00416	Milch	Substantiv		Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Milch	Milch
+LM00470	Mirabell	Substantiv	2.	Mirabellenbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	kein_Trinken
+LM00620	Moschketeller	Substantiv		Muskatellertraube, –wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+LM00677	Mupp	Substantiv		schlechter, minderwertiger Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Fusel; Schnaps	Schnaps
+LM00713	Musikante-brih	Substantiv		(eigentl. Musikantenbrühe) verächtl. für schlechten Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	kein_Trinken
+LN00228	Ninni	Substantiv		Milch in der Kindersprache	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Milch	Milch
+LO00248	Owes-dronk	Substantiv		Abendtrunk	Getränk	Getränk; Trank; Trunk	kein_Trinken
+LO00251	Owesstrach	Substantiv		die am Abend gemolkene Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Milch	Milch
+LR00162	Rattegift	Substantiv		schlechter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Fusel; Schnaps	Schnaps
+LR00330	Rend I	Substantiv		Runde	Getränk	Getränk; Trank; Trunk	kein_Trinken
+LR00660	Runding	Substantiv		Runde	Getränk	Getränk; Trank; Trunk	kein_Trinken
+LS00052	Saft	Substantiv		Saft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Saft	Saft
+LS00279	Schampanjer	Substantiv		Champagnerwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein.Sekt	Champagner; Schaumwein	kein_Trinken
+LS00327	Scharlacher	Substantiv		Schnaps, sog. nach der Farbe	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps; saugen
+LS00650	Schlauder-wasser	Substantiv		dünner Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	Kaffee
+LS00708	Schlewe-schnabbs	Substantiv		Schlehenschnapps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Obstbrand; Obstler; Obstschnaps; Obstwasser	kein_Trinken
+LS00787	Schlupp I	Substantiv	2.	Gläschen Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	kein_Trinken
+LS00792	Schluri	Substantiv	2.	Spitzname für schlechten Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	kein_Trinken
+LS00907	Schnaps	Substantiv		Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+LS01000	Schnik	Substantiv		Fusel, schlechter Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Fusel; Schnaps	Branntwein; Fusel
+LS01029	Schnorres	Substantiv	2.	Gläschen Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	kein_Trinken
+LS01115	Schorbacher	Substantiv		gewöhnlicher Kartoffelschnaps, der in Schorbach (n. w. Bitsch) vorzugsweise getrunken wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	kein_Trinken
+LS01563	Sirop	Substantiv		Sirup	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink	Sirup	kein_Trinken
+LS01713	Spenn	Substantiv	1.	Muttermilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Milch	kein_Trinken
+LS01837	Spret	Substantiv	1.	Sprit, Spiritus, schlechter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Fusel; Schnaps	Schnaps
+LS01858	Spruddel	Substantiv		Sprudel	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Arbeitersekt; Brause; Kribbelwasser; Mineralwasser; Proletariersekt; Sauerbrunnen; Selters; Selterswasser; Soda; Sodawasser; Spritzwasser; Sprudel; Sprudelwasser; Wasser mit Zisch; sauerer Sprudel	Sprudel
+LS02218	Strach	Substantiv	3.	soviel auf einmal an Milch gemolken wird	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Milch	kein_Trinken
+LS02255	Strechersch	Substantiv		die Menge Milch, die beim einmaligen Melken erzeugt wird	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Milch	Milch
+LS02444	Suff	Substantiv		steifer Trank für Rindvieh u. Schweine; Küchenwasser zum Tränken des Viehs	Getränk	Getränk; Trank; Trunk	Trank
+LS02490 	Surmilich 	Substantiv		Sauermilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Dickmilch; Sauermilch; gestandene Milch; saure Milch	Sauermilch
+LW00150	Wasser	Substantiv	2.	in aller Frühe getrunkener Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Wasser
+LW00150	Wasser	Substantiv	2.	wässeriger Kaffee, dünne Suppe	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	Kaffee; Wasser
+LW00353 	Widderdaifer 	Substantiv		Name für Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+LW00386	Wih-wasser	Substantiv	2.	Schnaps, der in der Frühe getrunken wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+LW00407	Win	Substantiv		Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+LW00439	Winkof	Substantiv	1.	Trunk zur Bestätigung eines geschlossenen Kaufes od. Vertrags	Getränk	Getränk; Trank; Trunk	Trunk
+LW00444	Winscho	Substantiv		Glühwein	Getränk.Heißgetränk.Alkoholhaltiges_Heißgetränk	Glühwein	Glühwein
+LZ00261	Zwelfer	Substantiv		ein Schnaps zu 12	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PA00150	Abend-milch	Substantiv	-	Milch, die am Abend gemolken wird	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Milch	Milch
+PA01307	Alkohol	Substantiv	-	Alkohol	Getränk	Getränk; Trank; Trunk	kein_Trinken
+PA02392	An-trunk	Substantiv		erster Trunk	Getränk	Getränk; Trank; Trunk	Trunk
+PA02488	Apfel-, Äpfel-bumpes	Substantiv	-	Apfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Apfelperlwein; Apfelwein	kein_Trinken
+PA02492	Apfel-fiez	Substantiv	-	Apfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Apfelperlwein; Apfelwein	kein_Trinken
+PA02502	Apfel-gückes	Substantiv	-	Apfelwein minderer Sorte	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Apfelperlwein; Apfelwein	kein_Trinken
+PA02521	Apfel-mops	Substantiv	-	nachgemachter Apfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Apfelperlwein; Apfelwein	kein_Trinken
+PA02522	Apfel-most	Substantiv	-	Apfelmost	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Apfelsaft; Most	kein_Trinken
+PA02536	Apfel-, Äpfel-saft	Substantiv	1	Apfelsaft, Äpfelsaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Apfelsaft	Apfelsaft
+PA02561	Apfel-, Äpfel-wein	Substantiv	-	Apfelwein, Äpfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Apfelperlwein; Apfelwein	kein_Trinken
+PA02579	Apparaten-milch	Substantiv	-	Milch, die durch die Zentrifuge entrahmt ist	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Milch	Milch
+PA02627	Arbeiter-sekt	Substantiv	-	Mineralwasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Arbeitersekt; Brause; Kribbelwasser; Mineralwasser; Proletariersekt; Sauerbrunnen; Selters; Selterswasser; Soda; Sodawasser; Spritzwasser; Sprudel; Sprudelwasser; Wasser mit Zisch; sauerer Sprudel	Arbeitersekt; Mineralwasser
+PA02886	Ast-heimer	Substantiv	-	Birnwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Fruchtwein; Obstwein	kein_Trinken
+PA03037	Auf-enthalt	Substantiv	3	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PA03060	Auffüll-wein	Substantiv	-	Wein zum Auffüllen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PA04088	Aus-stich	Substantiv	2	Beerenauslese, edelster Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Prädikatswein; Qualitätswein	Wein
+PA04089	Ausstich-wein	Substantiv	-	edelster Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Prädikatswein; Qualitätswein	Wein
+PB00145	Päckel-brühe	Substantiv	-	schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	Kaffee
+PB00373	Bajaß-seiche	Substantiv	-	schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	Kaffee
+PB00523	Bampel-brühe	Substantiv	-	minderwertiger Wein, dünner Kaffee	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein;Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre; Wein	Kaffee; Wein
+PB00617	Bankerotts-brühe, Bankerott-brühe	Substantiv	-	dünner, schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	Kaffee
+PB00620	Bankerottsmacher-brühe, Bankerottmacher-brühe	Substantiv	-	dünner, schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	Kaffee
+PB00757	Pappel-wasser	Substantiv	2	geringwertiger Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PB01168	Batzen-wein	Substantiv	-	minderwertiger Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PB01184	Bauch-bläser	Substantiv		schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PB01216	Bauchweh-wasser	Substantiv	-	Zwetschgenschnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Pflaumenbranntwein; Zwetschgenbrand; Zwetschgenschnaps; Zwetschgenwasser	Zwetschgenschnaps
+PB01220	Baudel-brühe	Substantiv	-	Malzkaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Gerstenkaffee; Getreidekaffee; Kornkaffee; Malzkaffee	Malzkaffee
+PB01317	Bauern-wein	Substantiv	-	Wein, den die Bauern für den eigenen Gebrauch herstellen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PB01499	Pech-milch	Substantiv	-	die erste gelbe Milch der Kuh nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Kuhmilch	Milch
+PB02066	Perl-kaffee	Substantiv	-	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PB02644	Pfand-wein	Substantiv		verpfändeter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Fruchtwein; Obstwein	Wein
+PB02736	Pfeffer-minze, -minz	Substantiv	2	Pfefferminztee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Pfefferminztee	kein_Trinken
+PB02740	Pfefferminz-tee	Substantiv	-	Pfefferminztee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Pfefferminztee	kein_Trinken
+PB02869	Pferds-milch	Substantiv	-	Stutenmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Milch	kein_Trinken
+PB03008	Pflaster	Substantiv	4b	Erdbeerwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Fruchtwein; Obstwein	kein_Trinken
+PB03368	Bier	Substantiv	-	Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	Bier
+PB03415	Bier-schlorum	Substantiv	-	schlechtes Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	Bier
+PB03442	Biest-milch	Substantiv	-	die erste dicke, unreine Milch der Kuh unmittelbar nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Kuhmilch	Milch
+PB03609	Pink-pille	Substantiv	1	schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	Kaffee
+PB03661	Bippel-henker	Substantiv	-	derbe Bez. für schlechten Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	kein_Trinken
+PB03661	Bippel-henker	Substantiv	E2	Tresterwein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Fruchtwein; Obstwein	kein_Trinken
+PB03715	Birnen-bumpes	Substantiv	-	Wein, den man aus Birnenselbst hergestellt hat	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Fruchtwein; Obstwein	Wein
+PB03729	Birnen-most	Substantiv	-	Birnensaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Fruchtsaft; Obstsaft; Saft	kein_Trinken
+PB03731	Birnen-puff	Substantiv	-	Wein, den man aus Birnen (und Äpfeln) selbst hergestellt hat	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Fruchtwein; Obstwein	Wein
+PB03733	Birnen-saft	Substantiv	-	Birnensaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Fruchtsaft; Obstsaft; Saft	kein_Trinken
+PB03735	Birnen-schnackel	Substantiv	-	verächtlich für schlechten Birnenwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Fruchtwein; Obstwein	kein_Trinken
+PB03741	Birnen-wein	Substantiv	-	Birnenwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PB03844	Bitter-wasser	Substantiv	-	ein sehr bitter schmeckendes Mineralwasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Arbeitersekt; Brause; Kribbelwasser; Mineralwasser; Proletariersekt; Sauerbrunnen; Selters; Selterswasser; Soda; Sodawasser; Spritzwasser; Sprudel; Sprudelwasser; Wasser mit Zisch; sauerer Sprudel	Mineralwasser
+PB03868	Bitzler	Substantiv	1	junger, noch gärender Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Federweißer; Sauser	Wein
+PB03946	Plämpel	Substantiv	2	schlechter Wein, minderwertiger Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PB03947	Plämpel-brühe	Substantiv	-	schlechter Wein, minderwertiger Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PB04154	blau	Substantiv	4a'b	Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Branntwein
+PB04279	Bleff	Substantiv	-	Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PB04481	Blume	Substantiv	2g	Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PB04647	Blut-wein	Substantiv	-	Rotwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Roter; Rotwein	Rotwein
+PB04693	Bock-bier	Substantiv	-	Starkbier mit hohem Stammwürzegehalt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bockbier; Starkbier	Bockbier; Starkbier
+PB04748	Böckser	Substantiv	1a	von verdorbenem Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Kaffee	Kaffee
+PB04748	Böckser	Substantiv	1b	Most, der in der Gärung das Süße verloren hat	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Most
+PB04748	Böckser	Substantiv	1c	Wein mit Bodengeschmack	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PB04755	Böcksler	Substantiv	2	schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	Kaffee
+PB04755	Böcksler	Substantiv	1	Wein mit Bodengeschmack	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PB04761	Bocks-seiche	Substantiv	-	schlechtes Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	Bier
+PB04859	Bohnen-kaffee	Substantiv	-	Bohnenkaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Bohnenkaffee	kein_Trinken
+PB04922	Polack	Substantiv	5	Rest eines Getränkes im Glas	Getränk	Getränk; Trank; Trunk	kein_Trinken
+PB05629	Brannte-wein, Brannt-wein	Substantiv	-	Branntewein, Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Branntewein; Branntewein, Branntwein; Branntwein
+PB05642	Branntwein-schnäpsel	Substantiv	-	ein Gläschen Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	kein_Trinken
+PB05724	Bratz	Substantiv	-	schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	Kaffee
+PB05741	Brauhaus-bier	Substantiv	-	Biersorte aus Frankth	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	kein_Trinken
+PB06029	Preß-most	Substantiv	-	durch Pressen gewonnener Obstsaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Fruchtsaft; Obstsaft	kein_Trinken
+PB06123	Briester	Substantiv	-	erste Milch nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Kuhmilch	Milch
+PB06125	Briester-milch	Substantiv	-	erste Milch nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Kuhmilch	Milch
+PB06313	Brombeerenlaub-tee	Substantiv	-	Brombeerenblättertee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Tee	kein_Trinken
+PB06562	Brühe	Substantiv	3b	schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	Brühe; Kaffee
+PB06562	Brühe	Substantiv	2	Beeren-, Gemüsesaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Fruchtsaft; Gemüsesaft; Obstsaft	Brühe; Gemüsesaft
+PB06562	Brühe	Substantiv	3a	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Brühe; Wein
+PB06629	Brummelsbeerblätter-tee	Substantiv	-	Brombeerblättertee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Tee	kein_Trinken
+PB06831	Bruttel	Substantiv	1d	schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	Kaffee
+PB06831	Bruttel	Substantiv	1c	trübe Brühe	Getränk	Getränk; Trank; Trunk	Brühe
+PB06832	Bruttel-brühe	Substantiv	-	schlechtes Kaffeegetränk	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	kein_Trinken
+PB06974	Büchsen-milch	Substantiv	-	Büchsenmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Büchsenmilch	Büchsenmilch
+PB07038	Buckskin	Substantiv	2	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PB07052	Pudel	Substantiv	2.3	schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	Kaffee
+PB07085	Puff	Substantiv	1.2	Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PB07282	Bumpes	Substantiv	1.4	schlechter Wein, Tresterwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PB07380	Buppes	Substantiv	1	minderwertiger Wein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PB07749	Butter-milch	Substantiv	-	Buttermilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Buttermilch	kein_Trinken
+PB07852	Butzen-milch, Butze-milch	Substantiv	-	die erste dicke, unreine Milch der Kuh nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Kuhmilch	Milch
+PB07865	Butzicht-milch	Substantiv	-	die erste dicke, unreine Milch der Kuh unmittelbar nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Kuhmilch	Milch
+PD00309	Taglöhners-wein, Taglöhner-wein	Substantiv	-	Wein, den die im Taglohn Arbeitenden von den Weinbauern erhalten	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PD00533	Tal-wein	Substantiv	-	Wein aus niedrigen Lagen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PD01407	Tausendgüldenkraut-tee	Substantiv	-	Tee aus Tausendguldenkraut	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Kräutertee; Tee	Tee
+PD01569	Tee	Substantiv	2	Kräutertee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Kräutertee	Tee
+PD01569	Tee	Substantiv	1	die getrockneten Blätter des Teestrauches und das daraus bereitete Getränk	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Tee	Tee
+PD02004	Teufels-gesöff, Teufel-gesöff	Substantiv	-	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PD02202	Dick-milch	Substantiv	1	Dickmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Dickmilch; Sauermilch; gestandene Milch; saure Milch	kein_Trinken
+PD02573	Tisch-wein	Substantiv	-	Wein, der zum Essen getrunken wird, Wein von geringerer Qualität	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PD02627	Dividenden-brühe	Substantiv	-	Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	Bier
+PD02628	Dividenden-wasser	Substantiv	-	Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	Bier
+PD02922	Doppel-bier	Substantiv	-	Starkbier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Starkbier	Starkbier
+PD02923	Doppel-bock	Substantiv	-	besonders starkes Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Starkbier	Bier
+PD02947	Doppel-kümmel	Substantiv	-	doppelt abgezogener Kümmelbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Kümmelbranntwein	kein_Trinken
+PD03425	Drachen-töter	Substantiv	-	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PD03596	Trank	Substantiv	1	Getränk	Getränk	Getränk; Trank; Trunk	Getränk; Trank
+PD03746	Trauben-most	Substantiv	-	Traubenmost	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Traubenmost	Traubenmost
+PD03753	Trauben-puff	Substantiv	-	Wein minderer Güte	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PD03764	Trauben-wein	Substantiv	-	Wein aus Traubenbeeren	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PD03870	Treber-most	Substantiv		Nachwein aus Traubentrestern	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PD03871	Treber-wein	Substantiv		aus Traubenrückständen unter Zusatz von Zucker und Wasser hergestellter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PD03964	Dreck-milch	Substantiv	-	die erste, dicke Milch der Kuh nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Kuhmilch	Milch
+PD04171	Drei-männer	Substantiv	-	schlechter, saurer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PD04173	Dreimänner-wein	Substantiv	-	schlechter, saurer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PD04291	Trester-most	Substantiv	-	Nachwein aus Traubentrestern	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PD04295	Trester-schnaps	Substantiv	-	aus Weintrestern gebrannter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Tresterbrand; Tresterschnaps	Schnaps; Tresterschnaps
+PD04296	Trester-wasser	Substantiv	-	aus TraubenrückständenZucker und Wasser hergestellter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PD04431	Trink	Substantiv		Trunk	Getränk	Getränk; Trank; Trunk	Trunk
+PD04433	Trink-branntwein	Substantiv	-	Branntwein zum Trinken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Branntwein
+PD04436	Trinkens, Trinken	Substantiv	2a	Getränk für Menschen	Getränk	Getränk; Trank; Trunk	Getränk; Trinken
+PD04445	Trink-wasser	Substantiv	-	Trinkwasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Trinkwasser	Trinkwasser
+PD04446	Trink-wein	Substantiv	-	minderer Wein, der als Haustrunk dient	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PD04512	Triumph-bock	Substantiv	-	Biersorte	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bockbier	kein_Trinken
+PD04611	Tropfs-bier	Substantiv	-	Bier, das nach dem Einschenken vom Hahn abtropft	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	Bier
+PD04669	Trub, Trube	Substantiv	1	trüber Rückstand von Flüssigkeiten, bes. dergetrübte letzte Wein im Faß	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PD04688	Trub-wein	Substantiv	-	der durch die Hefe getrübte letzte Wein im Faß	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PD04691	Druck	Substantiv	3	durch Keltern gewonnener Most	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Most	kein_Trinken
+PD04713	Drücker	Substantiv	1c	ausgepreßter Most	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Most	Most
+PD04718	Drücker-wein	Substantiv	-	Tresterwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PD04804	Trunk	Substantiv	1	was man auf einmal trinkt	Getränk	Getränk; Trank; Trunk	Trunk; trinken
+PD04804	Trunk	Substantiv	2	Getränk	Getränk	Getränk; Trank; Trunk	Getränk; Trunk
+PD04809	Trunk-wein	Substantiv	x	minderer Wein, der als Haustrunk dient	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PD04832	Druschelbeeren-wein	Substantiv	-	Wein aus Stachelbeeren	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Fruchtwein; Obstwein	Wein
+PD04844	Druschel-schnaps	Substantiv	-	Schnaps aus Stachelbeeren	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Obstbrand; Obstler; Obstschnaps; Obstwasser	Schnaps
+PD04846	Druschel-wein	Substantiv	-	Wein aus Stachelbeeren	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Fruchtwein; Obstwein	Wein
+PD05026	Dullianer	Substantiv	-	Tresterwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PD05027	Dullianer-brühe	Substantiv	-	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PD05594	Türken-wein	Substantiv		spöttische Bez. für den sehr sauren Wein des Jahres 1529	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PD05604	Turko	Substantiv	2	Bez. für schlechten Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PD05776	Tut	Substantiv	-	Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Milch	Milch
+PE00146	Edel-wein	Substantiv	-	Edelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PE00257	Ehr-wein	Substantiv		auserlesener Wein, der aus besonderen Anlässen gereicht wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Prädikatswein; Qualitätswein	Wein
+PE00282	Eichel-kaffee	Substantiv	-	Kaffee-Ersatz aus gerösteten Eicheln	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Eichelkaffee; Ersatzkaffee; Kaffeeersatz	kein_Trinken
+PE00406	Eier-wein	Substantiv	-	Wein mit verrührtem Ei und Zucker	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PE01305	Elfer, Elfter	Substantiv	2	ein Wein von besonderer Güte	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Prädikatswein; Qualitätswein	Wein
+PE01778	Erdbeeren-schnaps, Erdbeer-schnaps	Substantiv	-	auf Erdbeeren gezogener Likör	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Likör	Likör
+PE01783	Erdbeeren-wein, Erdbeer-wein	Substantiv	-	Erdbeerenwein, Erdbeerwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Fruchtwein; Obstwein	kein_Trinken
+PE01998	Ern-wein	Substantiv	-	Wein, der den Erntearbeitern zum Erntefest gereicht wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PE02053	Erst-milch	Substantiv	-	die erste Milch nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Kuhmilch	Milch
+PE02096	Erz-engeler	Substantiv	-	eine Weinbezeichnung	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PE02211	Essenz	Substantiv	1	Kaffee-Ersatz, Zichorie	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Ersatzkaffee; Kaffeeersatz; Zichorienkaffee	kein_Trinken
+PE02324	Eulen-seiche	Substantiv	-	verächtlich von abgestandenem Bier und anderen Getränken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	kein_Trinken
+PE02328	Eureka	Substantiv	-	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PF00455	Faß-bier	Substantiv	-	Bier aus dem Faß	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	Bier
+PF00457	Faß-böckser	Substantiv	-	Wein mit unangenehmem Faßgeschmack	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PF00505	Faß-wein	Substantiv	-	Wein direkt vom Faß	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PF01444	Vergiß-mein-nicht	Substantiv	2a	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PF02260	Verschnitt-wein	Substantiv	-	Wein, der zum Verschneiden verwendet wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PF02878	Feuer-wasser	Substantiv	x	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Feuerwasser; Schnaps	Feuerwasser; Schnaps
+PF03163	Fiez	Substantiv	1	Apfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Apfelperlwein; Apfelwein	kein_Trinken
+PF03588	Flanz	Substantiv	-	Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Milch	Milch
+PF03618	Flaschen-milch	Substantiv	-	in Flaschen an den Verbraucher gelieferte Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Milch	Milch
+PF03625	Flaschen-wein	Substantiv	-	Flaschenwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PF04256	Voll-milch	Substantiv	-	Vollmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Vollmilch	Vollmilch
+PF04532	Vor-lauf	Substantiv	2	der beim Brennen zuerst ausfließende, sehr starke und ungenießbare Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Branntwein
+PF05096	Frei-bier	Substantiv	-	Freibier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	kein_Trinken
+PF05493	Frühjahrs-tee	Substantiv	-	Tee von den im Frühling blühenden Blumen und Kräutern	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Kräutertee; Tee	Tee
+PF05529	Fuchs	Substantiv	x2d'g	rötlicher Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Roter; Rotwein	Wein
+PF05806	Fusel	Substantiv	1.1	schlechter Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Fusel; Schnaps	Branntwein; Fusel
+PF05806	Fusel	Substantiv	1.2	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Fusel; Wein
+PG00215	Gamaschen-wasser	Substantiv	-	Tee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Tee	Tee
+PG00294	Gänsefüßer-wein	Substantiv		Wein aus Gänsefüßertrauben hergestellt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PG00355	Gänse-wein	Substantiv	-	Wasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Wasser	Gänsewein; Wasser
+PG00486	Gartenhäusel-trauben	Substantiv	-	wilder Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PG00743	Gauls-, Gäuls-milch	Substantiv	-	Stutenmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Milch	kein_Trinken
+PG00886	Gebirgs-wein	Substantiv	-	Gebirgswein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PG00935	Ge-bruttel	Substantiv	2	Kaffeegetränk, in dem Rückstände schwimmen	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Kaffee	kein_Trinken
+PG01375	Geißen-milch, Geiß-milch	Substantiv	1	Ziegenmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Ziegenmilch	kein_Trinken
+PG01528	Ge-lapper	Substantiv	x	Sauermilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Dickmilch; Sauermilch; gestandene Milch; saure Milch	Sauermilch
+PG01943	Ge-plämpels	Substantiv	-	Apfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Apfelperlwein; Apfelwein	kein_Trinken
+PG02180	Gersten-brühe	Substantiv	-	Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	Bier
+PG02187	Gersten-kaffee	Substantiv	-	Kaffeeersatz aus gerösteten Gerstenkörnern	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Ersatzkaffee; Gerstenkaffee; Getreidekaffee; Kaffeeersatz; Kornkaffee; Malzkaffee	Gerstenkaffee; Kaffeeersatz
+PG02499	Gesinde-wein, Gesind-wein	Substantiv	-	minderwertiger Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PG02505	Ge-söff, -söffs, Ge-süff, -süffs	Substantiv	1	schlechtes, minderwertiges Getränk	Getränk	Getränk; Trank; Trunk	Gesöff; Getränk
+PG02505	Ge-söff, -söffs, Ge-süff, -süffs	Substantiv	2	Getränk	Getränk	Getränk; Trank; Trunk	Gesöff; Getränk
+PG02609	Gesundheits-tee	Substantiv	-	Tee von Heilkräutern	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Kräutertee	Tee
+PG02634	Ge-tränk	Substantiv	1	Getränk für den Menschen	Getränk	Getränk; Trank; Trunk	Getränk
+PG02934	Gichtrosen-wein	Substantiv	x	Wein aus Gichtrosen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PG03154	Glas	Substantiv	3b	Inhalt des Trinkglases	Getränk	Getränk; Trank; Trunk	kein_Trinken
+PG03529	Gocko	Substantiv	2	Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Fusel; Schnaps	Branntwein
+PG03653	Gori	Substantiv	2.2	Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Branntwein
+PG03653	Gori	Substantiv	2.1	geringer Wein, gärender Tresterwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PG04443	Grundbirnen-branntwein, Grundbirn-branntwein	Substantiv	-	Kartoffelschnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	kein_Trinken
+PG04446	Grundbirnen-bumpes, Grundbirn-bumpes	Substantiv	2	Kartoffelschnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	kein_Trinken
+PG04457	Grundbirnen-fusel, Grundbirn-fusel	Substantiv	-	Kartoffelschnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	kein_Trinken
+PG04532	Grundbirnen-schnaps, Grundbirn-schnaps	Substantiv	-	Kartoffelschnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	kein_Trinken
+PG04644	Grün-kopf	Substantiv	2b	Flaschenwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PG04677	Gruscheln-wein, Gruschel-wein	Substantiv	-	Stachelbeerwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Fruchtwein; Obstwein	kein_Trinken
+PG04698	Grusselbeeren-wein, Grusselbeer-wein	Substantiv	-	Stachelbeerwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Fruchtwein; Obstwein	kein_Trinken
+PG04745	Gückes	Substantiv	2	Branntwein, Kartoffelschnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Branntwein
+PG04745	Gückes	Substantiv	1	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PG04783	Gullianer	Substantiv	-	minderwertiger Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PH00238	Häfelchens-wein	Substantiv	-	geringerer Wein, der im irdenen Milchtopf aus dem Keller geholt wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PH00710	Halsrosen-tee	Substantiv	-	Tee aus der Halsrose	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Tee	Tee
+PH00784	Hammels-milch, Hammel-milch	Substantiv	-	Schafsmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Milch	kein_Trinken
+PH00898	Händel-stifter	Substantiv	2	starker Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PH01153	Hannes-setz-dich	Substantiv	-	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PH01178	Hansel, Hänsel	Substantiv	x3	schales Bier, Tropfbier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	Bier
+PH01730	Haupt-wein	Substantiv	-	Qualitätswein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Qualitätswein	kein_Trinken
+PH01743	Haus-blume	Substantiv	-	geringer Wein für den täglichen Hausgebrauch	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PH01768	Hausfriedens-bruch	Substantiv	-	geringer Wein für den täglichen Hausgebrauch	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PH01833	Haus-mops	Substantiv	-	Wein minderer Qualität für den Hausgebrauch	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PH01844	Haus-rebe	Substantiv	-	Spalierwein am Haus	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PH01887	Haus-trunk, -trank	Substantiv	-	geringer Wein für den täglichen Hausgebrauch	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PH02010	Heckenbeeren-tee	Substantiv	-	Brombeerentee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Tee	kein_Trinken
+PH02173	Heidelbeeren-saft, Heidelbeer-saft	Substantiv	-	Heidelbeerensaft, Heidelbeersaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Fruchtsaft; Obstsaft; Saft	kein_Trinken
+PH02174	Heidelbeeren-schnaps, Heidelbeer-schnaps	Substantiv	-	aus Heidelbeeren gebrannter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Obstbrand; Obstler; Obstschnaps; Obstwasser	Schnaps
+PH02180	Heidelbeeren-wein, Heidelbeer-wein	Substantiv	-	Heidelbeerenwein, Heidelbeerwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Fruchtwein; Obstwein	kein_Trinken
+PH03353	Herrgotts-wein, Herrgott-wein	Substantiv	-	Wasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Wasser	Wasser
+PH04398	Hick-auf	Substantiv	-	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PH04458	Himbeeren-saft, Himbeer-saft	Substantiv	1	Saft aus Himbeeren	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Fruchtsaft; Obstsaft; Saft	Saft
+PH04463	Himbeeren-wein, Himbeer-wein	Substantiv	-	Wein aus Himbeeren oder Brombeeren	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Fruchtwein; Obstwein	Wein
+PH04545	Himmels-wein	Substantiv	-	himmlischer Wein (im Kinderspiel)	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PH05861	Hochzeits-wein, Hochzeit-wein	Substantiv	-	Wein für das Hochzeitsfest	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PH05992	Hohen-astheimer	Substantiv	1	Apfel- oder Birnenwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Apfelperlwein; Apfelwein; Obstwein	kein_Trinken
+PH05992	Hohen-astheimer	Substantiv	2	gepanschter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PH06079	Holderbeeren-wein	Substantiv	-	Wein aus Holunderbeeren	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Fruchtwein; Obstwein	Wein
+PH06081	Holderblüten-tee, Holunderblüten-	Substantiv	-	Tee aus Holunderblüten	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Tee	Tee
+PH06092	Holder-saft	Substantiv	-	Saft aus Holunderbeeren	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Fruchtsaft; Obstsaft; Saft	Saft
+PH06176	Holzapfel-brühe	Substantiv		saurer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PH06407	Honig-likör	Substantiv	-	Likör, mit Honig gesüßt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Likör	Likör
+PH06408	Honig-limonade	Substantiv	-	mit Honig gesüßte Limonade	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink	Limonade	Limonade
+PH06423	Honig-schnaps	Substantiv	-	mit Honig gesüßter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PH06435	Honig-wein	Substantiv	-	Perlwein aus Wasser, Honig und Hefe	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein.Sekt	Perlwein	Honigwein; Perlwein
+PH07546	Husaren-kaffee	Substantiv	-	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PH07666	Hutzel-brühe	Substantiv	2b	schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	Kaffee
+PH07666	Hutzel-brühe	Substantiv		süßer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Süßwein	Wein
+PH07684	Hypotheken-tilger	Substantiv	-	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PI00290	Item-wein	Substantiv	-	Wein, der bei der Versteigerung von Grundstücken ausgegeben wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PJ00026	Jagd-fäßchen	Substantiv	-	kleines Fäßchen mit Wein, das man auf die Jagd mitnimmt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PJ00101	Jakob	Substantiv	2e	Apfelwein minderer Sorte, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Apfelperlwein; Apfelwein; Wein	kein_Trinken
+PJ00111	Jakob-setz-dich	Substantiv	-	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PJ00156	Jankes	Substantiv	-	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PJ00310	Johannisbeer-wein	Substantiv	-	Wein aus Johannisbeeren	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Fruchtwein; Obstwein	Wein
+PJ00352	Johannistrauben-saft	Substantiv	-	Saft aus Johannisbeeren	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Fruchtsaft; Obstsaft; Saft	Saft
+PJ00356	Johannistrauben-wein	Substantiv	-	Johannisbeerwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Fruchtwein; Obstwein	kein_Trinken
+PJ00363	Johann-Jakob	Substantiv	2c	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PJ00371	Johann-Peter	Substantiv	2e	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PJ00385	Joli	Substantiv	-	Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PJ00569	Jungfern-wein, Jungfer-wein	Substantiv	-	der aus den ersten Trauben eines neuangelegten Wingerts gewonnene Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PK00043	Kaffee	Substantiv	1.1b'a	Kaffee-Ersatz verschiedener Art	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Eichelkaffee; Ersatzkaffee; Kaffeeersatz	Kaffee
+PK00043	Kaffee	Substantiv	1.2	Getränk aus Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Kaffee	Getränk; Kaffee
+PK00043	Kaffee	Substantiv	1.3b	Nachmittagskaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Kaffee	Kaffee
+PK00052	Kaffee-brühe	Substantiv	-	dünner Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	Kaffee
+PK00053	Kaffee-bruttel	Substantiv	-	Kaffeebrühe	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	kein_Trinken
+PK00080	Kaffee-milch	Substantiv	-	Milch für den Kaffee	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Milch	Milch
+PK00105	Kaffee-trinken	Substantiv	2	Nachmittagskaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee;Trinken	Kaffee	kein_Trinken
+PK00181	Kakao	Substantiv	-	Kakao	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kakao	Kakao; Kakaogetränk; Kakaomilch; Milchkakao; Schokolade	Kakao
+PK00187	Kälbchens-käse	Substantiv	x	erste Milch nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Kuhmilch	Milch
+PK00762	Karst	Substantiv	2	Schnaps, der bes. zur Zeit der Kartoffelernte gereicht wurde	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PK00763	Karst-anis	Substantiv	-	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Anisschnaps; Branntewein; Branntwein; Schnaps	Schnaps
+PK00764	Karst-ausgemachter	Substantiv	-	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PK00772	Karsten-wasser, Karst-wasser	Substantiv	-	Schnaps, der bes. zur Zeit der Kartoffelernte gereicht wurde	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PK01068	Kathreiner-brühe	Substantiv	-	schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	Kaffee
+PK01779	Kikerikik, Kikeres, Kikeriki, Kikeres	Substantiv	3	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PK01996	Kippen	Substantiv	3	Rest im Bierglas	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	kein_Trinken
+PK02086	Kirbe-wein	Substantiv	2	saurer, schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PK02235	Kirsch	Substantiv	-	Kirschbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Kirsch; Kirschgeist; Kirschwasser	kein_Trinken
+PK02277	Kirschen-saft, Kirsch-saft	Substantiv	2	Saft aus Kirschen	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Fruchtsaft; Obstsaft; Saft	Saft
+PK02278	Kirschen-schnaps, Kirsch-schnaps	Substantiv	-	Branntwein aus Kirschen und Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Kirsch; Kirschgeist; Kirschwasser	Branntwein
+PK02285	Kirschen-wasser, Kirsch-wasser	Substantiv	-	Branntwein aus Kirschen und Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Kirsch; Kirschgeist; Kirschwasser	Branntwein
+PK02535	Klecks	Substantiv	2	ein Glas Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PK02772	Klicker-wasser	Substantiv	-	Selterswasser in Flaschen mit Glaskugelverschluß	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Arbeitersekt; Brause; Kribbelwasser; Mineralswasser; Proletariersekt; Sauerbrunnen; Selters; Selterswasser; Soda; Sodawasser; Spritzwasser; Sprudel; Sprudelwasser; Wasser mit Zisch; sauerer Sprudel	Selterswasser
+PK03365	Knorbel, Knurbel, Knürbel	Substantiv	4a	Kartoffelschnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	kein_Trinken
+PK03477	Knupper, Knuppert	Substantiv	7a	ein Glas Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PK03783	Koloster	Substantiv	-	erste Milch einer Kuh nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Kuhmilch	Milch
+PK03784	Kolostral-milch	Substantiv	-	erste Milch einer Kuh nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Kuhmilch	Milch
+PK03840	Kommunist	Substantiv	2	Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PK03926	Konrad-setz-dich	Substantiv	-	Haustrunk, schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PK04157	Korn-branntwein	Substantiv	-	Branntwein aus Roggen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Korn; Kornbrand; Kornbranntwein	Branntwein
+PK04184	Korn-kaffee	Substantiv	-	aus geröstetem Roggen zubereitetes kaffeeartiges Getränk	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Ersatzkaffee; Gerstenkaffee; Getreidekaffee; Kaffeeersatz; Kornkaffee; Malzkaffee	Getränk
+PK04205	Korn-schnaps	Substantiv	-	Branntwein aus Roggen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Korn; Kornbrand; Kornbranntwein	Branntwein
+PK04245	Koscher-most	Substantiv	-	aus dem elterlichen Keller von den Söhnen heimlich verkaufter Most	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Most	kein_Trinken
+PK04340	Krabbel-an-der-Wand	Substantiv	2	Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Branntwein
+PK04344	Krabbeler	Substantiv	2b	Wein, der leicht trunken macht	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PK04477	Krambambel	Substantiv	x2	Schnaps der Marke 'Krambambuli'	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PK04481	Krambutsch	Substantiv	-	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PK04633	Kratzer, Krätzer	Substantiv	2c	geringer, saurer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PK04694	Kräuter-tee	Substantiv	-	Kräutertee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Kräutertee	kein_Trinken
+PK04742	Kraut-tee	Substantiv	-	Kräutertee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Kräutertee	kein_Trinken
+PK05631	Kuh-milch, Küh-	Substantiv	-	Kuhmilch, Kühmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Kuhmilch	Kuhmilch
+PK05774	Kümmel	Substantiv	2.2a	Schnaps, gewürzt mit Kümmel	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Kümmelbranntwein	Schnaps
+PK05784	Kümmel-schnaps	Substantiv	-	Schnaps, gewürzt mit Kümmel	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Kümmelbranntwein	Schnaps
+PK05881	Kunst-wein	Substantiv	-	gepanschter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PK05982	Kurzer	Substantiv	-	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Kurzer; Schnaps	Kurzer; Schnaps
+PK06040	Kutscher	Substantiv	2	geringer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PL00084	Lackel-tackel	Substantiv	-	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PL00095	Lacks-brühe, Lackels-	Substantiv	-	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PL00159	Lagageri	Substantiv	-	schlechter, saurer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PL00169	Lager-bier	Substantiv	x	Lagerbier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	kein_Trinken
+PL00178	Lager-wein	Substantiv	-	Wein, der im Faß gelagert wird, zum Lagern geeigneter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PL00379	Land-wein	Substantiv	-	Landwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Landwein	kein_Trinken
+PL00514	Lappel-brühe	Substantiv	-	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PL00564	Lari	Substantiv	x	Verwässertes (z.B. Kaffee, Wein, Suppe)	Getränk;Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein;Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre; Wein	Kaffee; Wein
+PL00750	Lauer, Läuer	Substantiv	3	Wein, der aus den mit Wasser eingeweichten Preßrückständengewonnen wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PL00754	Läuer-brühe	Substantiv	-	Tresterwein, schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PL00755	Läuerer	Substantiv	-	Tresterwein, schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PL00808	Laugens-brühe, Laugs-brühe	Substantiv	-	fades, schlechtes Getränk, bes. von Kaffee oder Wein	Getränk;Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein;Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Getränk; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre; Trank; Trunk; Wein	Getränk; Kaffee
+PL00911	Lauter-wasser	Substantiv	-	Kaiserslauterer Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	Bier
+PL01170	Lehnen-wein, Lehn-wein	Substantiv	-	Wein einer Hanglage	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PL01433	Leimen-brühe, Leim-brühe	Substantiv	2	noch nicht ausgegorener, trüber Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Federweißer; Sauser	Wein
+PL01924	likör	Substantiv	-	likör	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Likör	kein_Trinken
+PL01943	Limonade	Substantiv	-	Limonade	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink	Limonade	Limonade
+PL02060	Lo-bier	Substantiv	-	Freibier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	kein_Trinken
+PL02297	Lot-bier	Substantiv	-	Freibier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	kein_Trinken
+PL02673	Lutter	Substantiv	-	Zwetschgen- oder Birnenschnaps, der zum zweitenmal gebrannt wurde	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Pflaumenbranntwein; Zwetschgenbrand; Zwetschgenschnaps; Zwetschgenwasser	kein_Trinken
+PM00006	Mach-bach	Substantiv	-	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PM00007	Mach-buck	Substantiv	-	geringer Wein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PM00112	Magdalenen-brühe	Substantiv	x1	aufgewärmter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	Kaffee
+PM00112	Magdalenen-brühe	Substantiv	x2	von einem Trinker als schwach bezeichneter Whisky	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Whiskey; Whisky	kein_Trinken
+PM00114	Magdalenen-wasser	Substantiv	x	aufgewärmter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Kaffee	Kaffee
+PM00141	Magen-bitter	Substantiv	-	Magenbitter	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Digestif; Magenbitter; Verdauungsschnaps	kein_Trinken
+PM00171	Mager-milch	Substantiv	-	entrahmte Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Magermilch	Magermilch; Milch
+PM00457	Malz-kaffee	Substantiv	-	Malzkaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Gerstenkaffee; Getreidekaffee; Kornkaffee; Malzkaffee	Malzkaffee
+PM00569	Männer-milch	Substantiv	-	Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PM00867	Märzen-bier, März-bier	Substantiv	-	im März gebrautes Lagerbier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Märzenbier	Märzenbier
+PM01010	Matte	Substantiv	2.2	Sauermilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Dickmilch; Sauermilch; gestandene Milch; saure Milch	Sauermilch
+PM01211	Maurers-likör, Maurer-likör	Substantiv	-	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PM01216	Maurers-schnaps, Maurer-schnaps	Substantiv	-	minderwertiger Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Fusel; Schnaps	Schnaps
+PM01361	Meer-rettich	Substantiv	3	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PM01688	Met	Substantiv	1	selbstgebrautes Getränk aus Wasser, Honig und unvergorenem Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk	Honigwein; Met	Getränk; Met
+PM01838	Milch	Substantiv	1	Milch der Haustiere, Muttermilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Milch	Milch
+PM01892	Milch-kaffee	Substantiv	-	Milchkaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Milchkaffee	Milchkaffee
+PM02033	Mineral-wasser	Substantiv	-	Mineralwasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Arbeitersekt; Brause; Kribbelwasser; Mineralwasser; Proletariersekt; Sauerbrunnen; Selters; Selterswasser; Soda; Sodawasser; Spritzwasser; Sprudel; Sprudelwasser; Wasser mit Zisch; sauerer Sprudel	Mineralwasser
+PM02088	Misch-kaffee	Substantiv	-	Mischung aus Bohnen- und Malzkaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee;Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Bohnenkaffee; Gerstenkaffee; Getreidekaffee; Kornkaffee; Malzkaffee	kein_Trinken
+PM02468	Mockel	Substantiv	1	Tresterwein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PM02726	Moppel, Möppel	Substantiv	8	geringwertiger Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PM02731	Mops, Moppes	Substantiv	6	Tresterwein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PM02853	Morgen-kaffee	Substantiv	-	Morgenkaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Kaffee	kein_Trinken
+PM02919	Mosel	Substantiv	2	Moselwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PM02920	Mosel-wein	Substantiv	-	Moselwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PM02922	Moses, Mosche	Substantiv	3	Tresterwein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PM02926	Most	Substantiv	1b	unvergorener Saft gekelterter Äpfel, Birnen	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Apfelsaft; Fruchtsaft; Obstsaft	Most; Saft
+PM02926	Most	Substantiv	x1c	Obstwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Fruchtwein; Obstwein	Most
+PM02926	Most	Substantiv	1a	unvergorener, süßer Traubensaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Traubensaft	Most
+PM02931	Most-brühe	Substantiv	-	unvergorener, süßer Traubensaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Traubensaft	kein_Trinken
+PM02989	Mozenblätter-tee	Substantiv	-	Brombeerblättertee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Tee	kein_Trinken
+PM03003	Mucken-buff	Substantiv	-	Malzkaffee, Kaffeersatz	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Ersatzkaffee; Gerstenkaffee; Getreidekaffee; Kaffeeersatz; Kornkaffee; Malzkaffee; Muckefuck	Malzkaffee
+PM03010	Mucken-fuck	Substantiv	-	Malzkaffee, Kaffeersatz	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Ersatzkaffee; Gerstenkaffee; Getreidekaffee; Kaffeeersatz; Kornkaffee; Malzkaffee; Muckefuck	Malzkaffee
+PN00008	Nabel-naß	Substantiv	-	Tresterwein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PN00011	Nabel-wärmer	Substantiv	-	guter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PN00118	Nach-lauf	Substantiv	2	Schnaps, der beim Brennen zuletzt herausläuft	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PN00118	Nach-lauf	Substantiv	1	Most bzw. Wein, der beim Keltern zuletzt herausläuft	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Most
+PN00330	Nacht-wächter	Substantiv	2b	abgestandenes Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	Bier
+PN00346	Nach-wein	Substantiv	-	Tresterwein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PN00483	Nähts	Substantiv	2b	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PN00746	Nebel-zerstörer	Substantiv	-	geringer Wein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PN00899	Nerven-schwächer	Substantiv	-	sehr starker Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PN01414	Nulpes	Substantiv	-	Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Kaffee	Kaffee
+PN01475	Nuß-schnaps	Substantiv	-	aus grünen Walnüssen bereiteter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PO00109	Ober-länder	Substantiv	-	Wein aus der oberen Haardt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PO00234	Obst-saft	Substantiv	-	Obstsaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Fruchtsaft; Obstsaft	kein_Trinken
+PO00242	Obst-wein	Substantiv	-	Obstwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Fruchtwein; Obstwein	kein_Trinken
+PO00541	Oktober-tee	Substantiv	-	Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PO00573	Olig	Substantiv	2	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PQ00264	Quetsch	Substantiv	-	Zwetschgenbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Pflaumenbranntwein; Zwetschgenbrand; Zwetschgenschnaps; Zwetschgenwasser	kein_Trinken
+PQ00274	Quetschen-branntwein	Substantiv	-	Zwetschgenbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Pflaumenbranntwein; Zwetschgenbrand; Zwetschgenschnaps; Zwetschgenwasser	kein_Trinken
+PQ00303	Quetschen-schnaps	Substantiv	-	Zwetschgenbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Pflaumenbranntwein; Zwetschgenbrand; Zwetschgenschnaps; Zwetschgenwasser	kein_Trinken
+PQ00312	Quetschen-wasser	Substantiv	-	Zwetschgenbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Pflaumenbranntwein; Zwetschgenbrand; Zwetschgenschnaps; Zwetschgenwasser	kein_Trinken
+PR00049	Rachen-putzer	Substantiv	1b	scharfer Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PR00049	Rachen-putzer	Substantiv	1a	minderwertiger, schlechter Wein; Tresterwein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PR00059	Rackel-gackel	Substantiv	-	schlechter, gepanschter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PR00102	Radetzky	Substantiv	-	minderwertiger Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PR00122	Radler-maß	Substantiv	-	Mischgetränk aus Bier und Limonade	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk	Bier-Limonade-Mix; Biermischgetränk; Radler	kein_Trinken
+PR00253	Rampaß	Substantiv	1.1	saurer Wein, Tresterwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PR00263	Rampfer	Substantiv	-	saurer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PR00334	Ranzen-risser	Substantiv	-	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PR00383	Rappis	Substantiv	-	saurer, schlechter Wein; Tresterwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PR00399	Räppsel	Substantiv	-	Tresterwein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PR00401	Rappser, Räppser	Substantiv	-	Tresterwein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PR00454	Raspel	Substantiv	3	scharfer Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PR00480	Rassi-bulli	Substantiv	-	schlechter, saurer Wein; Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PR00571	Ratzen-butz	Substantiv	-	starker Zwetschenschnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Pflaumenbranntwein; Zwetschgenbrand; Zwetschgenschnaps; Zwetschgenwasser	kein_Trinken
+PR00727	Rauscher	Substantiv	-	gärender Most	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Most
+PR00763	Reben-blut, Reb-	Substantiv	2	Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PR00780	Reben-saft, Reb-	Substantiv	2	Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Rebensaft	Rebensaft; Wein
+PR01305	Reiß-mich-um	Substantiv	-	für Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PR01306	Reiß-mischung	Substantiv	-	sehr saurer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PR01532	Rhabarber-wein	Substantiv	-	Wein aus Rhabarber	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Fruchtwein; Obstwein	Wein
+PR01551	Rhein-wasser	Substantiv	2	scherzhafte Bezeichnung des Ludwigshafener Biers	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	kein_Trinken
+PR01691	Riesling-wein	Substantiv	-	Wein aus Riesling	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Riesling	Wein
+PR01866	Rippes	Substantiv	-	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PR01901	Risser	Substantiv	2e	neuer, noch gärender Wein mit prickelndem Geschmack	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Federweißer; Sauser	Wein
+PR02375	Rot-wein	Substantiv	-	Rotwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Roter; Rotwein	Rotwein
+PR02699	Rülps-wasser	Substantiv	-	Sprudelwasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Arbeitersekt; Brause; Kribbelwasser; Mineralwasser; Proletariersekt; Sauerbrunnen; Selters; Selterswasser; Soda; Sodawasser; Spritzwasser; Sprudel; Sprudelwasser; Wasser mit Zisch; sauerer Sprudel	Sprudelwasser
+PR02704	Rum	Substantiv	-	Rum	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Rum	kein_Trinken
+PR02776	Runde	Substantiv	1	von einem Teilnehmer einer Gesellschaft gestiftetes Getränk	Getränk	Getränk; Trank; Trunk	Getränk
+PR02804	Rundung	Substantiv	x2	von einem Teilnehmer einer Gesellschaft gestiftetes Getränk	Getränk	Getränk; Trank; Trunk	Getränk
+PS00092	Säckels-brühe	Substantiv	-	schlechter, saurer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PS00099	Säcker, Säckert	Substantiv	2	geringwertiger Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PS00125	Säcker-wein	Substantiv	-	aus Trestern gewonnener Wein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PS00181	Saft	Substantiv	2b	als Getränk, Heilmittel zubereiteter Saft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Saft	Getränk; Saft
+PS00576	Sand-wein	Substantiv	-	Wein, der auf Sandboden wächst	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PS00823	Sauer-ampfel, -ampfer, -ämpferich	Substantiv	2	saurer, minderwertiger, schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PS00824	Sauerampfel-brühe	Substantiv	-	saurer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PS00860	Sauer-milch	Substantiv	-	geronnene (ungekochte) Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Dickmilch; Sauermilch; gestandene Milch; saure Milch	Milch; Sauermilch
+PS00902	Saufens	Substantiv	1	Getränk, Trinkvorrat	Getränk	Getränk; Trank; Trunk	Getränk
+PS00946	Sauf-zeug	Substantiv	-	Getränke	Getränk	Getränk; Trank; Trunk	Getränk
+PS00963	Sau-gesüff	Substantiv	-	minderwertiger, schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PS01118	Saurach	Substantiv	2	saurer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PS01303	Schächer	Substantiv	2b	Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	Bier
+PS01466	Schafs-milch, Schaf-milch	Substantiv	-	Schafsmilch, Schafmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Milch	kein_Trinken
+PS01637	Schamas	Substantiv	2b	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PS01660	Schampanjer Champagner, Schampanjer	Substantiv	1	Schaumwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein.Sekt	Champagner; Schaumwein	Schaumwein
+PS01666	Schampus	Substantiv	-	Schaumwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein.Sekt	Champagner; Schaumwein	Schampus; Schaumwein
+PS02326	Schiefer	Substantiv	2b	guter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PS02339	Schiefer-wein	Substantiv	-	minderwertiger Wein aus schieferigem Boden	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PS02433	Schilcher	Substantiv	2	blaßroter, geringer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Rotwein; Wein	Wein
+PS02455	Schilkser	Substantiv	-	geringer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PS02610	Schlabber-brühe	Substantiv	-	schlechtes, fades Getränk	Getränk	Getränk; Trank; Trunk	Getränk
+PS02621	Schlabber-milch	Substantiv	-	geronnene Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Dickmilch; Sauermilch; gestandene Milch; saure Milch	Milch
+PS02742	Schlaf-trunk	Substantiv	-	Trunk vor dem Schlafengehen	Getränk	Getränk; Trank; Trunk	Trunk
+PS02826	Schlamper, Schlämper	Substantiv	2	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PS03076	Schleh-branntwein	Substantiv	-	aus Schlehen hergestellter Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Obstbrand; Obstler; Obstschnaps; Obstwasser	Branntwein
+PS03089	Schleh-schnaps	Substantiv	-	aus Schlehen hergestellter Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Obstbrand; Obstler; Obstschnaps; Obstwasser	Branntwein
+PS03107	Schleich-wein	Substantiv		mit Hefe durchsetzter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PS03336	Schlingel	Substantiv	3	schlechter, minderwertiger Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PS03349	Schlinken-putzer	Substantiv	1b	schlechter Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Fusel; Schnaps	Branntwein
+PS03438	Schloriampels-brühe	Substantiv	-	schales, fades Getränk, dünner Kaffee	Getränk; Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Getränk; Kaffee; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre; Trank; Trunk	Getränk; Kaffee
+PS03439	Schlorum	Substantiv	1a	Kaffee; schaler, dünner Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	Kaffee
+PS03440	Schlorum-bier	Substantiv	-	eine Biersorte	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	kein_Trinken
+PS03608	Schlurpser	Substantiv	1	Schluck, Trunk	Getränk	Getränk; Trank; Trunk	Trunk
+PS03619	Schlüsselblumen-tee	Substantiv	-	Tee aus den Blüten der Schlüsselblume	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Tee	Tee
+PS03951	Schmisser	Substantiv	3	trockener, harter Wein, der einen umwirft	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PS03987	Schmoras	Substantiv	-	Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Kaffee	Kaffee
+PS04193	Schnalzer	Substantiv	3	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PS04243	Schnaps	Substantiv	1	Getränk mit hohem Alkoholanteil	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Getränk; Schnaps
+PS04261	Schnaps-gepfetze	Substantiv	-	Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Branntwein
+PS04351	Schnaubian	Substantiv	-	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PS04715	Schnitt-wein	Substantiv	-	Wein aus der letzten Mostpressung	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PS04896	Schnurr-gückel	Substantiv	1	Tresterwein, Haustrunk, minderwertiger Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PS04953	Schockele-majem	Substantiv	-	Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Kaffee	Kaffee
+PS04979	Schoker	Substantiv	-	Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Kaffee	Kaffee
+PS04986	Schokolade	Substantiv	-	Süßigkeit aus Kakao, Milch und Zucker	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kakao	Kakao; Kakaogetränk; Kakaomilch; Milchkakao; Schokolade	Milch
+PS05072	Schoppen-wein	Substantiv	-	in Schoppen (vom Faß) ausgeschenkter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PS05855	Schüssel-milch	Substantiv	-	Milch, die in einer flachen Schüssel entrahmt wurde	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Milch	Milch
+PS05893	Schüttel-riesling	Substantiv	-	Apfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Apfelperlwein; Apfelwein	kein_Trinken
+PS06719	Sechel	Substantiv	2	ein Glas Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	kein_Trinken
+PS06825	Seelen-wärmer, Seel-	Substantiv	2	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PS06969	Seifen-brühe	Substantiv	2	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PS07106	Sekt	Substantiv	-	Schaumwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein.Sekt	Schaumwein	Schaumwein; Sekt
+PS07167	Selters-wasser, Selzer-	Substantiv	-	Mineral-, Sprudelwasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Arbeitersekt; Brause; Kribbelwasser; Mineralwasser; Proletariersekt; Sauerbrunnen; Selters; Selterswasser; Soda; Sodawasser; Spritzwasser; Sprudel; Sprudelwasser; Wasser mit Zisch; sauerer Sprudel	Selterswasser; Sprudelwasser
+PS07599	Silven-wein	Substantiv		Wein aus Silvanertrauben	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PS07695	Sirup	Substantiv	-	Sirup	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink	Sirup	kein_Trinken
+PS07765	Soda-wasser	Substantiv	-	kohlensäurehaltiges Mineralwasser, Sprudel	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Arbeitersekt; Brause; Kribbelwasser; Mineralwasser; Proletariersekt; Sauerbrunnen; Selters; Selterswasser; Soda; Sodawasser; Spritzwasser; Sprudel; Sprudelwasser; Wasser mit Zisch; sauerer Sprudel	Mineralwasser; Sodawasser; Sprudel
+PS08119	Soruf	Substantiv	-	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PS08372	Spät-lese	Substantiv	2	Wein aus spät geernteten Trauben, Wein höherer Qualitätsstufe	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Prädikatswein; Qualitätswein	Wein
+PS08583	Speicher-kaffee	Substantiv	-	Kaffee-Ersatz aus geröstetem Getreide	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Ersatzkaffee; Gerstenkaffee; Getreidekaffee; Kaffeeersatz; Kornkaffee; Malzkaffee	kein_Trinken
+PS08731	Sperben-wein	Substantiv	-	Wein aus Früchten des Speierling oder mit Speierlingzusatz	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Fruchtwein; Obstwein	Wein
+PS09049	Spitzbohnen-kaffee	Substantiv	-	Kaffee-Ersatz aus Gerste, Roggen, Malz u.ä.	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Ersatzkaffee; Gerstenkaffe; Gerstenkaffee; Getreidekaffee; Kornkaffee; Malzkaffee	kein_Trinken
+PS09112	Spitzen-wein	Substantiv	-	besonders guter, hervorragender Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Prädikatswein; Qualitätswein	Wein
+PS09411	Sprit	Substantiv	2	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PS09417	Spritzel-wasser	Substantiv	-	Mineralwasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Arbeitersekt; Brause; Kribbelwasser; Mineralwasser; Proletariersekt; Sauerbrunnen; Selters; Selterswasser; Soda; Sodawasser; Spritzwasser; Sprudel; Sprudelwasser; Wasser mit Zisch; sauerer Sprudel	Mineralwasser
+PS09465	Sprudel	Substantiv	-	kohlensäurehaltiges Trinkwasser, Mineralwasser, Kurgetränk	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Arbeitersekt; Brause; Kribbelwasser; Mineralwasser; Proletariersekt; Sauerbrunnen; Selters; Selterswasser; Soda; Sodawasser; Spritzwasser; Sprudel; Sprudelwasser; Trinkwasser; Wasser mit Zisch; sauerer Sprudel	Mineralwasser; Sprudel; Trinkwasser
+PS09496	Sprutzel-wasser	Substantiv	-	Mineralwasser mit Kohlensäure	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Arbeitersekt; Brause; Kribbelwasser; Mineralwasser; Proletariersekt; Sauerbrunnen; Selters; Selterswasser; Soda; Sodawasser; Spritzwasser; Sprudel; Sprudelwasser; Wasser mit Zisch; sauerer Sprudel	Mineralwasser
+PS09547	Spül-wasser	Substantiv	2	dünnes, fades Getränk	Getränk	Getränk; Trank; Trunk	Getränk
+PS09548	Spülwasser-brühe	Substantiv	-	dünnes, fades Getränk	Getränk	Getränk; Trank; Trunk	Getränk
+PS09663	Stachelbeer-wein	Substantiv	-	Obstwein aus Stachelbeeren	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Fruchtwein; Obstwein	kein_Trinken
+PS10051	Stark-bier	Substantiv	-	eine Biersorte mit besonders viel Stammwürze	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Starkbier	Starkbier
+PS10654	Sternen-bier, Stern-bier	Substantiv	-	Bier aus einem Gasthaus Zum Sternmit früherer eigener Brauerei	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	Bier
+PS10768	Stich-wein	Substantiv	2	Wein mit einem Essigstich	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PS10768	Stich-wein	Substantiv	1	der Wein eines vorzüglichen Jahrganges	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PS11275	Storchen-bier	Substantiv	-	Bier der Storchenbrauerei in Speyer	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	Bier
+PS11336	Storzen	Substantiv	5	ein Bier- oder Weinrest	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier;Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Bier; Wein	Bier
+PS11348	Stößel-wein	Substantiv		Wein aus unreifen, zerstampften Trauben	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PS11375	Stoß-milch	Substantiv	-	Buttermilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Buttermilch	kein_Trinken
+PS12401	Stuten-milch	Substantiv	-	Pferdemilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Milch	kein_Trinken
+PS12465	Suckel	Substantiv	4	schwacher Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	Kaffee
+PS12473	Suckels-brühe	Substantiv	-	schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	Kaffee
+PS12488	Sudel-bier	Substantiv	-	abgestandenes Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Bier	Bier
+PS12489	Sudel-brühe	Substantiv	1	Getränk von schlechter, dünner Qualität, Gesöff (Wein Bier Kaffee)	Getränk; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier;Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein;Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Bier; Brühe; Geplämpe; Geschlapp; Getränk; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre; Trank; Trunk; Wein	Getränk; Wein
+PS12520	Suff	Substantiv	2	(schlechtes, fades) Getränk	Getränk	Getränk; Trank; Trunk	Getränk
+PS12743	Süß-milch	Substantiv	-	nicht angesäuerte Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Milch	Milch
+PS12745	Süß-most	Substantiv	-	frischer, unvergorener Traubensaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Traubensaft	kein_Trinken
+PU00917	unter-irdisch	Substantiv	2	der aus Kartoffeln hergestellte Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Schnaps
+PU00941	Unter-länder	Substantiv	-	Wein aus dem Unterland	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PU01050	Unter-trunk	Substantiv		Trunk für den Mittag oder tagsüber zwischendurch	Getränk	Getränk; Trank; Trunk	Trunk
+PW00449	Waldmeister-tee	Substantiv	-	Tee mit Waldmeisterblättern	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Tee	Tee
+PW00490	Wald-wein	Substantiv	-	Wein aus Lagen am Wald	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PW00931	Wasser	Substantiv	3a	Alkohol, Branntwein, Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Branntwein; Schnaps; Wasser
+PW01284	Wegerich-tee	Substantiv	-	Kräutertee aus Wegerichblättern	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Kräutertee	kein_Trinken
+PW01418	Weh-milch	Substantiv	-	die erste dicke Milch der Kuh unmittelbar nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Kuhmilch	Milch
+PW01454	Weiber-klopfer	Substantiv	-	neuer Wein, Federweißer, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Federweißer; Sauser	Federweißer; Wein
+PW01677	Wein	Substantiv	1b	Traubensaft bzw. Most, unvergoren bzw. in Gärung befindlich	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Most; Traubensaft	Wein
+PW01677	Wein	Substantiv	1a	alkoholisches Getränk aus dem Saft von Trauben	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Getränk; Wein
+PW01720	Wein-geist	Substantiv	-	hochprozentiger Alkohol	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Hochprozentiges; Spirituose	kein_Trinken
+PW01776	Wein-puff	Substantiv	-	Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PW01814	Wein-suppe	Substantiv	2	der gärende Most	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Most
+PW01819	Wein-trub	Substantiv	-	der durch die Hefe getrübte letzte Wein im Faß	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PW01870	Weiß-bier	Substantiv	-	helles Bier, Weizenbier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Hefeweizen; Hellbier; Helles; Weizenbier; Weißbier	Bier; Weißbier
+PW01899	Weiß-herbst	Substantiv	2	rötlicher Wein aus roten oder blauen Trauben	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Roter; Rotwein	Wein
+PW01942	Weiß-wein	Substantiv	-	heller Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Weißer; Weißwein	Wein; Weißwein
+PW01983	Weizen-bier	Substantiv	-	mit Gersten- und Weizenmalz gebrautes Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Hefeweizen; Weizenbier; Weißbier	Bier
+PW02221	Wermut	Substantiv	2	mit Wermut 1b hergestelltes bitteres alkoholisches Getränk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Wermutbranntwein	Getränk
+PW02528	Wieder-täufer	Substantiv		saurer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PW02762	Wilhelm	Substantiv	3	Schnaps aus Williams Christbirnen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Obstbrand; Obstler; Obstschnaps; Obstwasser	Schnaps
+PW03280	Witwen-macher	Substantiv	-	aus Traubenrückständen hergestellter Wein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PW03430	Wolfs-tee	Substantiv	-	Tee von der Königskerze	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Tee	Tee
+PW03707	Wupp-dich	Substantiv	2a	ein Schluck oder ein Gläschen Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	kein_Trinken
+PW03707	Wupp-dich	Substantiv	2b	Branntwein, Schnaps allgemein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Branntewein; Branntwein; Schnaps	Branntwein
+PW03721	Wurf	Substantiv	2f	kleines Trinkglas, bzw. dessen Inhalt	Getränk	Getränk; Trank; Trunk	kein_Trinken
+PXXX	Glüh-wein	Substantiv	-	Glühwein	Getränk.Heißgetränk.Alkoholhaltiges_Heißgetränk	Glühwein	Glühwein
+PZ00541	Zichorie	Substantiv	2a	fürbende Kaffeezusatz, -ersatz und das daraus gewonnene Getränk	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Zichorienkaffee	kein_Trinken
+PZ00542	Zichorie-brühe	Substantiv	-	schlechter, dünner Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Brühe; Geplämpe; Geschlapp; Lorke; Lurke; Plampel; Plempe; Plämpe; Plörre	Kaffee
+PZ00545	Zichorie-kaffee	Substantiv	-	Getränk aus bzw. mit Zichorienwurzel	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Zichorienkaffee	Getränk
+PZ00649	Ziel-wasser	Substantiv	-	Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein; Zielwasser
+PZ00892	Zitronen-saft	Substantiv	-	Flüssigkeit der Zitrone und das daraus bereitete Getränk	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Fruchtsaft; Obstsaft	kein_Trinken
+PZ01090	Zucker-brühe	Substantiv	-	verzuckerter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein
+PZ01151	Zucker-wasser	Substantiv	1a	mit Zucker und Wasser angerührtes Getränk	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink	Zuckerwasser	Getränk; Zuckerwasser
+PZ01154	Zucker-wein	Substantiv	-	(nur im Sommertagslied): Bezeichnung für süßen Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	kein_Trinken
+PZ02137	Zwockel-wein	Substantiv	-	Wein, der in Bayern gewachsen ist	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Wein	Wein

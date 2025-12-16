@@ -1,0 +1,13 @@
+File: B_Verwandt_10f_4e_32bs_final.tsv
+Rows: 962
+∅ minimal path distance: 0.26
+∅ average path distance: 0.26
+
+Average distances per part-of-speech:
+Adjektiv: ∅ min = 0.43, ∅ avg = 0.43
+Adverb: ∅ min = 0.00, ∅ avg = 0.00
+Substantiv: ∅ min = 0.14, ∅ avg = 0.14
+Verb: ∅ min = 0.88, ∅ avg = 0.88
+
+Average distances per concept group:
+kein_Trinken: ∅ min = 0.26, ∅ avg = 0.26

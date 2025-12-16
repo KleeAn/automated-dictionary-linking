@@ -1,0 +1,12 @@
+File: C_Zufall_10f_4e_32bs_final.tsv
+Rows: 1032
+∅ minimal path distance: 0.05
+∅ average path distance: 0.05
+
+Average distances per part-of-speech:
+Adjektiv: ∅ min = 0.11, ∅ avg = 0.11
+Substantiv: ∅ min = 0.06, ∅ avg = 0.06
+Verb: ∅ min = 0.00, ∅ avg = 0.00
+
+Average distances per concept group:
+kein_Trinken: ∅ min = 0.05, ∅ avg = 0.05

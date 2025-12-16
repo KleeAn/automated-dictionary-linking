@@ -1,0 +1,198 @@
+srcid	srclemma	tgtid	tgtlemma	tgtgram	concept_PfWb
+PA00305	ab-heben	EH00069	ab heben		Trinken.Alkohol_trinken
+PA00305	ab-heben	EH00069	ab heben		Trinken.Alkohol_trinken
+PA00579	ab-saufen	ES00281	ab sufen		Trinken
+PA00610	ab-schie&#x00df;en	ES02315	ab schiessen		Trinken.Alkohol_trinken
+PA01829	an-feuchten	EF00095	anf&#x00fc;chten		Trinken.Alkohol_trinken
+PA02138	an-rauchen	ER00115	a(n) rauchen		Trinken.Alkohol_trinken
+PA02561	&#x00c4;pfel-wein	EW00675	&#x00c4;pfelwi(n)		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PA03957	aus-saufen	ES00286	us sufen		Trinken.Austrinken
+PA04077	aus-stauben	ES04598	us st&#x00e4;&#x00fc;ben		Trinken.Austrinken
+PA04088	Aus-stich	ES04673	Usstich		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PB00514	bambuschieren	EP00919	bamberschieren, bamboschieren		Trinken.Alkohol_trinken
+PB00617	Bankerott(s)-br&#x00fc;he	EP03711	Bankerottbr&#x00fc;ej		Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+PB00757	Pappel-wasser	EW01154	Bappelwasser		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PB01491	bechern	EP00137	b&#x00eb;cheren		Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken
+PB01548	be-dudeln	ET00272	bedudelt		Trinken.Alkohol_trinken
+PB02130	be-sabeln	ES00050	besabelt		Trinken.Alkohol_trinken
+PB02917	pfetzen	EP02832	pf&#x00eb;tzen		Trinken.Alkohol_trinken
+PB03008	Pflaster	EP02945	Pflaster		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PB03368	Bier	EP01634	Bier		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+PB03741	Birnen-wein	EW00678	Birenwi(n)		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PB03946	Pl&#x00e4;mpel	EP03252	Pl&#x00e4;mpel		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PB04011	blasen	EP03365	blasen		Trinken.Alkohol_trinken
+PB04398	blitzen	EP03534	blitzen		Trinken
+PB04481	Blume	EP03179	Bluem(e), Blum		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PB04922	Polack	EP00657	Polack		Getränk
+PB05580	Brand	EP03894	Brand		Durst
+PB05629	Brannt(e)-wein	EW00679	Branntenwi(n)		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PB05678	Brast	EP04055	Brast		Durst
+PB06123	Briester	EP04065	Briesch, Briest		Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+PB06125	Briester-milch	EM00567	Brieschmilch		Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+PB06562	Br&#x00fc;he	EP03708	Br&#x00fc;ej(e)		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PB07085	Puff	EP00322	buff		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PB07195	p&#x00fc;lvern	EP00753	pulferen		Trinken.Alkohol_trinken
+PB07266	pumpen	EP00960	bumpen		Trinken.Alkohol_trinken
+PB07282	Bumpes	EP00974	Bumpes		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PB07289	bum(p)sen	EP00977	bumpsen		Trinken.Alkohol_trinken
+PB07510	b&#x00fc;rsten	EP01858	b&#x00fc;rsten		Trinken.Alkohol_trinken
+PD00873	daran-sch&#x00fc;tten	ES02451	dran sch&#x00fc;tten		Trinken.Alkohol_trinken
+PD01569	Tee	ET00024	Tee		Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee
+PD03596	Trank	ET02147	Trank		Getränk
+PD03599	tr&#x00e4;nken	ET02153	tr&#x00e4;nken		Trinken.Alkohol_trinken
+PD03764	Trauben-wein	EW00713	Truebwi(n)		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PD03964	Dreck-milch	EM00570	Dr&#x00eb;ckmilch		Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+PD04173	Dreim&#x00e4;nner-wein	EW00682	Dreim&#x00e4;nnerwin		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PD04435	trinken	ET02159	trinken		Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken; Trinken.Häufig_lange_trinken
+PD04436	Trinken(s)	ET02160	Trinken		Getränk
+PD04446	Trink-wein	EW00712	Trinkwi(n)		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PD04688	Trub-wein	EW00713	Truebwi(n)		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PD04691	Druck	ET01939	Druck		Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+PD04713	Dr&#x00fc;cker	ET01972	Dr&#x00fc;cker		Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+PD04804	Trunk	ET02165	Trunk		Getränk
+PD04968	dudeln	ET00270	dudlen		Trinken.Alkohol_trinken
+PD05009	dulfen	ET00679	dulfen		Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken
+PD05712	Durst	ET01331	Durst		Durst
+PD05717	d&#x00fc;rsterig	ET01335	d&#x00fc;rsterig		Durst
+PD05718	d&#x00fc;rstig	ET01334	durstig		Durst
+PE00146	Edel-wein	EW00685	Edelwin		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PE00257	Ehr-wein	EW00686	&#x2020;Ehrwein		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PE00499	ein-binden	EP01152	i(n) binden		Trinken.Alkohol_trinken
+PE00745	ein-nehmen	EN00317	inn&#x00eb;hmen		Trinken.Alkohol_trinken
+PE00983	ein-tun	ET00053	in tuen		Trinken.Alkohol_trinken
+PE01315	Elfuhr-messe	EM01217	Elferm&#x00eb;ss		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk
+PF01305	ver-dr&#x00fc;cken	ET01967	verdr&#x00fc;cken		Trinken.Alkohol_trinken
+PF01444	Vergi&#x00df;-mein-nicht	EG00964	Vergissmeinnichtel		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PF01749	ver-k&#x00fc;mmeln	EK00522	verk&#x00fc;mmlen		Trinken.Alkohol_trinken
+PF01791	ver-lechen	EL00173	verl&#x00eb;chen		Durst
+PF02140	ver-salzen	ES00779	versalzen		Trinken.Alkohol_trinken
+PF02146	ver-saufen	ES00287	versufen		Trinken.Alkohol_trinken
+PF02235	ver-schmieren	ES03178	verschmieren		Trinken.Alkohol_trinken
+PF02311	ver-schwinden	ES03912	verschwinden		Trinken.Alkohol_trinken
+PF02350	ver-sohlen	ES00719	versohlen		Trinken.Alkohol_trinken
+PF05503	Fr&#x00fc;h-messe	EM01218	Fr&#x00fc;ehm&#x00eb;ss		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk
+PF05529	Fuchs	EF00066	Fuchs		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PF05806	Fusel	EF00900	Fusel		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PG00355	G&#x00e4;nse-wein	EW00688	G&#x00e4;nswin		Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+PG01375	Gei&#x00df;(en)-milch	EM00571	Geisenmilch		Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+PG01529	Ge-l&#x00e4;pper	EL01065	Gel&#x00e4;pper(s)		Trinken.Hohe_Frequenz_Dauer
+PG03154	Glas	EG01382	Glas		Getränk
+PG03401	gluckeln	EG01346	glunkelen		Trinken.Alkohol_trinken
+PG03410	gluckern	EG01325	gluckeren		Trinken.Schnell_große_Mengen_trinken
+PG03417	glucksen	EG01434	gluxen		Trinken.Schnell_große_Mengen_trinken;Trinken.Geräuschvoll_trinken
+PG03529	Gocko	EG00293	Gogo		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PG04443	Grundbirn(en)-branntwein	EW00690	Grumbirenbr&#x00eb;nntewin		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PG04745	G&#x00fc;ckes	EG00282	Giges, Gigs		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PH01966	heben	EH00068	heben		Trinken.Alkohol_trinken
+PH05861	Hochzeit(s)-wein	EZ00579	Hochzit		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PJ00101	Jakob	EJ00093	Jakob, Jobek, Jokeb, Schakob		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PK00043	Kaffee	EK00182	Kaffee, Kaffi		Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffeeersatz
+PK00062	Kaffee-geschlapper	ES02507	Kaffeeschlabber		Trinken
+PK00762	Karst	EK01131	Karst		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PK02285	Kirsch(en)-wasser	EW01168	Kirsenwasser		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PK02440	kl&#x00e4;ppern	EK01635	klepperen		Trinken.Alkohol_trinken
+PK03365	Kn&#x00fc;rbel	EK01930	Knorpel		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PK03477	Knupper	EK01879	Knupp(er		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PK04001	k&#x00f6;pfen	EK00910	k&#x00f6;pfen		Trinken.Alkohol_trinken;Trinken.Austrinken
+PK04340	Krabbel-an-der-Wand	EK02026	Kr&#x00e4;bel		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PK05774	K&#x00fc;mmel	EK00518	K&#x00fc;mmel, K&#x00fc;mmich, K&#x00fc;mmin		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PL00111	laden	EL00339	laden		Trinken.Alkohol_trinken
+PL00160	Lage	EL00547	Lage		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk
+PL00533	l&#x00e4;ppern	EL01063	l&#x00e4;pperen		Trinken.Langsam_kleine_Mengen_trinken; Trinken.Häufig_lange_trinken
+PL00750	L&#x00e4;uer	EL01179	L&#x00fc;r, Lur(e)		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PL01076	ledern	EL00374	l&#x00eb;deren		Trinken
+PL01433	Leim(en)-br&#x00fc;he	EP03723	Leimenbr&#x00fc;ej		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PL01896	liefern	EL00526	liferen		Trinken.Alkohol_trinken
+PL02239	l&#x00f6;schen	EL01367	leschen		Trinken
+PL02325	lotteln	EL01500	Rimbachlottel		Trinken
+PL02520	lumpen	EL00827	lumpen		Trinken.Alkohol_trinken
+PL02629	l&#x00fc;pfen	EL01091	l&#x00fc;pfen		Trinken.Alkohol_trinken
+PL02668	lutschen	EL01626	lutschen		Trinken.Langsam_kleine_Mengen_trinken
+PM00011	machen	EM00049	machen		Trinken.Alkohol_trinken
+PM00202	mahlen	EM00438	mahlen		Trinken
+PM01361	Meer-rettich	ER01315	Meerr&#x00eb;ttig		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PM01688	Met	EM01516	M&#x00eb;t(er)		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk
+PM01838	Milch	EM00566	Milch		Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+PM02726	M&#x00f6;ppel	EM00900	M&#x00f6;ppel, Moppel		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PM02731	Moppes	EM00913	Mops		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PM02922	Mosche	EM01309	Mausche, Moises, Moses		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PM02926	Most	EM01478	Most, Muschk		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PN00295	nach-trinken	ET02161	nach trinken		Trinken
+PN00330	Nacht-w&#x00e4;chter	EW00171	Nachtw&#x00e4;chter		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+PN00483	N&#x00e4;hts	EN00683	N&#x00e4;z		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PN00843	nehmen	EN00311	n&#x00eb;hmen		Trinken
+PO00109	Ober-l&#x00e4;nder	EL00931	&#x00d6;berl&#x00e4;nder		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PO00573	Olig	EA00540	Olich		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PQ00303	Quetschen-schnaps	ES03505	Qu&#x00eb;tschelschnaps		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PR00049	Rachen-putzer	EP02606	Rachenbutzer		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PR00253	Rampa&#x00df;1	ER00670	R&#x00e4;mpes		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PR00454	Raspel	ER01227	Raspel(e)		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PR01305	Rei&#x00df;-mich-um	ER01113	Rissmichum		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PR01901	Risser	ER01107	Risser		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PR02262	r&#x00f6;sten	ER01207	r&#x00f6;sch		Trinken.Alkohol_trinken
+PR02262	r&#x00f6;sten	ER01265	r&#x00f6;sten		Trinken.Alkohol_trinken
+PR02704	Rum	ER00626	Rum I		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PR02848	rupfen	ER00942	rupfen		Trinken
+PS00092	S&#x00e4;ckels-br&#x00fc;he	EW01183	Seckelwasser		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PS00099	S&#x00e4;cker	ES00474	G&#x00eb;rsts&#x00e4;jet		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PS00099	S&#x00e4;cker	ES00563	S&#x00e4;cker		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PS00181	Saft	ES00323	Saft, Safz		Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+PS00823	Sauer-&#x00e4;mpferich	EA00734	Surampfer		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PS00860	Sauer-milch	EM00577	Surmilch		Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+PS00897	saufen	ES00280	sufen		Trinken.Schnell_große_Mengen_trinken
+PS00902	Saufens	ES00291	Sufens		Getränk
+PS01303	Sch&#x00e4;cher	ES01407	Sch&#x00e4;cher		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+PS01637	Schamas	ES01864	Schamas		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PS01845	schaskenen	ES02365	Sch&#x00fc;ssel		Trinken.Alkohol_trinken
+PS02326	Schiefer	ES01572	Schiber, Schiffer, Schifter		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PS02374	schie&#x00df;en	ES02313	schiessen		Trinken.Alkohol_trinken
+PS02742	Schlaf-trunk	ET02166	&#x2020;Schlaftrunk		Getränk
+PS02826	Schl&#x00e4;mper	ES02764	Schlamper		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PS03228	schlenkern	ES02810	verschl&#x00eb;nken		Trinken.Alkohol_trinken
+PS03336	Schlingel	ES02802	Schlingel		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PS03852	schmettern	ES03251	schm&#x00eb;tteren		Trinken.Alkohol_trinken
+PS03901	schmieren	ES03172	schmieren		Trinken
+PS04187	schnallen	ES03423	schnalleren		Trinken.Alkohol_trinken
+PS04243	Schnaps	ES03500	Schnaps, Schnips		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PS04254	schn&#x00e4;pseln	ES03508	schn&#x00e4;pslen		Trinken.Alkohol_trinken; Trinken.Häufig_lange_trinken
+PS04255	schnapsen	ES03507	schnapsen		Trinken.Alkohol_trinken
+PS04315	schn&#x00e4;rren	ES03518	schn&#x00eb;rren		Trinken.Alkohol_trinken
+PS04720	Schnitz-br&#x00fc;he	EP03727	Schnitzbr&#x00fc;ej		Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink
+PS04881	schnurren	ES03524	schnurren		Trinken.Alkohol_trinken
+PS04953	Schockele-majem	EK00183	Schokelakaffee		Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+PS04953	Schockele-majem	ES01721	Schok&#x00e4;la, Schokela		Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+PS04986	Schokolade	ES01721	Schok&#x00e4;la, Schokela		Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kakao
+PS05045	sch&#x00f6;pfen	ES02060	schepfen		Trinken.Schnell_große_Mengen_trinken
+PS05980	schw&#x00e4;chen2	ES03812	schw&#x00e4;chen		Trinken.Alkohol_trinken
+PS06158	schweappeln	ES03943	schwapplen		Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken
+PS06159	schwappen	ES03943	schwapplen		Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken
+PS06319	schwefeln1	ES03804	schw&#x00eb;blen		Trinken.Alkohol_trinken
+PS09424	Spritzer	ES04532	Spritzer		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk
+PS09525	spulen	ES04138	spuelen  I		Trinken.Schnell_große_Mengen_trinken
+PS10098	stauben	ES04592	st&#x00e4;&#x00fc;ben		Trinken.Alkohol_trinken
+PS10171	stechen	ES04650	st&#x00eb;chen		Trinken.Alkohol_trinken
+PS10586	stemmen	ES05101	st&#x00eb;mmen		Trinken.Alkohol_trinken
+PS10768	Stich-wein	EW00706	&#x2020;Stichwin		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PS10811	Stieber	ES04639	St&#x00fc;ber		Durst
+PS11136	Stoff	ES04756	Stuft		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk
+PS11336	Storzen	ES05483	Storze		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier;Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PS11349	sto&#x00df;en	ES05515	stossen		Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken
+PS12215	st&#x00fc;lpen	ES05078	hinuf st&#x00fc;lpen		Trinken.Alkohol_trinken
+PS12380	st&#x00fc;rzen	ES05500	st&#x00fc;rzen		Trinken.Alkohol_trinken
+PS12471	suckeln	ES00608	suckelen		Trinken
+PS12520	Suff	ES00290	Suff		Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken
+PS12524	s&#x00fc;ffeln	ES00306	s&#x00fc;fflen		Trinken.Langsam_kleine_Mengen_trinken
+PU00207	&#x00fc;ber-sehen	ES00451	&#x00fc;bers&#x00eb;h(n)		Trinken.Alkohol_trinken
+PW00614	wamschen	EW00659	wamsen		Trinken.Alkohol_trinken
+PW00931	Wasser	EW01152	Wasser		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PW01705	weinen	EW00673	weinen		Trinken.Alkohol_trinken
+PW01814	Wein-suppe	ES01062	Winsupp(e)		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PW01880	wei&#x00df;eln	EW01258	wissen  I		Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken
+PW02221	Wermut	EW01009	Wermuet		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PW03721	Wurf	EW00948	Wurf II		Getränk
+PZ00485	zerren	EZ00499	zerren		Trinken.Alkohol_trinken
+PZ00541	Zichorie	ES01716	Schikkore, Zickori		Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffeeersatz
+PZ00847	zipfeln	EZ00472	zipflen		Trinken.Langsam_kleine_Mengen_trinken
+PZ01382	zupfen	EZ00480	zopfen, zupfen		Trinken.Alkohol_trinken
+PZ01410	zu-richten	ER00221	zue richten		Trinken.Alkohol_trinken
+PZ02125	zwitschern	EZ00744	zwitscheren		Trinken.Alkohol_trinken

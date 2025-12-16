@@ -1,0 +1,605 @@
+Definition	Konzept
+Abendschoppen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk
+Alkohol	Getränk
+Alkohol trinken	Trinken.Alkohol_trinken
+Alkohol trinken, einen trinken, zechen	Trinken.Alkohol_trinken
+Alkohol trinken, stark trinken	Trinken.Alkohol_trinken; Trinken.Schnell_große_Mengen_trinken
+Alkohol, Branntwein, Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Apfel- oder Birnenwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Apfelmost	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+Apfelsaft, Äpfelsaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+Apfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Apfelwein minderer Sorte	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Apfelwein minderer Sorte, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Apfelwein, Äpfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Aufguss von getrockneten Blättern oder Blüten heilkräftiger Pflanzen	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee
+Beeren-, Gemüsesaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+Beerenauslese, edelster Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Besäufnis in geselliger Runde	Trinken.Alkohol_trinken
+Bez. für schlechten Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+Bier Händlerspr	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+Bier aus dem Faß	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+Bier aus einem Gasthaus Zum Sternmit früherer eigener Brauerei	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+Bier der Storchenbrauerei in Speyer	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+Bier, das nach dem Einschenken vom Hahn abtropft	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+Biersorte	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+Biersorte aus Frankth	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+Birnensaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+Birnenwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Birnwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Bohnenkaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+Branntewein, Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Branntwein aus Kirschen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Branntwein aus Kirschen und Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Branntwein aus Roggen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Branntwein aus Zwetschen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Branntwein aus gegorenen Kartoffeln	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Branntwein zum Trinken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Branntwein, Kartoffelschnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Branntwein, Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Branntwein, Schnaps allgemein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Brombeerblättertee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee
+Brombeerenblättertee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee
+Brombeerentee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee
+Brühe, Sauce; auch Seifenbrühe, frischgepresster Rebensaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+Buttermilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+Büchsenmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+Champagnerwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein.Sekt
+Dickmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+Durst	Durst
+Durst stillen	Trinken
+Edelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Ehrenwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Eichelkaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffeeersatz
+Erdbeerenbowle, Erdbeerbowle	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk
+Erdbeerenwein, Erdbeerwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Erdbeerwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Flaschenwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Flüssigkeit der Zitrone und das daraus bereitete Getränk	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+Flüssigkeit zu sich nehmen	Trinken
+Freibier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+Gebirgswein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Getränk	Getränk
+Getränk aus Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+Getränk aus Pfefferminzessenz und Wasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink
+Getränk aus bzw. mit Zichorienwurzel	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffeeersatz
+Getränk für Menschen	Getränk
+Getränk für den Menschen	Getränk
+Getränk mit hohem Alkoholanteil	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Getränk von schlechter, dünner Qualität, Gesöff WeinBier Kaffee	Getränk; Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Getränk, Trinkvorrat	Getränk
+Getränke	Getränk
+Glühwein	Getränk.Kaltgetränk.Alkoholhaltiges_Heißgetränk
+Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Haustrunk, schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Heidelbeerensaft, Heidelbeersaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+Heidelbeerenwein, Heidelbeerwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Holzapfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Inhalt des Trinkglases	Getränk
+Johannisbeerwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+Kaffee Musikantenspr	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+Kaffee pfälz. Musikantenspr.	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+Kaffee-Ersatz aus Gerste, Roggen, Malz u.ä.	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffeeersatz
+Kaffee-Ersatz aus geröstetem Getreide	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffeeersatz
+Kaffee-Ersatz aus gerösteten Eicheln	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffeeersatz
+Kaffee-Ersatz verschiedener Art	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffeeersatz
+Kaffee-Ersatz, Zichorie	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffeeersatz
+Kaffee; schaler, dünner Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+Kaffeeersatz aus gerösteten Gerstenkörnern	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffeeersatz
+Kaffeegetränk, in dem Rückstände schwimmen	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+Kaiserslauterer Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+Kakao	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kakao
+Kartoffelschnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Kartoffelsprit	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Kirschbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Kräutertee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee
+Kräutertee aus Wegerichblättern	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee
+Kuhmilch, Kühmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+Lagerbier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+Landwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Likör, mit Honig gesüßt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Limonade	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink
+Magenbitter	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Malzkaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffeeersatz
+Met	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk
+Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+Milch der Haustiere, Muttermilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+Milch einer frischmelkenden Kuh	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+Milch für den Kaffee	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+Milch, die am Abend gemolken wird	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+Milch, die durch die Zentrifuge entrahmt ist	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+Milch, die in einer flachen Schüssel entrahmt wurde	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+Milchkaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+Milchschokolade mit Brot	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kakao
+Mineral-, Sprudelwasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+Mineralwasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+Mineralwasser mit Kohlensäure	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+Mischgetränk aus Bier und Limonade	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk
+Mischung aus Bohnen- und Malzkaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee; Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffeeersatz
+Morgenkaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+Moselwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Most bzw. Wein, der beim Keltern zuletzt herausläuft	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Most, der in der Gärung das Süße verloren hat	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Nachmittagskaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee; Trinken
+Nachwein aus Traubentrestern	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Name für Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Obstsaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+Obstwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Obstwein aus Stachelbeeren	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Perlwein aus Wasser, Honig und Hefe	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein.Sekt
+Pfefferminztee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee
+Pferdemilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+Qualitätswein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Rest eines Getränkes im Glas	Getränk
+Rest im Bierglas	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+Rotwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Rum	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Runde	Getränk
+Saft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+Saft aus Himbeeren	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+Saft aus Holunderbeeren	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+Saft aus Johannisbeeren	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+Saft aus Kirschen	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+Sauermilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+Sauermilch, Dickmilch, gestockte Milch; wird häufig abends mit Kartoffeln gegessen; auch zu Suppen verwendet	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+Saufgelage	Trinken.Alkohol_trinken
+Schafsmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+Schafsmilch, Schafmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+Schaumwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein.Sekt
+Schlehenschnapps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Schluck, Trunk	Getränk
+Schnaps Maurersprache	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Schnaps aus Stachelbeeren	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Schnaps aus Williams Christbirnen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Schnaps der Marke 'Krambambuli'	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Schnaps in der Maurersprache	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Schnaps pfälz. Händlerspr.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Schnaps trinken	Trinken.Alkohol_trinken
+Schnaps, Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Schnaps, der beim Brennen zuletzt herausläuft	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Schnaps, der bes. zur Zeit der Kartoffelernte gereicht wurde	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Schnaps, gewürzt mit Kümmel	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Schnäpschen trinken	Trinken.Alkohol_trinken
+Selterswasser in Flaschen mit Glaskugelverschluß	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+Sirup	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink
+Spalierwein am Haus	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Sprudel	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+Sprudelwasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+Stachelbeerwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Starkbier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+Starkbier mit hohem Stammwürzegehalt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+Stutenmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+Säuferei, anhaltendes Trinken, Trinkgelage	Trinken.Alkohol_trinken; Trinken.Häufig_lange_trinken
+Süßigkeit aus Kakao, Milch und Zucker	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kakao
+Tee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee
+Tee aus Blättern der Rosenpappel	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee
+Tee aus Holunderblüten	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee
+Tee aus Tausendguldenkraut	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee
+Tee aus den Blüten der Schlüsselblume	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee
+Tee aus der Halsrose	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee
+Tee mit Waldmeisterblättern	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee
+Tee von Heilkräutern	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee
+Tee von den im Frühling blühenden Blumen und Kräutern	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee
+Tee von der Königskerze	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee
+Trank	Getränk
+Traubenmost	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+Traubensaft bzw. Most, unvergoren bzw. in Gärung befindlich	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Tresterwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Tresterwein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Tresterwein, Haustrunk, minderwertiger Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Tresterwein, schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Trinkwasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+Trunk	Getränk
+Trunk für den Mittag oder tagsüber zwischendurch	Getränk
+Trunk vor dem Schlafengehen	Getränk
+Trübwein, der letzte, nicht mehr klare W. aus einem Fasse	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Umtrunk	Trinken
+Umtrunk, das sich Zutrinken	Trinken
+Verwässertes z.B. Kaffee, Wein, Suppe	Getränk; Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Vollmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+Vorlauf d. i. der erste Branntwein, der beim Brennen ausfließt. Er ist zu alkoholreich, um getrunken zu werden, u. dient zu Einreibungen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Wasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+Wasser mit Johannisbeerensaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink
+Wasser, Trinkwasser, Quellwasser, Regenwasser, Fluss, Teich, See, Meer	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+Wasser, in dem Apfel- oder Birnenstücke gekocht wurden	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink
+Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein aus Früchten des Speierling oder mit Speierlingzusatz	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein aus Gichtrosen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein aus Gänsefüßertrauben hergestellt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein aus Himbeeren oder Brombeeren	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein aus Holunderbeeren	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein aus Johannisbeeren	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein aus Lagen am Wald	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein aus Rhabarber	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein aus Riesling	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein aus Silvanertrauben	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein aus Stachelbeeren	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein aus Traubenbeeren	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein aus dem Unterland	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein aus der letzten Mostpressung	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein aus der oberen Haardt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein aus niedrigen Lagen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein aus spät geernteten Trauben, Wein höherer Qualitätsstufe	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein aus unreifen, zerstampften Trauben	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein direkt vom Faß	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein einer Hanglage	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein für das Hochzeitsfest	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein minderer Güte	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein minderer Qualität für den Hausgebrauch	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein mit Bodengeschmack	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein mit einem Essigstich	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein mit unangenehmem Faßgeschmack	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein mit verrührtem Ei und Zucker	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein trinken	Trinken.Alkohol_trinken
+Wein und Mineralwasser meist je zur Hälfte vermischt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk
+Wein zum Auffüllen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein, den die Bauern für den eigenen Gebrauch herstellen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein, den die im Taglohn Arbeitenden von den Weinbauern erhalten	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein, den man aus Birnen und Äpfeln selbst hergestellt hat	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein, den man aus Birnenselbst hergestellt hat	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein, der auf Sandboden wächst	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein, der aus den mit Wasser eingeweichten Preßrückständengewonnen wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein, der bei der Versteigerung von Grundstücken ausgegeben wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein, der den Erntearbeitern zum Erntefest gereicht wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein, der im Faß gelagert wird, zum Lagern geeigneter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein, der in Bayern gewachsen ist	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein, der leicht trunken macht	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein, der so sauer ist, dass drei Männer den Trinkenden festhalten müssen sonst würde er  sich weigern, ihn zu nehmen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein, der zum Essen getrunken wird, Wein von geringerer Qualität	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wein, der zum Verschneiden verwendet wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+Wermutbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Zecherei	Trinken.Alkohol_trinken
+Zechgelage, das fortwährende, unmäßige Trinken von Alkohol	Trinken.Alkohol_trinken; Trinken.Häufig_lange_trinken; Trinken.Schnell_große_Mengen_trinken
+Ziegenmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+Zwetschgen- oder Birnenschnaps, der zum zweitenmal gebrannt wurde	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Zwetschgenbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+Zwetschgenschnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+abgestandenes Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+abschätzig Malzkaffee, Kaffeersatz	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffeeersatz
+abschätzig das Kaffeetrinken	Trinken
+abschätzig trinken	Trinken
+alkoholische Getränke trinken, sich dem Trinken ergeben	Trinken.Alkohol_trinken
+alkoholisches Getränk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk
+alkoholisches Getränk aus dem Saft von Trauben	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+als Getränk, Heilmittel zubereiteter Saft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+am Trinken teilnehmen	Trinken
+anhaltelnd u. viel trinken meist ironisch	Trinken.Häufig_lange_trinken; Trinken.Schnell_große_Mengen_trinken
+auf Erdbeeren gezogener Likör	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+auf anderer Kosten trinken	Trinken
+auf einen Zug austrinken	Trinken.Austrinken
+aufgewärmter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+aus Heidelbeeren gebrannter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+aus Schlehen hergestellter Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+aus Traubenrückständen hergestellter Wein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+aus Traubenrückständen unter Zusatz von Zucker und Wasser hergestellter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+aus TraubenrückständenZucker und Wasser hergestellter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+aus Trestern gewonnener Wein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+aus Weintrestern gebrannter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+aus dem elterlichen Keller von den Söhnen heimlich verkaufter Most	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+aus geröstetem Roggen zubereitetes kaffeeartiges Getränk	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffeeersatz
+aus grünen Walnüssen bereiteter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+auserlesener Wein, der aus besonderen Anlässen gereicht wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+ausgepreßter Most	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+ausgiebig trinken	Trinken.Schnell_große_Mengen_trinken
+ausgiebiges Trinken im Gasthaus	Trinken.Alkohol_trinken; Trinken.Schnell_große_Mengen_trinken
+austrinken	Trinken.Alkohol_trinken; Trinken.Austrinken
+austrinken, leer trinken	Trinken.Austrinken
+austrocknen, verschmachten vor Durst	Durst
+besaufen	Trinken.Alkohol_trinken
+besonders guter, hervorragender Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+besonders starkes Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+betrinken	Trinken.Alkohol_trinken
+blaßroter, geringer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+brennender Durst	Durst
+das Trinken	Getränk
+das Trinken in kleinen Schlucken	Trinken.Langsam_kleine_Mengen_trinken
+das Wassertrinken	Trinken
+das übermäßige Trinken von Alkohol, Trunksucht	Trinken.Alkohol_trinken; Trinken.Schnell_große_Mengen_trinken
+der Wein eines vorzüglichen Jahrganges	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+der aus Kartoffeln hergestellte Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+der aus den ersten Trauben eines neuangelegten Wingerts gewonnene Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+der beim Brennen zuerst ausfließende, sehr starke und ungenießbare Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+der durch die Hefe getrübte letzte Wein im Faß	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+der große Durst nach einem Rausch, Brand	Durst
+der gärende Most	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+der zur Probe aus dem Fass genommene Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+derb für trinken	Trinken
+derb trinken, bes. gierig, ungesittet trinken	Trinken.Schnell_große_Mengen_trinken
+derbe Bez. für schlechten Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+die erste Milch der Kuh	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+die erste Milch nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+die erste dicke Milch der Kuh unmittelbar nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+die erste dicke, unreine Milch der Kuh nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+die erste dicke, unreine Milch der Kuh unmittelbar nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+die erste gelbe Milch der Kuh nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+die erste, dicke Milch der Kuh nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+die getrockneten Blätter des Teestrauches und das daraus bereitete Getränk	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee
+doppelt abgezogener Kümmelbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+durch Keltern gewonnener Most	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+durch Pressen gewonnener Obstsaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+durch Trinken leer machen	Trinken.Austrinken
+durchbringen, vertrinken	Trinken.Alkohol_trinken
+durstig	Durst
+durstig, dürstig	Durst
+durstigmachend, durstbringend	Durst
+dünner Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+dünner, schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+dünnes, fades Getränk	Getränk
+dürsten	Durst
+dürsten, dursten	Durst
+edelster Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+ein Bier- oder Weinrest	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+ein Getränk, im Herbst aus wilden Früchten und etwas Wein hergestellt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+ein Glas Bier oder Wein leeren	Trinken.Alkohol_trinken; Trinken.Austrinken
+ein Glas Bier westpfälz. Musikantenspr	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+ein Glas Schnaps trinken	Trinken.Alkohol_trinken
+ein Glas Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+ein Glas Wein trinken	Trinken.Alkohol_trinken
+ein Glas umdrehen, einen trinken	Trinken.Alkohol_trinken
+ein Gläschen Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+ein Gläschen Schnaps oder einfachen Kornbranntweins	Trinken.Alkohol_trinken
+ein Schluck oder ein Gläschen Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+ein Wein von besonderer Güte	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+ein kleines Glas Wein trinken	Trinken.Alkohol_trinken
+ein sehr bitter schmeckendes Mineralwasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+eine Biersorte	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+eine Biersorte mit besonders viel Stammwürze	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+eine Flasche Wein austrinken	Trinken.Alkohol_trinken; Trinken.Austrinken
+eine Runde Bier, Wein usw.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk
+eine Weinbezeichnung	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+einem andern nachtrinken, nach einem andern aus demselben Glas trinken	Trinken
+einen Halbschoppen nach dem anderen trinken	Trinken.Alkohol_trinken; Trinken.Schnell_große_Mengen_trinken
+einen Rausch antrinken	Trinken.Alkohol_trinken
+einen Schnaps trinken	Trinken.Alkohol_trinken
+einen Schoppen trinken	Trinken.Alkohol_trinken
+einen Schoppen, Schnaps usw. trinken	Trinken.Alkohol_trinken
+einen Schoppen, ein Gläschen u.ä. trinken	Trinken.Alkohol_trinken
+einen Schoppen, einen Schnaps trinken	Trinken.Alkohol_trinken
+einen Wein trinken	Trinken.Alkohol_trinken
+einen Wein, Schnaps trinken	Trinken.Alkohol_trinken
+einen Zeitraum hindurch unmäßig trinken	Trinken.Alkohol_trinken; Trinken.Häufig_lange_trinken; Trinken.Schnell_große_Mengen_trinken
+einen schlachten = einen trinken	Trinken.Alkohol_trinken
+einen schwefeln = einen trinken	Trinken.Alkohol_trinken
+einen trinken	Trinken.Alkohol_trinken
+einen trinken, einen heben	Trinken.Alkohol_trinken
+einen trinken, gern trinken	Trinken.Alkohol_trinken
+einen trinken, saufen	Trinken.Alkohol_trinken
+einen trinken, schlagen	Trinken.Alkohol_trinken
+einen über den Durst trinken	Trinken.Alkohol_trinken
+einen über den Durst trinken, zechen	Trinken.Alkohol_trinken
+einschlürfen	Trinken.Geräuschvoll_trinken
+entrahmte Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+erste Milch einer Kuh nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+erste Milch nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+erster Trunk	Getränk
+fades, schlechtes Getränk, bes. von Kaffee oder Wein	Getränk; Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+feine Sorte Weisswein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+fortwährend übermäßig trinken	Trinken.Alkohol_trinken; Trinken.Häufig_lange_trinken; Trinken.Schnell_große_Mengen_trinken
+frischer, unvergorener Traubensaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+für Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+fürbende Kaffeezusatz, -ersatz und das daraus gewonnene Getränk	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffeeersatz
+geistige Getränke	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+gemeiner Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+gemeinsames Trinken in einer Runde	Trinken
+gepanschter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+gepantschter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+geringer Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+geringer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+geringer Wein für den täglichen Hausgebrauch	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+geringer Wein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+geringer Wein, gärender Tresterwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+geringer, saurer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+geringer, schlechter Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+geringerer Wein, der im irdenen Milchtopf aus dem Keller geholt wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+geringwertiger Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+gern und häufig trinken	Trinken.Hohe_Frequenz_Dauer
+gerne und oft Schnaps trinken	Trinken.Alkohol_trinken; Trinken.Häufig_lange_trinken
+geronnene Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+geronnene Milch, aus der Käse gemacht wird; Käsmatte	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+geronnene ungekochte Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+gestockte junge Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+gierig und deutlich vernehmbar trinken	Trinken.Geräuschvoll_trinken; Trinken.Schnell_große_Mengen_trinken
+grob von Menschen gesagt, trinken	Trinken
+großer Durst, wie er bei Musikanten üblich ist	Durst
+großes Verlangen nach Kaffee	Durst
+guter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+guter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+gärender Most	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+hastig trinken	Trinken.Schnell_große_Mengen_trinken
+heftiger Durst	Durst
+heimlich trinken	Trinken.Alkohol_trinken
+heller Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+helles Bier, Weizenbier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+himmlischer Wein im Kinderspiel	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+hochprozentiger Alkohol	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+häufig, wiederholt trinken	Trinken.Hohe_Frequenz_Dauer
+häufiges Trinken	Trinken.Hohe_Frequenz_Dauer
+im Gasthaus etwas trinken, verzehren; Gelage abhalten	Trinken.Alkohol_trinken
+im März gebrautes Lagerbier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+im Übermaß Alkohol trinken, sich betrinken	Trinken.Alkohol_trinken; Trinken.Schnell_große_Mengen_trinken
+in Flaschen an den Verbraucher gelieferte Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+in Schoppen vom Faß ausgeschenkter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+in aller Frühe getrunkener Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+in großen Zügen trinken	Trinken.Schnell_große_Mengen_trinken
+in kleinen Schlucken austrinken	Trinken.Austrinken; Trinken.Langsam_kleine_Mengen_trinken
+in kleinen Schlucken genießerisch trinken, langsam trinken, nuckeln	Trinken.Langsam_kleine_Mengen_trinken
+in kleinen Schlucken trinken	Trinken.Langsam_kleine_Mengen_trinken
+in kleinen Schlucken trinken, nippen	Trinken.Langsam_kleine_Mengen_trinken
+in kleinen Schlucken, genießerisch trinken	Trinken.Langsam_kleine_Mengen_trinken
+in kleinen Schlucken, schlürfend trinken	Trinken.Geräuschvoll_trinken; Trinken.Langsam_kleine_Mengen_trinken
+in kleinen Schlückchen trinken	Trinken.Langsam_kleine_Mengen_trinken
+in wiederholten kleinen Zügen langsam Flüssigkeit zu sich nehmen, nippen	Trinken.Häufig_lange_trinken; Trinken.Langsam_kleine_Mengen_trinken
+junger, noch gärender Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+kleine Schlücke nehmen, aber anhaltend dabei bleiben	Trinken.Häufig_lange_trinken; Trinken.Langsam_kleine_Mengen_trinken
+kleiner Abendtrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk
+kleines Fäßchen mit Wein oder Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk
+kleines Fäßchen mit Wein, das man auf die Jagd mitnimmt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+kleines Trinkglas, bzw. dessen Inhalt	Getränk
+kohlensäurehaltiges Mineralwasser, Sprudel	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+kohlensäurehaltiges Trinkwasser, Mineralwasser, Kurgetränk	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+lange Zeit zechen	Trinken.Alkohol_trinken; Trinken.Häufig_lange_trinken
+langsam saugen	Trinken.Langsam_kleine_Mengen_trinken
+langsam trinken	Trinken.Langsam_kleine_Mengen_trinken
+langsam, in kleinen Schlücken, mit Genuß trinken	Trinken.Langsam_kleine_Mengen_trinken
+leer saufen	Trinken.Austrinken
+leer saufen, leer trinken	Trinken.Austrinken
+leersaufen	Trinken.Austrinken
+leertrinken	Trinken.Austrinken
+leichter Wein, der gewonnen wird, wenn man nach dem Pressen der Trauben die Träber mit Wasser übergiesst und nach einem Zuckerzusatz nochmals gären lässt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+leichter Wein, hergestellt durch Vermischen mit Wasser oder durch Übergiessen der Treber	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+letzter Schoppen, der vor dem Nachhausegehen im Stehengetrunken wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk
+likör	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+löschen Feuer, Durst, Staub	Trinken
+minderer Wein, der als Haustrunk dient	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+minderwertiger Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+minderwertiger Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+minderwertiger Wein aus schieferigem Boden	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+minderwertiger Wein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+minderwertiger Wein, dünner Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+minderwertiger, schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+minderwertiger, schlechter Wein; Tresterwein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+mit Gersten- und Weizenmalz gebrautes Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+mit Hefe durchsetzter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+mit Himbeerensaft gesüßtes Wasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink
+mit Honig gesüßte Limonade	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink
+mit Honig gesüßter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+mit Honig gesüßtes Wasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink
+mit Sodawasser gemischter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk
+mit Trinken vergeuden	Trinken.Alkohol_trinken
+mit Wermut 1b hergestelltes bitteres alkoholisches Getränk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+mit Zitronensaft gemischtes Wasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink
+mit Zucker und Wasser angerührtes Getränk	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink
+mit bestimmten Zusätzen versehenes Wasser als Getränk	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink
+mit dem Saufen Trinken beginnen	Trinken
+mit erhobenem Glas grüßen, zuprosten, zum Trinken  auffordern	Trinken
+mit jemandem aus einem Gefäß trinken, an einem Trinkgelage teilnehmen	Trinken
+mitzechen	Trinken.Alkohol_trinken
+nach einem anderen aus demselben Gefäß trinken	Trinken
+nachgemachter Apfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+neuer Wein, Federweißer, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+neuer, noch gärender Wein mit prickelndem Geschmack	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+nicht angesäuerte Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+nippen; essen od. trinken wie einer, dem es nicht recht schmeckt	Trinken.Langsam_kleine_Mengen_trinken
+noch nicht ausgegorener, trüber Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+nur im Sommertagslied: Bezeichnung für süßen Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+oben heruntersaufen	Trinken
+oft trinken	Trinken.Hohe_Frequenz_Dauer
+rasch trinken	Trinken.Schnell_große_Mengen_trinken
+regelmäßig und zuviel Alkohol trinken	Trinken.Alkohol_trinken; Trinken.Häufig_lange_trinken; Trinken.Schnell_große_Mengen_trinken
+reihum trinken auf jemandes Wohl	Trinken
+rötlicher Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+rötlicher Wein aus roten oder blauen Trauben	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+sauer Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+saufen	Trinken.Alkohol_trinken
+saugend austrinken	Trinken.Austrinken
+saurer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+saurer Wein, Tresterwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+saurer Wein, der vermöge seiner Weinsteinsäure den Schleim im Rachen gerinnen macht und ablöst	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+saurer, minderwertiger, schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+saurer, schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+saurer, schlechter Wein; Tresterwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+schales Bier, Tropfbier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+schales, fades Getränk, dünner Kaffee	Getränk; Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+scharfer Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+scherzhaft für den lehmfarbigen neuen Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+scherzhafte Bezeichnung des Ludwigshafener Biers	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+schlechte Brühe überhaupt, bes. Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+schlechte Suppe, schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+schlechter Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+schlechter Branntwein, Fusel	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+schlechter Branntwein, Fusel; schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+schlechter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+schlechter Wein, Tresterwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+schlechter Wein, minderwertiger Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+schlechter, dünner Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+schlechter, gepanschter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+schlechter, minderwertiger Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+schlechter, saurer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+schlechter, saurer Wein; Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+schlechtes Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+schlechtes Getränk	Getränk
+schlechtes Getränk, Wein und Bier	Getränk; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+schlechtes Kaffeegetränk	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+schlechtes, fades Getränk	Getränk
+schlechtes, minderwertiges Getränk	Getränk
+schluckweise trinken	Trinken.Langsam_kleine_Mengen_trinken
+schlürfen, schlappern von Hunden; langsam und behaglich, langsam trinken	Trinken.Geräuschvoll_trinken; Trinken.Langsam_kleine_Mengen_trinken
+schlürfen, trinken	Trinken.Geräuschvoll_trinken
+schlürfend trinken	Trinken.Geräuschvoll_trinken
+schnell trinken	Trinken.Schnell_große_Mengen_trinken
+schwacher Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+sehr durstig sein vom Menschen	Durst
+sehr großer Durst	Durst
+sehr saurer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+sehr starker Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+selbstgebrautes Getränk aus Wasser, Honig und unvergorenem Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk
+sich besinnungslos betrinken	Trinken.Alkohol_trinken
+sich betrinken	Trinken.Alkohol_trinken
+sich einen Dusel antrinken	Trinken.Alkohol_trinken
+sich einen Rausch antrinken	Trinken.Alkohol_trinken
+sich einen Schoppen Wein, einen Schnaps genehmigen	Trinken.Alkohol_trinken
+sich einen kleinen Rausch antrinken	Trinken.Alkohol_trinken
+sich leicht betrinken	Trinken.Alkohol_trinken
+sich satttrinken	Trinken
+sich volltrinken	Trinken.Alkohol_trinken
+spöttisch saurer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+spöttische Bez. für den sehr sauren Wein des Jahres 1529	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+starker Durst	Durst
+starker Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+starker Zwetschenschnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+süsser Apfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+süsser Traubenwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+süßer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+trinken	Trinken; Trinken.Alkohol_trinken; Trinken.Austrinken; Trinken.Schnell_große_Mengen_trinken
+trinken vom Alkohol	Trinken.Alkohol_trinken
+trinken, einen heben	Trinken.Alkohol_trinken
+trinken, einen trinken	Trinken.Alkohol_trinken
+trinken, gern und viel	Trinken.Schnell_große_Mengen_trinken
+trinken, mehr scherzhaft gesagt	Trinken
+trinken, zechen	Trinken.Alkohol_trinken
+trinken, zechen, saufen	Trinken.Alkohol_trinken
+trinken, zu trinken geben	Trinken
+trinkend vergeuden	Trinken.Alkohol_trinken
+trockener, harter Wein, der einen umwirft	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+träger, langsamer Mensch; schlechtes Getränk, insbes. dünner schwappelnder Kaffee	Getränk; Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+trübe Brühe	Getränk
+trüber Rückstand von Flüssigkeiten, bes. dergetrübte letzte Wein im Faß	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+tüchtig einen trinken	Trinken.Alkohol_trinken; Trinken.Schnell_große_Mengen_trinken
+tüchtig trinken	Trinken.Alkohol_trinken; Trinken.Schnell_große_Mengen_trinken
+tüchtig, viel trinken	Trinken.Alkohol_trinken; Trinken.Schnell_große_Mengen_trinken
+unvergorener Saft gekelterter Äpfel, Birnen	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+unvergorener, süßer Traubensaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+urspr. Trunk, der dem Gaste dargereicht wurde, wenn er sich schon zu Bett begeben hatte; später Trinkgelage, das sich an die Abendmahlzeit anschloss.	Getränk; Trinken
+verpfändeter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+vertrinken	Trinken.Alkohol_trinken
+verzuckerter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+verächtlich Kaffeebrühe	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+verächtlich für schlechten Birnenwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+verächtlich von abgestandenem Bier und anderen Getränken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+viel Alkohol trinken	Trinken.Alkohol_trinken; Trinken.Schnell_große_Mengen_trinken
+viel trinken	Trinken.Alkohol_trinken; Trinken.Schnell_große_Mengen_trinken
+viel trinken, saufen	Trinken.Alkohol_trinken; Trinken.Schnell_große_Mengen_trinken
+viel trinken, zechen	Trinken.Alkohol_trinken; Trinken.Schnell_große_Mengen_trinken
+von einem Teilnehmer einer Gesellschaft gestiftetes Getränk	Getränk
+von einem Trinker als schwach bezeichneter Whisky	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+von oben wegtrinken	Trinken
+von verdorbenem Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+vor dem Heimgehen an der Theke der Wirtschaft getrunkenes Getränk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk
+was man auf einmal trinkt	Getränk
+wilder Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+wässeriger Kaffee, dünne Suppe	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+zechen	Trinken.Alkohol_trinken
+zechen, pokulieren, tüchtig trinken	Trinken.Alkohol_trinken; Trinken.Schnell_große_Mengen_trinken
+zechen, saufen	Trinken.Alkohol_trinken
+zechen, schlemmen	Trinken.Alkohol_trinken
+zechen, trinken	Trinken.Alkohol_trinken
+zu Ende schöppeln, trinken	Trinken.Alkohol_trinken; Trinken.Austrinken
+zur Löschung des Durstes verbrauchen	Trinken
+zutrinken, zuprosten	Trinken
+übermäßig trinken	Trinken.Alkohol_trinken; Trinken.Schnell_große_Mengen_trinken
+übtr. Frühschoppen. In der guten, alten Zeit durften die Wirtshäuser am Sonntag Vormittag vor Schluss des Gottesdienstes um 11 Uhr keine Gäste aufnehmen; der Wirtshausgang um diese Zeit wurde dann scherzhaft E. genannt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk

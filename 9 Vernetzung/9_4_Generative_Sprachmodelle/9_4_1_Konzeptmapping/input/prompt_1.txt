@@ -1,0 +1,21 @@
+f"""
+Given are a dictionary entry with its headword and its definition.
+
+Choose the **most appropriate** concept from the following list.
+
+Return **exactly** the complete name from the list, including all levels, separated by dots (e.g., 'Getränk.Kaltgetränk. Alkoholhaltiges_Kaltgetränk.Spirituose‘).
+
+Each concept contains example terms:{konzeptliste}
+
+Answer **only with the name of the matching concept** from the list or with **kein_Trinken**.
+
+If **no concept fits well**, you must answer with: **kein_Trinken**.
+If the lemma is not a beverage (e.g. Glas, Wirtshaus, Kellner), does not describe the concept of thirst, or the lemma does not describe a drinking action (e.g. betrunken, ein Fass anschlagen, Alkoholrausch), answer with: kein_Trinken.
+
+
+**Dictionary entry**:
+Headword: {lemma}
+Definition: {definition}
+
+Your entire answer must consist Your entire response must **consist only of this one word or concept name**, without justification, explanation, or additional text.
+"""

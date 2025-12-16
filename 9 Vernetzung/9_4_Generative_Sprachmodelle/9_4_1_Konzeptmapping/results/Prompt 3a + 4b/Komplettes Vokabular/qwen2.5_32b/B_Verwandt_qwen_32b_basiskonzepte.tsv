@@ -1,0 +1,963 @@
+xml:id	Lemma	Wortart	Definition	Konzept	Konzept_gemappt	Antwort_Modell
+PA00275	ab-gießen	Verb	vom Satz durch Gießen entfernen	kein_Trinken	[ungültig]	
+PA00764	ab-steigen	Verb	einkehren	kein_Trinken	[ungültig]	
+PA01084	Adler	Substantiv	Gasthaus zum Adler	kein_Trinken	[ungültig]	
+PA01105	Affe	Substantiv	Rausch	kein_Trinken	[ungültig]	
+PA01551	Ambuschur	Substantiv	wer tüchtig im Trinken ist	kein_Trinken	Trinken.Schnell_große_Mengen_trinken	Trinken.Alkohol_trinken.Schnell_große_Mengen_trinken
+PA01683	an-brüten	Verb	angeheitert	kein_Trinken	[ungültig]	
+PA01953	an-heitern	Verb	anheitern	kein_Trinken	[ungültig]	
+PA02139	Anrauch-kopf	Substantiv	betrunken sein, bzw. aussehen	kein_Trinken	[ungültig]	
+PA02161	an-rudeln	Verb	betrunken sein	kein_Trinken	kein_Trinken	
+PA02263	an-setzen	Verb	(Bowle) ansetzen	kein_Trinken	[ungültig]	
+PA02302	an-stechen	Verb	den Zapfhahn in ein Bier- oder Weinfaß treiben	kein_Trinken	kein_Trinken	
+PA02304	an-stecken	Verb	anzapfen	kein_Trinken	[ungültig]	
+PA02306	Ansteck-kran	Substantiv	großer Hahn am Faß	kein_Trinken	[ungültig]	
+PA02319	An-stich	Substantiv	das Anstechen eines Fasses	kein_Trinken	kein_Trinken	
+PA02333	an-streichen	Verb	betrunken machen	kein_Trinken	kein_Trinken	
+PA02450	an-zapfen	Verb	den Zapfenins Faß schlagen und das erste Mal Bier (Wein) laufen lassen	kein_Trinken	kein_Trinken	
+PA02559	Äpfel-traben	Substantiv	Rückstand beim Apfelkeltern	kein_Trinken	[ungültig]	
+PA02560	Apfel-trester	Substantiv	Rückstand beim Apfelkeltern	kein_Trinken	[ungültig]	
+PA02680	Arm, Armen	Substantiv	eiserne Stange, an der das Wirtshausschild angebracht ist	kein_Trinken	[ungültig]	
+PA02908	Attacke	Substantiv	Gelage	kein_Trinken	[ungültig]	
+PA03044	auf-fahren	Verb	auftischen	kein_Trinken	[ungültig]	
+PA03408	Auf-träger	Substantiv	Hilfskräfte, die bei großen Veranstaltungen den Gästen den Wein bringen	kein_Trinken	[ungültig]	
+PA03421	auf-tun	Verb	mit dem Ausschank beginnen	kein_Trinken	kein_Trinken	
+PA03431	Auf-wärter	Substantiv	Aushilfskellner	kein_Trinken	kein_Trinken	
+PA03965	Aus-schank	Substantiv	Ausschank	kein_Trinken	kein_Trinken	
+PA03974	aus-schenken	Verb	Getränke ausschenken	kein_Trinken	kein_Trinken	
+PA04096	aus-stoßen	Verb	anzapfen	kein_Trinken	[ungültig]	
+PA04100	aus-streichen	Verb	ausgehen, das Wirtshaus besuchen	kein_Trinken	[ungültig]	
+PA04122	Austrag-mädchen	Substantiv	das Mädchen, das das eingeschenkte Bier austrägt	kein_Trinken	[ungültig]	
+PA04188	aus-zapfen, -zäpfen	Verb	Getränk durch den Zapfen aus dem Faß auslassen	kein_Trinken	[ungültig]	
+PB00444	Ballen, Ball	Substantiv	Rausch	kein_Trinken	[ungültig]	
+PB00465	Ballon	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+PB00513	Bambusch	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+PB00520	Bampel	Substantiv	Gastwirt	kein_Trinken	[ungültig]	
+PB00543	Bampel-wirt	Substantiv	ein Wirt, der sich nicht um die Gäste kümmert	kein_Trinken	[ungültig]	
+PB00544	Bampel-, Bämpeles-wirtschaft	Substantiv	nachlässig geführte Wirtschaft	kein_Trinken	[ungültig]	
+PB00552	Bamscher	Substantiv	Trunkenbold	kein_Trinken	[ungültig]	
+PB01111	Patsch-hand	Substantiv	Trinkgeld	kein_Trinken	[ungültig]	
+PB01158	Batzen-häuslein	Substantiv	Wirtschaft an der Landstraße, wo der Wein 1 Batzen kostet	kein_Trinken	[ungültig]	
+PB01348	Baum	Substantiv	Gasthausname	kein_Trinken	kein_Trinken	
+PB01417	Bause, Pause, Bausen, Pausen	Substantiv	Alkoholrausch	kein_Trinken	[ungültig]	
+PB01540	Bedien-mädchen	Substantiv	Kellnerin	kein_Trinken	kein_Trinken	
+PB01542	Be-dienung	Substantiv	Bedienungspersonal im Gastgewerbe	kein_Trinken	kein_Trinken	
+PB01546	be-drust	Adjektiv	betrunken	kein_Trinken	kein_Trinken	
+PB01551	be-duselt	Adjektiv	ein wenig betrunken	kein_Trinken	kein_Trinken	
+PB01657	be-hurmelt	Adjektiv	leicht betrungken	kein_Trinken	kein_Trinken	
+PB01796	Beize	Substantiv	kleines, unordentliches Gasthaus	kein_Trinken	kein_Trinken	
+PB01819	be-koren	Verb	kosten	kein_Trinken	[ungültig]	
+PB01911	Bemscher	Substantiv	Trinker	kein_Trinken	[ungültig]	
+PB02153	be-schickert	Adjektiv	angeheitert	kein_Trinken	kein_Trinken	
+PB02166	be-schmort	Adjektiv	betrunken	kein_Trinken	kein_Trinken	
+PB02171	be-schnuckt	Adjektiv	angeheitert	kein_Trinken	[ungültig]	
+PB02173	be-schokert	Adjektiv	betrunken	kein_Trinken	kein_Trinken	
+PB02190	be-schwipst	Adjektiv	angeheitert	kein_Trinken	kein_Trinken	
+PB02248	be-ständert	Adjektiv	betrunken	kein_Trinken	kein_Trinken	
+PB02276	be-stußt	Adjektiv	einen Rausch haben	kein_Trinken	[ungültig]	
+PB02604	Pfaffen-schänke	Substantiv	Schankbetrieb, dessen Reingewinn den Klerikern zufloß	kein_Trinken	[ungültig]	
+PB02919	Pfetzer	Substantiv	Trinker	kein_Trinken	[ungültig]	
+PB02933	Pfiffer	Substantiv	Trinker	kein_Trinken	kein_Trinken	
+PB03059	Pflug	Substantiv	Gasthaus zum Pflug	kein_Trinken	[ungültig]	
+PB01054	Bastrenk	Substantiv	Tanzlokal, Kneipe, Schenke	kein_Trinken	kein_Trinken	
+PB03369	Bier-ausschank	Substantiv	Bierausschank	kein_Trinken	kein_Trinken	
+PB03373	Bier-blättel	Substantiv	Bierfilz	kein_Trinken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+PB03377	Bier-deckel	Substantiv	Bierfilz	kein_Trinken	kein_Trinken	
+PB03381	Bier-filz	Substantiv	Unterlage für das Bierglas im Wirtshaus	kein_Trinken	[ungültig]	
+PB03382	Bier-flasche	Substantiv	Bierflasche	kein_Trinken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+PB03388	Bier-garten	Substantiv	Garten einer Bierwirtschaft	kein_Trinken	[ungültig]	
+PB03391	Bier-glas	Substantiv	Bierglas	kein_Trinken	[ungültig]	
+PB03392	Bier-haus	Substantiv	Bierwirtschaft	kein_Trinken	[ungültig]	
+PB03393	Bier-hefe	Substantiv	Bierhefe	kein_Trinken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+PB03399	Bier-keller	Substantiv	Bierkeller	kein_Trinken	[ungültig]	
+PB03403	Bier-knüppel	Substantiv	Holzgerät, mit dem der Hahn ins Faß geschlagen wird	kein_Trinken	[ungültig]	
+PB03404	Bier-kranen	Substantiv	Hahn am Bierfaß	kein_Trinken	[ungültig]	
+PB03406	Bier-lümmel	Substantiv	Biersäufer	kein_Trinken	[ungültig]	
+PB03409	Bier-mahl	Substantiv	Bewirtung mit Bier	kein_Trinken	kein_Trinken	
+PB03411	Bier-reise	Substantiv	durch mehrere Wirtshäuser ziehen	kein_Trinken	[ungültig]	
+PB03414	Bier-schenke	Substantiv	Wirtschaft, in der vornehmlich Bier ausgeschenkt wird	kein_Trinken	[ungültig]	
+PB03418	Bier-stube	Substantiv	Bierlokal	kein_Trinken	[ungültig]	
+PB03420	Bier-süffel, -süffer	Substantiv	Biersäufer	kein_Trinken	[ungültig]	
+PB03422	Bier-teller	Substantiv	Unterlage für das Bierglas im Wirtshaus	kein_Trinken	[ungültig]	
+PB03424	Bier-trinker	Substantiv	Biertrinker	kein_Trinken	[ungültig]	
+PB03428	Bier-wirt	Substantiv	Inhaber einer Bierwirtschaft	kein_Trinken	[ungültig]	
+PB03429	Bier-wirtschaft	Substantiv	Wirtschaft, in der vornehmlich Bier ausgeschenkt wird	kein_Trinken	[ungültig]	
+PB03821	Pitscher	Substantiv	Trinker	kein_Trinken	[ungültig]	
+PB03914	Blaffert, Bläffer(t), Blaffer, Bläffer(t)	Substantiv	Rausch	kein_Trinken	[ungültig]	
+PB04008	Blase	Substantiv	Wirtshausgesellschaft	kein_Trinken	[ungültig]	
+PB04015	Blaser, Bläser	Substantiv	tüchtiger Trinker	kein_Trinken	[ungültig]	
+PB04154	blau	Adjektiv	sinnlos betrunken	kein_Trinken	[ungültig]	
+PB04731	Bocks-beutel	Substantiv	Trinker	kein_Trinken	[ungültig]	
+PB04749	Böckser-bohne	Substantiv	verdorbene Kaffeebohne	kein_Trinken	[ungültig]	
+PB04764	Bock-stall	Substantiv	schlechte Wirtschaft, verrufenes Haus	kein_Trinken	kein_Trinken	
+PB04771	Bock-wirt	Substantiv	Inhaber der Wirtschaft zum Bock in KL-Fischb	kein_Trinken	[ungültig]	
+PB04939	polen-voll	Adjektiv	betrunken	kein_Trinken	[ungültig]	
+PB05208	Borte	Substantiv	Schaum auf dem Bier	kein_Trinken	[ungültig]	
+PB05580	Brand	Substantiv	starker Rausch	kein_Trinken	[ungültig]	
+PB05630	Branntwein-brigade	Substantiv	Ausländer, die nach 1945 betrunken inKaiserslautern herumlungerten	kein_Trinken	[ungültig]	
+PB05631	Branntwein-bruder	Substantiv	notorischer Branntweintrinker	kein_Trinken	Trinken.Alkohol_trinken	Trinken.Alkohol_trinken
+PB05632	Branntwein-butelle	Substantiv	Schnapsflasche	kein_Trinken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PB05633	Branntwein-faß	Substantiv	Branntweinfaß	kein_Trinken	[ungültig]	
+PB05634	Branntwein-flasche	Substantiv	Branntweinflasche	kein_Trinken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PB05636	Branntwein-glas	Substantiv	Schnapsglas	kein_Trinken	[ungültig]	
+PB05638	Branntwein-knürbeler	Substantiv	Schnapstrinker	kein_Trinken	[ungültig]	
+PB05639	Branntwein-laden	Substantiv	Schnapsladen	kein_Trinken	[ungültig]	
+PB05640	Branntwein-lump	Substantiv	Schnapssäufer	kein_Trinken	[ungültig]	
+PB05644	Branntwein-stiebe	Substantiv	unwiderstehlicher Drang nach Schnaps	kein_Trinken	Trinken.Alkohol_trinken	Trinken.Alkohol_trinken
+PB05645	Branntwein-süffer	Substantiv	notorischer Schnapstrinker	kein_Trinken	Trinken.Alkohol_trinken	Trinken.Alkohol_trinken
+PB05678	Brast	Substantiv	Trinkgelage	kein_Trinken	[ungültig]	
+PB05930	Breme	Substantiv	betrunken sein	kein_Trinken	kein_Trinken	
+PB05972	brennen	Verb	Schnaps brennen	kein_Trinken	[ungültig]	
+PB06435	Brot-turmel	Substantiv	Trunkenheit	kein_Trinken	[ungültig]	
+PB06562	Brühe	Substantiv	Rausch	kein_Trinken	[ungültig]	
+PB06638	Brumm-kater	Substantiv	Katzenjammer mit vor Schmerzen brummendem Kopf	kein_Trinken	[ungültig]	
+PB07106	Büffet-mamsell	Substantiv	Büffetdame im Restaurant	kein_Trinken	kein_Trinken	
+PB07244	Bummer	Substantiv	Schnapsfläschchen mit dickem Bauch	kein_Trinken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PB07291	Bums	Substantiv	Kneipe	kein_Trinken	kein_Trinken	
+PB07292	Bums	Substantiv	Bezeichnung für eine Gastwirtschaft in Land (um 1920)	kein_Trinken	[ungültig]	
+PB07392	Bürde	Substantiv	betrunken sein	kein_Trinken	kein_Trinken	
+PB07506	Bürste	Substantiv	Gastwirtschaft, deren Schild eine Bürste zeigte	kein_Trinken	[ungültig]	
+PB07518	Bürsten-wirt	Substantiv	"Inhaber der Gastwirtschaft ""Zur Bürste"""	kein_Trinken	[ungültig]	
+PB07543	Busch, Pusch, Buschen, Puschen	Substantiv	Alkoholrausch	kein_Trinken	[ungültig]	
+PB07569	Buschon	Substantiv	ungeschlachter, oft betrunkener Mensch	kein_Trinken	kein_Trinken	
+PB07638	Butik	Substantiv	Gastwirtschaft für bescheidene Ansprüche, Kneipe	kein_Trinken	kein_Trinken	
+PD00009	Tabak	Substantiv	betrunken sein	kein_Trinken	kein_Trinken	
+PD00214	Dackel	Substantiv	Rausch	kein_Trinken	[ungültig]	
+PD00444	dahin-wanken	Verb	wankend gehen (von Betrunkenen)	kein_Trinken	[ungültig]	
+PD00582	Dampes	Substantiv	Rausch	kein_Trinken	[ungültig]	
+PD00583	Dampf	Substantiv	Rausch	kein_Trinken	[ungültig]	
+PD00677	Tannen-strauß, Tann-strauß	Substantiv	Tannenzweig als Gaststättenkennzeichen der Straußwirtschaften	kein_Trinken	kein_Trinken	
+PD00848	daran-gehen	Verb	vom Hang zum Alkohol	kein_Trinken	[ungültig]	
+PD00906	Darauf-geld	Substantiv	Trinkgeld	kein_Trinken	kein_Trinken	
+PD00939	darauf-machen	Verb	vom ausgiebigen Alkoholgenuß	kein_Trinken	[ungültig]	
+PD00963	darauf-setzen	Verb	vom Alkoholgenuß	kein_Trinken	[ungültig]	
+PD01305	Dauer-brand	Substantiv	Säufer	kein_Trinken	[ungültig]	
+PD01371	Daumen	Substantiv	Gasthausbezeichnung	kein_Trinken	[ungültig]	
+PD01673	teigig	Adjektiv	betrunken	kein_Trinken	[ungültig]	
+PD01740	Delirium	Substantiv	Säuferwahnsinn	kein_Trinken	kein_Trinken	
+PD02335	dienen	Verb	bei Tisch aufwarten	kein_Trinken	[ungültig]	
+PD02541	Tisch	Substantiv	Tisch im Gasthaus, Stamtisch, auch runder Tisch	kein_Trinken	kein_Trinken	
+PD03065	Dorf-schenke	Substantiv	Dorfwirtshaus	kein_Trinken	[ungültig]	
+PD03093	Dorf-wirtschaft	Substantiv	Dorfwirtshaus	kein_Trinken	[ungültig]	
+PD03094	Dorf-wirtshaus	Substantiv	Dorfwirtshaus	kein_Trinken	[ungültig]	
+PD03109	Torkeler	Substantiv	wer schwankend, taumelig geht, bes. in Trunkenheit	kein_Trinken	[ungültig]	
+PD03110	torkelig	Adjektiv	schwankend, bes. durch Trunkenheit	kein_Trinken	[ungültig]	
+PD03115	Dorn, Dornen	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+PD03321	tot-pitschen	Verb	sich (durch Alkohol) tottrinken	kein_Trinken	Trinken.Alkohol_trinken	Trinken.Alkohol_trinken
+PD03327	tot-saufen	Verb	sich durch übermäßigen Alkoholgenuß den Tod zuziehen	kein_Trinken	kein_Trinken	
+PD03331	tot-schaskenen	Verb	totsaufen	kein_Trinken	Trinken.Alkohol_trinken	Trinken.Alkohol_trinken
+PD03378	tot-trinken	Verb	totsaufen	kein_Trinken	Trinken.Schnell_große_Mengen_trinken	Trinken.Schnell_große_Mengen_trinken
+PD03426	Tracht	Substantiv	Alkoholmenge, die zur Trunkenheit führt	kein_Trinken	[ungültig]	
+PD03461	Traget, Tragets	Substantiv	große Menge getrunkenen Alkohols	kein_Trinken	[ungültig]	
+PD03538	Traktier	Substantiv	kleine Speisegaststätte	kein_Trinken	kein_Trinken	
+PD03547	Tralla	Substantiv	Delirium	kein_Trinken	kein_Trinken	
+PD03558	Traminer-gesicht	Substantiv	vom Weingenuß gerötetes Gesicht	kein_Trinken	[ungültig]	
+PD03900	Dreck-butik	Substantiv	unsaubere Gastwirtschaft	kein_Trinken	kein_Trinken	
+PD04036	Dreck-wirtschaft	Substantiv	unsaubere Gastwirtschaft	kein_Trinken	kein_Trinken	
+PD04129	drei-drähtig	Adjektiv	von sehr starkem Bohnenkaffee	kein_Trinken	[ungültig]	
+PD04166	Drei-läufer	Substantiv	kleiner Rausch, Dreiviertelrausch	kein_Trinken	[ungültig]	
+PD04224	Tremens	Substantiv	Alkoholrausch	kein_Trinken	[ungültig]	
+PD04225	Tremens-delirium	Substantiv	Säuferwahn	kein_Trinken	kein_Trinken	
+PD04437	Trinker	Substantiv	Trinker	kein_Trinken	[ungültig]	
+PD04438	trink-fest	Adjektiv	trinkfest	kein_Trinken	[ungültig]	
+PD04444	Trink-stube	Substantiv	Lokal, in dem man Getränke zu sich nimmt	kein_Trinken	[ungültig]	
+PD04444	Trink-stube	Substantiv	Stube neben dem Tanzsaal, in der getrunken wird	kein_Trinken	[ungültig]	
+PD04447	Trink-zimmer	Substantiv	Stube neben dem Tanzsaal, in der getrunken wird	kein_Trinken	kein_Trinken	
+PD04612	Tropfs-blech	Substantiv	kleine Brenke, in die das Tropfbier vom Hahn hineintropft	kein_Trinken	[ungültig]	
+PD04744	Trudel	Substantiv	Bodensatz einer Flüssigkeit, bes. des Kaffees, des Weins	kein_Trinken	[ungültig]	
+PD04804	Trunk	Substantiv	Trunksucht	kein_Trinken	Trinken.Alkohol_trinken	Trinken.Alkohol_trinken
+PD04805	trunken	Adjektiv	betrunken	kein_Trinken	[ungültig]	
+PD04807	Trunken-bold	Substantiv	Trunkenbold	kein_Trinken	[ungültig]	
+PD04808	Trunk-walter	Substantiv	Trunkenbold	kein_Trinken	[ungültig]	
+PD04986	Duft	Substantiv	Alkoholrausch	kein_Trinken	[ungültig]	
+PD05046	Tummel	Substantiv	Rausch	kein_Trinken	[ungültig]	
+PD05049	Tümmeler	Substantiv	Rausch	kein_Trinken	[ungültig]	
+PD05184	Dunst	Substantiv	Atem, der nach Alkohol riecht	kein_Trinken	[ungültig]	
+PD05219	Tüpfen	Substantiv	Gefäß zum Trinken	kein_Trinken	[ungültig]	
+PD05252	Düppes	Substantiv	kleiner Rausch	kein_Trinken	kein_Trinken	
+PD05256	Tur	Substantiv	Saufperiode	kein_Trinken	kein_Trinken	
+PD05559	turen	Verb	seine Sauftur haben	kein_Trinken	[ungültig]	
+PD05572	Turen-süffer	Substantiv	wer zeitweise dem Trunk ergeben ist, Quartalssäufer	kein_Trinken	[ungültig]	
+PD05715	Durstel	Substantiv	Trinker	kein_Trinken	[ungültig]	
+PD05747	Dusel	Substantiv	leichter Alkoholrausch	kein_Trinken	[ungültig]	
+PE00291	eichen	Verb	feststellen, wieviel einer auf einen Sitz trinken kann	kein_Trinken	[ungültig]	
+PE00566	ein-flößen	Verb	einflößen	kein_Trinken	Trinken.Schnell_große_Mengen_trinken	Trinken.Schnell_große_Mengen_trinken
+PE00602	ein-gießen	Verb	das Glas füllen	kein_Trinken	[ungültig]	
+PE00653	Ein-kehr	Substantiv	Rast im Gasthaus	kein_Trinken	kein_Trinken	
+PE00654	ein-kehren	Verb	auf der Reise (auf einem Ausflug) in ein Gasthaus gehen, jemand kurz besuchen	kein_Trinken	kein_Trinken	
+PE00837	Ein-schenke	Substantiv	Schanktisch im Gasthaus	kein_Trinken	[ungültig]	
+PE00838	ein-schenken	Verb	Getränke eingießen; das Glas gut (schlecht) füllen	kein_Trinken	kein_Trinken	
+PE00896	ein-seifen	Verb	zu übermäßigem Alkoholgenuß verleiten, vorsätzlich betrunken machen	kein_Trinken	[ungültig]	
+PE01864	er-geben	Verb	zum Trinker werden	kein_Trinken	[ungültig]	
+PE02405	Extra-stube	Substantiv	Nebenzimmer im Gasthaus für besondere Gäste	kein_Trinken	[ungültig]	
+PE02410	Extra-zimmer	Substantiv	Nebenzimmer im Gasthaus für besondere Gäste	kein_Trinken	kein_Trinken	
+PF00099	Fahne, Fahnen	Substantiv	Atemgeruch nach Alkoholgenuß	kein_Trinken	kein_Trinken	
+PF00394	Fasanerie	Substantiv	beliebte Einkehrgaststätte bei Zweibr, früher Tiergarten der Herzöge	kein_Trinken	[ungültig]	
+PF00858	Veit	Substantiv	der Rausch, den man sich antrinkt	kein_Trinken	[ungültig]	
+PF00862	felbeln	Verb	von einem Wirtshaus ins andere gehen	kein_Trinken	kein_Trinken	
+PF00952	Feld-webel	Substantiv	Schaum auf dem Bier	kein_Trinken	[ungültig]	
+PF00953	Feldwebels-borte	Substantiv	hohe Schaumkrone auf dem Bier	kein_Trinken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+PF01616	ver-katert	Adjektiv	müde nach durchzechter Nacht	kein_Trinken	[ungültig]	
+PF01986	ver-passen	Verb	vom Rausch	kein_Trinken	[ungültig]	
+PF02146	ver-saufen	Verb	dem Trunke ergeben, trunksüchtig	kein_Trinken	[ungültig]	
+PF02146	ver-saufen	Verb	von Trunkenheit oder Trunksucht zeugend	kein_Trinken	[ungültig]	
+PF02228	ver-schmachten	Verb	verschmachten	kein_Trinken	[ungültig]	
+PF02246	ver-schnäpseln	Verb	Geld für Schnaps ausgeben	kein_Trinken	kein_Trinken	
+PF02250	ver-schnäuken	Verb	(Geld) für Näschereien ausgeben	kein_Trinken	kein_Trinken	
+PF02529	ver-trinken	Verb	für Getränke ausgeben	kein_Trinken	kein_Trinken	
+PF02659	ver-zapfen, -zäpfen	Verb	(durch den Faßzapfen) ausschenken	kein_Trinken	kein_Trinken	
+PF02664	ver-zechen	Verb	das Geld für Zechgelage ausgeben	kein_Trinken	[ungültig]	
+PF02796	Fetzen	Substantiv	totaler Rausch	kein_Trinken	[ungültig]	
+PF02806	Fetzer	Substantiv	Trinker	kein_Trinken	kein_Trinken	
+PF02810	Feucht-lappen	Substantiv	Schimpfwort für einen Trinker	kein_Trinken	kein_Trinken	
+PF03115	Viertel	Substantiv	18 l (bei Schnaps)	kein_Trinken	[ungültig]	
+PF03298	Fips	Substantiv	Alkoholrausch	kein_Trinken	kein_Trinken	
+PF03608	Flasche, Fläsche	Substantiv	Flasche, Fläsche	kein_Trinken	[ungültig]	
+PF03610	Flaschen-bier	Substantiv	Flaschenbier	kein_Trinken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+PF03839	Flemme	Substantiv	Katzenjammer, starkes Unbehagen, Ermattung als Folge des Alkoholgenusses	kein_Trinken	[ungültig]	
+PF04005	Flöte	Substantiv	schmales Bierglas, 0, 4 l fassend	kein_Trinken	[ungültig]	
+PF04211	voll	Adjektiv	betrunken	kein_Trinken	[ungültig]	
+PF04237	Vollheit	Substantiv	Trunkenheit	kein_Trinken	[ungültig]	
+PF04266	Voll-sau	Substantiv	wer sich unmäßig betrinkt, notorischer Trinker	kein_Trinken	[ungültig]	
+PF04268	Voll-sauf	Substantiv	Säufer, sinnlos Betrunkener	kein_Trinken	kein_Trinken	
+PF04275	voll-ständig	Adjektiv	betrunken	kein_Trinken	kein_Trinken	
+PF04281	Voll-zapfen	Substantiv	Trunkenbold, Säufer	kein_Trinken	[ungültig]	
+PF05230	Friedens-linde	Substantiv	Name eines Gasthauses	kein_Trinken	[ungültig]	
+PF05513	Früh-schoppen	Substantiv	Frühschoppen	kein_Trinken	[ungültig]	
+PG00196	Galopp-süffer	Substantiv	wer in kurzer Zeit große Mengen Alkohol konsumiert	kein_Trinken	[ungültig]	
+PG00579	Gassen-schenke	Substantiv	Schankwirtschaft mit Getränkeausschank, nicht nur an anwesende Gäste	kein_Trinken	kein_Trinken	
+PG00594	Gast-halter	Substantiv	Inhaber einer Herberge für Durchreisende	kein_Trinken	kein_Trinken	
+PG00595	Gast-haus	Substantiv	Gaststätte mit Übernachtungsmöglichkeit	kein_Trinken	kein_Trinken	
+PG00597	Gast-hof	Substantiv	Gasthaus, in dem auch Pferde und Fuhrwerke eingestellt werden können	kein_Trinken	kein_Trinken	
+PG00605	Gast-stube	Substantiv	Gaststube	kein_Trinken	kein_Trinken	
+PG00606	Gast-wirt	Substantiv	Gastwirt	kein_Trinken	[ungültig]	
+PG01038	Ge-fälle	Substantiv	vom Trinker	kein_Trinken	[ungültig]	
+PG01600	Geldbeutel-wäsche	Substantiv	wenn der letzte Pfennig vertrunken wird	kein_Trinken	[ungültig]	
+PG01719	Gelze	Substantiv	leichterer Rausch	kein_Trinken	kein_Trinken	
+PG02844	Gewohnheits-säufer, -süffer	Substantiv	notorischer Trinker	kein_Trinken	[ungültig]	
+PG02845	Gewohnheits-trinker	Substantiv	notorischer Trinker	kein_Trinken	[ungültig]	
+PG03002	Gift-hütte	Substantiv	schlechtes Gasthaus	kein_Trinken	[ungültig]	
+PG03400	Gluckelchen, Gluckel	Substantiv	Trinkflasche	kein_Trinken	[ungültig]	
+PG03418	Gluckser, Glückser	Substantiv	kleine Branntweinflasche	kein_Trinken	[ungültig]	
+PG03861	granaten-voll	Adjektiv	stark betrunken	kein_Trinken	[ungültig]	
+PG04203	Grind-kopf	Substantiv	abwertend von einem kleinen Bierfaß	kein_Trinken	[ungültig]	
+PG04258	Grob-wirt	Substantiv	unhöflicher Gastwirt	kein_Trinken	kein_Trinken	
+PG04284	Groschen-falle	Substantiv	Gastwirtschaft, in der man den letzten Groschen ausgibt	kein_Trinken	[ungültig]	
+PH00014	Haar-beutel	Substantiv	Alkoholrausch	kein_Trinken	[ungültig]	
+PH00103	Haar-zopf	Substantiv	Alkoholrausch	kein_Trinken	[ungültig]	
+PH00263	Hafer, Hafern	Substantiv	Alkoholrausch	kein_Trinken	[ungültig]	
+PH00361	hagel-voll	Adjektiv	stark betrunken	kein_Trinken	[ungültig]	
+PH00512	halb	Adjektiv	wenn man 14 Liter Wein u.ä. trinkt	kein_Trinken	[ungültig]	
+PH02056	Hecken-wirt, Heck-wirt	Substantiv	geschäftsuntüchtiger Gastwirt	kein_Trinken	[ungültig]	
+PH02057	Hecken-wirtschaft, Heck-wirtschaft	Substantiv	kleines Weinlokal	kein_Trinken	[ungültig]	
+PH02967	Herberge	Substantiv	einfaches Gasthaus, bes. für wandernde Handwerksburschen	kein_Trinken	kein_Trinken	
+PH02967	Herberge	Substantiv	verrufenes Haus, Spelunke	kein_Trinken	[ungültig]	
+PH02969	Herbergs-mutter	Substantiv	Herbergswirtin, Frau des Herbergswirts, des Besitzers einer Herberge	kein_Trinken	[ungültig]	
+PH02969	Herbergs-mutter	Substantiv	Gastwirtin	kein_Trinken	[ungültig]	
+PH02970	Herbergs-vater	Substantiv	Herbergswirt, Besitzer einer Herberge	kein_Trinken	[ungültig]	
+PH03293	Herren-stube	Substantiv	Zimmer im Gasthaus für vornehme Gäste	kein_Trinken	[ungültig]	
+PH03295	Herren-tisch	Substantiv	Tisch im Gasthaus für vornehme Gäste	kein_Trinken	kein_Trinken	
+PH03555	herum-hängen, -henken	Verb	sich oft in Wirtshäusern aufhalten	kein_Trinken	kein_Trinken	
+PH04415	Hieb	Substantiv	Alkoholrausch	kein_Trinken	[ungültig]	
+PH04495	Himmel-reich	Substantiv	Name eines Gasthauses in LU-Altr	kein_Trinken	[ungültig]	
+PH05512	Hippes	Substantiv	kleiner Rausch, Halberrücktheit	kein_Trinken	kein_Trinken	
+PH05549	Hirsch	Substantiv	Gasthaus zum Hirsch	kein_Trinken	kein_Trinken	
+PH05587	Hirsch-wirt, -wirtin	Substantiv	"Inhaber(in) des Gasthauses ""Zum Hirsch"""	kein_Trinken	kein_Trinken	
+PH05869	Hocke	Substantiv	Stammplatz im Wirtshaus	kein_Trinken	[ungültig]	
+PH05878	hocken-bleiben	Verb	(abends) lang ausbleiben	kein_Trinken	kein_Trinken	
+PH05879	Hocken-bleiber, -bleibersin, Hocken-bleiber, -bleiberin	Substantiv	wer lange im Gasthaus herumsitzt	kein_Trinken	[ungültig]	
+PH05880	hocken-haben	Verb	betrunken sein	kein_Trinken	kein_Trinken	
+PH05882	Hocker	Substantiv	wer lang im Wirtshaus herumsitzt	kein_Trinken	[ungültig]	
+PH05915	Hof	Substantiv	Name von Gaststätten	kein_Trinken	kein_Trinken	
+PH06443	Hopfen-bitter	Substantiv	die aus Hopfen gewonnene Bierwürze	kein_Trinken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+PH06491	Hopps	Substantiv	Alkoholrausch	kein_Trinken	[ungültig]	
+PH06502	Horbel	Substantiv	Alkoholrausch	kein_Trinken	[ungültig]	
+PH06523	Hormel	Substantiv	Alkoholrausch	kein_Trinken	[ungültig]	
+PH06524	Hormes	Substantiv	Alkoholrausch	kein_Trinken	[ungültig]	
+PH07070	Humpen	Substantiv	großes TrinkGefäß von 2 - 5 l Inhalt	kein_Trinken	[ungültig]	
+PH07077	Hund	Substantiv	Schnapsglas (kleiner als 14 l)	kein_Trinken	[ungültig]	
+PH07490	Huren-butik	Substantiv	Gastwirtschaft mit zweifelhaftem Ruf	kein_Trinken	[ungültig]	
+PH07498	Huren-mutter	Substantiv	Inhaberin einer Gastwirtschaft von zweifelhaftem Ruf	kein_Trinken	[ungültig]	
+PH07499	Huren-nest	Substantiv	Gastwirtschaft von zweifelhaftem Ruf	kein_Trinken	[ungültig]	
+PH07506	Huren-vater	Substantiv	Inhaber einer Gastwirtschaft von zweifelhaftem Ruf	kein_Trinken	[ungültig]	
+PH07508	Huren-wirt	Substantiv	Inhaber einer Gastwirtschaft von zweifelhaftem Ruf	kein_Trinken	[ungültig]	
+PH07509	Huren-wirtschaft	Substantiv	Gastwirtschaft von zweifelhaftem Ruf	kein_Trinken	kein_Trinken	
+PK00002	Kabarettier	Substantiv	Speisewirt	kein_Trinken	[ungültig]	
+PK00017	Kachel-wirt	Substantiv	Wirt, der häufig das Verlangte nicht hat	kein_Trinken	[ungültig]	
+PK00043	Kaffee	Substantiv	Kaffeehaus	kein_Trinken	kein_Trinken	
+PK00044	Kaffee	Substantiv	Kaffeebohnen, auch in gemahlenem Zustand	kein_Trinken	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+PK00048	Kaffee-bohne	Substantiv	Kaffeebohne	kein_Trinken	[ungültig]	
+PK00064	Kaffee-haus	Substantiv	Kaffeehaus	kein_Trinken	[ungültig]	
+PK00090	Kaffee-satz	Substantiv	Kaffeesatz	kein_Trinken	[ungültig]	
+PK00495	Kanonen-rausch	Substantiv	starker Rausch	kein_Trinken	[ungültig]	
+PK00499	kanonen-voll	Adjektiv	völlig betrunken	kein_Trinken	[ungültig]	
+PK00501	Kanonen-zopf	Substantiv	Rausch	kein_Trinken	[ungültig]	
+PK00510	Kantine	Substantiv	Kantine	kein_Trinken	kein_Trinken	
+PK00513	Kantinen-wirt	Substantiv	Kantinenwirt	kein_Trinken	kein_Trinken	
+PK00557	Kappe	Substantiv	Schaumschicht auf dem Bier	kein_Trinken	[ungültig]	
+PK01047	Kater	Substantiv	Katzenjammer nach übermäßigem Alkoholgenuß	kein_Trinken	kein_Trinken	
+PK01135	Katzen-jammer	Substantiv	unangenehme Nachwehen eines Rausches	kein_Trinken	[ungültig]	
+PK01435	Keller-balken	Substantiv	Kellnerin	kein_Trinken	[ungültig]	
+PK01460	Keller-mäden, -mädchen, -mädel	Substantiv	Kellnerin	kein_Trinken	[ungültig]	
+PK01462	Keller-mensch	Substantiv	Kellnerin	kein_Trinken	[ungültig]	
+PK01493	Kellner, Kellnerin, Kellerin	Substantiv	Kellner, Kellnerin, Kellerin	kein_Trinken	kein_Trinken	
+PK01495	Kellner-frack	Substantiv	Kellner	kein_Trinken	kein_Trinken	
+PK01496	Kellner-mädel	Substantiv	Kellnerin	kein_Trinken	kein_Trinken	
+PK01497	kellnern	Verb	als Kellner arbeiten	kein_Trinken	kein_Trinken	
+PK02301	Kiste	Substantiv	Rausch	kein_Trinken	[ungültig]	
+PK02881	Kloster-hof	Substantiv	Name einer Gastwirtschaft in FR-Hertlhs	kein_Trinken	kein_Trinken	
+PK02979	knäll	Adjektiv	betrunken	kein_Trinken	kein_Trinken	
+PK02983	Knall-bude	Substantiv	schlechtes Gasthaus	kein_Trinken	kein_Trinken	
+PK03012	Knall-wirtschaft	Substantiv	verrufene Gastwirtschaft	kein_Trinken	[ungültig]	
+PK03150	Kneipe	Substantiv	kleines, minderes Wirtshaus	kein_Trinken	kein_Trinken	
+PK03365	Knorbel, Knurbel, Knürbel	Substantiv	betrunken sein	kein_Trinken	kein_Trinken	
+PK03538	Kober	Substantiv	Wirt	kein_Trinken	kein_Trinken	
+PK04261	Kost-haus	Substantiv	Haus, in dem man beköstigt wird	kein_Trinken	[ungültig]	
+PK04361	Kräch, Kräche, Krächen	Substantiv	leichter Rausch	kein_Trinken	kein_Trinken	
+PK04414	Kraft	Substantiv	von der belebenden Wirkung des Alkohols	kein_Trinken	[ungültig]	
+PK04420	kräftig	Adjektiv	viel Alkohol enthaltend (von Wein, Bier)	kein_Trinken	[ungültig]	
+PK04922	Kreuz-wirt	Substantiv	"Wirt einer Gastwirtschaft ""Zum Kreuz"" (an einer Straßenkreuzung)"	kein_Trinken	kein_Trinken	
+PK05119	Krone	Substantiv	"Wirtschaft, auch Gasthaus ""zur Krone"""	kein_Trinken	[ungültig]	
+PK05124	Kronen-wirt, Kronich-	Substantiv	"Wirt eines Gasthauses ""Zur Krone"""	kein_Trinken	kein_Trinken	
+PK05237	krotten-voll	Adjektiv	völlig betrunken	kein_Trinken	[ungültig]	
+PK05387	Kübel-süffer	Substantiv	starker Trinker	kein_Trinken	kein_Trinken	
+PK05666	Kuh-schluck, Küh-	Substantiv	sehr großer Schluck	kein_Trinken	Trinken.Schnell_große_Mengen_trinken	Trinken.Schnell_große_Mengen_trinken
+PK05667	Kuh-schlurpser, Küh-	Substantiv	sehr großer Schluck	kein_Trinken	[ungültig]	
+PL00075	Lack	Substantiv	Rausch	kein_Trinken	[ungültig]	
+PL00077	lack	Adjektiv	abgestanden, schal, lau (von Getränken)	kein_Trinken	Getränk	Getränk
+PL00335	Land-lord	Substantiv	Wirt	kein_Trinken	[ungültig]	
+PL00528	Läpperer	Substantiv	(heimlicher) Trinker, Säufer	kein_Trinken	[ungültig]	
+PL00588	läßig	Adjektiv	gezapft	kein_Trinken	[ungültig]	
+PL00610	lateinisch	Adjektiv	betrunken	kein_Trinken	kein_Trinken	
+PL01276	Leib-wirtschaft	Substantiv	Stammlokal	kein_Trinken	[ungültig]	
+PL01544	Leiter	Substantiv	Zeche	kein_Trinken	[ungültig]	
+PL01729	leuchten	Verb	von der Trinkernase	kein_Trinken	kein_Trinken	
+PL01949	Linde	Substantiv	Name von Gasthäusern	kein_Trinken	kein_Trinken	
+PL02185	Lokal	Substantiv	Gastwirtschaft, Herberge	kein_Trinken	kein_Trinken	
+PL02195	Lo-pfiffer	Substantiv	nicht zahlender Zechgenosse	kein_Trinken	[ungültig]	
+PL02355	Löwe	Substantiv	Name von Gasthäusern	kein_Trinken	[ungültig]	
+PL02375	Luck	Substantiv	Spelunke	kein_Trinken	[ungültig]	
+PL02496	Lukas	Substantiv	Humpen	kein_Trinken	[ungültig]	
+PL02514	Lump	Substantiv	Trunkenbold, Säufer	kein_Trinken	[ungültig]	
+PL02572	Lumpen-wirtschaft	Substantiv	schlechtes Gasthaus	kein_Trinken	[ungültig]	
+PL02577	Lumpes	Substantiv	Säufer, Trunkenbold	kein_Trinken	[ungültig]	
+PL02648	Lust, Lusten	Substantiv	Gartenwirtschaft	kein_Trinken	[ungültig]	
+PL02674	luttern	Verb	den Zwetschgen- oder Birnenschnaps zum zweitenmal brennen	kein_Trinken	[ungültig]	
+PM00060	Madamen-schlücke	Substantiv	kleine Schlucke	kein_Trinken	[ungültig]	
+PM01938	Milch-schokolade	Substantiv	Milchschokolade	kein_Trinken	[ungültig]	
+PM01949	Milch-süffer	Substantiv	wer viel Milch trinkt	kein_Trinken	[ungültig]	
+PM02544	mole	Adjektiv	betrunken	kein_Trinken	kein_Trinken	
+PM02771	Mords-affe	Substantiv	schwerer Rausch	kein_Trinken	[ungültig]	
+PM02812	Mords-rausch	Substantiv	großer Rausch	kein_Trinken	kein_Trinken	
+PN00257	Nacht-licht	Substantiv	wer bis in die späte Nacht im Wirtshaus sitzt	kein_Trinken	[ungültig]	
+PN00634	Nasen-schild, Nas-schild	Substantiv	in die Straße ragendes Wirtshausschild	kein_Trinken	kein_Trinken	
+PN00670	Naß-kittel	Substantiv	Säufer	kein_Trinken	[ungültig]	
+PN00728	Nebel	Substantiv	Zustand des Betrunkenseins	kein_Trinken	[ungültig]	
+PN00816	Neben-zimmer	Substantiv	Gaststättennebenraum für Gesellschaften an Kirchweih, Festen; Herrenzimmer	kein_Trinken	[ungültig]	
+PO00042	Ober	Substantiv	Oberkellner, Kellner	kein_Trinken	kein_Trinken	
+PO00098	Ober-kellner	Substantiv	Oberkellner	kein_Trinken	kein_Trinken	
+PO00250	Ochse	Substantiv	"Name von Gasthäusern ""Zum Ochsen"""	kein_Trinken	kein_Trinken	
+PO00320	Ochsen-wirt	Substantiv	Wirt einer Gastwirtschaft Zum Ochsen	kein_Trinken	[ungültig]	
+PO00401	Offiziers-borte	Substantiv	hohe Schaumkrone auf dem Bier	kein_Trinken	[ungültig]	
+PQ00129	Quartal-säufer, -süffer	Substantiv	wer sich in periodischen Abständen betrinkt	kein_Trinken	[ungültig]	
+PQ00266	Quetsche	Substantiv	blaue Nase (des Trinkers)	kein_Trinken	[ungültig]	
+PQ00279	Quetschen-faß	Substantiv	Faß zur Schnapsbereitung aus Zwetschgenfallobst	kein_Trinken	kein_Trinken	
+PR00440	Rasier-schaum	Substantiv	Sahne auf dem Kaffee	kein_Trinken	[ungültig]	
+PR00719	Rausch	Substantiv	durch den Genuß von zuviel Alkohol eintretende Bewußtseinsverwirrung	kein_Trinken	kein_Trinken	
+PR00728	rauschig	Adjektiv	betrunken	kein_Trinken	[ungültig]	
+PR00942	regalieren	Verb	bewirten, freihalten	kein_Trinken	kein_Trinken	
+PR01118	Reiber	Substantiv	Faßhahn; kleiner Holzhahn am Faß zum Abfüllen des Weins in Gläser	kein_Trinken	[ungültig]	
+PR01163	Reif	Substantiv	ausgehängter Faßreifen als Wirtshauszeichen	kein_Trinken	[ungültig]	
+PR01326	Reitel	Substantiv	Tafelauf die der Wirt Zechschulden notiert	kein_Trinken	kein_Trinken	
+PR01356	Reit-haken	Substantiv	Weinglas	kein_Trinken	[ungültig]	
+PR01401	Remischen	Substantiv	kleines Weinglas	kein_Trinken	[ungültig]	
+PR01402	Remischen-stecher	Substantiv	Säufer	kein_Trinken	[ungültig]	
+PR01472	Restaurant	Substantiv	Restaurant	kein_Trinken	kein_Trinken	
+PR01473	Restauration	Substantiv	Restaurant	kein_Trinken	kein_Trinken	
+PR01570	Ribo	Substantiv	Zechtour	kein_Trinken	[ungültig]	
+PR02123	Römer	Substantiv	grünes Weinglas	kein_Trinken	[ungültig]	
+PR02903	rußig	Adjektiv	betrunken	kein_Trinken	[ungültig]	
+PS00044	Säbel, Sabel	Substantiv	Rausch	kein_Trinken	[ungültig]	
+PS00123	Säckert	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+PS00157	Sack-süffer	Substantiv	kleines flaches Schnapsfläschchen für die Tasche	kein_Trinken	[ungültig]	
+PS00652	Sares	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+PS00721	Satz	Substantiv	Bodensatz in Getränken, bes. Kaffee	kein_Trinken	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+PS00891	Sauf-aus	Substantiv	Zechbruder, Säufer, Saufbold	kein_Trinken	[ungültig]	
+PS00892	Sauf-bruder	Substantiv	Säufer	kein_Trinken	[ungültig]	
+PS00906	Säufer	Substantiv	Trinker, Alkoholiker	kein_Trinken	kein_Trinken	
+PS00909	Säufer-wahn	Substantiv	Geistesschwäche, Unzurechenbarkeit infolge Trunkenheit, Delirium	kein_Trinken	[ungültig]	
+PS00910	Säufer-wahnsinn	Substantiv	Geistesschwäche, Unzurechenbarkeit infolge Trunkenheit, Delirium	kein_Trinken	[ungültig]	
+PS00915	Sauf-gesellschaft	Substantiv	(häufig) zechende, dem Alkohol ergebene Gesellschaft (auch Schimpfw)	kein_Trinken	kein_Trinken	
+PS00916	Sauf-gichtern	Substantiv	Delirium	kein_Trinken	[ungültig]	
+PS00922	Sauf-kollege	Substantiv	Zechkumpan	kein_Trinken	kein_Trinken	
+PS00923	Sauf-kompanie	Substantiv	(häufig) zechende, dem Alkohol ergebene Gesellschaft (auch Schimpfw)	kein_Trinken	[ungültig]	
+PS00924	Sauf-kopf	Substantiv	wer gern Alkohol trinkt	kein_Trinken	[ungültig]	
+PS00924	Sauf-kumpan	Substantiv	Zechkumpan	kein_Trinken	[ungültig]	
+PS00925	Sauf-lappen	Substantiv	Säufer	kein_Trinken	[ungültig]	
+PS00928	Sauf-liste	Substantiv	Liste der ortsbekannten Säufer	kein_Trinken	kein_Trinken	
+PS00929	Sauf-loch	Substantiv	Säufer	kein_Trinken	[ungültig]	
+PS00930	Sauf-lottel	Substantiv	Säufer	kein_Trinken	[ungültig]	
+PS00931	Sauf-nase	Substantiv	Säufer, Trunkenbold	kein_Trinken	[ungültig]	
+PS00932	Sauf-naupen	Substantiv	Saufgelüste	kein_Trinken	Trinken.Alkohol_trinken	Trinken.Alkohol_trinken
+PS00934	Sauf-partie	Substantiv	Zechgelage	kein_Trinken	[ungültig]	
+PS00942	Sauf-schulden	Substantiv	Schulden infolge übermäßigen Saufens	kein_Trinken	[ungültig]	
+PS00943	Sauf-teufel	Substantiv	Personifizierung des Alkoholismus	kein_Trinken	kein_Trinken	
+PS01122	Sau-rausch	Substantiv	großer Rausch	kein_Trinken	kein_Trinken	
+PS01169	Sauser	Substantiv	Rausch	kein_Trinken	[ungültig]	
+PS01303	Schächer	Substantiv	Gastwirt	kein_Trinken	kein_Trinken	
+PS01498	Schafs-wirt, Schaf-wirt	Substantiv	Besitzer der Gastwirtschaft 'Zum Schaf'	kein_Trinken	[ungültig]	
+PS01689	Schank	Substantiv	Ausschank (von Getränken)	kein_Trinken	kein_Trinken	
+PS01692	Schank-bursche	Substantiv	Gehilfe beim Ausschank	kein_Trinken	kein_Trinken	
+PS01697	Schank-haus	Substantiv	Gastwirtschaft	kein_Trinken	[ungültig]	
+PS01699	Schank-recht	Substantiv	Schankrecht	kein_Trinken	kein_Trinken	
+PS01701	Schank-stube	Substantiv	Stube der Gastwirtschaft, in der ausgeschenkt wird	kein_Trinken	[ungültig]	
+PS01702	Schank-tisch	Substantiv	Tisch in der Gastwirtschaft, an dem ausgeschenkt wird	kein_Trinken	kein_Trinken	
+PS01704	Schank-wirt	Substantiv	Wirt, der ausschenkt	kein_Trinken	kein_Trinken	
+PS01843	Schaskeler	Substantiv	Trinker	kein_Trinken	[ungültig]	
+PS01846	Schaskener	Substantiv	Trinker	kein_Trinken	kein_Trinken	
+PS01883	Schaub	Substantiv	brennender Strohwisch als Zeichen des Schankrechts	kein_Trinken	[ungültig]	
+PS02117	Schenk-bursche	Substantiv	Aushelfer in Gaststätten zur Kirchweihzeit	kein_Trinken	[ungültig]	
+PS02118	Schenke	Substantiv	Schankwirtschaft	kein_Trinken	[ungültig]	
+PS02118	Schenke	Substantiv	Schanktisch	kein_Trinken	[ungültig]	
+PS02122	schenken	Verb	Getränke ausschenken	kein_Trinken	kein_Trinken	
+PS02126	Schenk-kellner	Substantiv	Kellner, der ausschenkt	kein_Trinken	kein_Trinken	
+PS02127	Schenk-Mädchen	Substantiv	Aushelferin in Gaststätten zur Kirchweihzeit	kein_Trinken	[ungültig]	
+PS02128	Schenk-wirt	Substantiv	wer in einer Schenke ausschenkt	kein_Trinken	[ungültig]	
+PS02273	schicker	Adjektiv	betrunken	kein_Trinken	[ungültig]	
+PS02275	Schicker	Substantiv	Schwips, Rausch	kein_Trinken	[ungültig]	
+PS02429	Schikores	Substantiv	Trunkenheit, Rausch	kein_Trinken	kein_Trinken	
+PS02430	schikorum	Adjektiv	betrunken	kein_Trinken	kein_Trinken	
+PS02437	Schild-gerechtigkeit	Substantiv	Konzession für die Eröffnung einer Gastwirtschaft	kein_Trinken	[ungültig]	
+PS02441	Schild-wirt	Substantiv	zum Dauerausschank gekaufter Weine berechtigter Wirt	kein_Trinken	[ungültig]	
+PS02768	Schläger, Schlager	Substantiv	Alkoholrausch, Alkoholexzeß	kein_Trinken	[ungültig]	
+PS02791	Schlag-seite	Substantiv	wie schd»Schlag-seite	kein_Trinken	[ungültig]	
+PS03077	Schleh-büchse	Substantiv	Bierfäßchen	kein_Trinken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+PS03518	Schluck	Substantiv	Menge, die auf einmal geschluckt wird; der einmalige Schluckvorgang	kein_Trinken	[ungültig]	
+PS03531	Schluck-specht	Substantiv	wer gerne und viel trinkt	kein_Trinken	[ungültig]	
+PS03532	schluck-weise	Adverb	schluckweise	kein_Trinken	Trinken.Langsam_kleine_Mengen_trinken	Trinken.Langsam_kleine_Mengen_trinken
+PS03990	schmorig	Adjektiv	betrunken	kein_Trinken	kein_Trinken	
+PS04244	Schnaps-ausschank	Substantiv	Schankrecht für Spirituosen im Gasthaus	kein_Trinken	kein_Trinken	
+PS04250	Schnaps-bude	Substantiv	anspruchsloses, vorwiegend zum Trinken besuchtes Gasthaus	kein_Trinken	[ungültig]	
+PS04251	Schnaps-butelle	Substantiv	Schnapsflasche	kein_Trinken	[ungültig]	
+PS04252	Schnaps-butik	Substantiv	Gastwirtschaft mit bescheidenen Ansprüchen, Branntweinschenke	kein_Trinken	[ungültig]	
+PS04256	Schnapser	Substantiv	wer gerne und oft Schnaps trinkt	kein_Trinken	Trinken.Alkohol_trinken	Trinken.Alkohol_trinken
+PS04258	Schnaps-fahne	Substantiv	nach Schnaps riechender Atem	kein_Trinken	[ungültig]	
+PS04260	Schnaps-flasche	Substantiv	Glasflasche für Branntwein	kein_Trinken	[ungültig]	
+PS04276	Schnaps-kneipe	Substantiv	Gasthaus, das vorwiegend zum Zweck des Trinkens besucht wird	kein_Trinken	[ungültig]	
+PS04279	Schnaps-kram	Substantiv	Schnapsausschank	kein_Trinken	kein_Trinken	
+PS04281	Schnaps-laden	Substantiv	Branntweinausschank, meist mit Kramladen verbunden	kein_Trinken	[ungültig]	
+PS04283	Schnaps-nase	Substantiv	blaurot verfärbte, aufgedunsene Nase eines Gewohnheitstrinkers	kein_Trinken	[ungültig]	
+PS04286	Schnaps-rausch	Substantiv	durch Genuß von zuviel Schnaps eintretende Bewußtseinsverwirrung	kein_Trinken	[ungültig]	
+PS04288	Schnaps-saufen	Substantiv	übermäßiger Genuß von Schnaps	kein_Trinken	Trinken.Schnell_große_Mengen_trinken; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken.Schnell_große_Mengen_trinken;Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PS04290	Schnaps-teufel	Substantiv	Personifizierung des Alkoholismus	kein_Trinken	kein_Trinken	
+PS04293	Schnaps-vergiftung	Substantiv	schwere Vergiftung durch übermäßigen Genuß von Branntwein	kein_Trinken	[ungültig]	
+PS04295	Schnaps-wirtschaft	Substantiv	Gasthaus mit Schnapsausschank	kein_Trinken	[ungültig]	
+PS05058	Schöppeler	Substantiv	Säufer	kein_Trinken	[ungültig]	
+PS05069	Schoppen-pitscher	Substantiv	wer gerne einen Schoppen Wein trinkt	kein_Trinken	[ungültig]	
+PS05070	Schoppen-schlücker	Substantiv	wer gerne einen Schoppen trinkt, Säufer	kein_Trinken	[ungültig]	
+PS05071	Schoppen-stecher	Substantiv	wer gerne einen Schoppen trinkt, Säufer	kein_Trinken	[ungültig]	
+PS05075	Schöppler	Substantiv	Trinker	kein_Trinken	[ungültig]	
+PS05208	schräg, schrägs	Adjektiv	betrunken	kein_Trinken	kein_Trinken	
+PS05507	schucker	Substantiv	betrunken	kein_Trinken	kein_Trinken	
+PS06081	Schwan	Substantiv	Name von Gasthäusern	kein_Trinken	kein_Trinken	
+PS06097	Schwanen-wirt, -wirtin	Substantiv	"Wirt, Wirtin eines Gasthauses ""Zum Schwanen"""	kein_Trinken	[ungültig]	
+PS06109	schwanken	Verb	sich schwankend fortbewegen, taumelnd gehen (bes. von Betrunkenen)	kein_Trinken	[ungültig]	
+PS06119	Schwänzel-bübchen	Substantiv	Kellner	kein_Trinken	kein_Trinken	
+PS06191	schwarz	Adjektiv	betrunken sein	kein_Trinken	[ungültig]	
+PS06206	Schwarz-brenner	Substantiv	wer unerlaubt Schnaps brennt	kein_Trinken	[ungültig]	
+PS06285	Schwätz-wasser	Substantiv	Schwätzwasser haben = betrunken, angetrunken sein	kein_Trinken	[ungültig]	
+PS06297	Schwede	Substantiv	Rausch	kein_Trinken	[ungültig]	
+PS06623	Schwips	Substantiv	leichter Alkoholrausch	kein_Trinken	kein_Trinken	
+PS06625	schwipsig	Adjektiv	angeheitert, leicht betrunken	kein_Trinken	kein_Trinken	
+PS06628	Schwitte	Substantiv	kleines Glas Wein, Viertelchen	kein_Trinken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PS07146	selig	Adjektiv	angeheitert, betrunken	kein_Trinken	[ungültig]	
+PS07297	servieren	Verb	Essen, Getränke auftragen, auftischen	kein_Trinken	kein_Trinken	
+PS07298	Servier-frau, -fräulein	Substantiv	Kellnerin, Bedienung im Gasthaus	kein_Trinken	kein_Trinken	
+PS07299	Servier-Mädchen	Substantiv	Mädchen, das serviert	kein_Trinken	kein_Trinken	
+PS07301	Servier-spritze	Substantiv	Kellnerin, Bedienung im Gasthaus	kein_Trinken	kein_Trinken	
+PS07972	Sonne	Substantiv	Name von Gasthäusern	kein_Trinken	[ungültig]	
+PS08616	Speise-karte	Substantiv	Speisekarte	kein_Trinken	kein_Trinken	
+PS08618	Speise-kellner	Substantiv	Kellner, der Speisen aufträgt	kein_Trinken	kein_Trinken	
+PS08672	Spelunke	Substantiv	anspruchsloses, verkommenes, übelbeleumundetes Gasthaus	kein_Trinken	[ungültig]	
+PS08876	Spiel-zettel	Substantiv	einen Spielzettel haben = betrunken sein	kein_Trinken	[ungültig]	
+PS09038	Spitz	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+PS09048	Spitz-bohnen	Substantiv	Getreidekörner als Kaffee-Ersatz	kein_Trinken	[ungültig]	
+PS09418	spritzen	Verb	ein Getränk mit Wasser verdünnen	kein_Trinken	kein_Trinken	
+PS09424	Spritzer	Substantiv	leichterer Rausch durch Alkohol	kein_Trinken	[ungültig]	
+PS09466	Sprudel-flasche	Substantiv	Flasche für Mineralwasser	kein_Trinken	[ungültig]	
+PS09628	Stab-aus	Substantiv	betrunken sein	kein_Trinken	kein_Trinken	
+PS09634	Stäbel	Substantiv	Alkoholrausch	kein_Trinken	[ungültig]	
+PS09911	Stamm-gast	Substantiv	wer oft in derselben Wirtschaft einkehrt, am selben Platz sitzt	kein_Trinken	[ungültig]	
+PS09912	Stamm-glas	Substantiv	persönliches Trinkglas des Stammgastes in der Wirtschaft	kein_Trinken	[ungültig]	
+PS09918	Stamm-kneipe	Substantiv	die Wirtschaft, in die man regelmäßig zu gehen pflegt	kein_Trinken	[ungültig]	
+PS09920	Stamm-lokal	Substantiv	die Wirtschaft, in die man regelmäßig zu gehen pflegt	kein_Trinken	[ungültig]	
+PS09923	Stamm-tisch	Substantiv	regelmäßige Wirtshausbesuche von Stammgästen	kein_Trinken	[ungültig]	
+PS09924	Stammtisch-bruder	Substantiv	wer zum Stammtisch geht	kein_Trinken	[ungültig]	
+PS09927	Stamm-wirtschaft	Substantiv	die Wirtschaft, in die man regelmäßig zu gehen pflegt	kein_Trinken	[ungültig]	
+PS09941	stampferig	Adjektiv	angetrunken, betrunken	kein_Trinken	kein_Trinken	
+PS09970	Ständer	Substantiv	Säufer, Trunkenbold	kein_Trinken	[ungültig]	
+PS10105	staubig	Adjektiv	mehr oder weniger betrunken	kein_Trinken	[ungültig]	
+PS10172	Stecher	Substantiv	der Stechheber, mit dem man Weinproben zieht	kein_Trinken	[ungültig]	
+PS10177	stechgranaten-voll	Adjektiv	volltrunken, besoffen	kein_Trinken	[ungültig]	
+PS10178	Stech-hahnen, Stech-hahn	Substantiv	Vorrichtung am Faß zum Ablassen von Wein, Bier usw.	kein_Trinken	[ungültig]	
+PS10179	Stech-heber	Substantiv	unten spitzes, offenes Gerät, um Weinproben aus dem Faß zu nehmen	kein_Trinken	[ungültig]	
+PS10185	stechkanonen-voll	Adjektiv	volltrunken	kein_Trinken	[ungültig]	
+PS10261	Stefze, Stefzen	Substantiv	Alkoholrausch	kein_Trinken	kein_Trinken	
+PS10310	steif-voll	Adjektiv	stark betrunken	kein_Trinken	[ungültig]	
+PS10311	steifvoll-gesoffen	Adjektiv	stark betrunken	kein_Trinken	[ungültig]	
+PS10595	stemperig	Adjektiv	betrunken	kein_Trinken	kein_Trinken	
+PS10643	Stern, Sternen	Substantiv	Stern als Wirtshauszeichen	kein_Trinken	[ungültig]	
+PS10643	Stern, Sternen	Substantiv	Gasthausnamen	kein_Trinken	kein_Trinken	
+PS10661	sternenkanonen-voll, sternkanonen-voll	Adjektiv	stark betrunken	kein_Trinken	[ungültig]	
+PS10669	Sternen-wirt, Stern-wirt	Substantiv	Gastwirt eines Gasthauses mit Namen Stern	kein_Trinken	[ungültig]	
+PS10672	sterngranatenhagel-voll	Adjektiv	stark betrunken	kein_Trinken	[ungültig]	
+PS10674	sterngranatenkrotten-voll	Adjektiv	stark betrunken	kein_Trinken	[ungültig]	
+PS10675	sterngranaten-voll	Adjektiv	stark betrunken	kein_Trinken	[ungültig]	
+PS10677	sternhagelgranaten-voll	Adjektiv	stark betrunken	kein_Trinken	[ungültig]	
+PS10680	sternhagel-voll	Adjektiv	stark betrunken	kein_Trinken	[ungültig]	
+PS10703	sterns-voll, stern-voll	Adjektiv	stark betrunken	kein_Trinken	kein_Trinken	
+PS10758	stichgranate-voll	Adjektiv	stark betrunken	kein_Trinken	[ungültig]	
+PS10803	Stieben	Substantiv	Alkoholrausch	kein_Trinken	kein_Trinken	
+PS10810	Stieben-süffer, Stieber-	Substantiv	Quartalssäufer	kein_Trinken	[ungültig]	
+PS10811	Stieber	Substantiv	Rausch durch Alkohol, bes. vom Quartalsrausch	kein_Trinken	[ungültig]	
+PS10811	Stieber	Substantiv	betrunkener Mensch	kein_Trinken	[ungültig]	
+PS10815	Stiebes	Substantiv	Alkoholrausch	kein_Trinken	[ungültig]	
+PS10820	Stiefel	Substantiv	Wirtshausname	kein_Trinken	kein_Trinken	
+PS10820	Stiefel	Substantiv	Alkoholrausch	kein_Trinken	[ungültig]	
+PS10842	stiefel-steif	Adjektiv	betrunken	kein_Trinken	[ungültig]	
+PS10956	Stink-bude	Substantiv	ein schlechtes Gasthaus	kein_Trinken	kein_Trinken	
+PS11264	Storax	Substantiv	Rausch	kein_Trinken	[ungültig]	
+PS11270	Storch	Substantiv	"Name eines Gasthauses ""Zum Storchen"""	kein_Trinken	[ungültig]	
+PS11316	Storren	Substantiv	Alkoholrausch	kein_Trinken	[ungültig]	
+PS11339	Stoß	Substantiv	ein kleiner Rausch	kein_Trinken	[ungültig]	
+PS11418	strack	Adjektiv	betrunken	kein_Trinken	kein_Trinken	
+PS11432	strack-voll	Adjektiv	schwer betrunken	kein_Trinken	[ungültig]	
+PS11474	stramig	Adjektiv	betrunken	kein_Trinken	kein_Trinken	
+PS11504	Strand-kanone	Substantiv	vom Zustand des Betrunkenen	kein_Trinken	[ungültig]	
+PS11616	Strauß	Substantiv	Strauß als Zeichen des Ausschanks an Straußwirtschaften	kein_Trinken	kein_Trinken	
+PS11631	Strauß-wirt	Substantiv	Wirt einer Straußwirtschaft	kein_Trinken	[ungültig]	
+PS11632	Strauß-wirtschaft	Substantiv	zeitlich begrenzter Gastwirtschaftsbetrieb	kein_Trinken	[ungültig]	
+PS11667	Streiche	Substantiv	flaches Holz zum Abstreichen des Bierschaums	kein_Trinken	[ungültig]	
+PS11694	Streifer	Substantiv	leichter Alkoholrausch	kein_Trinken	[ungültig]	
+PS11780	Strich	Substantiv	Vermerk des Wirts über konsumierte Getränke	kein_Trinken	[ungültig]	
+PS11977	strubbelig	Adjektiv	betrunken	kein_Trinken	kein_Trinken	
+PS12192	Stuff	Substantiv	Weinglas für 18 Liter	kein_Trinken	[ungültig]	
+PS12341	Sturm, Sturmen	Substantiv	Alkoholrausch	kein_Trinken	[ungültig]	
+PS12346	Stürmer	Substantiv	Rausch durch Alkohol	kein_Trinken	[ungültig]	
+PS12353	stürmisch	Adjektiv	betrunken	kein_Trinken	kein_Trinken	
+PS12382	Stürzen-becher	Substantiv	ein Trinker	kein_Trinken	[ungültig]	
+PS12385	Stürzer	Substantiv	ein herumtorkelnder Betrunkener	kein_Trinken	[ungültig]	
+PS12520	Suff	Substantiv	Zustand des Betrunkenseins, Rausch	kein_Trinken	kein_Trinken	
+PS12521	Süff-chen	Substantiv	versoffener Kerl	kein_Trinken	[ungültig]	
+PS12523	Süffel	Substantiv	Mensch, der gerne einen über den Durst trinkt, Trunkenbold	kein_Trinken	[ungültig]	
+PS12525	Süffer	Substantiv	wer etwas trinkt	kein_Trinken	Trinken	Trinken
+PS12525	Süffer	Substantiv	Säufer, Alkoholiker	kein_Trinken	[ungültig]	
+PS12527	Suff-hafen	Substantiv	wer oft zuviel Alkohol trinkt	kein_Trinken	[ungültig]	
+PS12528	süffig	Adjektiv	gut zu trinken, wohlschmeckend	kein_Trinken	[ungültig]	
+PS12528	süffig	Adjektiv	dem Alkohol zusprechend	kein_Trinken	kein_Trinken	
+PS12529	Suff-kopf	Substantiv	Säufer, Trunkenbold	kein_Trinken	[ungültig]	
+PS12530	Suff-kuh	Substantiv	Säufer, Trunkenbold	kein_Trinken	kein_Trinken	
+PS12531	Suff-lappen	Substantiv	Säufer, Trunkenbold	kein_Trinken	[ungültig]	
+PS12532	Süffling	Substantiv	Trinker, Alkoholiker	kein_Trinken	kein_Trinken	
+PS12533	Suff-loch	Substantiv	Säufer, Trunkenbold	kein_Trinken	[ungültig]	
+PS12534	Suff-nase	Substantiv	Säufer, Trunkenbold	kein_Trinken	[ungültig]	
+PS12535	Suff-sack	Substantiv	Säufer, Trunkenbold	kein_Trinken	kein_Trinken	
+PS12688	Surrer	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+PU00214	Über-sitz	Substantiv	das Sitzen im Wirtshaus nach der Sperrstunde	kein_Trinken	kein_Trinken	
+PU00215	über-sitzen	Verb	über den Sperrstundentermin im Wirtshaus sitzen	kein_Trinken	kein_Trinken	
+PU01193	Uspes	Substantiv	Wirt	kein_Trinken	kein_Trinken	
+PW00997	Wasser-hünkel	Substantiv	wer keinen Alkohol trinkt, Abstinenzler	kein_Trinken	[ungültig]	
+PW01125	Wasser-süffer	Substantiv	wer keine alkoholischen Getränke trinkt, Abstinenzler	kein_Trinken	[ungültig]	
+PW01506	weich	Adjektiv	mild, säure- und schwefelarm; trüb (vom Wein)	kein_Trinken	[ungültig]	
+PW01679	Wein-ausschank	Substantiv	Weinausschank	kein_Trinken	kein_Trinken	
+PW01706	Wein-essig	Substantiv	aus Wein hergestellter Essig	kein_Trinken	[ungültig]	
+PW01707	Wein-fahnen, Wein-fahne	Substantiv	Atemgeruch nach Weingenuß	kein_Trinken	[ungültig]	
+PW01712	Wein-flasche	Substantiv	Weinflasche	kein_Trinken	[ungültig]	
+PW01725	Wein-glocke	Substantiv	Glocke, die nachts zum Schließen des Wirtshauses läutet	kein_Trinken	kein_Trinken	
+PW01736	Wein-haus	Substantiv	Weinwirtschaft	kein_Trinken	kein_Trinken	
+PW01748	Wein-knorzen	Substantiv	ein Weinkenner	kein_Trinken	[ungültig]	
+PW01775	Wein-probe	Substantiv	das Versuchen verschiedener Weinsorten	kein_Trinken	[ungültig]	
+PW01787	Wein-schank	Substantiv	Weinausschank, Ort und Recht des Weinausschankes	kein_Trinken	kein_Trinken	
+PW01788	Wein-schankung	Substantiv	Weinausschank	kein_Trinken	[ungültig]	
+PW01789	Wein-schenke	Substantiv	Gastwirtschaft mit Weinausschank	kein_Trinken	[ungültig]	
+PW01790	wein-schenken	Verb	Wein ausschenken	kein_Trinken	[ungültig]	
+PW01799	wein-selig	Adjektiv	betrunken	kein_Trinken	[ungültig]	
+PW01811	Wein-stube	Substantiv	einfache Weingaststätte	kein_Trinken	[ungültig]	
+PW01813	Wein-süffer, -süffler	Substantiv	wer gerne Wein trinkt	kein_Trinken	Trinken.Alkohol_trinken	Trinken.Alkohol_trinken
+PW01825	Wein-wirt	Substantiv	Gastwirt	kein_Trinken	[ungültig]	
+PW01826	Wein-wirtschaft	Substantiv	Weinschenke	kein_Trinken	kein_Trinken	
+PW01828	Wein-zapf	Substantiv	Weintrinker, Zechbruder	kein_Trinken	[ungültig]	
+PW01853	weisen	Verb	durch amtliche Weinprüfer zum Ausschank bestimmen	kein_Trinken	kein_Trinken	
+PW02223	Wermut-bruder	Substantiv	Alkoholiker, der billigen Fusel trinkt	kein_Trinken	[ungültig]	
+PW02673	wild	Adjektiv	im Wirtshausnamen	kein_Trinken	[ungültig]	
+PW02789	Wind	Substantiv	Alkoholrausch	kein_Trinken	[ungültig]	
+PW03120	Winzer-keller	Substantiv	Weinausschank des örtlichen Winzervereines	kein_Trinken	kein_Trinken	
+PW03183	Wirt	Substantiv	wer ein Gasthaus mit Ausschank betreibt	kein_Trinken	kein_Trinken	
+PW03187	Wirtin	Substantiv	Wirtsfrau, Ehefrau des Gastwirtes	kein_Trinken	kein_Trinken	
+PW03189	Wirtschaft	Substantiv	Gasthaus, Lokal	kein_Trinken	kein_Trinken	
+PW03190	wirtschaften	Verb	eine Gastwirtschaft betreiben	kein_Trinken	kein_Trinken	
+PW03193	Wirts-frau	Substantiv	Frau des Gastwirtes, Wirtin	kein_Trinken	kein_Trinken	
+PW03195	Wirts-haus	Substantiv	Gastwirtschaft, Gaststätte	kein_Trinken	kein_Trinken	
+PW03197	Wirtshaus-bruder	Substantiv	Wirtshausgänger	kein_Trinken	[ungültig]	
+PW03199	Wirtshaus-gänger	Substantiv	wer oft ins Gasthaus geht	kein_Trinken	[ungültig]	
+PW03200	Wirtshaus-gast	Substantiv	wer im Gasthaus einkehrt	kein_Trinken	[ungültig]	
+PW03201	Wirtshaus-geher	Substantiv	wer oft ins Gasthaus geht	kein_Trinken	[ungültig]	
+PW03202	Wirtshaus-geherei	Substantiv	häufiger Besuch im Gasthaus	kein_Trinken	kein_Trinken	
+PW03204	Wirtshaus-hocker	Substantiv	wer oft ins Gasthaus geht	kein_Trinken	kein_Trinken	
+PW03206	Wirtshaus-läufer	Substantiv	wer oft ins Gasthaus geht	kein_Trinken	[ungültig]	
+PW03208	Wirtshaus-schild	Substantiv	Schild am Wirtshaus, oft mit symbolischer Darstellung des Namens	kein_Trinken	kein_Trinken	
+PW03211	Wirts-leute	Substantiv	wer eine Gastwirtschaft betreibt	kein_Trinken	[ungültig]	
+PW03212	Wirts-lokal	Substantiv	Wirtschaft	kein_Trinken	kein_Trinken	
+PW03213	Wirts-Mädchen	Substantiv	Gastwirtstochter, oft gleichzeitig Kellnerin	kein_Trinken	kein_Trinken	
+PW03214	Wirts-saal	Substantiv	größter Raum in einer Wirtschaft	kein_Trinken	kein_Trinken	
+PW03215	Wirts-schulden	Substantiv	nicht bezahlte Zeche	kein_Trinken	[ungültig]	
+PW03216	Wirts-stube	Substantiv	Raum in der Wirtschaft, in der der Ausschank ist	kein_Trinken	kein_Trinken	
+PW03218	Wirts-tochter	Substantiv	Gastwirtstochter, oft gleichzeitig Kellnerin	kein_Trinken	kein_Trinken	
+PW03219	Wirts-zimmer	Substantiv	Wirtsstube	kein_Trinken	kein_Trinken	
+PZ00031	Zahl-kellner	Substantiv	für das Kassieren zuständige Bedienung in Lokalen	kein_Trinken	kein_Trinken	
+PZ00151	zäpfeln	Verb	beständig, immer ein bißchen Getränke zapfen	kein_Trinken	kein_Trinken	
+PZ00153	Zapfen	Substantiv	Trunkenbold	kein_Trinken	[ungültig]	
+PZ00154	zapfen, zäpfen	Verb	Wein etc. vom Zapfhahn in Trink-, AusschenkGefäße laufen lassen	kein_Trinken	[ungültig]	
+PZ00167	Zapfer	Substantiv	wer Getränke zapft	kein_Trinken	[ungültig]	
+PZ00168	Zapf-hahn	Substantiv	Hahn am Faß, am Schanktresen	kein_Trinken	kein_Trinken	
+PZ00169	Zapf-kranen	Substantiv	Zapfhahn am Faß	kein_Trinken	[ungültig]	
+PZ00170	Zäpfler	Substantiv	Schankwirt, der das Wirtslokal nur gepachtet hat	kein_Trinken	kein_Trinken	
+PZ00197	zart, zärt	Adjektiv	angenehm zu trinken, süffig	kein_Trinken	[ungültig]	
+PZ00201	Zassel	Substantiv	Wirt	kein_Trinken	kein_Trinken	
+PZ00215	Zassel-wirt	Substantiv	Straußwirt, Wirt einer bescheidenen Schenke	kein_Trinken	kein_Trinken	
+PZ00216	Zassel-wirtschaft	Substantiv	bescheidene, wenig attraktive Wirtschaft	kein_Trinken	kein_Trinken	
+PZ00279	Zech-bruder	Substantiv	wer gerne im Gasthaus sitzt und trinkt	kein_Trinken	[ungültig]	
+PZ00282	Zecher	Substantiv	Trinker	kein_Trinken	[ungültig]	
+PZ00286	Zech-genosse	Substantiv	wer gerne im Gasthaus sitzt und trinkt	kein_Trinken	[ungültig]	
+PZ00287	Zech-kollege	Substantiv	wer gerne im Gasthaus sitzt und trinkt	kein_Trinken	[ungültig]	
+PZ00288	Zech-kumpan	Substantiv	wer gerne im Gasthaus sitzt und trinkt	kein_Trinken	[ungültig]	
+PZ00961	Zopf	Substantiv	Alkoholrausch	kein_Trinken	[ungültig]	
+PYYY	Thermos-geld	Substantiv	Betrag für das Öffnen selbst mitgebrachter Flaschen im Gasthaus	kein_Trinken	[ungültig]	
+LA00262	Angläs	Substantiv	weiße Wein-Flasche, drei Viertel Liter enthaltend	kein_Trinken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+LA00303	an-setzen	Verb	anstellen; Brombeeren, Mirabellen, Chinawurzel usw. in Alkohol einweichen, um ein besonders hygienisches Likör herzustellen	kein_Trinken	kein_Trinken	
+LB00146	Pans-bruder	Substantiv	einer, der nur für seinen Bauch sorgt, der immer essen u. trinken möchte	kein_Trinken	[ungültig]	
+LB00394	be-duselt	Adjektiv	angetrunken	kein_Trinken	[ungültig]	
+LB00527	be-newelt	Adjektiv	leicht betrunken, benebelt	kein_Trinken	[ungültig]	
+LB00615	be-sawelt	Adjektiv	betrunken	kein_Trinken	kein_Trinken	
+LB00829	Kaffis-binz	Substantiv	Kaffeekanne	kein_Trinken	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+LB00894	Bitsch I	Substantiv	Rausch	kein_Trinken	[ungültig]	
+LB01409	Bremm	Substantiv	Landgut u. Wirtshaus bei Forbach	kein_Trinken	[ungültig]	
+LB01550	prowieren	Verb	probieren, kosten, versuchen	kein_Trinken	kein_Trinken	
+LB01611	brutlich	Adjektiv	abgebrüht (vom mehrfach aufgekochten Kaffee)	kein_Trinken	[ungültig]	
+LB01764	Buschong	Substantiv	Korkstöpsel, Propfen	kein_Trinken	[ungültig]	
+LD00053	däfen	Verb	Wein mit Wasser durchsetzen	kein_Trinken	[ungültig]	
+LD00093	Damp	Substantiv	Rausch, Betäubung durch geistige Getränke	kein_Trinken	[ungültig]	
+LD00098	Dämpert	Substantiv	starker Raucher	kein_Trinken	kein_Trinken	
+LD00111	Danne-strauss	Substantiv	Tannenzweig als Aushängeschild eines Wirtshauses	kein_Trinken	kein_Trinken	
+LD00361	Tibi	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+LD00678	Traht	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+LD00698	Drank-fâs	Substantiv	Obstweinfaß	kein_Trinken	[ungültig]	
+LD00700	tränken	Verb	fast allg. das Vieh auf die Tränke führen, ihm zu trinken geben	kein_Trinken	Trinken	Trinken
+LD00710	Trappert	Substantiv	Rausch	kein_Trinken	[ungültig]	
+LD00928	dronken	Adjektiv	betrunken	kein_Trinken	kein_Trinken	
+LD01174	Dusel	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+LE00259	er-dischteren	Verb	verdursten	kein_Trinken	[ungültig]	
+LF00327	ver-durschten	Verb	verdursten	kein_Trinken	Durst	Durst
+LF00426	ver-juppen	Verb	sich vertun, von etwas zuviel essen od. trinken	kein_Trinken	[ungültig]	
+LF00703	ver-suchen	Verb	versuchen, kosten	kein_Trinken	[ungültig]	
+LF00706	ver-suffen	Verb	durch Trinken verprassen	kein_Trinken	Trinken.Alkohol_trinken	Trinken.Alkohol_trinken
+LF00823	Viertel	Substantiv	der 4. Teil eines Maßes	kein_Trinken	[ungültig]	
+LF01050	Flesch	Substantiv	Flasche, Feldflasche	kein_Trinken	[ungültig]	
+LF01121	voll	Adjektiv	betrunken	kein_Trinken	kein_Trinken	
+LF01125	Vollchit	Substantiv	Betrunkenheit	kein_Trinken	kein_Trinken	
+LG00073	ganglen	Verb	hin- u. herschwanken (vom Trunkenbold)	kein_Trinken	kein_Trinken	
+LG00125	gaschtieren	Verb	ibid. ein Festessen veranstalten, bewirten	kein_Trinken	kein_Trinken	
+LG00621	ge-schwatt	Adjektiv	betrunken	kein_Trinken	[ungültig]	
+LH00236	Här-geld	Substantiv	Handgeld, Trinkgeld	kein_Trinken	kein_Trinken	
+LH00240	Harrijen	Substantiv	Handgeld, Draufgeld, Trinkgeld	kein_Trinken	kein_Trinken	
+LH00573	Hib	Substantiv	Räuschchen	kein_Trinken	kein_Trinken	
+LH00844	Hucker	Substantiv	gewohnheitsmäßiger Wirtshaussitzer	kein_Trinken	[ungültig]	
+LI00092	in-schenken	Verb	einschenken	kein_Trinken	[ungültig]	
+LI00095	in-schlagen	Verb	Obst, bes. Zwetschen in ein Faß füllen, um Schnaps herzustellen	kein_Trinken	[ungültig]	
+LK00024	Kaffee	Substantiv	Kaffeehaus	kein_Trinken	[ungültig]	
+LK00025	Kaffeebich	Substantiv	Kaffeebäuche, Spottname der Saargemünder wegen ihrer Vorliebe für Kaffee	kein_Trinken	[ungültig]	
+LK00026	Kaffeebinz	Substantiv	Kaffeekanne	kein_Trinken	[ungültig]	
+LK00032	Kaffeehôr	Substantiv	(eigentl. Kaffeehorn) Kaffeeschwester	kein_Trinken	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+LK00034	Kaffeesatz	Substantiv	Kaffeesatz	kein_Trinken	[ungültig]	
+LK00036	Kaffeeseh	Substantiv	Kaffeesieb	kein_Trinken	kein_Trinken	
+LK00038	Kaffeetût	Substantiv	Kaffeeschwester	kein_Trinken	[ungültig]	
+LK00144	kanone-voll	Adjektiv	völlig betrunken	kein_Trinken	[ungültig]	
+LK00569	Kischt	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+LK00974	Konkel	Substantiv	Säuferin	kein_Trinken	[ungültig]	
+LK01012	koren	Verb	kosten; versuchen, wie etwas schmeckt	kein_Trinken	kein_Trinken	
+LK01030	Koschthaus	Substantiv	Haus, in dem man beköstigt wird	kein_Trinken	[ungültig]	
+LK01048	Kotzpenning	Substantiv	Gottespfennig, Trinkgeld, Almosen	kein_Trinken	kein_Trinken	
+LL00043	laden I	Verb	sich mit Speise u. Trank überladen	kein_Trinken	[ungültig]	
+LL00147	Läppsert	Substantiv	Mensch, der im Essen u. Trinken nicht recht zugreift	kein_Trinken	[ungültig]	
+LL00553	Lump	Substantiv	Lump, Verschwender, Trunkenbold	kein_Trinken	[ungültig]	
+LM00422	Milchhawe	Substantiv	Milchtopf	kein_Trinken	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+LM00465	Minut	Substantiv	Kaffeegeschirr; Topf, in welchem der Kaffee schnell zubereitet werden kann	kein_Trinken	[ungültig]	
+LM00556	Molken	Substantiv	Käsewasser in der Dickmilch	kein_Trinken	[ungültig]	
+LW00164	Wässich	Substantiv	Molke, wässeriger Teil der Milch	kein_Trinken	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+LR00186	Rausch	Substantiv	Betrunkenheit	kein_Trinken	[ungültig]	
+LR00242	regalieren	Verb	bewirten, die Zeche bezahlen	kein_Trinken	kein_Trinken	
+LR00242	regalieren	Verb	sich durch Speise u. Trank laben	kein_Trinken	kein_Trinken	
+LR00400	Ribott	Substantiv	Rausch, Saufgelage	kein_Trinken	[ungültig]	
+LR00673	Rusch	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+LS00146	Satz I	Substantiv	Bodensatz, Niederschlag einer jeden Flüssigkeit	kein_Trinken	[ungültig]	
+LS00468	schicker	Adjektiv	betrunken	kein_Trinken	[ungültig]	
+LS00775	Schluck I	Substantiv	Schluck, Zug	kein_Trinken	Trinken.Schnell_große_Mengen_trinken	Trinken.Schnell_große_Mengen_trinken
+LS00787	Schlupp I	Substantiv	Schluck, Zug, Mundvoll	kein_Trinken	Trinken.Schnell_große_Mengen_trinken	Trinken.Schnell_große_Mengen_trinken
+LS00908	Schapsbuddel	Substantiv	Schnapsflasche	kein_Trinken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+LS00912	Schapskessel	Substantiv	Schnapsnase	kein_Trinken	[ungültig]	
+LS00916	Schapslischt	Substantiv	Trinkerliste	kein_Trinken	[ungültig]	
+LS00917	Schapsnas	Substantiv	Schnapstrinker	kein_Trinken	Trinken.Alkohol_trinken	Trinken.Alkohol_trinken
+LS00918	Schnapser	Substantiv	Schnapstrinker. Die Bewohner von Bettweiler (. Saargemünd) heißen Schnapser.	kein_Trinken	[ungültig]	
+LS01001	Schnikert	Substantiv	Schnapstrinker	kein_Trinken	[ungültig]	
+LS01005	Schnips	Substantiv	kleiner Rausch	kein_Trinken	[ungültig]	
+LS01117	schores	Substantiv	betrunken	kein_Trinken	kein_Trinken	
+LS01349	schwenken	Verb	jemanden durch Spendung geistiger Getränke zu gewinnen suchen	kein_Trinken	kein_Trinken	
+LS01415	Seidel	Substantiv	u. n. Getränk- u. Flüssigkeitsmaß, die Halbe	kein_Trinken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+LS01418	Seih	Substantiv	Seihe, feines Sieb für Kaffee, Milch u. dgl	kein_Trinken	[ungültig]	
+LS01522	Siffer	Substantiv	Säufer, Trunkenbold	kein_Trinken	[ungültig]	
+LS01523	Siffersch	Substantiv	Säuferin	kein_Trinken	[ungültig]	
+LS01849	Spritzer	Substantiv	leichter Rausch	kein_Trinken	[ungültig]	
+LS02015	Steiwer	Substantiv	kleiner Rausch	kein_Trinken	kein_Trinken	
+LS02065	sterrevoll	Adjektiv	ganz betrunken	kein_Trinken	[ungültig]	
+LS02144	Stiwer	Substantiv	Räuschchen	kein_Trinken	[ungültig]	
+LS02220	strack	Adjektiv	sinnlos betrunken	kein_Trinken	[ungültig]	
+LS02432	Suckel	Substantiv	irgend ein Gegenstand, an dem gesogen wird, z. B. eine Zuckerstange	kein_Trinken	[ungültig]	
+LS02447	Suff-lappe	Substantiv	Trinker, Säufer	kein_Trinken	[ungültig]	
+LS02449	Suffer	Substantiv	Säufer, Trunkenbold	kein_Trinken	kein_Trinken	
+LW00410	Winessich	Substantiv	Weinessig	kein_Trinken	[ungültig]	
+LW00413	Wingart	Substantiv	Steueraufseher für Getränke, Steuerbote	kein_Trinken	kein_Trinken	
+LW00464	Wirt	Substantiv	Wirt, Gastwirt. Wdgn	kein_Trinken	kein_Trinken	
+LW00466	Wirtshus	Substantiv	Wirtshaus	kein_Trinken	kein_Trinken	
+LW00467	Wirtslitt	Substantiv	Wirte	kein_Trinken	[ungültig]	
+LW00469	Wirtei	Substantiv	Wirtsgewerbe, Wirtschaft	kein_Trinken	kein_Trinken	
+LW00471	Wirtschaft	Substantiv	Wirtschaft, Wirtshaus	kein_Trinken	kein_Trinken	
+LW00478	Wisch	Substantiv	Wirtshausschild, Bier- oder Weinzeichen	kein_Trinken	[ungültig]	
+LZ00034	Zapen	Substantiv	Zapfen am Faß, an der Flasche, am Gebälk, Eiszapfen	kein_Trinken	kein_Trinken	
+LZ00038	zappen	Verb	Wein, Bier vom Zapfen schenken	kein_Trinken	kein_Trinken	
+LZ00125	ziehen	Substantiv	zapfen	kein_Trinken	[ungültig]	
+LZ00126	Zieh-stang	Substantiv	dehnbare Zuckerstange	kein_Trinken	[ungültig]	
+LZ00202	Zuck	Substantiv	Zug, Ziehleistung, Zug beim Trinken	kein_Trinken	[ungültig]	
+EA00219	Adler	Substantiv	Adler. Häufig Wirtshausschild	kein_Trinken	[ungültig]	
+EA00250	Aff	Substantiv	Rausch	kein_Trinken	[ungültig]	
+EA01244	Ürten	Substantiv	Zeche, gemeinsamer Schmaus in einem Gasthaus	kein_Trinken	kein_Trinken	
+EF00161	Fëger	Substantiv	ein Rausch	kein_Trinken	kein_Trinken	
+EF00342	Vollheit	Substantiv	Trunkenheit, Zustand des Betrunkenseins	kein_Trinken	kein_Trinken	
+EF00447	Fahn, Fahnen	Substantiv	Rausch	kein_Trinken	[ungültig]	
+EF00620	Viertel	Substantiv	Viertele eine Flasche, die 0,25 l fassen kann, sodann der Inhalt einer solchen Flasche	kein_Trinken	[ungültig]	
+EF00832	Fass	Substantiv	Fass, hölzernes Gefäss, das meist zur Aufnahme von Flüssigkeiten, bes. von Wein, bestimmt ist	kein_Trinken	[ungültig]	
+EF00951	Fisch	Substantiv	feste Bestandteile, die in einem vorgesetzten Getränk umherschwimmen, z. B. Pech im Bier und dgl	kein_Trinken	[ungültig]	
+EF01297	Flasch	Substantiv	Flasche	kein_Trinken	[ungültig]	
+EG00198	geiferen	Verb	Speichel oder Speise und Trank aus dem Munde fliessen lassen und dadurch die Kleider beschmutzen	kein_Trinken	kein_Trinken	
+EG00746	gunklen	Verb	Wein über die Strasse verkaufen	kein_Trinken	kein_Trinken	
+EG00861	Sufgurgel	Substantiv	Säufer	kein_Trinken	[ungültig]	
+EG00861	Sufgurgel	Substantiv	hervorstehender Kehlkopf, was vom Trinken kommen soll	kein_Trinken	[ungültig]	
+EG00945	Gas	Substantiv	Rausch	kein_Trinken	[ungültig]	
+EG01144	Gutter(e)	Substantiv	Flasche, meist mit grossem Bauch, engem Halse und Giessschnabel, oft mit Stroh umflochten, Korbflasche; aus Glas oder Steingut; dient zum Aufbewahren von Kirsch- oder Pflaumenwasser, Schnaps, Wein, Essig, Petroleum; seltener auch eine kleine Flasche	kein_Trinken	[ungültig]	
+EG01144	Gutter(e)	Substantiv	trunksüchtiges, altes Weib	kein_Trinken	kein_Trinken	
+EG01147	gutteren	Verb	gluckern, wie Wasser, das aus einer Flasche geschüttet wird	kein_Trinken	[ungültig]	
+EG01382	Glas	Substantiv	Trinkglas	kein_Trinken	[ungültig]	
+EG01382	Glas	Substantiv	Flasche	kein_Trinken	[ungültig]	
+EG01697	grinen	Verb	Saft ausfliessen lassen von geschnittenen Reben	kein_Trinken	[ungültig]	
+EH00171	Huch	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+EH00171	Huch	Substantiv	Spottname für Personen beiderlei Geschlechts, die viel geistige Getränke zu sich nehmen	kein_Trinken	[ungültig]	
+EH00214	Hudel	Substantiv	liederliche, bes. in der Kleidung nachlässige Person; Lump, Säufer, wilder, ungestümer Mensch, schlechter Arbeiter, der alles nur obenhin macht	kein_Trinken	[ungültig]	
+EH00479	Wirtshushocker	Substantiv	Stammgast, der immer in der Wirtschaft zu finden	kein_Trinken	kein_Trinken	
+EH00642	Windhals	Substantiv	langhalsige Flasche mit einem Rauminhalt von etwa	kein_Trinken	[ungültig]	
+EH00857	Hahn(e)	Substantiv	Wirtshaus zum Hahn	kein_Trinken	[ungültig]	
+EH00857	Hahn(e)	Substantiv	Rausch	kein_Trinken	[ungültig]	
+EH01228	hops	Adjektiv	ist angetrunken	kein_Trinken	[ungültig]	
+EH01237	Hüps	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+EH01413	Schrëpfhörnle, Schrëpfhörnel	Substantiv	kleines Bierglas	kein_Trinken	[ungültig]	
+EH01490	Hirz	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+EH01490	Hirz	Substantiv	Wirtshausschild	kein_Trinken	kein_Trinken	
+EH01600	Wirtshus	Substantiv	Wirtschaft, Gastwirtschaft	kein_Trinken	kein_Trinken	
+EH01674	Hutt(e)	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+EH01683	Hut	Substantiv	Haut auf der Milch	kein_Trinken	[ungültig]	
+EJ00209	jästig, jastig	Adjektiv	in Gärung begriffen, brausend (Wein)	kein_Trinken	[ungültig]	
+EK00019	Keib	Substantiv	Rausch	kein_Trinken	[ungültig]	
+EK00064	Schöpfkübel	Substantiv	kleiner hölzerner Kübel zum Schöpfen von Wasser oder Wein	kein_Trinken	[ungültig]	
+EK00069	Kachel(e)	Substantiv	irdenes Gefäss, Topf, mit rundem Boden und senkrechten Wänden, bes. zum Aufbewahren von Milch; Schüssel, grosse Kaffeetasse; Nachtgeschirr; Isolator der Telegraphenstange	kein_Trinken	[ungültig]	
+EK00182	Kaffee, Kaffi	Substantiv	Kaffeehaus	kein_Trinken	[ungültig]	
+EK00185	Kaffinell	Substantiv	Kaffeeschwester	kein_Trinken	[ungültig]	
+EK00193	Käfer	Substantiv	leichter Rausch	kein_Trinken	[ungültig]	
+EK00380	verkalchen	Verb	(den Kaffee) überzuckern	kein_Trinken	[ungültig]	
+EK00427	Kam(e)rad	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+EK00555	Kann	Substantiv	Kännchen, auch für Milch, Petrol u. s. w., bes. aber für Bier; ein Zehntel Liter enthaltend. In früherer Zeit wurde das Bier in Krügen aus Steingut, mit dem Zeichen	kein_Trinken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+EK00577	Kanon(e)	Substantiv	Rausch	kein_Trinken	[ungültig]	
+EK00942	Inkehr	Substantiv	Einkehr	kein_Trinken	kein_Trinken	
+EK00947	i(n) kehren	Verb	einkehren	kein_Trinken	[ungültig]	
+EK01253	Kasten	Substantiv	Rausch	kein_Trinken	[ungültig]	
+EK01280	Kist(e)	Substantiv	Rausch	kein_Trinken	[ungültig]	
+EK01313	Käter	Substantiv	Weinrausch	kein_Trinken	[ungültig]	
+EK01340	Kittel	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+EK01385	Kuttel	Substantiv	dicke Person, Fresser, Säufer	kein_Trinken	[ungültig]	
+EK01714	klutteren	Verb	plätschern, in Flüssigkeiten Blasen und gurgelnde Töne hervorbringen, z. B. beim Sieden, beim Sprudeln einer Quelle, beim Einschenken aus einer Flasche, beim Waschen, bes. beim Spielen im Wasser	kein_Trinken	kein_Trinken	
+EK01976	knautschen, knotschen	Verb	Wein mit Wasser vermengen	kein_Trinken	[ungültig]	
+EK02087	Krueg	Substantiv	Trunkenbold, Säufer	kein_Trinken	[ungültig]	
+EK02120	Krall(e)	Substantiv	Luftbläschen auf Wein od. Branntwein	kein_Trinken	kein_Trinken	
+EK02258	krärzen	Verb	prickeln (vom gährenden neuen Wein)	kein_Trinken	[ungültig]	
+EK02568	Kräz(en)	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+EK02580	Kritzer	Substantiv	kleiner Rausch	kein_Trinken	[ungültig]	
+EL00342	Lader	Substantiv	Dampf, Rausch	kein_Trinken	[ungültig]	
+EL00344	Lading	Substantiv	Rausch	kein_Trinken	[ungültig]	
+EL00532	Durchluft	Substantiv	Wirtshaus	kein_Trinken	[ungültig]	
+EL00559	Winlogel	Substantiv	Trunkenbold, Schimpfn. für einen Bewohner der oberels. Weingegend	kein_Trinken	[ungültig]	
+EL00683	lack	Adjektiv	wässerig, von Getränken, Früchten	kein_Trinken	[ungültig]	
+EL00824	Lump	Substantiv	Lump, Verschwender, Trunkenbold, schlechter Mensch	kein_Trinken	[ungültig]	
+EL00827	lumpen	Verb	nichts arbeiten und statt dessen im Wirtshaus liegen und trinken	kein_Trinken	[ungültig]	
+EL00951	Lind(en)	Substantiv	Wirtshausschild	kein_Trinken	[ungültig]	
+EL01034	Füchtlappen	Substantiv	Trinker	kein_Trinken	[ungültig]	
+EL01180	Lappenlur(e), Lappenlür	Substantiv	Kaffeeschwester	kein_Trinken	[ungültig]	
+EL01229	usen	Verb	ablassen (Wein)	kein_Trinken	[ungültig]	
+EL01574	Wirtslüt	Substantiv	Wirt und Wirtin	kein_Trinken	kein_Trinken	
+EM00635	Mëmmi	Substantiv	Trinker	kein_Trinken	kein_Trinken	
+EM00899	mapull	Adjektiv	betrunken	kein_Trinken	kein_Trinken	
+EM01245	Fëldmësser	Substantiv	Betrunkener	kein_Trinken	[ungültig]	
+EN00031	Nëbel	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+EN00094	nüechter(e)n	Adjektiv	in der Tagesfrühe weder Speise noch Trank zu sich genommen habend	kein_Trinken	[ungültig]	
+EN00478	Schnapsnas(e)	Substantiv	rote Nase eines Säufers	kein_Trinken	[ungültig]	
+EN00481	Sufnas	Substantiv	Säufer	kein_Trinken	[ungültig]	
+EP00149	Buch II	Substantiv	Bauch einer Flasche	kein_Trinken	kein_Trinken	
+EP00202	Büchs(e)	Substantiv	Flasche	kein_Trinken	[ungültig]	
+EP00379	Bügel	Substantiv	Rausch	kein_Trinken	[ungültig]	
+EP00542	bocken	Verb	übel riechen; schlecht schmecken, vom weichen Wein	kein_Trinken	[ungültig]	
+EP00645	Boll II	Substantiv	Gefäß, in dem Glühwein aufgetragen wird	kein_Trinken	[ungültig]	
+EP00919	bamberschieren	Verb	unnötig viel Geld verzehren, bes. im Wirtshaus	kein_Trinken	kein_Trinken	
+EP00922	Bample, Bampel	Substantiv	Flasche	kein_Trinken	[ungültig]	
+EP01053	Kaffebohn(e)	Substantiv	Kaffeebohne	kein_Trinken	[ungültig]	
+EP01137	Strumpfbëndel	Substantiv	Schaum auf dem Bier	kein_Trinken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+EP01174	Bunden, Punten	Substantiv	Korkstopfen auf der Flasche	kein_Trinken	[ungültig]	
+EP01191	Bëngel	Substantiv	Rausch	kein_Trinken	[ungültig]	
+EP01282	bun(t)schen, bunzen	Substantiv	(Wein) fälschen, mit Wasser versetzen Westhalten	kein_Trinken	[ungültig]	
+EP01325	bappig, bäppig	Adjektiv	weich, vom Wein	kein_Trinken	[ungültig]	
+EP02080	Position	Substantiv	ein gewöhnliches Trinkglas voll Schnaps	kein_Trinken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+EP02169	Buschong	Substantiv	Korkstöpsel, Pfropfen	kein_Trinken	[ungültig]	
+EP02333	Gebot	Substantiv	beim Zutrinken scherzh. für frz. à votre santé in Verbind. mit dem kurzen à la vôtre in Alle Gebot Santé! wohl bekomm's!	kein_Trinken	[ungültig]	
+EP02361	Butëll(e)	Substantiv	Flasche	kein_Trinken	[ungültig]	
+EP02366	Schnapsbutëll	Substantiv	Schnapsflasche	kein_Trinken	[ungültig]	
+EP02376	Butik	Substantiv	kleine, unsaubere Wirtschaft	kein_Trinken	[ungültig]	
+EP02415	Harbütel	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+EP02545	bitzelëcht, bitzlig	Adjektiv	prickelnd, vom Wein	kein_Trinken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+EP02699	Bettpfann(e)	Substantiv	Bettflasche	kein_Trinken	[ungültig]	
+EP02814	pfutlen, pfuttlen	Verb	quallern, mit Geräusch hervordringen (wie Wasser aus einer Flasche)	kein_Trinken	[ungültig]	
+EP03009	pflätschen	Verb	Wein und Branntwein heimlich verkaufen	kein_Trinken	[ungültig]	
+EP03844	Brënner, Brenner	Substantiv	Branntweinbrenner	kein_Trinken	[ungültig]	
+EP03849	Brënnet	Substantiv	soviel Branntwein man auf einmal brennen kann	kein_Trinken	[ungültig]	
+EP03894	Brand	Substantiv	Rausch	kein_Trinken	[ungültig]	
+EP03894	Brand	Substantiv	Inhalt eines Kessels, beim Destillieren von Branntwein	kein_Trinken	[ungültig]	
+EP03894	Brand	Substantiv	lokal: Gelände, wo guter Wein wächst	kein_Trinken	[ungültig]	
+EP03930	Brenz, Brënz	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+EQ00056	Quast	Substantiv	Rausch	kein_Trinken	[ungültig]	
+ER00069	Ribo(tt)	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+ER00383	regalieren	Verb	bewirten, die Zeche bezahlen	kein_Trinken	kein_Trinken	
+ER00383	regalieren	Verb	sich durch Speise und Trank laben, sich's wohl schmecken lassen, sich an einer Lieblingsspeise satt essen	kein_Trinken	kein_Trinken	
+ER00670	Rämpes	Substantiv	leichter Rausch	kein_Trinken	kein_Trinken	
+ER01207	rösch	Adjektiv	vom Wein, sauer	kein_Trinken	[ungültig]	
+ER01209	Rusch I	Substantiv	Rausch	kein_Trinken	[ungültig]	
+ER01508	Ratzer	Substantiv	saurer Geschmack beim Wein	kein_Trinken	[ungültig]	
+ES00043	Sabel	Substantiv	Rausch	kein_Trinken	[ungültig]	
+ES00046	Schleifsabel	Substantiv	Rausch	kein_Trinken	[ungültig]	
+ES00047	Schleppsabel	Substantiv	Rausch	kein_Trinken	[ungültig]	
+ES00139	versuechen	Verb	kosten	kein_Trinken	[ungültig]	
+ES00281	ab sufen	Verb	durch übermässiges Trinken seine Gesundheit untergraben	kein_Trinken	[ungültig]	
+ES00283	bsoffen	Adjektiv	betrunken	kein_Trinken	[ungültig]	
+ES00287	versufen	Verb	durch Trinken verprassen	kein_Trinken	Trinken.Alkohol_trinken	Trinken.Alkohol_trinken
+ES00288	versoffen	Adjektiv	den Trinker kennzeichnend	kein_Trinken	[ungültig]	
+ES00288	versoffen	Adjektiv	ertrunken	kein_Trinken	[ungültig]	
+ES00300	Vollsufer	Substantiv	Säufer allg.	kein_Trinken	[ungültig]	
+ES00302	Suffus	Substantiv	Säufer, Lump	kein_Trinken	kein_Trinken	
+ES00308	suffig	Adjektiv	gut zum Trinken, trinkbar	kein_Trinken	[ungültig]	
+ES00485	Dudelsack	Substantiv	Betrunkener	kein_Trinken	kein_Trinken	
+ES00529	Schnappsack	Substantiv	Innere Tasche in Rock oder Weste, wohin man Gegenstände steckt, die man nicht gern verlieren will, u. a. auch die Schnapsflasche	kein_Trinken	[ungültig]	
+ES00572	Katzenseckel	Substantiv	Trunkenbold	kein_Trinken	[ungültig]	
+ES00668	sëlig, selig	Adjektiv	glücklich, bes. im Rausch	kein_Trinken	[ungültig]	
+ES01041	Milchsupp(e)	Substantiv	Suppe aus Milch	kein_Trinken	[ungültig]	
+ES01273	Kaffeesatz	Substantiv	Bodensatz in der Kaffeekanne oder –tasse	kein_Trinken	[ungültig]	
+ES01280	an setzen	Verb	anstellen, Schnaps, Essig u. Dergl.	kein_Trinken	[ungültig]	
+ES01714	schicker	Adjektiv	betrunken	kein_Trinken	[ungültig]	
+ES01766	schël	Adjektiv	hellrot gefärbt, vom Wein	kein_Trinken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+ES01770	schiel	Adjektiv	hellrot, vom Wein; frz	kein_Trinken	[ungültig]	
+ES01823	Schild	Substantiv	Schild am Wirtshaus	kein_Trinken	[ungültig]	
+ES01924	scheneros, schenerös	Adjektiv	zurückhaltend im Essen und Trinken	kein_Trinken	[ungültig]	
+ES02012	in schënken	Verb	einschenken, von Getränken	kein_Trinken	[ungültig]	
+ES02013	us schënken	Verb	Getränke ausschenken	kein_Trinken	kein_Trinken	
+ES02186	Schërben, Schirben, Schirmen	Substantiv	Milchtopf von 1 Lit. Inhalt	kein_Trinken	[ungültig]	
+ES02246	Schassör	Substantiv	du hast einen Affen, bist betrunken	kein_Trinken	[ungültig]	
+ES02278	Bettschisser	Substantiv	zottige, schwarze Rotwein-Traube	kein_Trinken	[ungültig]	
+ES02536	Winschluch	Substantiv	Säufer	kein_Trinken	[ungültig]	
+ES02601	schlifen	Verb	leicht angetrunken sein	kein_Trinken	[ungültig]	
+ES02687	Schlegel	Substantiv	grosse, hohe Flasche; Demin. kleines Hohlmass für Hülsenbohnen	kein_Trinken	[ungültig]	
+ES02725	Schluck	Substantiv	Schluck, Zug	kein_Trinken	[ungültig]	
+ES02739	Gschlamassel(s)	Substantiv	die Zeche	kein_Trinken	[ungültig]	
+ES02764	Schlamper	Substantiv	grosse, blaue Traubenart, die selten reif wird. Der Wein erhält durch sie eine gefällige Farbe	kein_Trinken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+ES03158	Schmier(e)	Substantiv	Zeche	kein_Trinken	[ungültig]	
+ES03172	schmieren	Verb	den Wein verfälschen	kein_Trinken	[ungültig]	
+ES03420	an schnallen	Verb	aufbürden, eine Lüge oder auch die Zeche im Wirtshaus	kein_Trinken	kein_Trinken	
+ES03508	schnäpslen	Verb	intr. nach Schnaps riechen	kein_Trinken	[ungültig]	
+ES03509	verschnäpslen	Verb	in Schnaps vertrinken	kein_Trinken	Trinken.Alkohol_trinken	Trinken.Alkohol_trinken
+ES03510	Schnapser	Substantiv	Schnapstrinker	kein_Trinken	Trinken.Alkohol_trinken	Trinken.Alkohol_trinken
+ES03804	schwëblen, schwëflen	Verb	schwefeln, vom Wein	kein_Trinken	[ungültig]	
+ES03849	geschwullen, geschwollen	Adjektiv	betrunken	kein_Trinken	[ungültig]	
+ES03888	Schwan	Substantiv	Wirtshausschild	kein_Trinken	[ungültig]	
+ES04354	Spitz, Spitzen	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+ES04428	gesprickelt	Adjektiv	leicht angetrunken und darum nicht recht bei Sinnen	kein_Trinken	[ungültig]	
+ES04430	gespricklig	Substantiv	verklärt, vom Gesicht nach einem besseren Rausch	kein_Trinken	[ungültig]	
+ES04526	gespritzt , gesprezt	Adjektiv	ein wenig betrunken, halb verrückt	kein_Trinken	[ungültig]	
+ES04532	Spritzer, Spretzer	Substantiv	leichter Rausch	kein_Trinken	[ungültig]	
+ES04586	Staub	Substantiv	Rausch	kein_Trinken	[ungültig]	
+ES04600	Stäüber	Substantiv	leichter Rausch	kein_Trinken	[ungültig]	
+ES04639	Stüber	Substantiv	kleiner Rausch	kein_Trinken	[ungültig]	
+ES04667	Stich	Substantiv	leichter Rausch	kein_Trinken	[ungültig]	
+ES04677	stichlen	Verb	säuerlich werden (vom Wein)	kein_Trinken	kein_Trinken	
+ES04757	Stëfzen	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+ES04830	uf stecken	Verb	um das Trinkgeld spielen, von den Musikanten bei Festen. Zu einer bestimmten Stunde verlassen Musiker und die Tanzenden, letztere paarweise, das Tanzlokal und begeben sich in die Wirtschaftsräume, woselbst von den Musikern	kein_Trinken	[ungültig]	
+ES05133	Stümple, Stümpel	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+ES05345	Stipper	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+ES05402	Stipser	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+ES05412	stierig	Adjektiv	betrunken	kein_Trinken	kein_Trinken	
+ES05458	Sturm	Substantiv	Rausch	kein_Trinken	[ungültig]	
+ES05601	Stütz(e)	Substantiv	Küferkübel, zugleich Hohlmass für Wein, mit verschiedenem Rauminhalt, in der Regel 10 l, aber auch 12-15. Die Liter sind gekennzeichnet durch eingetriebene Nägel oder Pflöcke	kein_Trinken	[ungültig]	
+ES05640	Strubel	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+ES05713	strack	Adjektiv	sinnlos (steif) betrunken	kein_Trinken	[ungültig]	
+ET00024	Tee	Substantiv	Teeblätter	kein_Trinken	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee
+ET00077	täübelen	Verb	in der Betrunkenheit dumme Faxen machen	kein_Trinken	[ungültig]	
+ET00137	Dächle, Dächel	Substantiv	Rausch	kein_Trinken	[ungültig]	
+ET00223	betuech(t), betaücht	Adjektiv	betrunken, und in diesem Zustande dann reich, zufrieden	kein_Trinken	[ungültig]	
+ET00269	Dudel	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+ET00272	bedudelt	Verb	betrunken	kein_Trinken	kein_Trinken	
+ET00282	Dudi	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+ET00311	taüfen, täüfen	Verb	mit Wasser versetzen	kein_Trinken	[ungültig]	
+ET00481	Dackel	Substantiv	Verwirrung, Betäubung, Taumel, Rausch	kein_Trinken	[ungültig]	
+ET00532	dick I	Adjektiv	geronnen, von der Milch	kein_Trinken	[ungültig]	
+ET00631	tollicht	Adjektiv	eingenommen, vom Kopf, sei es infolge zu starken Genusses geistiger Getränke, sei es infolge dumpfer Luft	kein_Trinken	[ungültig]	
+ET00753	Dämpes,Dampes	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+ET00756	Dampf	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+ET00942	Tante	Substantiv	Hurenwirtin	kein_Trinken	kein_Trinken	
+ET01264	Turlitam, Tirlitam, Tirlitum, Turlutu	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+ET01281	Türmel	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+ET01396	Dusel	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+ET01400	beduselt	Adjektiv	betrunken	kein_Trinken	kein_Trinken	
+ET01401	duselig	Adjektiv	leicht betrunken	kein_Trinken	[ungültig]	
+ET01548	Dutt	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+ET01844	uf tragen	Verb	auftischen	kein_Trinken	kein_Trinken	
+ET01862	Traget(e)	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+ET01939	Druck	Substantiv	soviel auf einmal gepresst oder gekeltert wird	kein_Trinken	kein_Trinken	
+ET02153	tränken	Verb	das Vieh tränken, scherzh. auch vom Menschen: zu trinken geben	kein_Trinken	Trinken	Trinken.Als_garantierter_Bedarf_für_Vieh_und_Mensch_angeboten
+EW00497	Wëll(e)	Substantiv	Rausch	kein_Trinken	[ungültig]	
+EW00723	gewinnen	Verb	Wein abzapfen durch die kleine mit hölzernem Keil verschlossene Öffnung	kein_Trinken	[ungültig]	
+EW00919	wërden	Verb	beim Kartenspiel die Zeche oder einen Teil derselben verlieren	kein_Trinken	kein_Trinken	
+EW00952	würflen	Verb	sich erbrechen, besonders infolge von Trunkenheit	kein_Trinken	[ungültig]	
+EW01086	Wirt, Wurt, Wert	Substantiv	Wirt, Gastwirt	kein_Trinken	[ungültig]	
+EW01088	Wirtinne, Wirten	Substantiv	Wirtin	kein_Trinken	[ungültig]	
+EW01090	Wirtschaft	Substantiv	Wirtschaft, Wirtshaus	kein_Trinken	[ungültig]	
+EW01297	Wäsch  I	Substantiv	Weinstein	kein_Trinken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+EZ00047	verzëchen	Verb	verzechen	kein_Trinken	kein_Trinken	
+EZ00429	Zapfen	Substantiv	Zapfen am Fass, der Flasche, am Gebälk	kein_Trinken	[ungültig]	
+EZ00429	Zapfen	Substantiv	Trinker	kein_Trinken	[ungültig]	
+EZ00429	Zapfen	Substantiv	Rausch	kein_Trinken	kein_Trinken	
+EZ00445	Vollzapfen	Substantiv	Trunkenbold	kein_Trinken	[ungültig]	
+EZ00451	zapfen	Verb	Wein schenken	kein_Trinken	[ungültig]	
+EZ00456	Zäpfer	Substantiv	Trinker	kein_Trinken	kein_Trinken	
+EZ00475	Zopf	Substantiv	Rausch	kein_Trinken	[ungültig]	
+EZ00494	verzehren	Verb	in einem Wirtshaus ausgeben (nicht bloss für Nahrung), konsumieren	kein_Trinken	kein_Trinken	
+EZ00613	Zottel	Substantiv	Hals einer Flasche; Ansatzstück einer Giesskanne	kein_Trinken	[ungültig]	

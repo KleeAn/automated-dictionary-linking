@@ -1,0 +1,1102 @@
+ID	Lemma	Definition	Konzept	Konzept_gemappt	Antwort_Modell
+EA00652	Amors	schlechter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+ET01334	durstig	durstig	Durst	Trinken	Trinken
+ET01335	dürsterig, dürsterlich	durstigmachend, durstbringend	Durst	Trinken	Trinken
+LD01155	durschtisch	durstig	Durst	Trinken	Trinken
+PD05717	dursterig, dürsterig	durstig	Durst	Trinken	Trinken
+PD05718	durstig, dürstig	durstig, dürstig	Durst	Trinken	Trinken
+PL01019	lech	durstig	Durst	Trinken	Trinken
+PU00917	unter-irdisch	der aus Kartoffeln hergestellte Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+EF00900	Fusel	geringer, schlechter Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+EF01024	Vitriol	schlechter Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+EG00225	Rattengift	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+EG00272	Giger	schlechte Sorte Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+EG00282	Giges, Gigs	schlechter Branntwein, Fusel; schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+EG00283	Burlegiges	schlechter, gewässerter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+EG01048	Geist	Weingeist, Alkohol	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+EG01127	Herrgöttel	ein kleines Glas Bier, ein halber Schoppen, ein viertel Liter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+EH00174	huchen	trinken, bes. übermässig	Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+EK00182	Kaffee, Kaffi	Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+EK00183	Schokelakaffee	Milchschokolade mit Brot	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kakao	Other	other
+EK01109	Kirs(e), Kirsch	Kirschbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+EK01744	Kläw(n)er, Kläfler	Wein daraus	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+EK02026	Kräbel	Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+EK02032	Krëbser	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+EL00463	Vorlauf	der erste Branntwein, der beim Branntweinbrennen herauskommt; er wird nicht getrunken, sondern zur Herstellung einer geringeren Güte Schnaps oder zu Einreibungen verwandt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Other	other
+EL01179	Lur(e), Lür	schlechte Brühe überhaupt, bes. Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+EL01179	Lur(e), Lür	schlechter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+EL01179	Lur(e), Lür	leichter Wein, hergestellt durch Vermischen mit Wasser	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+EL01179	Lur(e), Lür	ein Getränk, im Herbst aus wilden Früchten und etwas Wein hergestellt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+EL01180	Lappenlur(e), Lappenlür	schwacher, saurer, matter, verwässerter Wein oder Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+EL01546	Lüterung	Vorbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+EM00566	Milch	Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Trinken	Trinken
+EM00567	Brieschmilch	die erste Milch der Kuh	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+EM00571	Geisenmilch	Ziegenmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Trinken	Trinken
+EM00577	Surmilch	Sauermilch, Dickmilch, gestockte Milch; wird häufig abends mit Kartoffeln gegessen; auch zu Suppen verwendet	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+EM00624	Molzer	Biersorte, die teils aus Lager-, teils aus Jungbier besteht	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+EM00634	Mëmm; Mëmm(e)le	in der Kinderspr. jede trinkbare Flüssigkeit, besonders Milch; auch verdoppelt	Getränk; Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Trinken	Trinken
+EM01217	Elfermëss	übtr. Frühschoppen. In der guten, alten Zeit durften die Wirtshäuser am Sonntag Vormittag vor Schluss des Gottesdienstes um 11 Uhr keine Gäste aufnehmen; der Wirtshausgang um diese Zeit wurde dann scherzhaft E. genannt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk	Other	other
+EM01478	Most II, Muschk	süsser Apfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+EM01478	Most II, Muschk	süsser Traubenwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+EM01516	Mët(er)	Met	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk	Trinken	Trinken
+EN00683	Näz	schlechtes Getränk	Getränk	Trinken	Trinken
+EP00701	Totenbaümpolitur	schlechter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+EP00808	belzen	trinken, saufen	Trinken; Trinken.Alkohol_trinken	Trinken	Trinken
+EP00812	us belzen	leer trinken	Trinken.Austrinken	Trinken	Trinken
+EP00881	Bemmeri	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+EP00974	Bumpes	gepantschter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+EP01449	Bupperi	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+EP01634	Bier	Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+EP01789	Bërliner	schlechter Schnaps, auch Bërliner Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+EP02080	Position	ein gewöhnliches Trinkglas voll Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+EP02310	Petrol	Fusel, gemeiner Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+EP02606	Rachenbutzer	saurer Wein, der vermöge seiner Weinsteinsäure den Schleim im Rachen gerinnen macht und ablöst	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+EP03252	Plämpel, Bämpel	träger, langsamer Mensch; schlechtes Getränk, insbes. dünner schwappelnder Kaffee	Getränk; Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Other	other
+EP03335	Plappri, Plappkli	schwaches Getränk, insb. von Wein und Kaffee gesagt	Getränk; Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+EP03708	Brüej(e)	Brühe, Sauce; auch Seifenbrühe, frischgepresster Rebensaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Trinken	Trinken
+EP03708	Brüej(e)	schlechte Suppe, schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+EP03711	Bankerottbrüej	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+EP03723	Leimenbrüej	scherzhaft für den lehmfarbigen neuen Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+EP03724	Qutschelbrüej	schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+EP03727	Schnitzbrüej	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+EP03750	Brocken	Hunger, Durst	Durst	Trinken	Trinken
+EP03894	Brand	Durst	Durst	Trinken	Trinken
+EP03930	Brenz	Schnaps, Fusel	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+EP04065	Briest, Briesch	Milch einer frischmelkenden Kuh	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+EP04065	Briest, Briesch	gestockte junge Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+ER00626	Rum I	Rum	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+ER00670	Rämpes	geringer Schnaps; schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+ER00917	Räppes, Räppis, Räps	schlechter Wein; neuer Wein aus Trauben, die man vor der eigentlichen Weinlese holt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+ER01113	Rissmichum	gemeiner Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+ES00271	Seifel	minderwertiges Getränk, Bier oder Wein	Getränk; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+ES00290	Suff	Saufgelage	Trinken.Alkohol_trinken	Other	other
+ES00291	Sufens, Saufens	Zecherei	Trinken.Alkohol_trinken	Other	other
+ES00292	Gsuff(s)	schlechtes Getränk	Getränk	Trinken	Trinken
+ES00292	Gsuff(s)	anhaltendes Trinken	Trinken.Häufig_lange_trinken	Trinken	Trinken
+ES00301	Suferei	Trinkgelage	Trinken.Alkohol_trinken	Trinken	Trinken
+ES00301	Suferei	Trinklust, Trinkerei	Trinken.Alkohol_trinken	Trinken	Trinken
+ES00323	Saft	Saft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Trinken	Trinken
+ES00572	Katzenseckel	Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+ES01069	supperen	beim Trinken ein schlürfendes Geräusch verursachen	Trinken.Geräuschvoll_trinken	Trinken	Trinken
+ES01193	Suser	gährender Most	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+ES02036	Schoppen	bes. ein Schoppen Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+ES02507	Kaffeeschlabber	schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+ES02514	Schlabberte, Schlabbete	überh. schlechtes Getränke, kraftlose Brühe	Getränk	Trinken	Trinken
+ES03133	Armschmalz	in der Arbeiterspr. Bezeichnung für alkoholhaltige Getränke	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk	Trinken	Trinken
+ES03500	Schnaps, Schnips	Schnaps, Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+ES03505	Quëtschelschnaps, Quëtschenschnaps, Quetschenschnaps	Branntwein aus Zwetschen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+ES04513	Sprit	schlechter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+ES04532	Spritzer, Spretzer	kleine Menge Branntwein, die man in den schwarzen Kaffee giesst	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+ES05370	Stöpferle	petschierter Flaschenwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+ET00024	Tee	Aufguss von getrockneten Blättern oder Blüten heilkräftiger Pflanzen	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Trinken	Trinken
+ET00025	Brusttee	Brusttee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Trinken	Trinken
+ET01331	Durst	Durst	Durst	Trinken	Trinken
+ET01557	Düttle, Düttel	Muttermilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Trinken	Trinken
+ET01713	Traberen, Träberen	Treberbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+ET01926	Teüfelsdrëck	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+ET02147	Trank	Trank	Getränk	Trinken	Trinken
+ET02152	Säütränke	schlechtes Getränk, z. B. schlechter Wein	Getränk; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+ET02160	Trinken	Getränk	Getränk	Trinken	Trinken
+ET02165	Trunk	Trunk	Getränk	Trinken	Trinken
+ET02166	Schlaftrunk	urspr. Trunk, der dem Gaste dargereicht wurde, wenn er sich schon zu Bett begeben hatte; später Trinkgelage, das sich an die Abendmahlzeit anschloss.	Getränk; Trinken	Trinken	Trinken
+ET02252	Druesen, Drusen	Branntwein aus Weinhefe gewonnen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+EW00675	Äpfelwi(n)	Apfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+EW00678	Birenwi(n)	Birnwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+EW00679	Branntenwi(n), Brënntewi(n)	Branntwein, Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+EW00682	Dreimännerwin	Wein, der so sauer ist, dass drei Männer den Trinkenden festhalten müssen (sonst würde er  sich weigern, ihn zu nehmen)	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+EW00685	Edelwin	feine Sorte Weisswein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+EW00686	Ehrwein	Ehrenwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+EW00688	Gänswin	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+EW00690	Grumbirenbrënntewin	Branntwein aus gegorenen Kartoffeln	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+EW00706	Stichwin	der zur Probe aus dem Fass genommene Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Other	other
+EW00712	Trinkwi(n)	leichter Wein, der gewonnen wird, wenn man nach dem Pressen der Trauben die Träber mit Wasser übergiesst und nach einem Zuckerzusatz nochmals gären lässt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+EW00713	Truebwi(n), Trüebwi(n)	Trübwein, der letzte, nicht mehr klare W. aus einem Fasse	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+EW01009	Wermuet	Wermutbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+EW01152	Wasser	Wasser, Trinkwasser, Quellwasser, Regenwasser, Fluss, Teich, See, Meer. Von einem Arbeitsscheuen	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Trinken	Trinken
+EW01154	Bappelwasser	Tee aus Blättern der Rosenpappel	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Trinken	Trinken
+EW01154	Bappelwasser	geistige Getränke	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+EW01168	Kirsenwasser, Kirschenwasser	Branntwein aus Kirschen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+EW01182	Schüsselwasser	schlechter Kaffee; dünne, kraftlose Suppe	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Other	other
+EW01183	Seckelwasser	schlechtes Getränk, Wein und Bier	Getränk; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+EW01189	Wichtwasser, Gewichtwasser, Wihwasser	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+EZ00219	Zucker II	Gläschen Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+EZ00453	zäpfen	(ein Fass) anstechen; vom Fass trinken; trinken überhaupt	Trinken; Trinken.Alkohol_trinken	Trinken	Trinken
+LA00253	Änes	Anisbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LA00351	Appelvitz	Apfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+LA00352	Äbbel-win	Apfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+LB00004	Babbel-wasser	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LB00183	Bäre-dreck	Süßholzsaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Trinken	Trinken
+LB00331	Paure-wein	ungekelteter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+LB00479	Pek I	saurer Wein, aus Trestern hergestellt, indem man Wasser zusetzt u. das Gemisch einige Tage in einem Fasse stehen läßt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Other	other
+LB00755	Bier II	Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+LB01103	Blotz-milch	Buttermilch, die durch Butter blotze entsteht	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+LB01322	Brach	dicke Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Trinken	Trinken
+LB01350	Brannte-win	Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LB01497	Brockel	geronnene Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+LD00368	Dick-milch	sauer Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+LD00695	Drank	Apfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+LD00818	Trep(s)	Gläschen Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LD00927	Dronk	Trunk	Getränk	Trinken	Trinken
+LD00927	Dronk	Trank, heilkräftiges Getränk	Getränk	Trinken	Trinken
+LD00971	Druff	trüber Wein als Faßrest	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+LD01008	Drusenbrantwin	fast allg. Branntwein aus Weinhefe gewonnen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LD01116	Tur II	Runde	Getränk	Other	other
+LD01139	Turne	Runde, für jeden am Tisch ein Glas	Getränk	[ungültig]	other.
+LD01151	Durscht	Durst	Durst	Trinken	Trinken
+LE00056	Eichelkaffee	Eichelkaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Trinken	Trinken
+LF00916	Vir-schotz	der erste Branntwein, der beim Brennen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Other	other
+LF00954	Vitz	Obstwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+LF01130	Föll-wein	Füllwein, Wein zum Nach- und Auffüllen im Fasse	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+LF01160	Vor-laf	Vorlauf d. i. der erste Branntwein, der beim Brennen ausfließt. Er ist zu alkoholreich, um getrunken zu werden, u. dient zu Einreibungen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Other	other
+LF01369	Fusel	geringer, schlechter Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LG00052	Galm	Durst, Qualm, Gestank	Durst	Trinken	Trinken
+LG00244	Ge-drenks	Getränke	Getränk	Trinken	Trinken
+LG00244	Ge-drenks	das Trinken	Trinken	Trinken	Trinken
+LG00339	Geischt	Weingeist, Alkohol	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LG00583	Ge-scheppels	übermäßiges od. gewohnheitsmäßiges Trinken von Schoppen Bier od. Wein	Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken, Trinken.Häufig_lange_trinken	Trinken	Trinken
+LG00627	Ge-seffs	Gesöffe, Säuferei, unmäßiges Trinken	Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+LG00688	Ge-supps	Saugen, Geschlürf, schlürfendes Geräusch beim Trinken	Trinken.Geräuschvoll_trinken	Trinken	Trinken
+LG00782	Giges I	schlechter Branntwein, Fusel	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LG00899	Glugluk	Gluckgluck (Geräusch beim Trinken od. Ausgießen einer Flüssigkeit)	Trinken.Geräuschvoll_trinken	Trinken	Trinken
+LG00947	Gom	ein süßliches Getränk	Getränk	Trinken	Trinken
+LG00987	Grächen	neuer Wein; Wein, der gerade trinkbar geworden. G. genannt wegen seiner grauen Farbe	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+LG01050	Gräwel-wasser	schlechter Branntwein, Fusel	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LG01193	Grumberebrantwein	Kartoffelsprit	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LH00199	Häns-chen	ein Achtel Liter Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LH00357	Heffen	ein Gläschen Hefenbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LK00024	Kaffee	Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+LK00028	Kaffeebrih	schlechter Milchkaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+LK00259	Kassis	Likör, der aus der Frucht derselben zubereitet wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LK00343	Keizen	schlechter Wein, Krätzer	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+LK00372	Kelterwein	Wein von gekelterten Trauben im Gegensatz zu	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+LK00547	Kirsch	Kirschenschnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LK01060	Kowen-bretchen	Gläschen Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LK01499	Kwetsch I	Zwetschenschnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LK01505	Kwetschwasser	Zwetschenbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LL00401	Lier	Holzapfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+LL00565	lumpen	zechen, schlemmen	Trinken.Alkohol_trinken	Other	other
+LM00027	Mawebitter	Magenbitter	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Other	other
+LM00226	Matten	geronnene Milch, aus der Käse gemacht wird; Käsmatte	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+LM00280	Mehlsuffe	Trank mit beigemischtem M. für die Haustiere	Getränk	Trinken	Trinken
+LM00317	Melkersch	soviel Milch, als in einem Mal gemolken wird	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+LM00416	Milch	Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Trinken	Trinken
+LM00470	Mirabell	Mirabellenbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LM00620	Moschketeller	Muskatellertraube, –wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+LM00677	Mupp	schlechter, minderwertiger Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LM00713	Musikante-brih	(eigentl. Musikantenbrühe) verächtl. für schlechten Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+LN00228	Ninni	Milch in der Kindersprache	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+LO00248	Owes-dronk	Abendtrunk	Getränk	Trinken	Trinken
+LO00251	Owesstrach	die am Abend gemolkene Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+LR00162	Rattegift	schlechter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LR00330	Rend I	Runde	Getränk	Other	other
+LR00660	Runding	Runde	Getränk	Other	other
+LS00052	Saft	Saft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Trinken	Trinken
+LS00279	Schampanjer	Champagnerwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein.Sekt	Trinken	Trinken
+LS00327	Scharlacher	Schnaps, sog. nach der Farbe	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LS00650	Schlauder-wasser	dünner Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+LS00708	Schlewe-schnabbs	Schlehenschnapps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LS00787	Schlupp I	Gläschen Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LS00792	Schluri	Spitzname für schlechten Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+LS00907	Schnaps	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LS01000	Schnik	Fusel, schlechter Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LS01029	Schnorres	Gläschen Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LS01115	Schorbacher	gewöhnlicher Kartoffelschnaps, der in Schorbach (n. w. Bitsch) vorzugsweise getrunken wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LS01563	Sirop	Sirup	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink	Trinken	Trinken
+LS01713	Spenn	Muttermilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Trinken	Trinken
+LS01837	Spret	Sprit, Spiritus, schlechter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LS01858	Spruddel	Sprudel	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Trinken	Trinken
+LS02218	Strach	soviel auf einmal an Milch gemolken wird	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+LS02255	Strechersch	die Menge Milch, die beim einmaligen Melken erzeugt wird	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+LS02444	Suff	steifer Trank für Rindvieh u. Schweine; Küchenwasser zum Tränken des Viehs	Getränk	Other	other
+LS02450	Sufferei	Säuferei, anhaltendes Trinken, Trinkgelage	Trinken.Alkohol_trinken;Trinken.Häufig_lange_trinken	Trinken	Trinken
+LS02490	Surmilich	Sauermilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Trinken	Trinken
+LW00150	Wasser	wässeriger Kaffee, dünne Suppe	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Other	other
+LW00150	Wasser	in aller Frühe getrunkener Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LW00353	Widderdaifer	Name für Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+LW00386	Wih-wasser	Schnaps, der in der Frühe getrunken wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+LW00407	Win	Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+LW00439	Winkof	Trunk zur Bestätigung eines geschlossenen Kaufes od. Vertrags	Getränk	Other	other
+LW00444	Winscho	Glühwein	Getränk.Heißgetränk.Alkoholhaltiges_Heißgetränk	Trinken	Trinken
+LZ00261	Zwelfer	ein Schnaps zu 12	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PA00150	Abend-milch	Milch, die am Abend gemolken wird	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+PA00155	Abend-schoppen	Abendschoppen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk	Trinken	Trinken
+PA01307	Alkohol	Alkohol	Getränk	Trinken	Trinken
+PA02392	An-trunk	erster Trunk	Getränk	Trinken	Trinken
+PA02488	Apfel-, Äpfel-bumpes	Apfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PA02492	Apfel-fiez	Apfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PA02502	Apfel-gückes	Apfelwein minderer Sorte	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PA02521	Apfel-mops	nachgemachter Apfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PA02522	Apfel-most	Apfelmost	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Trinken	Trinken
+PA02536	Apfel-, Äpfel-saft	Apfelsaft, Äpfelsaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Trinken	Trinken
+PA02561	Apfel-, Äpfel-wein	Apfelwein, Äpfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PA02579	Apparaten-milch	Milch, die durch die Zentrifuge entrahmt ist	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+PA02627	Arbeiter-sekt	Mineralwasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Trinken	Trinken
+PA02886	Ast-heimer	Birnwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PA03037	Auf-enthalt	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PA03060	Auffüll-wein	Wein zum Auffüllen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PA04088	Aus-stich	Beerenauslese, edelster Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PA04089	Ausstich-wein	edelster Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PB00145	Päckel-brühe	schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PB00373	Bajaß-seiche	schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PB00523	Bampel-brühe	minderwertiger Wein, dünner Kaffee	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein;Getränk.Heißgetränk.Alkoholfreies_Heißgetränk	Trinken	Trinken
+PB00549	Bamsche	sich betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PB00617	Bankerotts-brühe, Bankerott-brühe	dünner, schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PB00620	Bankerottsmacher-brühe, Bankerottmacher-brühe	dünner, schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PB00757	Pappel-wasser	geringwertiger Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PB01168	Batzen-wein	minderwertiger Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PB01184	Bauch-bläser	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PB01216	Bauchweh-wasser	Zwetschgenschnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PB01220	Baudel-brühe	Malzkaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Trinken	Trinken
+PB01317	Bauern-wein	Wein, den die Bauern für den eigenen Gebrauch herstellen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PB01499	Pech-milch	die erste gelbe Milch der Kuh nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+PB02066	Perl-kaffee	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PB02644	Pfand-wein	verpfändeter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PB02736	Pfeffer-minze, -minz	Pfefferminztee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Trinken	Trinken
+PB02740	Pfefferminz-tee	Pfefferminztee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Trinken	Trinken
+PB02741	Pfefferminz-wasser	Getränk aus Pfefferminzessenz und Wasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink	Trinken	Trinken
+PB02869	Pferds-milch	Stutenmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+PB03008	Pflaster	Erdbeerwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PB03368	Bier	Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PB03415	Bier-schlorum	schlechtes Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PB03442	Biest-milch	die erste dicke, unreine Milch der Kuh unmittelbar nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+PB03609	Pink-pille	schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PB03661	Bippel-henker	derbe Bez. für schlechten Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PB03661	Bippel-henker	Tresterwein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PB03715	Birnen-bumpes	Wein, den man aus Birnenselbst hergestellt hat	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PB03729	Birnen-most	Birnensaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Trinken	Trinken
+PB03731	Birnen-puff	Wein, den man aus Birnen (und Äpfeln) selbst hergestellt hat	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PB03733	Birnen-saft	Birnensaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Trinken	Trinken
+PB03735	Birnen-schnackel	verächtlich für schlechten Birnenwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PB03741	Birnen-wein	Birnenwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PB03844	Bitter-wasser	ein sehr bitter schmeckendes Mineralwasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Trinken	Trinken
+PB03868	Bitzler	junger, noch gärender Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PB03946	Plämpel	schlechter Wein, minderwertiger Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PB03947	Plämpel-brühe	schlechter Wein, minderwertiger Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PB04154	blau	Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PB04279	Bleff	Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PB04481	Blume	Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PB04647	Blut-wein	Rotwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PB04693	Bock-bier	Starkbier mit hohem Stammwürzegehalt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PB04748	Böckser	von verdorbenem Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Other	other
+PB04748	Böckser	Most, der in der Gärung das Süße verloren hat	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PB04748	Böckser	Wein mit Bodengeschmack	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PB04755	Böcksler	schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PB04755	Böcksler	Wein mit Bodengeschmack	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PB04761	Bocks-seiche	schlechtes Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PB04859	Bohnen-kaffee	Bohnenkaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PB04922	Polack	Rest eines Getränkes im Glas	Getränk	Trinken	Trinken
+PB05580	Brand	brennender Durst	Durst	Trinken	Trinken
+PB05629	Brannte-wein, Brannt-wein	Branntewein, Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PB05642	Branntwein-schnäpsel	ein Gläschen Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PB05678	Brast	Durst	Durst	Trinken	Trinken
+PB05724	Bratz	schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PB05741	Brauhaus-bier	Biersorte aus Frankth	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PB06029	Preß-most	durch Pressen gewonnener Obstsaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Trinken	Trinken
+PB06123	Briester	erste Milch nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+PB06125	Briester-milch	erste Milch nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+PB06313	Brombeerenlaub-tee	Brombeerenblättertee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Trinken	Trinken
+PB06562	Brühe	schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PB06562	Brühe	Beeren-, Gemüsesaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Trinken	Trinken
+PB06562	Brühe	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PB06629	Brummelsbeerblätter-tee	Brombeerblättertee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Trinken	Trinken
+PB06831	Bruttel	trübe Brühe	Getränk	Other	other
+PB06831	Bruttel	schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PB06832	Bruttel-brühe	schlechtes Kaffeegetränk	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PB06974	Büchsen-milch	Büchsenmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+PB07038	Buckskin	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PB07052	Pudel	schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PB07085	Puff	Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PB07282	Bumpes	schlechter Wein, Tresterwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PB07380	Buppes	minderwertiger Wein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PB07749	Butter-milch	Buttermilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Trinken	Trinken
+PB07852	Butzen-milch, Butze-milch	die erste dicke, unreine Milch der Kuh nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+PB07865	Butzicht-milch	die erste dicke, unreine Milch der Kuh unmittelbar nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+PD00309	Taglöhners-wein, Taglöhner-wein	Wein, den die im Taglohn Arbeitenden von den Weinbauern erhalten	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PD00533	Tal-wein	Wein aus niedrigen Lagen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PD00571	Dämmer-schoppen	kleiner Abendtrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk	Trinken	Trinken
+PD01407	Tausendgüldenkraut-tee	Tee aus Tausendguldenkraut	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Trinken	Trinken
+PD01569	Tee	die getrockneten Blätter des Teestrauches und das daraus bereitete Getränk	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Trinken	Trinken
+PD01569	Tee	Kräutertee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Trinken	Trinken
+PD02004	Teufels-gesöff, Teufel-gesöff	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PD02202	Dick-milch	Dickmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+PD02573	Tisch-wein	Wein, der zum Essen getrunken wird, Wein von geringerer Qualität	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PD02627	Dividenden-brühe	Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PD02628	Dividenden-wasser	Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PD02922	Doppel-bier	Starkbier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PD02923	Doppel-bock	besonders starkes Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PD02947	Doppel-kümmel	doppelt abgezogener Kümmelbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Other	other
+PD03425	Drachen-töter	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PD03596	Trank	Getränk	Getränk	Trinken	Trinken
+PD03746	Trauben-most	Traubenmost	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Trinken	Trinken
+PD03753	Trauben-puff	Wein minderer Güte	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PD03764	Trauben-wein	Wein aus Traubenbeeren	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PD03870	Treber-most	Nachwein aus Traubentrestern	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PD03871	Treber-wein	aus Traubenrückständen unter Zusatz von Zucker und Wasser hergestellter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PD03964	Dreck-milch	die erste, dicke Milch der Kuh nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+PD04171	Drei-männer	schlechter, saurer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PD04173	Dreimänner-wein	schlechter, saurer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PD04291	Trester-most	Nachwein aus Traubentrestern	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PD04295	Trester-schnaps	aus Weintrestern gebrannter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PD04296	Trester-wasser	aus TraubenrückständenZucker und Wasser hergestellter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PD04431	Trink	Trunk	Getränk	Trinken	Trinken
+PD04433	Trink-branntwein	Branntwein zum Trinken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PD04436	Trinkens, Trinken	Getränk für Menschen	Getränk	Trinken	Trinken
+PD04443	Trink-stieben	heftiger Durst	Durst	Trinken	Trinken
+PD04445	Trink-wasser	Trinkwasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Trinken	Trinken
+PD04446	Trink-wein	minderer Wein, der als Haustrunk dient	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PD04512	Triumph-bock	Biersorte	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PD04576	Troll-schoppen	letzter Schoppen, der vor dem Nachhausegehen im Stehengetrunken wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk	Trinken	Trinken
+PD04611	Tropfs-bier	Bier, das nach dem Einschenken vom Hahn abtropft	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Other	other
+PD04669	Trub, Trube	trüber Rückstand von Flüssigkeiten, bes. dergetrübte letzte Wein im Faß	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Other	other
+PD04688	Trub-wein	der durch die Hefe getrübte letzte Wein im Faß	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PD04691	Druck	durch Keltern gewonnener Most	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Other	other
+PD04713	Drücker	ausgepreßter Most	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Other	other
+PD04718	Drücker-wein	Tresterwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PD04804	Trunk	was man auf einmal trinkt	Getränk	Trinken	Trinken
+PD04804	Trunk	Getränk	Getränk	Trinken	Trinken
+PD04809	Trunk-wein	minderer Wein, der als Haustrunk dient	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PD04832	Druschelbeeren-wein	Wein aus Stachelbeeren	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PD04844	Druschel-schnaps	Schnaps aus Stachelbeeren	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PD04846	Druschel-wein	Wein aus Stachelbeeren	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PD05026	Dullianer	Tresterwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PD05027	Dullianer-brühe	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PD05594	Türken-wein	spöttische Bez. für den sehr sauren Wein des Jahres 1529	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PD05604	Turko	Bez. für schlechten Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PD05712	Durst	Durst	Durst	Trinken	Trinken
+PD05776	Tut	Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Trinken	Trinken
+PE00146	Edel-wein	Edelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PE00257	Ehr-wein	auserlesener Wein, der aus besonderen Anlässen gereicht wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Other	other
+PE00282	Eichel-kaffee	Kaffee-Ersatz aus gerösteten Eicheln	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Other	other
+PE00406	Eier-wein	Wein mit verrührtem Ei und Zucker	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PE01305	Elfer, Elfter	ein Wein von besonderer Güte	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PE01315	Elfuhr-messe	Frühschoppen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk	Other	other
+PE01768	Erdbeeren-bowle, Erdbeer-bowle	Erdbeerenbowle, Erdbeerbowle	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk	Other	other
+PE01778	Erdbeeren-schnaps, Erdbeer-schnaps	auf Erdbeeren gezogener Likör	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PE01783	Erdbeeren-wein, Erdbeer-wein	Erdbeerenwein, Erdbeerwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PE01998	Ern-wein	Wein, der den Erntearbeitern zum Erntefest gereicht wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PE02053	Erst-milch	die erste Milch nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+PE02096	Erz-engeler	eine Weinbezeichnung	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PE02211	Essenz	Kaffee-Ersatz, Zichorie	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Trinken	Trinken
+PE02324	Eulen-seiche	verächtlich von abgestandenem Bier und anderen Getränken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PE02328	Eureka	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PF00455	Faß-bier	Bier aus dem Faß	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PF00457	Faß-böckser	Wein mit unangenehmem Faßgeschmack	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PF00505	Faß-wein	Wein direkt vom Faß	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PF01444	Vergiß-mein-nicht	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PF02260	Verschnitt-wein	Wein, der zum Verschneiden verwendet wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Other	other
+PF02878	Feuer-wasser	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PF03163	Fiez	Apfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PF03588	Flanz	Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Trinken	Trinken
+PF03618	Flaschen-milch	in Flaschen an den Verbraucher gelieferte Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+PF03625	Flaschen-wein	Flaschenwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PF04256	Voll-milch	Vollmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Trinken	Trinken
+PF04532	Vor-lauf	der beim Brennen zuerst ausfließende, sehr starke und ungenießbare Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Other	other
+PF05096	Frei-bier	Freibier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PF05493	Frühjahrs-tee	Tee von den im Frühling blühenden Blumen und Kräutern	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Trinken	Trinken
+PF05503	Früh-messe	Frühschoppen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk	Other	other
+PF05529	Fuchs	rötlicher Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PF05806	Fusel	schlechter Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PF05806	Fusel	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PG00215	Gamaschen-wasser	Tee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Trinken	Trinken
+PG00294	Gänsefüßer-wein	Wein aus Gänsefüßertrauben hergestellt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PG00355	Gänse-wein	Wasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Trinken	Trinken
+PG00486	Gartenhäusel-trauben	wilder Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PG00743	Gauls-, Gäuls-milch	Stutenmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+PG00886	Gebirgs-wein	Gebirgswein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PG00935	Ge-bruttel	Kaffeegetränk, in dem Rückstände schwimmen	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PG01375	Geißen-milch, Geiß-milch	Ziegenmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Trinken	Trinken
+PG01528	Ge-lapper	Sauermilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Trinken	Trinken
+PG01529	Ge-läpper	häufiges Trinken	Trinken.Häufig_lange_trinken	Trinken	Trinken
+PG01943	Ge-plämpels	Apfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PG02180	Gersten-brühe	Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PG02187	Gersten-kaffee	Kaffeeersatz aus gerösteten Gerstenkörnern	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Other	other
+PG02499	Gesinde-wein, Gesind-wein	minderwertiger Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PG02505	Ge-söff, -söffs, Ge-süff, -süffs	schlechtes, minderwertiges Getränk	Getränk	Trinken	Trinken
+PG02505	Ge-söff, -söffs, Ge-süff, -süffs	Getränk	Getränk	Trinken	Trinken
+PG02609	Gesundheits-tee	Tee von Heilkräutern	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Trinken	Trinken
+PG02634	Ge-tränk	Getränk für den Menschen	Getränk	Trinken	Trinken
+PG02934	Gichtrosen-wein	Wein aus Gichtrosen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PG03154	Glas	Inhalt des Trinkglases	Getränk	Other	other
+PG03529	Gocko	Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PG03653	Gori	Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PG03653	Gori	geringer Wein, gärender Tresterwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PG04443	Grundbirnen-branntwein, Grundbirn-branntwein	Kartoffelschnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PG04446	Grundbirnen-bumpes, Grundbirn-bumpes	Kartoffelschnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PG04457	Grundbirnen-fusel, Grundbirn-fusel	Kartoffelschnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PG04532	Grundbirnen-schnaps, Grundbirn-schnaps	Kartoffelschnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PG04644	Grün-kopf	Flaschenwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PG04677	Gruscheln-wein, Gruschel-wein	Stachelbeerwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PG04698	Grusselbeeren-wein, Grusselbeer-wein	Stachelbeerwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PG04745	Gückes	Branntwein, Kartoffelschnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PG04745	Gückes	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PG04783	Gullianer	minderwertiger Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PH00238	Häfelchens-wein	geringerer Wein, der im irdenen Milchtopf aus dem Keller geholt wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PH00710	Halsrosen-tee	Tee aus der Halsrose	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Trinken	Trinken
+PH00784	Hammels-milch, Hammel-milch	Schafsmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Trinken	Trinken
+PH00898	Händel-stifter	starker Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PH01153	Hannes-setz-dich	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PH01178	Hansel, Hänsel	schales Bier, Tropfbier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PH01730	Haupt-wein	Qualitätswein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PH01743	Haus-blume	geringer Wein für den täglichen Hausgebrauch	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PH01768	Hausfriedens-bruch	geringer Wein für den täglichen Hausgebrauch	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PH01833	Haus-mops	Wein minderer Qualität für den Hausgebrauch	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PH01844	Haus-rebe	Spalierwein am Haus	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Other	other
+PH01887	Haus-trunk, -trank	geringer Wein für den täglichen Hausgebrauch	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PH02010	Heckenbeeren-tee	Brombeerentee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Trinken	Trinken
+PH02173	Heidelbeeren-saft, Heidelbeer-saft	Heidelbeerensaft, Heidelbeersaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Trinken	Trinken
+PH02174	Heidelbeeren-schnaps, Heidelbeer-schnaps	aus Heidelbeeren gebrannter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PH02180	Heidelbeeren-wein, Heidelbeer-wein	Heidelbeerenwein, Heidelbeerwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PH03353	Herrgotts-wein, Herrgott-wein	Wasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Trinken	Trinken
+PH03873	Herum-trunk	Umtrunk	Trinken	Trinken	Trinken
+PH04398	Hick-auf	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PH04458	Himbeeren-saft, Himbeer-saft	Saft aus Himbeeren	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Trinken	Trinken
+PH04462	Himbeeren-wasser, Himbeer-wasser	mit Himbeerensaft gesüßtes Wasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink	Trinken	Trinken
+PH04463	Himbeeren-wein, Himbeer-wein	Wein aus Himbeeren oder Brombeeren	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PH04545	Himmels-wein	himmlischer Wein (im Kinderspiel)	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PH05861	Hochzeits-wein, Hochzeit-wein	Wein für das Hochzeitsfest	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PH05992	Hohen-astheimer	Apfel- oder Birnenwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PH05992	Hohen-astheimer	gepanschter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PH06079	Holderbeeren-wein	Wein aus Holunderbeeren	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PH06081	Holderblüten-tee, Holunderblüten-	Tee aus Holunderblüten	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Trinken	Trinken
+PH06092	Holder-saft	Saft aus Holunderbeeren	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Trinken	Trinken
+PH06176	Holzapfel-brühe	saurer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PH06407	Honig-likör	Likör, mit Honig gesüßt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PH06408	Honig-limonade	mit Honig gesüßte Limonade	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink	Trinken	Trinken
+PH06423	Honig-schnaps	mit Honig gesüßter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PH06433	Honig-wasser	mit Honig gesüßtes Wasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink	Trinken	Trinken
+PH06435	Honig-wein	Perlwein aus Wasser, Honig und Hefe	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein.Sekt	Trinken	Trinken
+PH07546	Husaren-kaffee	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PH07666	Hutzel-brühe	schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PH07666	Hutzel-brühe	süßer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PH07684	Hypotheken-tilger	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PI00290	Item-wein	Wein, der bei der Versteigerung von Grundstücken ausgegeben wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PJ00026	Jagd-fäßchen	kleines Fäßchen mit Wein, das man auf die Jagd mitnimmt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Other	other
+PJ00101	Jakob	Apfelwein minderer Sorte, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PJ00111	Jakob-setz-dich	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PJ00156	Jankes	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PJ00223	Jekuff	Umtrunk, das sich Zutrinken	Trinken	Trinken	Trinken
+PJ00310	Johannisbeer-wein	Wein aus Johannisbeeren	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PJ00352	Johannistrauben-saft	Saft aus Johannisbeeren	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Trinken	Trinken
+PJ00355	Johannistrauben-wasser	Wasser mit Johannisbeerensaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink	Trinken	Trinken
+PJ00356	Johannistrauben-wein	Johannisbeerwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PJ00363	Johann-Jakob	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PJ00371	Johann-Peter	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PJ00385	Joli	Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PJ00569	Jungfern-wein, Jungfer-wein	der aus den ersten Trauben eines neuangelegten Wingerts gewonnene Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PK00043	Kaffee	Getränk aus Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PK00043	Kaffee	Nachmittagskaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PK00043	Kaffee	Kaffee-Ersatz verschiedener Art	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Trinken	Trinken
+PK00052	Kaffee-brühe	dünner Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PK00053	Kaffee-bruttel	Kaffeebrühe	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PK00062	Kaffee-geschlapper	das Kaffeetrinken	Trinken	Trinken	Trinken
+PK00066	Kaffee-hunger	großes Verlangen nach Kaffee	Durst	Trinken	Trinken
+PK00080	Kaffee-milch	Milch für den Kaffee	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+PK00105	Kaffee-trinken	Nachmittagskaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee;Trinken	Trinken	Trinken
+PK00181	Kakao	Kakao	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kakao	Trinken	Trinken
+PK00187	Kälbchens-käse	erste Milch nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+PK00762	Karst	Schnaps, der bes. zur Zeit der Kartoffelernte gereicht wurde	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PK00763	Karst-anis	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PK00764	Karst-ausgemachter	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PK00772	Karsten-wasser, Karst-wasser	Schnaps, der bes. zur Zeit der Kartoffelernte gereicht wurde	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Other	other
+PK01068	Kathreiner-brühe	schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PK01779	Kikerikik, Kikeres, Kikeriki, Kikeres	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PK01996	Kippen	Rest im Bierglas	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Other	other
+PK02086	Kirbe-wein	saurer, schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PK02235	Kirsch	Kirschbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PK02277	Kirschen-saft, Kirsch-saft	Saft aus Kirschen	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Trinken	Trinken
+PK02278	Kirschen-schnaps, Kirsch-schnaps	Branntwein aus Kirschen und Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PK02285	Kirschen-wasser, Kirsch-wasser	Branntwein aus Kirschen und Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PK02535	Klecks	ein Glas Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PK02772	Klicker-wasser	Selterswasser in Flaschen mit Glaskugelverschluß	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Trinken	Trinken
+PK03365	Knorbel, Knurbel, Knürbel	Kartoffelschnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PK03477	Knupper, Knuppert	ein Glas Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PK03783	Koloster	erste Milch einer Kuh nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+PK03784	Kolostral-milch	erste Milch einer Kuh nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+PK03840	Kommunist	Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PK03926	Konrad-setz-dich	Haustrunk, schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PK04157	Korn-branntwein	Branntwein aus Roggen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PK04184	Korn-kaffee	aus geröstetem Roggen zubereitetes kaffeeartiges Getränk	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Trinken	Trinken
+PK04205	Korn-schnaps	Branntwein aus Roggen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PK04245	Koscher-most	aus dem elterlichen Keller von den Söhnen heimlich verkaufter Most	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Other	other
+PK04340	Krabbel-an-der-Wand	Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PK04344	Krabbeler	Wein, der leicht trunken macht	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PK04477	Krambambel	Schnaps der Marke 'Krambambuli'	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PK04481	Krambutsch	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PK04633	Kratzer, Krätzer	geringer, saurer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PK04694	Kräuter-tee	Kräutertee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Trinken	Trinken
+PK04742	Kraut-tee	Kräutertee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Trinken	Trinken
+PK05631	Kuh-milch, Küh-	Kuhmilch, Kühmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Trinken	Trinken
+PK05774	Kümmel	Schnaps, gewürzt mit Kümmel	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PK05784	Kümmel-schnaps	Schnaps, gewürzt mit Kümmel	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PK05881	Kunst-wein	gepanschter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PK05982	Kurzer	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PK06040	Kutscher	geringer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PL00084	Lackel-tackel	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PL00095	Lacks-brühe, Lackels-	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PL00159	Lagageri	schlechter, saurer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PL00160	Lage	eine Runde Bier, Wein usw.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk	Trinken	Trinken
+PL00169	Lager-bier	Lagerbier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PL00178	Lager-wein	Wein, der im Faß gelagert wird, zum Lagern geeigneter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PL00379	Land-wein	Landwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PL00514	Lappel-brühe	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PL00515	Läpplerei	das Trinken in kleinen Schlucken	Trinken.Langsam_kleine_Mengen_trinken	Trinken	Trinken
+PL00564	Lari	Verwässertes (z.B. Kaffee, Wein, Suppe)	Getränk;Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein;Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PL00750	Lauer, Läuer	Wein, der aus den mit Wasser eingeweichten Preßrückständengewonnen wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PL00754	Läuer-brühe	Tresterwein, schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PL00755	Läuerer	Tresterwein, schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PL00808	Laugens-brühe, Laugs-brühe	fades, schlechtes Getränk, bes. von Kaffee oder Wein	Getränk;Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein;Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PL00911	Lauter-wasser	Kaiserslauterer Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PL01170	Lehnen-wein, Lehn-wein	Wein einer Hanglage	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PL01433	Leimen-brühe, Leim-brühe	noch nicht ausgegorener, trüber Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PL01924	likör	likör	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PL01943	Limonade	Limonade	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink	Trinken	Trinken
+PL02060	Lo-bier	Freibier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PL02297	Lot-bier	Freibier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PL02673	Lutter	Zwetschgen- oder Birnenschnaps, der zum zweitenmal gebrannt wurde	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PM00006	Mach-bach	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PM00007	Mach-buck	geringer Wein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PM00112	Magdalenen-brühe	aufgewärmter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PM00112	Magdalenen-brühe	von einem Trinker als schwach bezeichneter Whisky	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PM00114	Magdalenen-wasser	aufgewärmter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PM00141	Magen-bitter	Magenbitter	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Other	other
+PM00171	Mager-milch	entrahmte Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Trinken	Trinken
+PM00457	Malz-kaffee	Malzkaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Trinken	Trinken
+PM00569	Männer-milch	Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PM00867	Märzen-bier, März-bier	im März gebrautes Lagerbier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PM01010	Matte	Sauermilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Trinken	Trinken
+PM01211	Maurers-likör, Maurer-likör	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PM01216	Maurers-schnaps, Maurer-schnaps	minderwertiger Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PM01361	Meer-rettich	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PM01688	Met	selbstgebrautes Getränk aus Wasser, Honig und unvergorenem Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk	Trinken	Trinken
+PM01838	Milch	Milch der Haustiere, Muttermilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Trinken	Trinken
+PM01892	Milch-kaffee	Milchkaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PM02033	Mineral-wasser	Mineralwasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Trinken	Trinken
+PM02088	Misch-kaffee	Mischung aus Bohnen- und Malzkaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee;Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Trinken	Trinken
+PM02468	Mockel	Tresterwein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PM02726	Moppel, Möppel	geringwertiger Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PM02731	Mops, Moppes	Tresterwein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PM02775	Mords-brand	starker Durst	Durst	Trinken	Trinken
+PM02853	Morgen-kaffee	Morgenkaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PM02919	Mosel	Moselwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PM02920	Mosel-wein	Moselwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PM02922	Moses, Mosche	Tresterwein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PM02926	Most	unvergorener Saft gekelterter Äpfel, Birnen	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Trinken	Trinken
+PM02926	Most	unvergorener, süßer Traubensaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Trinken	Trinken
+PM02926	Most	Obstwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PM02931	Most-brühe	unvergorener, süßer Traubensaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Trinken	Trinken
+PM02989	Mozenblätter-tee	Brombeerblättertee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Trinken	Trinken
+PM03003	Mucken-buff	Malzkaffee, Kaffeersatz	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Trinken	Trinken
+PM03010	Mucken-fuck	Malzkaffee, Kaffeersatz	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Trinken	Trinken
+PM03370	Musikanten-durst	großer Durst, wie er bei Musikanten üblich ist	Durst	Trinken	Trinken
+PN00008	Nabel-naß	Tresterwein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PN00011	Nabel-wärmer	guter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PN00118	Nach-lauf	Schnaps, der beim Brennen zuletzt herausläuft	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PN00118	Nach-lauf	Most bzw. Wein, der beim Keltern zuletzt herausläuft	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PN00330	Nacht-wächter	abgestandenes Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PN00346	Nach-wein	Tresterwein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PN00483	Nähts	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PN00746	Nebel-zerstörer	geringer Wein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PN00899	Nerven-schwächer	sehr starker Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PN01414	Nulpes	Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PN01475	Nuß-schnaps	aus grünen Walnüssen bereiteter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PO00109	Ober-länder	Wein aus der oberen Haardt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PO00234	Obst-saft	Obstsaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Trinken	Trinken
+PO00242	Obst-wein	Obstwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PO00541	Oktober-tee	Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PO00573	Olig	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PQ00264	Quetsch	Zwetschgenbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PQ00274	Quetschen-branntwein	Zwetschgenbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PQ00303	Quetschen-schnaps	Zwetschgenbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PQ00312	Quetschen-wasser	Zwetschgenbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PR00049	Rachen-putzer	scharfer Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PR00049	Rachen-putzer	minderwertiger, schlechter Wein; Tresterwein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PR00059	Rackel-gackel	schlechter, gepanschter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PR00102	Radetzky	minderwertiger Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PR00122	Radler-maß	Mischgetränk aus Bier und Limonade	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk	Trinken	Trinken
+PR00253	Rampaß	saurer Wein, Tresterwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PR00263	Rampfer	saurer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PR00334	Ranzen-risser	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PR00383	Rappis	saurer, schlechter Wein; Tresterwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PR00399	Räppsel	Tresterwein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PR00401	Rappser, Räppser	Tresterwein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PR00454	Raspel	scharfer Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PR00480	Rassi-bulli	schlechter, saurer Wein; Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PR00571	Ratzen-butz	starker Zwetschenschnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PR00727	Rauscher	gärender Most	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Other	other
+PR00763	Reben-blut, Reb-	Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PR00780	Reben-saft, Reb-	Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PR01305	Reiß-mich-um	für Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PR01306	Reiß-mischung	sehr saurer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PR01532	Rhabarber-wein	Wein aus Rhabarber	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PR01551	Rhein-wasser	scherzhafte Bezeichnung des Ludwigshafener Biers	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PR01664	Riesen-brand	sehr großer Durst	Durst	Trinken	Trinken
+PR01691	Riesling-wein	Wein aus Riesling	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PR01866	Rippes	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PR01901	Risser	neuer, noch gärender Wein mit prickelndem Geschmack	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PR02375	Rot-wein	Rotwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PR02699	Rülps-wasser	Sprudelwasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Trinken	Trinken
+PR02704	Rum	Rum	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PR02776	Runde	von einem Teilnehmer einer Gesellschaft gestiftetes Getränk	Getränk	Other	other
+PR02804	Rundung	von einem Teilnehmer einer Gesellschaft gestiftetes Getränk	Getränk	[ungültig]	other.
+PS00092	Säckels-brühe	schlechter, saurer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS00099	Säcker, Säckert	geringwertiger Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS00125	Säcker-wein	aus Trestern gewonnener Wein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS00181	Saft	als Getränk, Heilmittel zubereiteter Saft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Trinken	Trinken
+PS00576	Sand-wein	Wein, der auf Sandboden wächst	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS00823	Sauer-ampfel, -ampfer, -ämpferich	saurer, minderwertiger, schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS00824	Sauerampfel-brühe	saurer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS00860	Sauer-milch	geronnene (ungekochte) Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+PS00902	Saufens	Getränk, Trinkvorrat	Getränk	Trinken	Trinken
+PS00907	Sauferei	Zechgelage, das fortwährende, unmäßige Trinken von Alkohol	Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken; Trinken.Häufig_lange_trinken	Trinken	Trinken
+PS00946	Sauf-zeug	Getränke	Getränk	Trinken	Trinken
+PS00963	Sau-gesüff	minderwertiger, schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS01118	Saurach	saurer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS01303	Schächer	Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PS01466	Schafs-milch, Schaf-milch	Schafsmilch, Schafmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+PS01637	Schamas	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS01660	Schampanjer Champagner, Schampanjer	Schaumwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein.Sekt	Trinken	Trinken
+PS01666	Schampus	Schaumwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein.Sekt	Trinken	Trinken
+PS02326	Schiefer	guter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS02339	Schiefer-wein	minderwertiger Wein aus schieferigem Boden	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS02433	Schilcher	blaßroter, geringer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS02455	Schilkser	geringer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS02610	Schlabber-brühe	schlechtes, fades Getränk	Getränk	Trinken	Trinken
+PS02621	Schlabber-milch	geronnene Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+PS02742	Schlaf-trunk	Trunk vor dem Schlafengehen	Getränk	Trinken	Trinken
+PS02826	Schlamper, Schlämper	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS03076	Schleh-branntwein	aus Schlehen hergestellter Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PS03089	Schleh-schnaps	aus Schlehen hergestellter Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PS03107	Schleich-wein	mit Hefe durchsetzter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS03336	Schlingel	schlechter, minderwertiger Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS03349	Schlinken-putzer	schlechter Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PS03438	Schloriampels-brühe	schales, fades Getränk, dünner Kaffee	Getränk; Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PS03439	Schlorum	Kaffee; schaler, dünner Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PS03440	Schlorum-bier	eine Biersorte	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PS03608	Schlurpser	Schluck, Trunk	Getränk	Trinken	Trinken
+PS03619	Schlüsselblumen-tee	Tee aus den Blüten der Schlüsselblume	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Trinken	Trinken
+PS03951	Schmisser	trockener, harter Wein, der einen umwirft	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS03987	Schmoras	Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PS04193	Schnalzer	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS04243	Schnaps	Getränk mit hohem Alkoholanteil	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PS04261	Schnaps-gepfetze	Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PS04351	Schnaubian	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PS04675	Schnips	ein Gläschen Schnaps oder einfachen Kornbranntweins	Trinken.Alkohol_trinken	Trinken	Trinken
+PS04715	Schnitt-wein	Wein aus der letzten Mostpressung	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS04720	Schnitz-brühe	Wasser, in dem Apfel- oder Birnenstücke gekocht wurden	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink	Other	other
+PS04896	Schnurr-gückel	Tresterwein, Haustrunk, minderwertiger Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS04953	Schockele-majem	Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PS04979	Schoker	Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PS04986	Schokolade	Süßigkeit aus Kakao, Milch und Zucker	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kakao	Other	other
+PS05072	Schoppen-wein	in Schoppen (vom Faß) ausgeschenkter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Other	other
+PS05097	Schorle	Wein und Mineralwasser (meist) je zur Hälfte vermischt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk	Trinken	Trinken
+PS05098	Schorle-morle	Wein und Mineralwasser (meist) je zur Hälfte vermischt	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk	Trinken	Trinken
+PS05365	Schröpf-kopf	kleines Fäßchen mit Wein oder Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk	Other	other
+PS05855	Schüssel-milch	Milch, die in einer flachen Schüssel entrahmt wurde	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+PS05893	Schüttel-riesling	Apfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS06719	Sechel	ein Glas Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PS06825	Seelen-wärmer, Seel-	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PS06969	Seifen-brühe	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS07106	Sekt	Schaumwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein.Sekt	Trinken	Trinken
+PS07167	Selters-wasser, Selzer-	Mineral-, Sprudelwasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Trinken	Trinken
+PS07599	Silven-wein	Wein aus Silvanertrauben	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS07695	Sirup	Sirup	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink	Trinken	Trinken
+PS07765	Soda-wasser	kohlensäurehaltiges Mineralwasser, Sprudel	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Trinken	Trinken
+PS08119	Soruf	Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PS08372	Spät-lese	Wein aus spät geernteten Trauben, Wein höherer Qualitätsstufe	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS08583	Speicher-kaffee	Kaffee-Ersatz aus geröstetem Getreide	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Other	other
+PS08731	Sperben-wein	Wein aus Früchten des Speierling oder mit Speierlingzusatz	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS09049	Spitzbohnen-kaffee	Kaffee-Ersatz aus Gerste, Roggen, Malz u.ä.	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Trinken	Trinken
+PS09112	Spitzen-wein	besonders guter, hervorragender Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS09411	Sprit	schlechter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS09417	Spritzel-wasser	Mineralwasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Trinken	Trinken
+PS09424	Spritzer	mit Sodawasser gemischter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk	Trinken	Trinken
+PS09465	Sprudel	kohlensäurehaltiges Trinkwasser, Mineralwasser, Kurgetränk	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Trinken	Trinken
+PS09496	Sprutzel-wasser	Mineralwasser mit Kohlensäure	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser	Trinken	Trinken
+PS09547	Spül-wasser	dünnes, fades Getränk	Getränk	Trinken	Trinken
+PS09548	Spülwasser-brühe	dünnes, fades Getränk	Getränk	Trinken	Trinken
+PS09663	Stachelbeer-wein	Obstwein aus Stachelbeeren	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS10051	Stark-bier	eine Biersorte mit besonders viel Stammwürze	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PS10292	Steh-schoppen	vor dem Heimgehen an der Theke der Wirtschaft getrunkenes Getränk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk	Trinken	Trinken
+PS10654	Sternen-bier, Stern-bier	Bier aus einem Gasthaus Zum Sternmit früherer eigener Brauerei	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PS10768	Stich-wein	Wein mit einem Essigstich	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS10768	Stich-wein	der Wein eines vorzüglichen Jahrganges	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS10811	Stieber	der große Durst nach einem Rausch, Brand	Durst	Trinken	Trinken
+PS11136	Stoff, Stuft	alkoholisches Getränk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk	Trinken	Trinken
+PS11275	Storchen-bier	Bier der Storchenbrauerei in Speyer	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PS11336	Storzen	ein Bier- oder Weinrest	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier;Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS11348	Stößel-wein	Wein aus unreifen, zerstampften Trauben	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PS11375	Stoß-milch	Buttermilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Trinken	Trinken
+PS12401	Stuten-milch	Pferdemilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+PS12465	Suckel	schwacher Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PS12473	Suckels-brühe	schlechter Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PS12488	Sudel-bier	abgestandenes Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PS12489	Sudel-brühe	Getränk von schlechter, dünner Qualität, Gesöff (Wein Bier Kaffee)	Getränk; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier;Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein;Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PS12520	Suff	(schlechtes, fades) Getränk	Getränk	Trinken	Trinken
+PS12520	Suff	das (übermäßige) Trinken von Alkohol, Trunksucht	Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+PS12743	Süß-milch	nicht angesäuerte Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+PS12745	Süß-most	frischer, unvergorener Traubensaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Trinken	Trinken
+PU00534	Um-trunk	gemeinsames Trinken in einer Runde	Trinken	Trinken	Trinken
+PU00941	Unter-länder	Wein aus dem Unterland	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PU01050	Unter-trunk	Trunk für den Mittag oder tagsüber zwischendurch	Getränk	Other	other
+PW00449	Waldmeister-tee	Tee mit Waldmeisterblättern	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Trinken	Trinken
+PW00490	Wald-wein	Wein aus Lagen am Wald	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PW00931	Wasser	mit bestimmten Zusätzen versehenes Wasser als Getränk	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink	Trinken	Trinken
+PW00931	Wasser	Alkohol, Branntwein, Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Other	other
+PW01079	Wasser-saufen	das Wassertrinken	Trinken	Trinken	Trinken
+PW01284	Wegerich-tee	Kräutertee aus Wegerichblättern	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Trinken	Trinken
+PW01418	Weh-milch	die erste dicke Milch der Kuh unmittelbar nach dem Kalben	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk	Other	other
+PW01454	Weiber-klopfer	neuer Wein, Federweißer, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PW01677	Wein	Traubensaft bzw. Most, unvergoren bzw. in Gärung befindlich	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft; Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PW01677	Wein	alkoholisches Getränk aus dem Saft von Trauben	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PW01720	Wein-geist	hochprozentiger Alkohol	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PW01776	Wein-puff	Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PW01814	Wein-suppe	der gärende Most	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Other	other
+PW01819	Wein-trub	der durch die Hefe getrübte letzte Wein im Faß	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Other	other
+PW01870	Weiß-bier	helles Bier, Weizenbier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PW01899	Weiß-herbst	rötlicher Wein aus roten oder blauen Trauben	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PW01942	Weiß-wein	heller Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PW01983	Weizen-bier	mit Gersten- und Weizenmalz gebrautes Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier	Trinken	Trinken
+PW02221	Wermut	mit Wermut 1b hergestelltes bitteres alkoholisches Getränk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PW02528	Wieder-täufer	saurer Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PW02762	Wilhelm	Schnaps aus Williams Christbirnen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Other	other
+PW03280	Witwen-macher	aus Traubenrückständen hergestellter Wein, Haustrunk	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PW03430	Wolfs-tee	Tee von der Königskerze	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee	Trinken	Trinken
+PW03707	Wupp-dich	Branntwein, Schnaps allgemein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PW03707	Wupp-dich	ein Schluck oder ein Gläschen Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose	Trinken	Trinken
+PW03721	Wurf	kleines Trinkglas, bzw. dessen Inhalt	Getränk	Trinken	Trinken
+PXXX	Glüh-wein	Glühwein	Getränk.Heißgetränk.Alkoholhaltiges_Heißgetränk	Trinken	Trinken
+PZ00283	Zecherei	ausgiebiges Trinken im Gasthaus	Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+PZ00285	Zech-gelage	Besäufnis in geselliger Runde	Trinken.Alkohol_trinken	Other	other
+PZ00541	Zichorie	fürbende Kaffeezusatz, -ersatz und das daraus gewonnene Getränk	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Trinken	Trinken
+PZ00542	Zichorie-brühe	schlechter, dünner Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee	Trinken	Trinken
+PZ00545	Zichorie-kaffee	Getränk aus bzw. mit Zichorienwurzel	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee	Trinken	Trinken
+PZ00649	Ziel-wasser	Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PZ00892	Zitronen-saft	Flüssigkeit der Zitrone und das daraus bereitete Getränk	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft	Trinken	Trinken
+PZ00893	Zitronen-wasser	mit Zitronensaft gemischtes Wasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink	Trinken	Trinken
+PZ01090	Zucker-brühe	verzuckerter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PZ01151	Zucker-wasser	mit Zucker und Wasser angerührtes Getränk	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink	Trinken	Trinken
+PZ01154	Zucker-wein	(nur im Sommertagslied): Bezeichnung für süßen Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+PZ02137	Zwockel-wein	Wein, der in Bayern gewachsen ist	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein	Trinken	Trinken
+EG01147	gutteren	aus einem Fläschchen trinken	Trinken	Trinken	Trinken
+EG01325	gluckeren	schlürfen, trinken	Trinken.Geräuschvoll_trinken	Trinken	Trinken
+EG01330	glucklen	trinken	Trinken	Trinken	Trinken
+EH01203	hüpperen	trinken	Trinken	Trinken	Trinken
+EK01581	klëmmen	trinken	Trinken	Trinken	Trinken
+EK01653	klepfen	wegschnappen, verzehren (Obst; eine Flasche Wein)	Trinken.Alkohol_trinken	Other	other
+EK01662	klopfen	schlagen, hämmern; mit dem Glase auf den Tisch klopfen, wenn man im Wirtshaus noch etwas wünscht; trinken	Trinken	Other	other
+EL00173	verlëchen	austrocknen, verschmachten vor Durst	Durst	Trinken	Trinken
+EL00740	lällen	lechzen vor Hitze und Durst, von Hunden, Rindern, Federvieh, zuweilen übtr. auch vom Menschen gesagt: vor Durst die Zunge heraushängen lassen	Durst	Trinken	Trinken
+EL01062	läppelen	saufen (vom Hund)	Trinken	Trinken	Trinken
+EL01062	läppelen	trinken mit dem Nebengedanken des Behaglichen, Langsamen	Trinken.Langsam_kleine_Mengen_trinken	Trinken	Trinken
+EL01063	läpperen	schlürfen, schlappern (von Hunden); langsam und behaglich, langsam trinken	Trinken.Geräuschvoll_trinken; Trinken.Langsam_kleine_Mengen_trinken	Trinken	Trinken
+EL01080	lipplen	saufen (von der Katze)	Trinken	Trinken	Trinken
+EL01367	leschen	löschen (Feuer, Durst, Staub)	Trinken	Trinken	Trinken
+EM00633	mëmm(e)len	in der Kindersprache trinken	Trinken	Trinken	Trinken
+EM00633	mëmm(e)len	behaglich und in kleinen Zügen wiederholt trinken, von älteren Leuten und von Gewohnheitstrinkern	Trinken.Langsam_kleine_Mengen_trinken	Trinken	Trinken
+EP00137	bëcheren	zechen, pokulieren, tüchtig trinken	Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+EP00228	büchsen	trinken	Trinken	Trinken	Trinken
+EP00295	bafen, bäfen	trinken	Trinken	Trinken	Trinken
+EP00297	baferen, bäferen	tüchtig trinken	Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+EP00429	packen	trinken	Trinken	Trinken	Trinken
+EP01277	panschen, banschen	viel, tüchtig essen oder trinken	Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+EP01858	bürsten	viel trinken	Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+EP01859	us bursten	austrinken	Trinken.Austrinken	Trinken	Trinken
+EP02088	busen	trinken, den Durst löschen	Trinken	Trinken	Trinken
+EP02832	pfëtzen	trinken	Trinken	Trinken	Trinken
+EP03365	blasen	trinken, gern und viel	Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+EP03369	us blasen	austrinken	Trinken.Alkohol_trinken;Trinken.Austrinken	Trinken	Trinken
+ES00272	seiflen	geräuschvoll und anhaltend trinken	Trinken.Geräuschvoll_trinken; Trinken.Häufig_lange_trinken	Trinken	Trinken
+ES00280	sufen	saufen, vom Vieh	Trinken	Trinken	Trinken
+ES00280	sufen	grob von Menschen gesagt, trinken	Trinken	Trinken	Trinken
+ES00286	us sufen	leer saufen, leer trinken	Trinken.Austrinken	Trinken	Trinken
+ES00306	süfflen, säufflen	trinken, mehr scherzhaft gesagt	Trinken	Trinken	Trinken
+ES00306	süfflen, säufflen	kleine Schlücke nehmen, aber anhaltend dabei bleiben	Trinken.Langsam_kleine_Mengen_trinken; Trinken.Häufig_lange_trinken	Trinken	Trinken
+ES00608	suckelen	langsam saugen	Trinken.Langsam_kleine_Mengen_trinken	Trinken	Trinken
+ES01152	surpfen	mit Geräusch trinken oder vom Löffel schmatzen	Trinken.Geräuschvoll_trinken	Trinken	Trinken
+ES02175	schuren II	nach einer Hochzeit bei den Eingeladenen von Haus zu Haus gehen und zechen: die Männer trinken Wein, die Frauen Kaffee Andolsh. u. Umg	Trinken; Trinken.Alkohol_trinken	Trinken	Trinken
+ES02377	schaskenen	trinken	Trinken	Trinken	Trinken
+ES02451	dran schütten	trinken	Trinken	Trinken	Trinken
+ES02583	schleifen, schleipfen	trinken	Trinken	Trinken	Trinken
+ES02767	schlamperen	die Tränke saufen, vom Vieh; verächtlich auch vom Menschen	Trinken	Trinken	Trinken
+ES03013	schletzen	gierig, essen oder trinken	Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+ES03030	schlutzen, schlotzen	schlürfen, mit Wohlbehagen trinken	Trinken.Geräuschvoll_trinken	Trinken	Trinken
+ES03507	schnapsen	Schnaps trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+ES03508	schnäpslen	Schnäpschen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+ES03812	schwächen	trinken, zechen, saufen	Trinken.Alkohol_trinken	Trinken	Trinken
+ES03991	schwerzen	trinken	Trinken	Trinken	Trinken
+ES04525	spritzen, spretzen	trinken	Trinken	Trinken	Trinken
+ES04592	stäüben	derb für trinken	Trinken	Trinken	Trinken
+ET00171	düchlen	scherzh. trinken	Trinken	Trinken	Trinken
+ET00270	dudlen, düdlen	zechen, trinken	Trinken; Trinken.Alkohol_trinken	Trinken	Trinken
+ET01807	trudlen, truttlen	trinken	Trinken	Trinken	Trinken
+ET02159	trinken	trinken	Trinken	Trinken	Trinken
+ET02161	nach trinken	einem andern nachtrinken, nach einem andern aus demselben Glas trinken	Trinken	Trinken	Trinken
+EZ00046	zëchen	trinken	Trinken	Trinken	Trinken
+EZ00154	ziehe(n), ziegen	gierig trinken	Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+LB00626	be-schipsen	sich betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+LB00676	be-trinken	sich betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+LB01560	bruddelen	mit Geräusch Wasser schlürfen (vom Vieh)	Trinken.Geräuschvoll_trinken	Trinken	Trinken
+LD00392	dieschten	dursten	Durst	Trinken	Trinken
+LD00590	tompen	schlummern, nippen	Trinken.Langsam_kleine_Mengen_trinken	Trinken	Trinken
+LD00701	dranken	trinken	Trinken	Trinken	Trinken
+LD00816	drenken	trinken	Trinken	Trinken	Trinken
+LD00870	trinken	trinken	Trinken	Trinken	Trinken
+LD01185	tuten II	tüchtig trinken	Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+LD01188	duttlen	trinken, saugen	Trinken	Trinken	Trinken
+LF00496	ver-lechen	austrocknen, verschmachten vor Durst	Durst	Trinken	Trinken
+LL00146	läppsen	nippen; essen od. trinken wie einer, dem es nicht recht schmeckt	Trinken.Langsam_kleine_Mengen_trinken	Trinken	Trinken
+LL00196	lebbern	nippen' schlürfen	Trinken.Langsam_kleine_Mengen_trinken;Trinken.Geräuschvoll_trinken	Trinken	Trinken
+LL00467	literen	tüchtig trinken	Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+LR00037	rädelen	zuviel essen od. trinken	Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+LS00441	schepplen	trinken, mit dem Nebenbegriff des Gewohnheitsmäßigen	Trinken	Trinken	Trinken
+LS00742	schlirpsen	schlürfen beim Trinken	Trinken.Geräuschvoll_trinken	Trinken	Trinken
+LS00772	schlotzen	schlürfen, mit Wohlbehagen trinken, schmatzen	Trinken.Geräuschvoll_trinken	Trinken	Trinken
+LS00789	schluppen	einen Schluck tun, zechen	Trinken.Alkohol_trinken	Trinken	Trinken
+LS00790	schlurben	schlürfen, geräuschvoll trinken	Trinken.Geräuschvoll_trinken	Trinken	Trinken
+LS00824	schmatzen	mit Wohlbehagen trinken	Trinken	Trinken	Trinken
+LS01070	schocken	anstoßen mit den Gläsern, um auf das Wohl jds. zu trinken	Trinken	Trinken	Trinken
+LS01524	sifflen	anhaltend u. viel trinken	Trinken.Schnell_große_Mengen_trinken; Trinken.Häufig_lange_trinken	Trinken	Trinken
+LS02448	suffen	saufen	Trinken.Alkohol_trinken	Trinken	Trinken
+LU00253	us-suffen	leer saufen	Trinken.Austrinken	Trinken	Trinken
+PA00305	ab-heben	einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PA00579	ab-saufen	oben heruntersaufen	Trinken	Trinken	Trinken
+PA00610	ab-schießen	einen (Wein) trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PA00825	ab-trinken	von oben wegtrinken	Trinken	Trinken	Trinken
+PA00825	ab-trinken	ein Glas Bier oder Wein leeren	Trinken.Alkohol_trinken;Trinken.Austrinken	Trinken	Trinken
+PA01737	an-dudeln	sich betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PA01739	an-duseln	sich einen Dusel antrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PA01829	an-feuchten	einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PA02138	an-rauchen	sich einen kleinen Rausch antrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PA02174	an-säufeln	sich einen kleinen Rausch antrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PA02175	an-saufen	mit dem Saufen (Trinken) beginnen	Trinken	Trinken	Trinken
+PA02175	an-saufen	sich volltrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PA02176	an-säuseln	sich leicht betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PA02250	an-schwipsen	sich einen Rausch antrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PA02391	an-trudeln	sich betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PA03164	auf-laden	sich betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PA03607	aus-bürsten	austrinken, leer trinken	Trinken.Austrinken	Trinken	Trinken
+PA03624	aus-dudeln	saugend austrinken	Trinken.Austrinken	Trinken	Trinken
+PA03730	aus-gluckern	austrinken	Trinken.Austrinken	Trinken	Trinken
+PA03809	aus-läppern	in kleinen Schlucken austrinken	Trinken.Austrinken;Trinken.Langsam_kleine_Mengen_trinken	Trinken	Trinken
+PA03882	aus-pitschen	austrinken	Trinken.Alkohol_trinken;Trinken.Austrinken	Trinken	Trinken
+PA03957	aus-saufen	leer saufen	Trinken.Austrinken	Trinken	Trinken
+PA04011	aus-schöppeln	zu Ende schöppeln, trinken	Trinken.Alkohol_trinken;Trinken.Austrinken	Trinken	Trinken
+PA04077	aus-stauben	austrinken	Trinken.Austrinken	Trinken	Trinken
+PA04127	aus-trinken	durch Trinken leer machen	Trinken.Austrinken	Trinken	Trinken
+PB00514	bambuschieren	zechen	Trinken.Alkohol_trinken	Trinken	Trinken
+PB00550	bamscheln	trinken	Trinken	Trinken	Trinken
+PB00551	bamschen	viel trinken, saufen	Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+PB00669	panschen	zechen, saufen	Trinken.Alkohol_trinken	Trinken	Trinken
+PB01491	bechern	viel trinken, zechen	Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+PB01537	be-diaduseln	betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PB01548	be-dudeln	betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PB01633	be-hauen	sich betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PB01838	be-ledern	betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PB01910	bemschen	tüchtig trinken	Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+PB01928	be-nebeln	sich betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PB02056	perlen	trinken	Trinken	Trinken	Trinken
+PB02122	be-rußen	sich betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PB02130	be-sabeln	sich betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PB02133	be-saufen	besaufen	Trinken.Alkohol_trinken	Trinken	Trinken
+PB02138	be-schaskeln, -schassen	sich betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PB02160	be-schlagen	sich betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PB02172	be-schnussen	betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PB02193	be-seibeln	betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PB02354	be-trudeln	sich betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PB02495	be-tutern	sich betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PB02576	be-zechen	sich betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PB02917	pfetzen	trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PB02931	pfiffeln	ein kleines Glas Wein trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PB02932	pfiffen	ein kleines Glas Wein trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PB03816	pitschen	trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PB03948	plämpern	oft trinken	Trinken.Häufig_lange_trinken	Trinken	Trinken
+PB04011	blasen	einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PB04398	blitzen	trinken	Trinken	Trinken	Trinken
+PB06369	prosten	trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PB06370	prostern	trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PB07095	büffeln	trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PB07098	büffen	einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PB07195	pulvern, pülvern	einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PB07266	pumpen	einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PB07289	bumpsen, bumsen	ein Glas Wein trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PB07510	bürsten	trinken, zechen	Trinken.Alkohol_trinken	Trinken	Trinken
+PD00646	tanken	trinken (vom Alkohol)	Trinken.Alkohol_trinken	Trinken	Trinken
+PD00850	daran-gießen	einen Schoppen, ein Gläschen u.ä. trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PD00873	daran-schütten	einen Schoppen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PD01207	tätschern	trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PD01473	dawider-schütten	einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PD02843	tönen	tüchtig, viel trinken	Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+PD03186	torschen	tüchtig trinken	Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+PD03599	tränken	trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PD04435	trinken	Flüssigkeit zu sich nehmen	Trinken	Trinken	Trinken
+PD04435	trinken	regelmäßig und zuviel Alkohol trinken	Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken; Trinken.Häufig_lange_trinken	Trinken	Trinken
+PD04751	trudeln	trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PD04968	dudeln	(Alkohol) trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PD05009	dulfen	übermäßig trinken	Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+PD05031	tulpen	(Alkohol) trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PD05457	durch-saufen	einen Zeitraum hindurch unmäßig trinken	Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken; Trinken.Häufig_lange_trinken	Trinken	Trinken
+PD05551	durch-zechen	lange Zeit zechen	Trinken.Alkohol_trinken; Trinken.Häufig_lange_trinken	Other	other
+PD05716	dürsten, dursten	dürsten, dursten	Durst	Trinken	Trinken
+PD05778	tutchen	trinken	Trinken	Trinken	Trinken
+PD05783	tuten	tüchtig trinken	Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+PD05792	tutern	saufen	Trinken.Alkohol_trinken	Trinken	Trinken
+PE00499	ein-binden	sich betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PE00686	ein-läppern	in kleinen Schlucken trinken	Trinken.Langsam_kleine_Mengen_trinken	Trinken	Trinken
+PE00745	ein-nehmen	Alkohol trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PE00863	ein-schlürfen	einschlürfen	Trinken.Geräuschvoll_trinken	Trinken	Trinken
+PE00983	ein-tun	einen Rausch antrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PE01003	ein-wärmen	sich betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PE01015	ein-wickeln	einen über den Durst trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PE02364	exen	auf einen Zug austrinken	Trinken.Austrinken	Trinken	Trinken
+PF01241	ver-bürsten	trinkend vergeuden	Trinken.Alkohol_trinken	Trinken	Trinken
+PF01305	ver-drücken	einen Schoppen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PF01323	ver-dursteln	zur Löschung des Durstes verbrauchen	Trinken	Trinken	Trinken
+PF01484	ver-haften	austrinken	Trinken.Alkohol_trinken;Trinken.Austrinken	Trinken	Trinken
+PF01615	ver-kasematukeln	einen Schoppen, einen Schnaps trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PF01749	ver-kümmeln	durchbringen, vertrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PF01791	ver-lechen	sehr durstig sein (vom Menschen)	Durst	Trinken	Trinken
+PF01792	ver-lechern	sehr durstig sein (vom Menschen)	Durst	Trinken	Trinken
+PF01844	ver-löten	einen (Schoppen) trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PF02001	ver-pfetzen	vertrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PF02014	ver-pitschen	vertrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PF02140	ver-salzen	sich betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PF02146	ver-saufen	vertrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PF02165	ver-schaskenen	mit Trinken vergeuden	Trinken.Alkohol_trinken	Trinken	Trinken
+PF02235	ver-schmieren	sich betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PF02311	ver-schwinden	einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PF02320	ver-seibeln	sich betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PF02350	ver-sohlen	sich betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PF03326	firnzen	einen trinken, schlagen	Trinken.Alkohol_trinken	Trinken	Trinken
+PF04250	voll-laufen	sich betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PF04269	voll-saufen	sich satttrinken	Trinken	Trinken	Trinken
+PF04269	voll-saufen	sich besinnungslos betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PF04279	voll-trinken	sich betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PG01867	ge-nehmigen	sich einen Schoppen Wein, einen Schnaps genehmigen	Trinken.Alkohol_trinken	Trinken	Trinken
+PG03401	gluckeln	Schnaps trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PG03403	glucken	trinken	Trinken	Trinken	Trinken
+PG03410	gluckern	hastig trinken	Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+PG03417	glucksen	gierig und deutlich vernehmbar trinken	Trinken.Schnell_große_Mengen_trinken;Trinken.Geräuschvoll_trinken	Trinken	Trinken
+PG03657	gorzen	trinken	Trinken	Trinken	Trinken
+PH00595	halb-schöpperln	einen Halbschoppen nach dem anderen trinken	Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+PH01966	heben	einen Schoppen, einen Schnaps trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PH02402	heim-tun	sich betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PH03728	herum-saufen	auf anderer Kosten trinken	Trinken	Trinken	Trinken
+PH03867	herum-trinken	reihum trinken auf jemandes Wohl	Trinken	Trinken	Trinken
+PH03915	herum-zipfeln	langsam trinken	Trinken.Langsam_kleine_Mengen_trinken	Trinken	Trinken
+PH04041	herunter-stürzen	trinken	Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+PH04921	hinein-schlurpsen	schlürfend trinken	Trinken.Geräuschvoll_trinken	Trinken	Trinken
+PH05378	hinunter-bürsten	trinken	Trinken	Trinken	Trinken
+PH05379	hinunter-drehen	trinken	Trinken	Trinken	Trinken
+PH05394	hinunter-gießen	trinken	Trinken	Trinken	Trinken
+PH05396	hinunter-gluckern	trinken	Trinken	Trinken	Trinken
+PH05402	hinunter-jagen	rasch trinken	Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+PH05411	hinunter-läppern	schlürfend trinken	Trinken.Geräuschvoll_trinken	Trinken	Trinken
+PH05414	hinunter-leeren	trinken	Trinken.Austrinken	Trinken	Trinken
+PH05440	hinunter-schlenkern	schnell trinken	Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+PH05444	hinunter-schlückern	trinken	Trinken	Trinken	Trinken
+PH05447	hinunter-schlurpsen	trinken	Trinken	Trinken	Trinken
+PH05451	hinunter-schütten	schnell trinken	Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+PH05461	hinunter-stürzen	trinken	Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+PI00066	illuminieren	sich betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PI00306	itzen	trinken	Trinken	Trinken	Trinken
+PJ00431	juckeln	in kleinen Schlucken trinken	Trinken.Langsam_kleine_Mengen_trinken	Trinken	Trinken
+PK00014	kacheln	viel trinken	Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+PK01997	kippen	ein Glas Schnaps trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PK02440	klappern, kläppern	einen Schoppen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PK03154	kneipen	zechen	Trinken.Alkohol_trinken	Trinken	Trinken
+PK03370	knorksen	einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PK04001	köpfen	eine Flasche Wein austrinken	Trinken.Alkohol_trinken;Trinken.Austrinken	Trinken	Trinken
+PL00111	laden	sich betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PL00166	lageln	einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PL00511	lappchen	in großen Zügen trinken	Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+PL00518	läppeln	einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PL00518	läppeln	in kleinen Schlucken trinken, nippen	Trinken.Langsam_kleine_Mengen_trinken	Trinken	Trinken
+PL00532	lappern	in wiederholten kleinen Zügen (langsam) Flüssigkeit zu sich nehmen, nippen	Trinken.Langsam_kleine_Mengen_trinken; Trinken.Häufig_lange_trinken	Trinken	Trinken
+PL00533	läppern	einen trinken, gern trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PL00533	läppern	in wiederholten kleinen Zügen (langsam) Flüssigkeit zu sich nehmen, nippen	Trinken.Langsam_kleine_Mengen_trinken; Trinken.Häufig_lange_trinken	Trinken	Trinken
+PL00555	lappsen	trinken	Trinken	Trinken	Trinken
+PL01024	lechern	dürsten	Durst	Trinken	Trinken
+PL01076	ledern	Flüssigkeit zu sich nehmen	Trinken	Trinken	Trinken
+PL01110	leer-saufen	leersaufen	Trinken.Austrinken	Trinken	Trinken
+PL01112	leer-trinken	leertrinken	Trinken.Austrinken	Trinken	Trinken
+PL01896	liefern	trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PL02239	löschen	Durst stillen	Trinken	Trinken	Trinken
+PL02325	lotteln	trinken	Trinken	Trinken	Trinken
+PL02385	luckern	einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PL02520	lumpen	einen über den Durst trinken, zechen	Trinken.Alkohol_trinken	Trinken	Trinken
+PL02629	lupfen, lüpfen	einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PL02631	lüpfsen	Schnaps trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PL02668	lutschen	in kleinen Schlucken trinken, nippen	Trinken.Langsam_kleine_Mengen_trinken	Trinken	Trinken
+PM00011	machen	einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PM00202	mahlen	trinken	Trinken	Trinken	Trinken
+PM02313	mit-saufen	mit jemandem aus einem Gefäß trinken, an einem Trinkgelage teilnehmen	Trinken	Trinken	Trinken
+PM02432	mit-trinken	am Trinken teilnehmen	Trinken	Trinken	Trinken
+PM02444	mit-zechen	mitzechen	Trinken.Alkohol_trinken	Trinken	Trinken
+PN00295	nach-trinken	(nach einem anderen) aus demselben Gefäß trinken	Trinken	Trinken	Trinken
+PN00843	nehmen	trinken	Trinken	Trinken	Trinken
+PN01230	nippeln	langsam, in kleinen Schlücken, mit Genuß trinken	Trinken.Langsam_kleine_Mengen_trinken	Trinken	Trinken
+PN01231	nippen	langsam, in kleinen Schlücken, mit Genuß trinken	Trinken.Langsam_kleine_Mengen_trinken	Trinken	Trinken
+PN01389	nuckeln	trinken	Trinken	Trinken	Trinken
+PN01451	nussen	trinken	Trinken	Trinken	Trinken
+PR02262	rösten, rosten	einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PR02848	rupfen	trinken	Trinken	Trinken	Trinken
+PS00895	säufeln	trinken	Trinken	Trinken	Trinken
+PS00897	saufen	im Übermaß Alkohol trinken, sich betrinken	Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+PS00897	saufen	(derb) trinken, bes. gierig, ungesittet trinken	Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+PS01844	schaskeln	(alkoholische Getränke) trinken, sich dem Trinken ergeben	Trinken.Alkohol_trinken	Trinken	Trinken
+PS01845	schaskenen	(alkoholische Getränke) trinken, sich dem Trinken ergeben	Trinken.Alkohol_trinken	Trinken	Trinken
+PS01847	schaskern	(alkoholische Getränke) trinken, sich dem Trinken ergeben	Trinken.Alkohol_trinken	Trinken	Trinken
+PS02374	schießen	Schnaps trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PS02634	schlachten	einen schlachten = einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PS02992	schlauchen, schläuchen	einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PS03228	schlenkern	trinken, einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PS03523	schluckern	häufig, wiederholt trinken	Trinken.Häufig_lange_trinken	Trinken	Trinken
+PS03591	schluppchen	schluckweise trinken	Trinken.Langsam_kleine_Mengen_trinken	Trinken	Trinken
+PS03596	schlürfeln	in kleinen Schlucken trinken, nippen	Trinken.Langsam_kleine_Mengen_trinken	Trinken	Trinken
+PS03646	schlutzern	(in kleinen Schlucken, schlürfend) trinken	Trinken.Langsam_kleine_Mengen_trinken;Trinken.Geräuschvoll_trinken	Trinken	Trinken
+PS03852	schmettern	trinken, einen heben	Trinken.Alkohol_trinken	Trinken	Trinken
+PS03901	schmieren	trinken, zu trinken geben	Trinken	Trinken	Trinken
+PS03989	schmoren	einen trinken, einen heben	Trinken.Alkohol_trinken	Trinken	Trinken
+PS04187	schnallen	sich betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PS04254	schnäpseln	gerne und oft Schnaps trinken	Trinken.Alkohol_trinken; Trinken.Häufig_lange_trinken	Trinken	Trinken
+PS04255	schnapsen	Schnaps trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PS04315	schnärren	einen (Wein, Schnaps) trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PS04576	schnellern	einen (Schoppen, Schnaps usw.) trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PS04881	schnurren	einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PS05045	schöpfen	ausgiebig trinken	Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+PS05059	schöppeln	(gern und häufig) trinken	Trinken.Häufig_lange_trinken	Trinken	Trinken
+PS05980	schwächen	Alkohol trinken, einen trinken, zechen	Trinken.Alkohol_trinken	Trinken	Trinken
+PS06158	schwappeln	viel Alkohol trinken	Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+PS06159	schwappen	Alkohol trinken, stark trinken	Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+PS06319	schwefeln	einen schwefeln = einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PS09525	spulen	tüchtig trinken	Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+PS10098	stauben	einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PS10171	stechen	einen (Schnaps) trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PS10586	stemmen	einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PS10923	stillen	trinken	Trinken	Trinken	Trinken
+PS11349	stoßen	tüchtig einen trinken	Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+PS12215	stülpen	Alkohol trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PS12380	stürzen	ein Glas umdrehen, einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PS12471	suckeln, zuckeln	trinken	Trinken	Trinken	Trinken
+PS12524	suffeln, süffeln	heimlich trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PS12524	suffeln, süffeln	fortwährend übermäßig trinken	Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken; Trinken.Häufig_lange_trinken	Trinken	Trinken
+PS12524	suffeln, süffeln	in kleinen Schlucken, genießerisch trinken	Trinken.Langsam_kleine_Mengen_trinken	Trinken	Trinken
+PS12675	süppern	in kleinen Schlucken genießerisch trinken, langsam trinken, nuckeln	Trinken.Langsam_kleine_Mengen_trinken	Trinken	Trinken
+PU00207	über-sehen	sich einen Rausch antrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PU00522	um-stoßen	einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PW00614	wamschen	einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PW01332	weg-machen	einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PW01510	weichen	einen trinken, saufen	Trinken.Alkohol_trinken	Trinken	Trinken
+PW01705	weinen	Wein trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PW01880	weißeln	viel trinken	Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken	Trinken	Trinken
+PW03130	wippen, wippchen	einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PZ00225	zaubeln, zäubeln	einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PZ00281	zechen	(im Gasthaus) etwas trinken, verzehren; Gelage abhalten	Trinken.Alkohol_trinken	Trinken	Trinken
+PZ00485	zerren	einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PZ00847	zipfeln	in kleinen Schlückchen trinken	Trinken.Langsam_kleine_Mengen_trinken	Trinken	Trinken
+PZ00874	zischen	trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PZ01038	zu-bringen	zutrinken, zuprosten	Trinken	Trinken	Trinken
+PZ01382	zupfen	einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PZ01410	zu-richten	betrinken	Trinken.Alkohol_trinken	Trinken	Trinken
+PZ01775	zu-trinken	mit erhobenem Glas grüßen, zuprosten, zum Trinken  auffordern	Trinken	Other	other
+PZ02125	zwitschern	einen trinken	Trinken.Alkohol_trinken	Trinken	Trinken

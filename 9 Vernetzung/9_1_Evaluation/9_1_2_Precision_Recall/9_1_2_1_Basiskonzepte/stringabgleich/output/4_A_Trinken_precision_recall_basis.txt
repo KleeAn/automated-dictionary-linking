@@ -1,0 +1,171 @@
+=== Overall metrics ===
+metrics              | value
+------------------------------
+Weighted-Precision   | 0.8566
+Weighted-Recall      | 0.6478
+Weighted-F1          | 0.7034
+Micro-Precision      | 0.7655
+Micro-Recall         | 0.6478
+Micro-F1             | 0.7017
+Macro-Precision      | 0.8001
+Macro-Recall         | 0.5788
+Macro-F1             | 0.6321
+
+=== Precision/Recall/F1 per concept ===
+                                                                    precision    recall  f1-score   support
+
+                                                             Durst       0.96      0.86      0.91        28
+                                                           Getränk       0.60      0.70      0.65        54
+                     Getränk.Heißgetränk.Alkoholfreies_Heißgetränk       0.00      0.00      0.00         1
+        Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee       1.00      0.53      0.70        15
+              Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee       0.85      0.75      0.80        53
+               Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kakao       1.00      0.67      0.80         3
+                 Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee       1.00      0.78      0.88        23
+                   Getränk.Heißgetränk.Alkoholhaltiges_Heißgetränk       1.00      1.00      1.00         2
+ Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk       0.98      0.86      0.92        59
+                Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft       0.68      0.63      0.65        27
+           Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink       1.00      0.42      0.59        12
+              Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser       0.62      1.00      0.77        15
+                   Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk       0.50      0.11      0.18        18
+              Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier       1.00      0.62      0.76        42
+        Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose       0.98      0.75      0.85       151
+              Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein       0.97      0.77      0.86       273
+         Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein.Sekt       1.00      0.80      0.89         5
+                                                           Trinken       0.30      0.71      0.42        92
+                                           Trinken.Alkohol_trinken       0.81      0.45      0.58       182
+                                                Trinken.Austrinken       0.93      0.67      0.78        21
+                                      Trinken.Geräuschvoll_trinken       1.00      0.44      0.62        18
+                             Trinken.Langsam_kleine_Mengen_trinken       1.00      0.32      0.48        25
+                              Trinken.Schnell_große_Mengen_trinken       1.00      0.05      0.09        44
+Trinken.Schnell_große_Mengen_trinken, Trinken.Häufig_lange_trinken       0.00      0.00      0.00         1
+
+                                                         micro avg       0.77      0.65      0.70      1164
+                                                         macro avg       0.80      0.58      0.63      1164
+                                                      weighted avg       0.86      0.65      0.70      1164
+                                                       samples avg       0.65      0.66      0.65      1164
+
+Accuracy (exact match of all predictions): 0.5995
+Accuracy (at least one match):      0.6748
+
+=== Metrics for 'Durst' ===
+Metric     | Value  
+--------------------
+Precision  | 0.9600
+Recall     | 0.8571
+F1-Score   | 0.9057
+Accuracy (exact match of all predictions): 0.8571
+Accuracy (at least one match): 0.8571
+
+=== Metrics for 'Trinken' ===
+Averaging  | Precision | Recall  | F1-Score
+-------------------------------------------
+Micro      |    0.5129 |  0.4674 |   0.4891
+Macro      |    0.7211 |  0.3762 |   0.4240
+Weighted   |    0.7368 |  0.4674 |   0.4903
+Accuracy (exact match of all predictions): 0.3775
+Accuracy (at least one match): 0.5101
+
+=== Metrics for 'Getränk' ===
+Averaging  | Precision | Recall  | F1-Score
+-------------------------------------------
+Micro      |    0.9018 |  0.7317 |   0.8079
+Macro      |    0.8247 |  0.6500 |   0.7061
+Weighted   |    0.9138 |  0.7317 |   0.8042
+Accuracy (exact match of all predictions): 0.7019
+Accuracy (at least one match): 0.7445
+
+=== Evaluation per part of speech ===
+
+--- Part of speech: Adjektiv ---
+metrics              | value
+------------------------------
+Weighted-Precision   | 1.0000
+Weighted-Recall      | 0.8333
+Weighted-F1          | 0.9091
+Micro-Precision      | 0.8333
+Micro-Recall         | 0.8333
+Micro-F1             | 0.8333
+Macro-Precision      | 0.5000
+Macro-Recall         | 0.4167
+Macro-F1             | 0.4545
+Accuracy (at least one match): 0.8333
+
+Report for Part of speech 'Adjektiv':
+Not enough data for part of speech 'Adjektiv' – Number of classes, 2, does not match size of target_names, 1. Try specifying the labels parameter
+
+--- Part of speech: Substantiv ---
+metrics              | value
+------------------------------
+Weighted-Precision   | 0.8939
+Weighted-Recall      | 0.7060
+Weighted-F1          | 0.7787
+Micro-Precision      | 0.8975
+Micro-Recall         | 0.7060
+Micro-F1             | 0.7903
+Macro-Precision      | 0.6325
+Macro-Recall         | 0.4868
+Macro-F1             | 0.5315
+Accuracy (at least one match): 0.7241
+
+Report for Part of speech 'Substantiv':
+                                                                      precision    recall  f1-score   support
+  
+                                                               Durst       1.00      0.93      0.96        14
+                                                             Getränk       0.60      0.70      0.65        54
+                       Getränk.Heißgetränk.Alkoholfreies_Heißgetränk       0.00      0.00      0.00         1
+          Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Ersatzkaffee       1.00      0.53      0.70        15
+                Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee       0.85      0.75      0.80        53
+                 Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kakao       1.00      0.67      0.80         3
+                   Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee       1.00      0.78      0.88        23
+                     Getränk.Heißgetränk.Alkoholhaltiges_Heißgetränk       1.00      1.00      1.00         2
+   Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk       0.98      0.86      0.92        59
+                  Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft       0.68      0.63      0.65        27
+             Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink       1.00      0.42      0.59        12
+                Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser       0.62      1.00      0.77        15
+                     Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk       0.50      0.11      0.18        18
+                Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier       1.00      0.62      0.76        42
+          Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose       0.98      0.75      0.85       151
+                Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein       0.99      0.77      0.86       273
+           Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein.Sekt       1.00      0.80      0.89         5
+                                                             Trinken       0.22      0.17      0.19        12
+                                             Trinken.Alkohol_trinken       0.75      0.19      0.30        16
+                                                  Trinken.Austrinken       0.00      0.00      0.00         1
+                                        Trinken.Geräuschvoll_trinken       0.00      0.00      0.00         3
+                               Trinken.Langsam_kleine_Mengen_trinken       0.00      0.00      0.00         1
+                                Trinken.Schnell_große_Mengen_trinken       0.00      0.00      0.00         5
+  Trinken.Schnell_große_Mengen_trinken, Trinken.Häufig_lange_trinken       0.00      0.00      0.00         1
+  
+                                                           micro avg       0.90      0.71      0.79       806
+                                                           macro avg       0.63      0.49      0.53       806
+                                                        weighted avg       0.89      0.71      0.78       806
+                                                         samples avg       0.71      0.72      0.71       806
+
+--- Part of speech: Verb ---
+metrics              | value
+------------------------------
+Weighted-Precision   | 0.7477
+Weighted-Recall      | 0.5114
+Weighted-F1          | 0.5216
+Micro-Precision      | 0.5248
+Micro-Recall         | 0.5114
+Micro-F1             | 0.5180
+Macro-Precision      | 0.8444
+Macro-Recall         | 0.5188
+Macro-F1             | 0.5621
+Accuracy (at least one match): 0.5542
+
+Report for Part of speech 'Verb':
+                                         precision    recall  f1-score   support
+  
+                                  Durst       0.86      0.75      0.80         8
+                                Trinken       0.31      0.79      0.44        80
+                Trinken.Alkohol_trinken       0.81      0.48      0.60       166
+                     Trinken.Austrinken       0.93      0.70      0.80        20
+           Trinken.Geräuschvoll_trinken       1.00      0.53      0.70        15
+  Trinken.Langsam_kleine_Mengen_trinken       1.00      0.33      0.50        24
+   Trinken.Schnell_große_Mengen_trinken       1.00      0.05      0.10        39
+  
+                              micro avg       0.52      0.51      0.52       352
+                              macro avg       0.84      0.52      0.56       352
+                           weighted avg       0.75      0.51      0.52       352
+                            samples avg       0.49      0.53      0.50       352

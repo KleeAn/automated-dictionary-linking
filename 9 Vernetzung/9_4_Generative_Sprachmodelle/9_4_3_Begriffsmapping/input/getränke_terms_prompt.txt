@@ -1,0 +1,19 @@
+f"""
+Given are a dictionary entry with its headword and its definition representing a beverage.
+
+Here is a list of terms: 
+{begriffsliste}.
+
+Choose the **most appropriate** term from the list.
+
+If only one term clearly fits best, return **only this single** term.
+
+Only if the definition designates multiple clearly differentiated beverages, return the most appropriate term for each of these beverages, separated by ‘;’.
+
+**Dictionary entry**:
+Headword: {lemma}
+Definition: {definition}
+
+Your entire answer must consist **only** of one or more terms, without justification, explanation, or additional text.
+"""
+

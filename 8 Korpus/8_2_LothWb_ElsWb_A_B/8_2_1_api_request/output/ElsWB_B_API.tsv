@@ -1,0 +1,194 @@
+srcid	srclemma	tgtid	tgtlemma	tgtgram	concept_PfWb
+PA00764	ab-steigen	ES04788	ab stigen		kein_Trinken
+PA01084	Adler	EA00219	Adler		kein_Trinken
+PA01105	Affe	EA00250	&#x00c4;ffele, Aff		kein_Trinken
+PA02263	an-setzen	ES01280	an setzen		kein_Trinken
+PA02302	an-stechen	ES04652	an st&#x00eb;chen		kein_Trinken
+PA02304	an-stecken	ES04827	a(n) stecken		kein_Trinken
+PA02333	an-streichen	ES05663	an strichen		kein_Trinken
+PA02450	an-zapfen	EZ00452	an zapfen		kein_Trinken
+PA02680	Arm	EA01182	Arm(en)		kein_Trinken
+PA02908	Attacke	EA01441	Attake		kein_Trinken
+PA03044	auf-fahren	EF00586	uffahren		kein_Trinken
+PA03421	auf-tun	ET00056	uf tuen		kein_Trinken
+PA03974	aus-schenken	ES02013	us sch&#x00eb;nken		kein_Trinken
+PA04100	aus-streichen	ES05667	us strichen		kein_Trinken
+PB00444	Ball	EP00589	Ball(e), Ballen		kein_Trinken
+PB00520	Bampel	EP00922	Bampel, Bample		kein_Trinken
+PB01348	Baum	EP00821	Baum		kein_Trinken
+PB01551	be-duselt	ET01400	beduselt		kein_Trinken
+PB02919	Pfetzer	EP02837	Pf&#x00eb;tzer		kein_Trinken
+PB03059	Pflug	EP02875	Pflueg, Plug		kein_Trinken
+PB05580	Brand	EP03894	Brand		kein_Trinken
+PB05678	Brast	EP04055	Brast		kein_Trinken
+PB05930	Breme	EP03816	Br&#x00eb;m(e)		kein_Trinken
+PB05972	brennen	EP03834	br&#x00eb;nnen, brennen		kein_Trinken
+PB06562	Br&#x00fc;he	EP03708	Br&#x00fc;ej(e)		kein_Trinken
+PB07244	Bummer	EP00907	Bummer		kein_Trinken
+PB07392	B&#x00fc;rde	EP01730	B&#x00fc;rde, Burde, Burdi		kein_Trinken
+PB07506	B&#x00fc;rste	EP01846	B&#x00fc;rst(e), Burst		kein_Trinken
+PB07543	Busch	EP02145	Buschen		kein_Trinken
+PB07569	Buschon	EP02169	Buschong		kein_Trinken
+PB07638	Butik	EP02376	Butik		kein_Trinken
+PD00214	Dackel	ET00481	Dackel		kein_Trinken
+PD00582	Dampes	ET00753	D&#x00e4;mpes, Dampes		kein_Trinken
+PD00583	Dampf	ET00756	Dampf		kein_Trinken
+PD00906	Darauf-geld	EG00536	Drufg&#x00eb;ld		kein_Trinken
+PD00963	darauf-setzen	ES01283	druf setzen		kein_Trinken
+PD01371	Daumen	ET00733	Dumen		kein_Trinken
+PD01673	teigig	ET00530	teikig		kein_Trinken
+PD02335	dienen	ET00797	dienen		kein_Trinken
+PD02541	Tisch	ET01433	Tisch		kein_Trinken
+PD03110	torkelig	ET01259	turklig		kein_Trinken
+PD03115	Dorn	ET01295	Darn, Dorn		kein_Trinken
+PD03426	Tracht	ET01774	Tracht		kein_Trinken
+PD04804	Trunk	ET02165	Trunk		kein_Trinken
+PD04986	Duft	ET00355	Duft		kein_Trinken
+PD05046	Tummel	ET00741	Tummel		kein_Trinken
+PD05184	Dunst	ET00939	Dunst		kein_Trinken
+PD05219	T&#x00fc;pfen	ET01082	T&#x00fc;pfi		kein_Trinken
+PD05256	Tur	ET01196	Tur		kein_Trinken
+PD05747	Dusel	ET01396	Dusel		kein_Trinken
+PE00653	Ein-kehr	EK00942	Inkehr		kein_Trinken
+PE00654	ein-kehren	EK00947	i(n) kehren		kein_Trinken
+PE00838	ein-schenken	ES02012	in sch&#x00eb;nken		kein_Trinken
+PE00896	ein-seifen	ES00270	in seifen		kein_Trinken
+PE01864	er-geben	EG00121	erg&#x00eb;be(n)		kein_Trinken
+PF00099	Fahne	EF00447	Fahn, Fahnen		kein_Trinken
+PF00858	Veit	EF01022	Vit		kein_Trinken
+PF00952	Feld-webel	EW00065	F&#x00eb;ldweibel		kein_Trinken
+PF01986	ver-passen	EP01931	verpassen		kein_Trinken
+PF02146	ver-saufen	ES00287	versufen		kein_Trinken
+PF02228	ver-schmachten	ES03028	Schlitzer		kein_Trinken
+PF02246	ver-schn&#x00e4;pseln	ES03509	verschn&#x00e4;pslen		kein_Trinken
+PF02250	ver-schn&#x00e4;uken	ES03393	verschneiken		kein_Trinken
+PF02529	ver-trinken	ET02162	vertrinken		kein_Trinken
+PF02664	ver-zechen	EZ00047	&#xed70;verz&#x00eb;chen		kein_Trinken
+PF02796	Fetzen	EF01083	F&#x00eb;tzen		kein_Trinken
+PF02806	Fetzer	EF01088	&#x2020;Fetzer		kein_Trinken
+PF02810	Feucht-lappen	EL01034	F&#x00fc;chtlappen		kein_Trinken
+PF03115	Viertel	EF00620	Viertel		kein_Trinken
+PF03608	Fl&#x00e4;sche	EF01297	Flasch		kein_Trinken
+PF03839	Flemme	EF01223	Flamm		kein_Trinken
+PF04005	Fl&#x00f6;te	EF01336	Fl&#x00f6;te		kein_Trinken
+PF04211	voll	EF00337	voll		kein_Trinken
+PF04237	Vollheit	EF00342	Vollheit		kein_Trinken
+PF04268	Voll-sauf	ES00300	Vollsufer		kein_Trinken
+PF04281	Voll-zapfen	EZ00445	Vollzapfen		kein_Trinken
+PG01038	Ge-f&#x00e4;lle	EF00294	Gef&#x00e4;ll		kein_Trinken
+PG01719	Gelze	EG00591	Gelz		kein_Trinken
+PG03418	Gl&#x00fc;ckser	EG01437	Gluxer		kein_Trinken
+PG04203	Grind-kopf	EK00851	Grind(s)kopf		kein_Trinken
+PH00014	Haar-beutel	EP02415	Harb&#x00fc;tel		kein_Trinken
+PH00263	Hafer	EH00064	Haber(en)		kein_Trinken
+PH00512	halb	EH00559	halber		kein_Trinken
+PH02967	Herberge	EH01344	Herb&#x00eb;rg		kein_Trinken
+PH03293	Herren-stube	ES04621	&#x2020;Herrenstub		kein_Trinken
+PH04415	Hieb	EH00105	Hib		kein_Trinken
+PH05512	Hippes	EH01237	H&#x00fc;ps		kein_Trinken
+PH05549	Hirsch	EH01432	Hirsch		kein_Trinken
+PH05869	Hocke	EH00466	Hock, Huck		kein_Trinken
+PH05878	hocken-bleiben	EH00473	zsammen  hocken		kein_Trinken
+PH05882	Hocker	EH00474	Hocker		kein_Trinken
+PH05915	Hof	EH00276	Hof		kein_Trinken
+PH07070	Humpen	EH00848	Hampel, Hampfel		kein_Trinken
+PH07077	Hund	EH01004	Hund		kein_Trinken
+PK00043	Kaffee	EK00182	Kaffee, Kaffi		kein_Trinken
+PK00044	Kaffee	EK00204	Marienk&#x00e4;ferle		kein_Trinken
+PK00048	Kaffee-bohne	EP01053	Kaffebohn(e)		kein_Trinken
+PK00064	Kaffee-haus	EK00204	Marienk&#x00e4;ferle		kein_Trinken
+PK00090	Kaffee-satz	ES01273	Kaffeesatz		kein_Trinken
+PK00557	Kappe	EK00766	k&#x00e4;ppen, kappen		kein_Trinken
+PK01047	Kater	EK01313	K&#x00e4;ter		kein_Trinken
+PK01135	Katzen-jammer	EJ00127	Katzenjammer		kein_Trinken
+PK01460	Keller-m&#x00e4;dchen	EM00199	Kindsmaidel		kein_Trinken
+PK02301	Kiste	EK01280	Kist(e)		kein_Trinken
+PK03365	Kn&#x00fc;rbel	EK01930	Knorpel		kein_Trinken
+PK04414	Kraft	EK02066	Kraft		kein_Trinken
+PK04420	kr&#x00e4;ftig	EK02068	kr&#x00e4;ftig		kein_Trinken
+PK05119	Krone	EK02188	Kron(e)		kein_Trinken
+PL00077	lack	EL00683	lack		kein_Trinken
+PL01544	Leiter	EL01483	Leiter		kein_Trinken
+PL01729	leuchten	EL00305	liechten		kein_Trinken
+PL01949	Linde	EL00951	Lind(en)		kein_Trinken
+PL02355	L&#x00f6;we	EL01644	Lew		kein_Trinken
+PL02496	Lukas	EL00732	Lukas, Lux(i)		kein_Trinken
+PL02514	Lump	EL00824	Lump		kein_Trinken
+PL02577	Lumpes	EL00832	Lumpes		kein_Trinken
+PL02648	Lust	EL01418	Lust(en)		kein_Trinken
+PN00257	Nacht-licht	EL00297	Nachtliechtle		kein_Trinken
+PN00728	Nebel	EN00031	N&#x00eb;bel		kein_Trinken
+PN00816	Neben-zimmer	EZ00288	N&#x00eb;bentszimmer		kein_Trinken
+PO00250	Ochse	EA00188	Ochs		kein_Trinken
+PQ00266	Quetsche1	EQ00070	Qu&#x00eb;tsch, Qu&#x00eb;tschel, Qu&#x00eb;tschge		kein_Trinken
+PR00719	Rausch1	ER01209	Rusch I		kein_Trinken
+PR00942	regalieren	ER00383	regalieren		kein_Trinken
+PR01118	Reiber	ER00065	Riber		kein_Trinken
+PR01163	Reif2	ER00354	Raift, Reif		kein_Trinken
+PR01356	Reit-haken	EH00411	Rithaken		kein_Trinken
+PR01570	Ribo	ER00069	&#xed70;Ribo(tt)		kein_Trinken
+PR02123	R&#x00f6;mer	ER00625	R&#x00f6;mer		kein_Trinken
+PS00044	S&#x00e4;bel	ES00043	Sabel		kein_Trinken
+PS00721	Satz	ES01266	Satz		kein_Trinken
+PS00891	Sauf-aus	ES00302	Suffus		kein_Trinken
+PS00906	S&#x00e4;ufer	ES00302	Suffus		kein_Trinken
+PS00931	Sauf-nase	EN00481	Sufnas		kein_Trinken
+PS01169	Sauser	ES01193	Suser		kein_Trinken
+PS01303	Sch&#x00e4;cher	ES01407	Sch&#x00e4;cher		kein_Trinken
+PS01883	Schaub	ES01350	Schaub I		kein_Trinken
+PS02122	schenken	ES02011	sch&#x00eb;nken		kein_Trinken
+PS02273	schicker	ES01714	schicker		kein_Trinken
+PS03077	Schleh-b&#x00fc;chse	EP00217	Schlehb&#x00fc;chs(e)		kein_Trinken
+PS03518	Schluck	ES02725	Schluck		kein_Trinken
+PS04251	Schnaps-butelle	EP02366	Schnapsbut&#x00eb;ll		kein_Trinken
+PS04256	Schnapser	ES03510	Schnapser		kein_Trinken
+PS04283	Schnaps-nase	EN00478	Schnapsnas(e)		kein_Trinken
+PS05208	schr&#x00e4;g	ES03731	schr&#x00e4;gs		kein_Trinken
+PS06081	Schwan	ES03888	Schwan		kein_Trinken
+PS06109	schwanken	ES03917	schwanken		kein_Trinken
+PS06191	schwarz	ES03983	schwarz		kein_Trinken
+PS06297	Schwede	ES03823	Schwed		kein_Trinken
+PS07146	selig	ES00668	s&#x00eb;lig, selig		kein_Trinken
+PS07972	Sonne	ES00921	Sunn(e)		kein_Trinken
+PS09038	Spitz	ES04354	Spitz, SpitzenSpitzen		kein_Trinken
+PS09418	spritzen	ES04525	spritzen		kein_Trinken
+PS09424	Spritzer	ES04532	Spritzer		kein_Trinken
+PS09628	Stab-aus	ES04590	Staubus		kein_Trinken
+PS10105	staubig	ES04591	staubig		kein_Trinken
+PS10172	Stecher	ES04662	St&#x00eb;cher		kein_Trinken
+PS10261	Stefze	ES04757	St&#x00eb;fzen		kein_Trinken
+PS10643	Stern	ES05471	St&#x00eb;rn		kein_Trinken
+PS10680	sternhagel-voll	ES05471	St&#x00eb;rn		kein_Trinken
+PS10803	Stieben	ES04638	St&#x00fc;ben		kein_Trinken
+PS10811	Stieber	ES04639	St&#x00fc;ber		kein_Trinken
+PS10820	Stiefel1	ES04730	Stibel, Stifel		kein_Trinken
+PS11264	Storax	ES05417	Storax		kein_Trinken
+PS11270	Storch	ES05457	Storch, Stork		kein_Trinken
+PS11316	Storren	ES05420	Storren		kein_Trinken
+PS11339	Sto&#x00df;	ES05506	Stoss		kein_Trinken
+PS11418	strack	ES05713	strack		kein_Trinken
+PS11616	Strau&#x00df;2	ES05849	Strauss, Struss I		kein_Trinken
+PS11780	Strich	ES05657	Strich		kein_Trinken
+PS11977	strubbelig	ES05646	strubelig		kein_Trinken
+PS12341	Sturm	ES05458	Sturm		kein_Trinken
+PS12346	St&#x00fc;rmer	ES05469	St&#x00fc;rmer		kein_Trinken
+PS12353	st&#x00fc;rmisch	ES05470	&#x2018;st&#x00fc;rmisch		kein_Trinken
+PS12520	Suff	ES00290	Suff		kein_Trinken
+PS12528	s&#x00fc;ffig	ES00308	suffig		kein_Trinken
+PW01506	weich	EW00099	weich		kein_Trinken
+PW01828	Wein-zapf	EZ00447	Winz&#x00e4;pflen		kein_Trinken
+PW01853	weisen	EW01242	wisen		kein_Trinken
+PW02673	wild	EW00584	wild		kein_Trinken
+PW02789	Wind1	EW00776	Wind		kein_Trinken
+PW03183	Wirt	EW01086	Wert, Wirt, Wurt		kein_Trinken
+PW03187	Wirtin	EW01088	Wirtinne		kein_Trinken
+PW03189	Wirtschaft	EW01090	Wirtschaft		kein_Trinken
+PW03195	Wirts-haus	EH01600	Wirtshus		kein_Trinken
+PW03204	Wirtshaus-hocker	EH00479	Wirtshushocker		kein_Trinken
+PW03211	Wirts-leute	EL01574	Wirtsl&#x00fc;t		kein_Trinken
+PW03218	Wirts-tochter	ES04634	Stubete		kein_Trinken
+PZ00153	Zapfen	EZ00429	Zapfen		kein_Trinken
+PZ00154	z&#x00e4;pfen	EZ00451	zapfen		kein_Trinken
+PZ00197	z&#x00e4;rt	EZ00531	zart		kein_Trinken
+PZ00201	Zassel	EZ00535	Z&#x00e4;sel, Z&#x00e4;serle, Zassel		kein_Trinken
+PZ00961	Zopf	EZ00475	Zopf		kein_Trinken

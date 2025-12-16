@@ -1,0 +1,22 @@
+f"""
+Given are a dictionary entry with its headword and its definition.
+
+Choose the **most appropriate** concept from the following list.
+
+If only one concept clearly fits best: return **only this single** concept.
+
+If lemma and definition are ambiguous and match multiple concepts, then distinguish:
+
+a) If the ambiguity comes from an explicit enumeration in the definition (e.g., 'Wein oder Bier'), return *all these concepts*, separated by ‘;’.
+b) If the ambiguity is uncertain or you cannot clearly decide which concept is meant, return **only the higher-level generic concept**.
+
+Return **exactly** the complete name from the list, including all levels, separated by dots (e.g., 'Getränk.Kaltgetränk. Alkoholhaltiges_Kaltgetränk.Spirituose‘).
+
+Each concept contains example terms: {konzeptliste}
+
+**Dictionary entry**:
+Headword: {lemma}
+Definition: {definition}
+
+Your entire answer must consist **only** of one or more of these concept names, without justification, explanation, or additional text.
+"""

@@ -1,0 +1,32 @@
+f"""
+Given are a dictionary entry with its headword and its definition.
+
+Assign it to exactly one of the four categories:
+
+1. **trinken** = any action of drinking a liquid 
+   
+  Examples: trinken, nippen, schlürfen, austrinken, Durst stillen,   
+  Wasser trinken, sich betrinken 
+
+2. **Durst** = the state or need of being thirsty
+   
+  Examples: Durst, durstig
+
+3. **Getränk** = specific types or groups of beverages
+   
+  Examples: Bier, Wasser, Kaffee, Milch, Limonade
+
+4. **other** = everything else, e.g.:
+      -  activities such as Ausschank, Anzapfen, Einschenken,
+        Auftischen, Servieren 
+      - places (Wirtshaus, Kneipe), persons (Kellner, Wirt), vessels
+        (Glas, Krug), tools
+      - states such as betrunken, angeheitert, im Rausch      
+        preparation of beverages
+      - quantities      
+      - general gastronomy activities     
+      - properties and ingredients of beverages
+      - containers for storage and preparation of beverages
+
+Answer with **exactly one** of these four words: trinken, Durst, Getränk, other.
+"""

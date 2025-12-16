@@ -1,0 +1,963 @@
+ID	Lemma	Definition	Konzept	Konzept_gemappt	Antwort_Modell
+PA00275	ab-gießen	vom Satz durch Gießen entfernen	kein_Trinken	Other	other
+PA00764	ab-steigen	einkehren	kein_Trinken	Other	other
+PA01084	Adler	Gasthaus zum Adler	kein_Trinken	Other	other
+PA01105	Affe	Rausch	kein_Trinken	Other	other
+PA01551	Ambuschur	wer tüchtig im Trinken ist	kein_Trinken	Trinken	Trinken
+PA01683	an-brüten	angeheitert	kein_Trinken	Other	other
+PA01953	an-heitern	anheitern	kein_Trinken	Other	other
+PA02139	Anrauch-kopf	betrunken sein, bzw. aussehen	kein_Trinken	Other	other
+PA02161	an-rudeln	betrunken sein	kein_Trinken	Other	other
+PA02263	an-setzen	(Bowle) ansetzen	kein_Trinken	Other	other
+PA02302	an-stechen	den Zapfhahn in ein Bier- oder Weinfaß treiben	kein_Trinken	Other	other
+PA02304	an-stecken	anzapfen	kein_Trinken	Other	other
+PA02306	Ansteck-kran	großer Hahn am Faß	kein_Trinken	Other	other
+PA02319	An-stich	das Anstechen eines Fasses	kein_Trinken	Other	other
+PA02333	an-streichen	betrunken machen	kein_Trinken	Other	other
+PA02450	an-zapfen	den Zapfenins Faß schlagen und das erste Mal Bier (Wein) laufen lassen	kein_Trinken	Other	other
+PA02559	Äpfel-traben	Rückstand beim Apfelkeltern	kein_Trinken	Other	other
+PA02560	Apfel-trester	Rückstand beim Apfelkeltern	kein_Trinken	Other	other
+PA02680	Arm, Armen	eiserne Stange, an der das Wirtshausschild angebracht ist	kein_Trinken	Other	other
+PA02908	Attacke	Gelage	kein_Trinken	Other	other
+PA03044	auf-fahren	auftischen	kein_Trinken	Other	other
+PA03408	Auf-träger	Hilfskräfte, die bei großen Veranstaltungen den Gästen den Wein bringen	kein_Trinken	Other	other
+PA03421	auf-tun	mit dem Ausschank beginnen	kein_Trinken	Other	other
+PA03431	Auf-wärter	Aushilfskellner	kein_Trinken	Other	other
+PA03965	Aus-schank	Ausschank	kein_Trinken	Other	other
+PA03974	aus-schenken	Getränke ausschenken	kein_Trinken	Other	other
+PA04096	aus-stoßen	anzapfen	kein_Trinken	Other	other
+PA04100	aus-streichen	ausgehen, das Wirtshaus besuchen	kein_Trinken	Other	other
+PA04122	Austrag-mädchen	das Mädchen, das das eingeschenkte Bier austrägt	kein_Trinken	Other	other
+PA04188	aus-zapfen, -zäpfen	Getränk durch den Zapfen aus dem Faß auslassen	kein_Trinken	Other	other
+PB00444	Ballen, Ball	Rausch	kein_Trinken	Other	other
+PB00465	Ballon	Rausch	kein_Trinken	Other	other
+PB00513	Bambusch	Rausch	kein_Trinken	Other	other
+PB00520	Bampel	Gastwirt	kein_Trinken	Other	other
+PB00543	Bampel-wirt	ein Wirt, der sich nicht um die Gäste kümmert	kein_Trinken	Other	other
+PB00544	Bampel-, Bämpeles-wirtschaft	nachlässig geführte Wirtschaft	kein_Trinken	Other	other
+PB00552	Bamscher	Trunkenbold	kein_Trinken	Other	other
+PB01111	Patsch-hand	Trinkgeld	kein_Trinken	Other	other
+PB01158	Batzen-häuslein	Wirtschaft an der Landstraße, wo der Wein 1 Batzen kostet	kein_Trinken	Other	other
+PB01348	Baum	Gasthausname	kein_Trinken	Other	other
+PB01417	Bause, Pause, Bausen, Pausen	Alkoholrausch	kein_Trinken	Other	other
+PB01540	Bedien-mädchen	Kellnerin	kein_Trinken	Other	other
+PB01542	Be-dienung	Bedienungspersonal im Gastgewerbe	kein_Trinken	Other	other
+PB01546	be-drust	betrunken	kein_Trinken	Other	other
+PB01551	be-duselt	ein wenig betrunken	kein_Trinken	Other	other
+PB01657	be-hurmelt	leicht betrungken	kein_Trinken	Other	other
+PB01796	Beize	kleines, unordentliches Gasthaus	kein_Trinken	Other	other
+PB01819	be-koren	kosten	kein_Trinken	Trinken	Trinken
+PB01911	Bemscher	Trinker	kein_Trinken	Trinken	Trinken
+PB02153	be-schickert	angeheitert	kein_Trinken	Other	other
+PB02166	be-schmort	betrunken	kein_Trinken	Other	other
+PB02171	be-schnuckt	angeheitert	kein_Trinken	Other	other
+PB02173	be-schokert	betrunken	kein_Trinken	Other	other
+PB02190	be-schwipst	angeheitert	kein_Trinken	Other	other
+PB02248	be-ständert	betrunken	kein_Trinken	Other	other
+PB02276	be-stußt	einen Rausch haben	kein_Trinken	Other	other
+PB02604	Pfaffen-schänke	Schankbetrieb, dessen Reingewinn den Klerikern zufloß	kein_Trinken	Other	other
+PB02919	Pfetzer	Trinker	kein_Trinken	Trinken	Trinken
+PB02933	Pfiffer	Trinker	kein_Trinken	Trinken	Trinken
+PB03059	Pflug	Gasthaus zum Pflug	kein_Trinken	Other	other
+PB01054	Bastrenk	Tanzlokal, Kneipe, Schenke	kein_Trinken	Other	other
+PB03369	Bier-ausschank	Bierausschank	kein_Trinken	Other	other
+PB03373	Bier-blättel	Bierfilz	kein_Trinken	Trinken	Trinken
+PB03377	Bier-deckel	Bierfilz	kein_Trinken	Other	other
+PB03381	Bier-filz	Unterlage für das Bierglas im Wirtshaus	kein_Trinken	Other	other
+PB03382	Bier-flasche	Bierflasche	kein_Trinken	Other	other
+PB03388	Bier-garten	Garten einer Bierwirtschaft	kein_Trinken	Other	other
+PB03391	Bier-glas	Bierglas	kein_Trinken	Other	other
+PB03392	Bier-haus	Bierwirtschaft	kein_Trinken	Other	other
+PB03393	Bier-hefe	Bierhefe	kein_Trinken	Other	other
+PB03399	Bier-keller	Bierkeller	kein_Trinken	Other	other
+PB03403	Bier-knüppel	Holzgerät, mit dem der Hahn ins Faß geschlagen wird	kein_Trinken	Other	other
+PB03404	Bier-kranen	Hahn am Bierfaß	kein_Trinken	Other	other
+PB03406	Bier-lümmel	Biersäufer	kein_Trinken	Other	other
+PB03409	Bier-mahl	Bewirtung mit Bier	kein_Trinken	[ungültig]	other.
+PB03411	Bier-reise	durch mehrere Wirtshäuser ziehen	kein_Trinken	Other	other
+PB03414	Bier-schenke	Wirtschaft, in der vornehmlich Bier ausgeschenkt wird	kein_Trinken	Other	other
+PB03418	Bier-stube	Bierlokal	kein_Trinken	Other	other
+PB03420	Bier-süffel, -süffer	Biersäufer	kein_Trinken	Other	other
+PB03422	Bier-teller	Unterlage für das Bierglas im Wirtshaus	kein_Trinken	Other	other
+PB03424	Bier-trinker	Biertrinker	kein_Trinken	Trinken	Trinken
+PB03428	Bier-wirt	Inhaber einer Bierwirtschaft	kein_Trinken	Other	other
+PB03429	Bier-wirtschaft	Wirtschaft, in der vornehmlich Bier ausgeschenkt wird	kein_Trinken	Other	other
+PB03821	Pitscher	Trinker	kein_Trinken	Trinken	Trinken
+PB03914	Blaffert, Bläffer(t), Blaffer, Bläffer(t)	Rausch	kein_Trinken	Other	other
+PB04008	Blase	Wirtshausgesellschaft	kein_Trinken	Other	other
+PB04015	Blaser, Bläser	tüchtiger Trinker	kein_Trinken	Trinken	Trinken
+PB04154	blau	sinnlos betrunken	kein_Trinken	Other	other
+PB04731	Bocks-beutel	Trinker	kein_Trinken	Trinken	Trinken
+PB04749	Böckser-bohne	verdorbene Kaffeebohne	kein_Trinken	Other	other
+PB04764	Bock-stall	schlechte Wirtschaft, verrufenes Haus	kein_Trinken	Other	other
+PB04771	Bock-wirt	Inhaber der Wirtschaft zum Bock in KL-Fischb	kein_Trinken	Other	other
+PB04939	polen-voll	betrunken	kein_Trinken	Other	other
+PB05208	Borte	Schaum auf dem Bier	kein_Trinken	Trinken	Trinken
+PB05580	Brand	starker Rausch	kein_Trinken	Other	other
+PB05630	Branntwein-brigade	Ausländer, die nach 1945 betrunken inKaiserslautern herumlungerten	kein_Trinken	Other	other
+PB05631	Branntwein-bruder	notorischer Branntweintrinker	kein_Trinken	Trinken	Trinken
+PB05632	Branntwein-butelle	Schnapsflasche	kein_Trinken	Other	other
+PB05633	Branntwein-faß	Branntweinfaß	kein_Trinken	Other	other
+PB05634	Branntwein-flasche	Branntweinflasche	kein_Trinken	Other	other
+PB05636	Branntwein-glas	Schnapsglas	kein_Trinken	Other	other
+PB05638	Branntwein-knürbeler	Schnapstrinker	kein_Trinken	Trinken	Trinken
+PB05639	Branntwein-laden	Schnapsladen	kein_Trinken	Other	other
+PB05640	Branntwein-lump	Schnapssäufer	kein_Trinken	Trinken	Trinken
+PB05644	Branntwein-stiebe	unwiderstehlicher Drang nach Schnaps	kein_Trinken	Trinken	Trinken
+PB05645	Branntwein-süffer	notorischer Schnapstrinker	kein_Trinken	Trinken	Trinken
+PB05678	Brast	Trinkgelage	kein_Trinken	Trinken	Trinken
+PB05930	Breme	betrunken sein	kein_Trinken	Other	other
+PB05972	brennen	Schnaps brennen	kein_Trinken	Other	other
+PB06435	Brot-turmel	Trunkenheit	kein_Trinken	Other	other
+PB06562	Brühe	Rausch	kein_Trinken	Other	other
+PB06638	Brumm-kater	Katzenjammer mit vor Schmerzen brummendem Kopf	kein_Trinken	Other	other
+PB07106	Büffet-mamsell	Büffetdame im Restaurant	kein_Trinken	Other	other
+PB07244	Bummer	Schnapsfläschchen mit dickem Bauch	kein_Trinken	Other	other
+PB07291	Bums	Kneipe	kein_Trinken	Other	other
+PB07292	Bums	Bezeichnung für eine Gastwirtschaft in Land (um 1920)	kein_Trinken	Other	other
+PB07392	Bürde	betrunken sein	kein_Trinken	Trinken	Trinken
+PB07506	Bürste	Gastwirtschaft, deren Schild eine Bürste zeigte	kein_Trinken	Other	other
+PB07518	Bürsten-wirt	"Inhaber der Gastwirtschaft ""Zur Bürste"""	kein_Trinken	Other	other
+PB07543	Busch, Pusch, Buschen, Puschen	Alkoholrausch	kein_Trinken	Other	other
+PB07569	Buschon	ungeschlachter, oft betrunkener Mensch	kein_Trinken	Other	other
+PB07638	Butik	Gastwirtschaft für bescheidene Ansprüche, Kneipe	kein_Trinken	Other	other
+PD00009	Tabak	betrunken sein	kein_Trinken	Other	other
+PD00214	Dackel	Rausch	kein_Trinken	Other	other
+PD00444	dahin-wanken	wankend gehen (von Betrunkenen)	kein_Trinken	Other	other
+PD00582	Dampes	Rausch	kein_Trinken	Other	other
+PD00583	Dampf	Rausch	kein_Trinken	Other	other
+PD00677	Tannen-strauß, Tann-strauß	Tannenzweig als Gaststättenkennzeichen der Straußwirtschaften	kein_Trinken	Other	other
+PD00848	daran-gehen	vom Hang zum Alkohol	kein_Trinken	Other	other
+PD00906	Darauf-geld	Trinkgeld	kein_Trinken	Other	other
+PD00939	darauf-machen	vom ausgiebigen Alkoholgenuß	kein_Trinken	Trinken	Trinken
+PD00963	darauf-setzen	vom Alkoholgenuß	kein_Trinken	Trinken	Trinken
+PD01305	Dauer-brand	Säufer	kein_Trinken	Other	other
+PD01371	Daumen	Gasthausbezeichnung	kein_Trinken	Other	other
+PD01673	teigig	betrunken	kein_Trinken	Other	other
+PD01740	Delirium	Säuferwahnsinn	kein_Trinken	Other	other
+PD02335	dienen	bei Tisch aufwarten	kein_Trinken	Other	other
+PD02541	Tisch	Tisch im Gasthaus, Stamtisch, auch runder Tisch	kein_Trinken	Other	other
+PD03065	Dorf-schenke	Dorfwirtshaus	kein_Trinken	Other	other
+PD03093	Dorf-wirtschaft	Dorfwirtshaus	kein_Trinken	Other	other
+PD03094	Dorf-wirtshaus	Dorfwirtshaus	kein_Trinken	Other	other
+PD03109	Torkeler	wer schwankend, taumelig geht, bes. in Trunkenheit	kein_Trinken	Other	other
+PD03110	torkelig	schwankend, bes. durch Trunkenheit	kein_Trinken	Other	other
+PD03115	Dorn, Dornen	Rausch	kein_Trinken	Other	other
+PD03321	tot-pitschen	sich (durch Alkohol) tottrinken	kein_Trinken	Trinken	Trinken
+PD03327	tot-saufen	sich durch übermäßigen Alkoholgenuß den Tod zuziehen	kein_Trinken	Trinken	Trinken
+PD03331	tot-schaskenen	totsaufen	kein_Trinken	Trinken	Trinken
+PD03378	tot-trinken	totsaufen	kein_Trinken	Trinken	Trinken
+PD03426	Tracht	Alkoholmenge, die zur Trunkenheit führt	kein_Trinken	Trinken	Trinken
+PD03461	Traget, Tragets	große Menge getrunkenen Alkohols	kein_Trinken	Trinken	Trinken
+PD03538	Traktier	kleine Speisegaststätte	kein_Trinken	Other	other
+PD03547	Tralla	Delirium	kein_Trinken	Other	other
+PD03558	Traminer-gesicht	vom Weingenuß gerötetes Gesicht	kein_Trinken	Trinken	Trinken
+PD03900	Dreck-butik	unsaubere Gastwirtschaft	kein_Trinken	Other	other
+PD04036	Dreck-wirtschaft	unsaubere Gastwirtschaft	kein_Trinken	Other	other
+PD04129	drei-drähtig	von sehr starkem Bohnenkaffee	kein_Trinken	Trinken	Trinken
+PD04166	Drei-läufer	kleiner Rausch, Dreiviertelrausch	kein_Trinken	Other	other
+PD04224	Tremens	Alkoholrausch	kein_Trinken	Other	other
+PD04225	Tremens-delirium	Säuferwahn	kein_Trinken	Other	other
+PD04437	Trinker	Trinker	kein_Trinken	Trinken	Trinken
+PD04438	trink-fest	trinkfest	kein_Trinken	Trinken	Trinken
+PD04444	Trink-stube	Lokal, in dem man Getränke zu sich nimmt	kein_Trinken	Other	other
+PD04444	Trink-stube	Stube neben dem Tanzsaal, in der getrunken wird	kein_Trinken	Other	other
+PD04447	Trink-zimmer	Stube neben dem Tanzsaal, in der getrunken wird	kein_Trinken	Other	other
+PD04612	Tropfs-blech	kleine Brenke, in die das Tropfbier vom Hahn hineintropft	kein_Trinken	Other	other
+PD04744	Trudel	Bodensatz einer Flüssigkeit, bes. des Kaffees, des Weins	kein_Trinken	Other	other
+PD04804	Trunk	Trunksucht	kein_Trinken	Other	other
+PD04805	trunken	betrunken	kein_Trinken	Other	other
+PD04807	Trunken-bold	Trunkenbold	kein_Trinken	Other	other
+PD04808	Trunk-walter	Trunkenbold	kein_Trinken	Other	other
+PD04986	Duft	Alkoholrausch	kein_Trinken	Other	other
+PD05046	Tummel	Rausch	kein_Trinken	Other	other
+PD05049	Tümmeler	Rausch	kein_Trinken	Other	other
+PD05184	Dunst	Atem, der nach Alkohol riecht	kein_Trinken	Other	other
+PD05219	Tüpfen	Gefäß zum Trinken	kein_Trinken	Trinken	Trinken
+PD05252	Düppes	kleiner Rausch	kein_Trinken	Other	other
+PD05256	Tur	Saufperiode	kein_Trinken	Trinken	Trinken
+PD05559	turen	seine Sauftur haben	kein_Trinken	Trinken	Trinken
+PD05572	Turen-süffer	wer zeitweise dem Trunk ergeben ist, Quartalssäufer	kein_Trinken	Other	other
+PD05715	Durstel	Trinker	kein_Trinken	Trinken	Trinken
+PD05747	Dusel	leichter Alkoholrausch	kein_Trinken	Other	other
+PE00291	eichen	feststellen, wieviel einer auf einen Sitz trinken kann	kein_Trinken	Trinken	Trinken
+PE00566	ein-flößen	einflößen	kein_Trinken	Other	other
+PE00602	ein-gießen	das Glas füllen	kein_Trinken	Other	other
+PE00653	Ein-kehr	Rast im Gasthaus	kein_Trinken	Other	other
+PE00654	ein-kehren	auf der Reise (auf einem Ausflug) in ein Gasthaus gehen, jemand kurz besuchen	kein_Trinken	Other	other
+PE00837	Ein-schenke	Schanktisch im Gasthaus	kein_Trinken	Other	other
+PE00838	ein-schenken	Getränke eingießen; das Glas gut (schlecht) füllen	kein_Trinken	Other	other
+PE00896	ein-seifen	zu übermäßigem Alkoholgenuß verleiten, vorsätzlich betrunken machen	kein_Trinken	Other	other
+PE01864	er-geben	zum Trinker werden	kein_Trinken	Trinken	Trinken
+PE02405	Extra-stube	Nebenzimmer im Gasthaus für besondere Gäste	kein_Trinken	Other	other
+PE02410	Extra-zimmer	Nebenzimmer im Gasthaus für besondere Gäste	kein_Trinken	Other	other
+PF00099	Fahne, Fahnen	Atemgeruch nach Alkoholgenuß	kein_Trinken	Other	other
+PF00394	Fasanerie	beliebte Einkehrgaststätte bei Zweibr, früher Tiergarten der Herzöge	kein_Trinken	Other	other
+PF00858	Veit	der Rausch, den man sich antrinkt	kein_Trinken	Trinken	Trinken
+PF00862	felbeln	von einem Wirtshaus ins andere gehen	kein_Trinken	Other	other
+PF00952	Feld-webel	Schaum auf dem Bier	kein_Trinken	Other	other
+PF00953	Feldwebels-borte	hohe Schaumkrone auf dem Bier	kein_Trinken	Other	other
+PF01616	ver-katert	müde nach durchzechter Nacht	kein_Trinken	Other	other
+PF01986	ver-passen	vom Rausch	kein_Trinken	Other	other
+PF02146	ver-saufen	dem Trunke ergeben, trunksüchtig	kein_Trinken	Other	other
+PF02146	ver-saufen	von Trunkenheit oder Trunksucht zeugend	kein_Trinken	Other	other
+PF02228	ver-schmachten	verschmachten	kein_Trinken	Other	other
+PF02246	ver-schnäpseln	Geld für Schnaps ausgeben	kein_Trinken	Other	other
+PF02250	ver-schnäuken	(Geld) für Näschereien ausgeben	kein_Trinken	Other	other
+PF02529	ver-trinken	für Getränke ausgeben	kein_Trinken	Other	other
+PF02659	ver-zapfen, -zäpfen	(durch den Faßzapfen) ausschenken	kein_Trinken	Other	other
+PF02664	ver-zechen	das Geld für Zechgelage ausgeben	kein_Trinken	Other	other
+PF02796	Fetzen	totaler Rausch	kein_Trinken	Other	other
+PF02806	Fetzer	Trinker	kein_Trinken	Trinken	Trinken
+PF02810	Feucht-lappen	Schimpfwort für einen Trinker	kein_Trinken	Trinken	Trinken
+PF03115	Viertel	18 l (bei Schnaps)	kein_Trinken	Other	other
+PF03298	Fips	Alkoholrausch	kein_Trinken	Other	other
+PF03608	Flasche, Fläsche	Flasche, Fläsche	kein_Trinken	Other	other
+PF03610	Flaschen-bier	Flaschenbier	kein_Trinken	Trinken	Trinken
+PF03839	Flemme	Katzenjammer, starkes Unbehagen, Ermattung als Folge des Alkoholgenusses	kein_Trinken	Other	other
+PF04005	Flöte	schmales Bierglas, 0, 4 l fassend	kein_Trinken	Other	other
+PF04211	voll	betrunken	kein_Trinken	Other	other
+PF04237	Vollheit	Trunkenheit	kein_Trinken	Other	other
+PF04266	Voll-sau	wer sich unmäßig betrinkt, notorischer Trinker	kein_Trinken	Other	other
+PF04268	Voll-sauf	Säufer, sinnlos Betrunkener	kein_Trinken	Other	other
+PF04275	voll-ständig	betrunken	kein_Trinken	Other	other
+PF04281	Voll-zapfen	Trunkenbold, Säufer	kein_Trinken	Other	other
+PF05230	Friedens-linde	Name eines Gasthauses	kein_Trinken	Other	other
+PF05513	Früh-schoppen	Frühschoppen	kein_Trinken	Trinken	Trinken
+PG00196	Galopp-süffer	wer in kurzer Zeit große Mengen Alkohol konsumiert	kein_Trinken	Trinken	Trinken
+PG00579	Gassen-schenke	Schankwirtschaft mit Getränkeausschank, nicht nur an anwesende Gäste	kein_Trinken	Other	other
+PG00594	Gast-halter	Inhaber einer Herberge für Durchreisende	kein_Trinken	Other	other
+PG00595	Gast-haus	Gaststätte mit Übernachtungsmöglichkeit	kein_Trinken	Other	other
+PG00597	Gast-hof	Gasthaus, in dem auch Pferde und Fuhrwerke eingestellt werden können	kein_Trinken	Other	other
+PG00605	Gast-stube	Gaststube	kein_Trinken	Other	other
+PG00606	Gast-wirt	Gastwirt	kein_Trinken	Other	other
+PG01038	Ge-fälle	vom Trinker	kein_Trinken	Trinken	Trinken
+PG01600	Geldbeutel-wäsche	wenn der letzte Pfennig vertrunken wird	kein_Trinken	Trinken	Trinken
+PG01719	Gelze	leichterer Rausch	kein_Trinken	Other	other
+PG02844	Gewohnheits-säufer, -süffer	notorischer Trinker	kein_Trinken	Trinken	Trinken
+PG02845	Gewohnheits-trinker	notorischer Trinker	kein_Trinken	Trinken	Trinken
+PG03002	Gift-hütte	schlechtes Gasthaus	kein_Trinken	Other	other
+PG03400	Gluckelchen, Gluckel	Trinkflasche	kein_Trinken	Other	other
+PG03418	Gluckser, Glückser	kleine Branntweinflasche	kein_Trinken	Other	other
+PG03861	granaten-voll	stark betrunken	kein_Trinken	Other	other
+PG04203	Grind-kopf	abwertend von einem kleinen Bierfaß	kein_Trinken	Other	other
+PG04258	Grob-wirt	unhöflicher Gastwirt	kein_Trinken	Other	other
+PG04284	Groschen-falle	Gastwirtschaft, in der man den letzten Groschen ausgibt	kein_Trinken	Other	other
+PH00014	Haar-beutel	Alkoholrausch	kein_Trinken	Other	other
+PH00103	Haar-zopf	Alkoholrausch	kein_Trinken	Other	other
+PH00263	Hafer, Hafern	Alkoholrausch	kein_Trinken	Other	other
+PH00361	hagel-voll	stark betrunken	kein_Trinken	Other	other
+PH00512	halb	wenn man 14 Liter Wein u.ä. trinkt	kein_Trinken	Trinken	Trinken
+PH02056	Hecken-wirt, Heck-wirt	geschäftsuntüchtiger Gastwirt	kein_Trinken	Other	other
+PH02057	Hecken-wirtschaft, Heck-wirtschaft	kleines Weinlokal	kein_Trinken	Other	other
+PH02967	Herberge	einfaches Gasthaus, bes. für wandernde Handwerksburschen	kein_Trinken	Other	other
+PH02967	Herberge	verrufenes Haus, Spelunke	kein_Trinken	Other	other
+PH02969	Herbergs-mutter	Herbergswirtin, Frau des Herbergswirts, des Besitzers einer Herberge	kein_Trinken	Other	other
+PH02969	Herbergs-mutter	Gastwirtin	kein_Trinken	Other	other
+PH02970	Herbergs-vater	Herbergswirt, Besitzer einer Herberge	kein_Trinken	Other	other
+PH03293	Herren-stube	Zimmer im Gasthaus für vornehme Gäste	kein_Trinken	Other	other
+PH03295	Herren-tisch	Tisch im Gasthaus für vornehme Gäste	kein_Trinken	Other	other
+PH03555	herum-hängen, -henken	sich oft in Wirtshäusern aufhalten	kein_Trinken	Other	other
+PH04415	Hieb	Alkoholrausch	kein_Trinken	Other	other
+PH04495	Himmel-reich	Name eines Gasthauses in LU-Altr	kein_Trinken	Other	other
+PH05512	Hippes	kleiner Rausch, Halberrücktheit	kein_Trinken	Other	other
+PH05549	Hirsch	Gasthaus zum Hirsch	kein_Trinken	Other	other
+PH05587	Hirsch-wirt, -wirtin	"Inhaber(in) des Gasthauses ""Zum Hirsch"""	kein_Trinken	Other	other
+PH05869	Hocke	Stammplatz im Wirtshaus	kein_Trinken	Other	other
+PH05878	hocken-bleiben	(abends) lang ausbleiben	kein_Trinken	Other	other
+PH05879	Hocken-bleiber, -bleibersin, Hocken-bleiber, -bleiberin	wer lange im Gasthaus herumsitzt	kein_Trinken	Other	other
+PH05880	hocken-haben	betrunken sein	kein_Trinken	Other	other
+PH05882	Hocker	wer lang im Wirtshaus herumsitzt	kein_Trinken	Other	other
+PH05915	Hof	Name von Gaststätten	kein_Trinken	Other	other
+PH06443	Hopfen-bitter	die aus Hopfen gewonnene Bierwürze	kein_Trinken	Trinken	Trinken
+PH06491	Hopps	Alkoholrausch	kein_Trinken	Other	other
+PH06502	Horbel	Alkoholrausch	kein_Trinken	Other	other
+PH06523	Hormel	Alkoholrausch	kein_Trinken	Other	other
+PH06524	Hormes	Alkoholrausch	kein_Trinken	Other	other
+PH07070	Humpen	großes TrinkGefäß von 2 - 5 l Inhalt	kein_Trinken	Other	other
+PH07077	Hund	Schnapsglas (kleiner als 14 l)	kein_Trinken	Other	other
+PH07490	Huren-butik	Gastwirtschaft mit zweifelhaftem Ruf	kein_Trinken	Other	other
+PH07498	Huren-mutter	Inhaberin einer Gastwirtschaft von zweifelhaftem Ruf	kein_Trinken	Other	other
+PH07499	Huren-nest	Gastwirtschaft von zweifelhaftem Ruf	kein_Trinken	Other	other
+PH07506	Huren-vater	Inhaber einer Gastwirtschaft von zweifelhaftem Ruf	kein_Trinken	Other	other
+PH07508	Huren-wirt	Inhaber einer Gastwirtschaft von zweifelhaftem Ruf	kein_Trinken	Other	other
+PH07509	Huren-wirtschaft	Gastwirtschaft von zweifelhaftem Ruf	kein_Trinken	Other	other
+PK00002	Kabarettier	Speisewirt	kein_Trinken	Other	other
+PK00017	Kachel-wirt	Wirt, der häufig das Verlangte nicht hat	kein_Trinken	Other	other
+PK00043	Kaffee	Kaffeehaus	kein_Trinken	Other	other
+PK00044	Kaffee	Kaffeebohnen, auch in gemahlenem Zustand	kein_Trinken	Trinken	Trinken
+PK00048	Kaffee-bohne	Kaffeebohne	kein_Trinken	Other	other
+PK00064	Kaffee-haus	Kaffeehaus	kein_Trinken	Other	other
+PK00090	Kaffee-satz	Kaffeesatz	kein_Trinken	Trinken	Trinken
+PK00495	Kanonen-rausch	starker Rausch	kein_Trinken	Other	other
+PK00499	kanonen-voll	völlig betrunken	kein_Trinken	Other	other
+PK00501	Kanonen-zopf	Rausch	kein_Trinken	Other	other
+PK00510	Kantine	Kantine	kein_Trinken	Other	other
+PK00513	Kantinen-wirt	Kantinenwirt	kein_Trinken	Other	other
+PK00557	Kappe	Schaumschicht auf dem Bier	kein_Trinken	Trinken	Trinken
+PK01047	Kater	Katzenjammer nach übermäßigem Alkoholgenuß	kein_Trinken	Other	other
+PK01135	Katzen-jammer	unangenehme Nachwehen eines Rausches	kein_Trinken	Other	other
+PK01435	Keller-balken	Kellnerin	kein_Trinken	Other	other
+PK01460	Keller-mäden, -mädchen, -mädel	Kellnerin	kein_Trinken	Other	other
+PK01462	Keller-mensch	Kellnerin	kein_Trinken	Other	other
+PK01493	Kellner, Kellnerin, Kellerin	Kellner, Kellnerin, Kellerin	kein_Trinken	Other	other
+PK01495	Kellner-frack	Kellner	kein_Trinken	Other	other
+PK01496	Kellner-mädel	Kellnerin	kein_Trinken	Other	other
+PK01497	kellnern	als Kellner arbeiten	kein_Trinken	Other	other
+PK02301	Kiste	Rausch	kein_Trinken	Other	other
+PK02881	Kloster-hof	Name einer Gastwirtschaft in FR-Hertlhs	kein_Trinken	Other	other
+PK02979	knäll	betrunken	kein_Trinken	Other	other
+PK02983	Knall-bude	schlechtes Gasthaus	kein_Trinken	Other	other
+PK03012	Knall-wirtschaft	verrufene Gastwirtschaft	kein_Trinken	Other	other
+PK03150	Kneipe	kleines, minderes Wirtshaus	kein_Trinken	Other	other
+PK03365	Knorbel, Knurbel, Knürbel	betrunken sein	kein_Trinken	Other	other
+PK03538	Kober	Wirt	kein_Trinken	Other	other
+PK04261	Kost-haus	Haus, in dem man beköstigt wird	kein_Trinken	Other	other
+PK04361	Kräch, Kräche, Krächen	leichter Rausch	kein_Trinken	Other	other
+PK04414	Kraft	von der belebenden Wirkung des Alkohols	kein_Trinken	Other	other
+PK04420	kräftig	viel Alkohol enthaltend (von Wein, Bier)	kein_Trinken	Trinken	Trinken
+PK04922	Kreuz-wirt	"Wirt einer Gastwirtschaft ""Zum Kreuz"" (an einer Straßenkreuzung)"	kein_Trinken	Other	other
+PK05119	Krone	"Wirtschaft, auch Gasthaus ""zur Krone"""	kein_Trinken	Other	other
+PK05124	Kronen-wirt, Kronich-	"Wirt eines Gasthauses ""Zur Krone"""	kein_Trinken	Other	other
+PK05237	krotten-voll	völlig betrunken	kein_Trinken	Other	other
+PK05387	Kübel-süffer	starker Trinker	kein_Trinken	Trinken	Trinken
+PK05666	Kuh-schluck, Küh-	sehr großer Schluck	kein_Trinken	Trinken	Trinken
+PK05667	Kuh-schlurpser, Küh-	sehr großer Schluck	kein_Trinken	Trinken	Trinken
+PL00075	Lack	Rausch	kein_Trinken	Other	other
+PL00077	lack	abgestanden, schal, lau (von Getränken)	kein_Trinken	Other	other
+PL00335	Land-lord	Wirt	kein_Trinken	Other	other
+PL00528	Läpperer	(heimlicher) Trinker, Säufer	kein_Trinken	Trinken	Trinken
+PL00588	läßig	gezapft	kein_Trinken	Other	other
+PL00610	lateinisch	betrunken	kein_Trinken	Other	other
+PL01276	Leib-wirtschaft	Stammlokal	kein_Trinken	Other	other
+PL01544	Leiter	Zeche	kein_Trinken	Other	other
+PL01729	leuchten	von der Trinkernase	kein_Trinken	Other	other
+PL01949	Linde	Name von Gasthäusern	kein_Trinken	Other	other
+PL02185	Lokal	Gastwirtschaft, Herberge	kein_Trinken	Other	other
+PL02195	Lo-pfiffer	nicht zahlender Zechgenosse	kein_Trinken	Other	other
+PL02355	Löwe	Name von Gasthäusern	kein_Trinken	Other	other
+PL02375	Luck	Spelunke	kein_Trinken	Other	other
+PL02496	Lukas	Humpen	kein_Trinken	Other	other
+PL02514	Lump	Trunkenbold, Säufer	kein_Trinken	Other	other
+PL02572	Lumpen-wirtschaft	schlechtes Gasthaus	kein_Trinken	Other	other
+PL02577	Lumpes	Säufer, Trunkenbold	kein_Trinken	Other	other
+PL02648	Lust, Lusten	Gartenwirtschaft	kein_Trinken	Other	other
+PL02674	luttern	den Zwetschgen- oder Birnenschnaps zum zweitenmal brennen	kein_Trinken	Other	other
+PM00060	Madamen-schlücke	kleine Schlucke	kein_Trinken	Trinken	Trinken
+PM01938	Milch-schokolade	Milchschokolade	kein_Trinken	Other	other
+PM01949	Milch-süffer	wer viel Milch trinkt	kein_Trinken	Trinken	Trinken
+PM02544	mole	betrunken	kein_Trinken	Other	other
+PM02771	Mords-affe	schwerer Rausch	kein_Trinken	Other	other
+PM02812	Mords-rausch	großer Rausch	kein_Trinken	Other	other
+PN00257	Nacht-licht	wer bis in die späte Nacht im Wirtshaus sitzt	kein_Trinken	Other	other
+PN00634	Nasen-schild, Nas-schild	in die Straße ragendes Wirtshausschild	kein_Trinken	Other	other
+PN00670	Naß-kittel	Säufer	kein_Trinken	Other	other
+PN00728	Nebel	Zustand des Betrunkenseins	kein_Trinken	Other	other
+PN00816	Neben-zimmer	Gaststättennebenraum für Gesellschaften an Kirchweih, Festen; Herrenzimmer	kein_Trinken	Other	other
+PO00042	Ober	Oberkellner, Kellner	kein_Trinken	Other	other
+PO00098	Ober-kellner	Oberkellner	kein_Trinken	Other	other
+PO00250	Ochse	"Name von Gasthäusern ""Zum Ochsen"""	kein_Trinken	Other	other
+PO00320	Ochsen-wirt	Wirt einer Gastwirtschaft Zum Ochsen	kein_Trinken	Other	other
+PO00401	Offiziers-borte	hohe Schaumkrone auf dem Bier	kein_Trinken	Other	other
+PQ00129	Quartal-säufer, -süffer	wer sich in periodischen Abständen betrinkt	kein_Trinken	Other	other
+PQ00266	Quetsche	blaue Nase (des Trinkers)	kein_Trinken	Other	other
+PQ00279	Quetschen-faß	Faß zur Schnapsbereitung aus Zwetschgenfallobst	kein_Trinken	Other	other
+PR00440	Rasier-schaum	Sahne auf dem Kaffee	kein_Trinken	Other	other
+PR00719	Rausch	durch den Genuß von zuviel Alkohol eintretende Bewußtseinsverwirrung	kein_Trinken	Other	other
+PR00728	rauschig	betrunken	kein_Trinken	Other	other
+PR00942	regalieren	bewirten, freihalten	kein_Trinken	Other	other
+PR01118	Reiber	Faßhahn; kleiner Holzhahn am Faß zum Abfüllen des Weins in Gläser	kein_Trinken	Other	other
+PR01163	Reif	ausgehängter Faßreifen als Wirtshauszeichen	kein_Trinken	Other	other
+PR01326	Reitel	Tafelauf die der Wirt Zechschulden notiert	kein_Trinken	Other	other
+PR01356	Reit-haken	Weinglas	kein_Trinken	Trinken	Trinken
+PR01401	Remischen	kleines Weinglas	kein_Trinken	Other	other
+PR01402	Remischen-stecher	Säufer	kein_Trinken	Trinken	Trinken
+PR01472	Restaurant	Restaurant	kein_Trinken	Other	other
+PR01473	Restauration	Restaurant	kein_Trinken	Other	other
+PR01570	Ribo	Zechtour	kein_Trinken	Other	other
+PR02123	Römer	grünes Weinglas	kein_Trinken	Other	other
+PR02903	rußig	betrunken	kein_Trinken	Other	other
+PS00044	Säbel, Sabel	Rausch	kein_Trinken	Other	other
+PS00123	Säckert	Rausch	kein_Trinken	Other	other
+PS00157	Sack-süffer	kleines flaches Schnapsfläschchen für die Tasche	kein_Trinken	Other	other
+PS00652	Sares	Rausch	kein_Trinken	Other	other
+PS00721	Satz	Bodensatz in Getränken, bes. Kaffee	kein_Trinken	Other	other
+PS00891	Sauf-aus	Zechbruder, Säufer, Saufbold	kein_Trinken	Other	other
+PS00892	Sauf-bruder	Säufer	kein_Trinken	Other	other
+PS00906	Säufer	Trinker, Alkoholiker	kein_Trinken	Trinken	Trinken
+PS00909	Säufer-wahn	Geistesschwäche, Unzurechenbarkeit infolge Trunkenheit, Delirium	kein_Trinken	Other	other
+PS00910	Säufer-wahnsinn	Geistesschwäche, Unzurechenbarkeit infolge Trunkenheit, Delirium	kein_Trinken	Other	other
+PS00915	Sauf-gesellschaft	(häufig) zechende, dem Alkohol ergebene Gesellschaft (auch Schimpfw)	kein_Trinken	Other	other
+PS00916	Sauf-gichtern	Delirium	kein_Trinken	Other	other
+PS00922	Sauf-kollege	Zechkumpan	kein_Trinken	Other	other
+PS00923	Sauf-kompanie	(häufig) zechende, dem Alkohol ergebene Gesellschaft (auch Schimpfw)	kein_Trinken	Other	other
+PS00924	Sauf-kopf	wer gern Alkohol trinkt	kein_Trinken	Trinken	Trinken
+PS00924	Sauf-kumpan	Zechkumpan	kein_Trinken	Other	other
+PS00925	Sauf-lappen	Säufer	kein_Trinken	Other	other
+PS00928	Sauf-liste	Liste der ortsbekannten Säufer	kein_Trinken	Other	other
+PS00929	Sauf-loch	Säufer	kein_Trinken	Other	other
+PS00930	Sauf-lottel	Säufer	kein_Trinken	Other	other
+PS00931	Sauf-nase	Säufer, Trunkenbold	kein_Trinken	Other	other
+PS00932	Sauf-naupen	Saufgelüste	kein_Trinken	Trinken	Trinken
+PS00934	Sauf-partie	Zechgelage	kein_Trinken	Other	other
+PS00942	Sauf-schulden	Schulden infolge übermäßigen Saufens	kein_Trinken	Other	other
+PS00943	Sauf-teufel	Personifizierung des Alkoholismus	kein_Trinken	Other	other
+PS01122	Sau-rausch	großer Rausch	kein_Trinken	Other	other
+PS01169	Sauser	Rausch	kein_Trinken	Other	other
+PS01303	Schächer	Gastwirt	kein_Trinken	Other	other
+PS01498	Schafs-wirt, Schaf-wirt	Besitzer der Gastwirtschaft 'Zum Schaf'	kein_Trinken	Other	other
+PS01689	Schank	Ausschank (von Getränken)	kein_Trinken	Other	other
+PS01692	Schank-bursche	Gehilfe beim Ausschank	kein_Trinken	Other	other
+PS01697	Schank-haus	Gastwirtschaft	kein_Trinken	Other	other
+PS01699	Schank-recht	Schankrecht	kein_Trinken	Other	other
+PS01701	Schank-stube	Stube der Gastwirtschaft, in der ausgeschenkt wird	kein_Trinken	Other	other
+PS01702	Schank-tisch	Tisch in der Gastwirtschaft, an dem ausgeschenkt wird	kein_Trinken	Other	other
+PS01704	Schank-wirt	Wirt, der ausschenkt	kein_Trinken	Other	other
+PS01843	Schaskeler	Trinker	kein_Trinken	Trinken	Trinken
+PS01846	Schaskener	Trinker	kein_Trinken	Trinken	Trinken
+PS01883	Schaub	brennender Strohwisch als Zeichen des Schankrechts	kein_Trinken	Other	other
+PS02117	Schenk-bursche	Aushelfer in Gaststätten zur Kirchweihzeit	kein_Trinken	Other	other
+PS02118	Schenke	Schankwirtschaft	kein_Trinken	Other	other
+PS02118	Schenke	Schanktisch	kein_Trinken	Other	other
+PS02122	schenken	Getränke ausschenken	kein_Trinken	Other	other
+PS02126	Schenk-kellner	Kellner, der ausschenkt	kein_Trinken	Other	other
+PS02127	Schenk-Mädchen	Aushelferin in Gaststätten zur Kirchweihzeit	kein_Trinken	Other	other
+PS02128	Schenk-wirt	wer in einer Schenke ausschenkt	kein_Trinken	Other	other
+PS02273	schicker	betrunken	kein_Trinken	Other	other
+PS02275	Schicker	Schwips, Rausch	kein_Trinken	Other	other
+PS02429	Schikores	Trunkenheit, Rausch	kein_Trinken	Other	other
+PS02430	schikorum	betrunken	kein_Trinken	Other	other
+PS02437	Schild-gerechtigkeit	Konzession für die Eröffnung einer Gastwirtschaft	kein_Trinken	Other	other
+PS02441	Schild-wirt	zum Dauerausschank gekaufter Weine berechtigter Wirt	kein_Trinken	Other	other
+PS02768	Schläger, Schlager	Alkoholrausch, Alkoholexzeß	kein_Trinken	Other	other
+PS02791	Schlag-seite	wie schd»Schlag-seite	kein_Trinken	Other	other
+PS03077	Schleh-büchse	Bierfäßchen	kein_Trinken	Trinken	Trinken
+PS03518	Schluck	Menge, die auf einmal geschluckt wird; der einmalige Schluckvorgang	kein_Trinken	Trinken	Trinken
+PS03531	Schluck-specht	wer gerne und viel trinkt	kein_Trinken	Trinken	Trinken
+PS03532	schluck-weise	schluckweise	kein_Trinken	Trinken	Trinken
+PS03990	schmorig	betrunken	kein_Trinken	Other	other
+PS04244	Schnaps-ausschank	Schankrecht für Spirituosen im Gasthaus	kein_Trinken	Other	other
+PS04250	Schnaps-bude	anspruchsloses, vorwiegend zum Trinken besuchtes Gasthaus	kein_Trinken	Other	other
+PS04251	Schnaps-butelle	Schnapsflasche	kein_Trinken	Other	other
+PS04252	Schnaps-butik	Gastwirtschaft mit bescheidenen Ansprüchen, Branntweinschenke	kein_Trinken	Other	other
+PS04256	Schnapser	wer gerne und oft Schnaps trinkt	kein_Trinken	Trinken	Trinken
+PS04258	Schnaps-fahne	nach Schnaps riechender Atem	kein_Trinken	Other	other
+PS04260	Schnaps-flasche	Glasflasche für Branntwein	kein_Trinken	Other	other
+PS04276	Schnaps-kneipe	Gasthaus, das vorwiegend zum Zweck des Trinkens besucht wird	kein_Trinken	Other	other
+PS04279	Schnaps-kram	Schnapsausschank	kein_Trinken	Other	other
+PS04281	Schnaps-laden	Branntweinausschank, meist mit Kramladen verbunden	kein_Trinken	Other	other
+PS04283	Schnaps-nase	blaurot verfärbte, aufgedunsene Nase eines Gewohnheitstrinkers	kein_Trinken	Other	other
+PS04286	Schnaps-rausch	durch Genuß von zuviel Schnaps eintretende Bewußtseinsverwirrung	kein_Trinken	Other	other
+PS04288	Schnaps-saufen	übermäßiger Genuß von Schnaps	kein_Trinken	Trinken	Trinken
+PS04290	Schnaps-teufel	Personifizierung des Alkoholismus	kein_Trinken	Other	other
+PS04293	Schnaps-vergiftung	schwere Vergiftung durch übermäßigen Genuß von Branntwein	kein_Trinken	Trinken	Trinken
+PS04295	Schnaps-wirtschaft	Gasthaus mit Schnapsausschank	kein_Trinken	Other	other
+PS05058	Schöppeler	Säufer	kein_Trinken	Other	other
+PS05069	Schoppen-pitscher	wer gerne einen Schoppen Wein trinkt	kein_Trinken	Trinken	Trinken
+PS05070	Schoppen-schlücker	wer gerne einen Schoppen trinkt, Säufer	kein_Trinken	Trinken	Trinken
+PS05071	Schoppen-stecher	wer gerne einen Schoppen trinkt, Säufer	kein_Trinken	Trinken	Trinken
+PS05075	Schöppler	Trinker	kein_Trinken	Trinken	Trinken
+PS05208	schräg, schrägs	betrunken	kein_Trinken	Other	other
+PS05507	schucker	betrunken	kein_Trinken	Other	other
+PS06081	Schwan	Name von Gasthäusern	kein_Trinken	Other	other
+PS06097	Schwanen-wirt, -wirtin	"Wirt, Wirtin eines Gasthauses ""Zum Schwanen"""	kein_Trinken	Other	other
+PS06109	schwanken	sich schwankend fortbewegen, taumelnd gehen (bes. von Betrunkenen)	kein_Trinken	Other	other
+PS06119	Schwänzel-bübchen	Kellner	kein_Trinken	Other	other
+PS06191	schwarz	betrunken sein	kein_Trinken	Other	other
+PS06206	Schwarz-brenner	wer unerlaubt Schnaps brennt	kein_Trinken	Other	other
+PS06285	Schwätz-wasser	Schwätzwasser haben = betrunken, angetrunken sein	kein_Trinken	Other	other
+PS06297	Schwede	Rausch	kein_Trinken	Other	other
+PS06623	Schwips	leichter Alkoholrausch	kein_Trinken	Other	other
+PS06625	schwipsig	angeheitert, leicht betrunken	kein_Trinken	Other	other
+PS06628	Schwitte	kleines Glas Wein, Viertelchen	kein_Trinken	Trinken	Trinken
+PS07146	selig	angeheitert, betrunken	kein_Trinken	Other	other
+PS07297	servieren	Essen, Getränke auftragen, auftischen	kein_Trinken	Other	other
+PS07298	Servier-frau, -fräulein	Kellnerin, Bedienung im Gasthaus	kein_Trinken	Other	other
+PS07299	Servier-Mädchen	Mädchen, das serviert	kein_Trinken	Other	other
+PS07301	Servier-spritze	Kellnerin, Bedienung im Gasthaus	kein_Trinken	Other	other
+PS07972	Sonne	Name von Gasthäusern	kein_Trinken	Other	other
+PS08616	Speise-karte	Speisekarte	kein_Trinken	Other	other
+PS08618	Speise-kellner	Kellner, der Speisen aufträgt	kein_Trinken	Other	other
+PS08672	Spelunke	anspruchsloses, verkommenes, übelbeleumundetes Gasthaus	kein_Trinken	Other	other
+PS08876	Spiel-zettel	einen Spielzettel haben = betrunken sein	kein_Trinken	Other	other
+PS09038	Spitz	Rausch	kein_Trinken	Other	other
+PS09048	Spitz-bohnen	Getreidekörner als Kaffee-Ersatz	kein_Trinken	Other	other
+PS09418	spritzen	ein Getränk mit Wasser verdünnen	kein_Trinken	Other	other
+PS09424	Spritzer	leichterer Rausch durch Alkohol	kein_Trinken	Other	other
+PS09466	Sprudel-flasche	Flasche für Mineralwasser	kein_Trinken	Other	other
+PS09628	Stab-aus	betrunken sein	kein_Trinken	Other	other
+PS09634	Stäbel	Alkoholrausch	kein_Trinken	Other	other
+PS09911	Stamm-gast	wer oft in derselben Wirtschaft einkehrt, am selben Platz sitzt	kein_Trinken	Other	other
+PS09912	Stamm-glas	persönliches Trinkglas des Stammgastes in der Wirtschaft	kein_Trinken	Other	other
+PS09918	Stamm-kneipe	die Wirtschaft, in die man regelmäßig zu gehen pflegt	kein_Trinken	Other	other
+PS09920	Stamm-lokal	die Wirtschaft, in die man regelmäßig zu gehen pflegt	kein_Trinken	Other	other
+PS09923	Stamm-tisch	regelmäßige Wirtshausbesuche von Stammgästen	kein_Trinken	Other	other
+PS09924	Stammtisch-bruder	wer zum Stammtisch geht	kein_Trinken	Other	other
+PS09927	Stamm-wirtschaft	die Wirtschaft, in die man regelmäßig zu gehen pflegt	kein_Trinken	Other	other
+PS09941	stampferig	angetrunken, betrunken	kein_Trinken	Other	other
+PS09970	Ständer	Säufer, Trunkenbold	kein_Trinken	Other	other
+PS10105	staubig	mehr oder weniger betrunken	kein_Trinken	Other	other
+PS10172	Stecher	der Stechheber, mit dem man Weinproben zieht	kein_Trinken	Other	other
+PS10177	stechgranaten-voll	volltrunken, besoffen	kein_Trinken	Other	other
+PS10178	Stech-hahnen, Stech-hahn	Vorrichtung am Faß zum Ablassen von Wein, Bier usw.	kein_Trinken	Other	other
+PS10179	Stech-heber	unten spitzes, offenes Gerät, um Weinproben aus dem Faß zu nehmen	kein_Trinken	Other	other
+PS10185	stechkanonen-voll	volltrunken	kein_Trinken	Trinken	Trinken
+PS10261	Stefze, Stefzen	Alkoholrausch	kein_Trinken	Other	other
+PS10310	steif-voll	stark betrunken	kein_Trinken	Other	other
+PS10311	steifvoll-gesoffen	stark betrunken	kein_Trinken	Other	other
+PS10595	stemperig	betrunken	kein_Trinken	Other	other
+PS10643	Stern, Sternen	Stern als Wirtshauszeichen	kein_Trinken	Other	other
+PS10643	Stern, Sternen	Gasthausnamen	kein_Trinken	Other	other
+PS10661	sternenkanonen-voll, sternkanonen-voll	stark betrunken	kein_Trinken	Other	other
+PS10669	Sternen-wirt, Stern-wirt	Gastwirt eines Gasthauses mit Namen Stern	kein_Trinken	Other	other
+PS10672	sterngranatenhagel-voll	stark betrunken	kein_Trinken	Other	other
+PS10674	sterngranatenkrotten-voll	stark betrunken	kein_Trinken	Other	other
+PS10675	sterngranaten-voll	stark betrunken	kein_Trinken	Other	other
+PS10677	sternhagelgranaten-voll	stark betrunken	kein_Trinken	Other	other
+PS10680	sternhagel-voll	stark betrunken	kein_Trinken	Other	other
+PS10703	sterns-voll, stern-voll	stark betrunken	kein_Trinken	Other	other
+PS10758	stichgranate-voll	stark betrunken	kein_Trinken	Other	other
+PS10803	Stieben	Alkoholrausch	kein_Trinken	Other	other
+PS10810	Stieben-süffer, Stieber-	Quartalssäufer	kein_Trinken	Other	other
+PS10811	Stieber	Rausch durch Alkohol, bes. vom Quartalsrausch	kein_Trinken	Other	other
+PS10811	Stieber	betrunkener Mensch	kein_Trinken	Other	other
+PS10815	Stiebes	Alkoholrausch	kein_Trinken	Other	other
+PS10820	Stiefel	Wirtshausname	kein_Trinken	Other	other
+PS10820	Stiefel	Alkoholrausch	kein_Trinken	Other	other
+PS10842	stiefel-steif	betrunken	kein_Trinken	Other	other
+PS10956	Stink-bude	ein schlechtes Gasthaus	kein_Trinken	Other	other
+PS11264	Storax	Rausch	kein_Trinken	Other	other
+PS11270	Storch	"Name eines Gasthauses ""Zum Storchen"""	kein_Trinken	Other	other
+PS11316	Storren	Alkoholrausch	kein_Trinken	Other	other
+PS11339	Stoß	ein kleiner Rausch	kein_Trinken	Other	other
+PS11418	strack	betrunken	kein_Trinken	Other	other
+PS11432	strack-voll	schwer betrunken	kein_Trinken	Other	other
+PS11474	stramig	betrunken	kein_Trinken	Other	other
+PS11504	Strand-kanone	vom Zustand des Betrunkenen	kein_Trinken	Other	other
+PS11616	Strauß	Strauß als Zeichen des Ausschanks an Straußwirtschaften	kein_Trinken	Other	other
+PS11631	Strauß-wirt	Wirt einer Straußwirtschaft	kein_Trinken	Other	other
+PS11632	Strauß-wirtschaft	zeitlich begrenzter Gastwirtschaftsbetrieb	kein_Trinken	Other	other
+PS11667	Streiche	flaches Holz zum Abstreichen des Bierschaums	kein_Trinken	Other	other
+PS11694	Streifer	leichter Alkoholrausch	kein_Trinken	Other	other
+PS11780	Strich	Vermerk des Wirts über konsumierte Getränke	kein_Trinken	Other	other
+PS11977	strubbelig	betrunken	kein_Trinken	Other	other
+PS12192	Stuff	Weinglas für 18 Liter	kein_Trinken	Other	other
+PS12341	Sturm, Sturmen	Alkoholrausch	kein_Trinken	Other	other
+PS12346	Stürmer	Rausch durch Alkohol	kein_Trinken	Other	other
+PS12353	stürmisch	betrunken	kein_Trinken	Other	other
+PS12382	Stürzen-becher	ein Trinker	kein_Trinken	Trinken	Trinken
+PS12385	Stürzer	ein herumtorkelnder Betrunkener	kein_Trinken	Other	other
+PS12520	Suff	Zustand des Betrunkenseins, Rausch	kein_Trinken	Other	other
+PS12521	Süff-chen	versoffener Kerl	kein_Trinken	Other	other
+PS12523	Süffel	Mensch, der gerne einen über den Durst trinkt, Trunkenbold	kein_Trinken	Trinken	Trinken
+PS12525	Süffer	wer etwas trinkt	kein_Trinken	Trinken	Trinken
+PS12525	Süffer	Säufer, Alkoholiker	kein_Trinken	Other	other
+PS12527	Suff-hafen	wer oft zuviel Alkohol trinkt	kein_Trinken	Other	other
+PS12528	süffig	gut zu trinken, wohlschmeckend	kein_Trinken	Trinken	Trinken
+PS12528	süffig	dem Alkohol zusprechend	kein_Trinken	Other	other
+PS12529	Suff-kopf	Säufer, Trunkenbold	kein_Trinken	Other	other
+PS12530	Suff-kuh	Säufer, Trunkenbold	kein_Trinken	Other	other
+PS12531	Suff-lappen	Säufer, Trunkenbold	kein_Trinken	Other	other
+PS12532	Süffling	Trinker, Alkoholiker	kein_Trinken	Trinken	Trinken
+PS12533	Suff-loch	Säufer, Trunkenbold	kein_Trinken	Other	other
+PS12534	Suff-nase	Säufer, Trunkenbold	kein_Trinken	Other	other
+PS12535	Suff-sack	Säufer, Trunkenbold	kein_Trinken	Other	other
+PS12688	Surrer	Rausch	kein_Trinken	Other	other
+PU00214	Über-sitz	das Sitzen im Wirtshaus nach der Sperrstunde	kein_Trinken	Other	other
+PU00215	über-sitzen	über den Sperrstundentermin im Wirtshaus sitzen	kein_Trinken	Other	other
+PU01193	Uspes	Wirt	kein_Trinken	Other	other
+PW00997	Wasser-hünkel	wer keinen Alkohol trinkt, Abstinenzler	kein_Trinken	Other	other
+PW01125	Wasser-süffer	wer keine alkoholischen Getränke trinkt, Abstinenzler	kein_Trinken	Trinken	Trinken
+PW01506	weich	mild, säure- und schwefelarm; trüb (vom Wein)	kein_Trinken	Other	other
+PW01679	Wein-ausschank	Weinausschank	kein_Trinken	Other	other
+PW01706	Wein-essig	aus Wein hergestellter Essig	kein_Trinken	Other	other
+PW01707	Wein-fahnen, Wein-fahne	Atemgeruch nach Weingenuß	kein_Trinken	Trinken	Trinken
+PW01712	Wein-flasche	Weinflasche	kein_Trinken	Other	other
+PW01725	Wein-glocke	Glocke, die nachts zum Schließen des Wirtshauses läutet	kein_Trinken	Other	other
+PW01736	Wein-haus	Weinwirtschaft	kein_Trinken	Other	other
+PW01748	Wein-knorzen	ein Weinkenner	kein_Trinken	Other	other
+PW01775	Wein-probe	das Versuchen verschiedener Weinsorten	kein_Trinken	Other	other
+PW01787	Wein-schank	Weinausschank, Ort und Recht des Weinausschankes	kein_Trinken	Other	other
+PW01788	Wein-schankung	Weinausschank	kein_Trinken	Other	other
+PW01789	Wein-schenke	Gastwirtschaft mit Weinausschank	kein_Trinken	Other	other
+PW01790	wein-schenken	Wein ausschenken	kein_Trinken	Other	other
+PW01799	wein-selig	betrunken	kein_Trinken	Other	other
+PW01811	Wein-stube	einfache Weingaststätte	kein_Trinken	Other	other
+PW01813	Wein-süffer, -süffler	wer gerne Wein trinkt	kein_Trinken	Trinken	Trinken
+PW01825	Wein-wirt	Gastwirt	kein_Trinken	Other	other
+PW01826	Wein-wirtschaft	Weinschenke	kein_Trinken	Other	other
+PW01828	Wein-zapf	Weintrinker, Zechbruder	kein_Trinken	Other	other
+PW01853	weisen	durch amtliche Weinprüfer zum Ausschank bestimmen	kein_Trinken	Other	other
+PW02223	Wermut-bruder	Alkoholiker, der billigen Fusel trinkt	kein_Trinken	Trinken	Trinken
+PW02673	wild	im Wirtshausnamen	kein_Trinken	Other	other
+PW02789	Wind	Alkoholrausch	kein_Trinken	Other	other
+PW03120	Winzer-keller	Weinausschank des örtlichen Winzervereines	kein_Trinken	Other	other
+PW03183	Wirt	wer ein Gasthaus mit Ausschank betreibt	kein_Trinken	Other	other
+PW03187	Wirtin	Wirtsfrau, Ehefrau des Gastwirtes	kein_Trinken	Other	other
+PW03189	Wirtschaft	Gasthaus, Lokal	kein_Trinken	Other	other
+PW03190	wirtschaften	eine Gastwirtschaft betreiben	kein_Trinken	Other	other
+PW03193	Wirts-frau	Frau des Gastwirtes, Wirtin	kein_Trinken	Other	other
+PW03195	Wirts-haus	Gastwirtschaft, Gaststätte	kein_Trinken	Other	other
+PW03197	Wirtshaus-bruder	Wirtshausgänger	kein_Trinken	Other	other
+PW03199	Wirtshaus-gänger	wer oft ins Gasthaus geht	kein_Trinken	Other	other
+PW03200	Wirtshaus-gast	wer im Gasthaus einkehrt	kein_Trinken	Other	other
+PW03201	Wirtshaus-geher	wer oft ins Gasthaus geht	kein_Trinken	Other	other
+PW03202	Wirtshaus-geherei	häufiger Besuch im Gasthaus	kein_Trinken	Other	other
+PW03204	Wirtshaus-hocker	wer oft ins Gasthaus geht	kein_Trinken	Other	other
+PW03206	Wirtshaus-läufer	wer oft ins Gasthaus geht	kein_Trinken	Other	other
+PW03208	Wirtshaus-schild	Schild am Wirtshaus, oft mit symbolischer Darstellung des Namens	kein_Trinken	Other	other
+PW03211	Wirts-leute	wer eine Gastwirtschaft betreibt	kein_Trinken	Other	other
+PW03212	Wirts-lokal	Wirtschaft	kein_Trinken	Other	other
+PW03213	Wirts-Mädchen	Gastwirtstochter, oft gleichzeitig Kellnerin	kein_Trinken	Other	other
+PW03214	Wirts-saal	größter Raum in einer Wirtschaft	kein_Trinken	Other	other
+PW03215	Wirts-schulden	nicht bezahlte Zeche	kein_Trinken	Other	other
+PW03216	Wirts-stube	Raum in der Wirtschaft, in der der Ausschank ist	kein_Trinken	Other	other
+PW03218	Wirts-tochter	Gastwirtstochter, oft gleichzeitig Kellnerin	kein_Trinken	Other	other
+PW03219	Wirts-zimmer	Wirtsstube	kein_Trinken	Other	other
+PZ00031	Zahl-kellner	für das Kassieren zuständige Bedienung in Lokalen	kein_Trinken	Other	other
+PZ00151	zäpfeln	beständig, immer ein bißchen Getränke zapfen	kein_Trinken	Other	other
+PZ00153	Zapfen	Trunkenbold	kein_Trinken	Other	other
+PZ00154	zapfen, zäpfen	Wein etc. vom Zapfhahn in Trink-, AusschenkGefäße laufen lassen	kein_Trinken	Other	other
+PZ00167	Zapfer	wer Getränke zapft	kein_Trinken	Other	other
+PZ00168	Zapf-hahn	Hahn am Faß, am Schanktresen	kein_Trinken	Other	other
+PZ00169	Zapf-kranen	Zapfhahn am Faß	kein_Trinken	Other	other
+PZ00170	Zäpfler	Schankwirt, der das Wirtslokal nur gepachtet hat	kein_Trinken	Other	other
+PZ00197	zart, zärt	angenehm zu trinken, süffig	kein_Trinken	Trinken	Trinken
+PZ00201	Zassel	Wirt	kein_Trinken	Other	other
+PZ00215	Zassel-wirt	Straußwirt, Wirt einer bescheidenen Schenke	kein_Trinken	Other	other
+PZ00216	Zassel-wirtschaft	bescheidene, wenig attraktive Wirtschaft	kein_Trinken	Other	other
+PZ00279	Zech-bruder	wer gerne im Gasthaus sitzt und trinkt	kein_Trinken	Trinken	Trinken
+PZ00282	Zecher	Trinker	kein_Trinken	Trinken	Trinken
+PZ00286	Zech-genosse	wer gerne im Gasthaus sitzt und trinkt	kein_Trinken	Trinken	Trinken
+PZ00287	Zech-kollege	wer gerne im Gasthaus sitzt und trinkt	kein_Trinken	Trinken	Trinken
+PZ00288	Zech-kumpan	wer gerne im Gasthaus sitzt und trinkt	kein_Trinken	Trinken	Trinken
+PZ00961	Zopf	Alkoholrausch	kein_Trinken	Other	other
+PYYY	Thermos-geld	Betrag für das Öffnen selbst mitgebrachter Flaschen im Gasthaus	kein_Trinken	Other	other
+LA00262	Angläs	weiße Wein-Flasche, drei Viertel Liter enthaltend	kein_Trinken	Other	other
+LA00303	an-setzen	anstellen; Brombeeren, Mirabellen, Chinawurzel usw. in Alkohol einweichen, um ein besonders hygienisches Likör herzustellen	kein_Trinken	Other	other
+LB00146	Pans-bruder	einer, der nur für seinen Bauch sorgt, der immer essen u. trinken möchte	kein_Trinken	Trinken	Trinken
+LB00394	be-duselt	angetrunken	kein_Trinken	Other	other
+LB00527	be-newelt	leicht betrunken, benebelt	kein_Trinken	Other	other
+LB00615	be-sawelt	betrunken	kein_Trinken	Other	other
+LB00829	Kaffis-binz	Kaffeekanne	kein_Trinken	Other	other
+LB00894	Bitsch I	Rausch	kein_Trinken	Other	other
+LB01409	Bremm	Landgut u. Wirtshaus bei Forbach	kein_Trinken	Other	other
+LB01550	prowieren	probieren, kosten, versuchen	kein_Trinken	Other	other
+LB01611	brutlich	abgebrüht (vom mehrfach aufgekochten Kaffee)	kein_Trinken	Other	other
+LB01764	Buschong	Korkstöpsel, Propfen	kein_Trinken	Other	other
+LD00053	däfen	Wein mit Wasser durchsetzen	kein_Trinken	Other	other
+LD00093	Damp	Rausch, Betäubung durch geistige Getränke	kein_Trinken	Trinken	Trinken
+LD00098	Dämpert	starker Raucher	kein_Trinken	Other	other
+LD00111	Danne-strauss	Tannenzweig als Aushängeschild eines Wirtshauses	kein_Trinken	Other	other
+LD00361	Tibi	Rausch	kein_Trinken	Other	other
+LD00678	Traht	Rausch	kein_Trinken	Other	other
+LD00698	Drank-fâs	Obstweinfaß	kein_Trinken	Other	other
+LD00700	tränken	fast allg. das Vieh auf die Tränke führen, ihm zu trinken geben	kein_Trinken	Trinken	Trinken
+LD00710	Trappert	Rausch	kein_Trinken	Other	other
+LD00928	dronken	betrunken	kein_Trinken	Other	other
+LD01174	Dusel	Rausch	kein_Trinken	Other	other
+LE00259	er-dischteren	verdursten	kein_Trinken	Trinken	Trinken
+LF00327	ver-durschten	verdursten	kein_Trinken	Trinken	Trinken
+LF00426	ver-juppen	sich vertun, von etwas zuviel essen od. trinken	kein_Trinken	Other	other
+LF00703	ver-suchen	versuchen, kosten	kein_Trinken	Trinken	Trinken
+LF00706	ver-suffen	durch Trinken verprassen	kein_Trinken	Trinken	Trinken
+LF00823	Viertel	der 4. Teil eines Maßes	kein_Trinken	Other	other
+LF01050	Flesch	Flasche, Feldflasche	kein_Trinken	Other	other
+LF01121	voll	betrunken	kein_Trinken	Other	other
+LF01125	Vollchit	Betrunkenheit	kein_Trinken	Other	other
+LG00073	ganglen	hin- u. herschwanken (vom Trunkenbold)	kein_Trinken	Other	other
+LG00125	gaschtieren	ibid. ein Festessen veranstalten, bewirten	kein_Trinken	Other	other
+LG00621	ge-schwatt	betrunken	kein_Trinken	Other	other
+LH00236	Här-geld	Handgeld, Trinkgeld	kein_Trinken	Other	other
+LH00240	Harrijen	Handgeld, Draufgeld, Trinkgeld	kein_Trinken	Other	other
+LH00573	Hib	Räuschchen	kein_Trinken	Other	other
+LH00844	Hucker	gewohnheitsmäßiger Wirtshaussitzer	kein_Trinken	Other	other
+LI00092	in-schenken	einschenken	kein_Trinken	Other	other
+LI00095	in-schlagen	Obst, bes. Zwetschen in ein Faß füllen, um Schnaps herzustellen	kein_Trinken	Other	other
+LK00024	Kaffee	Kaffeehaus	kein_Trinken	Other	other
+LK00025	Kaffeebich	Kaffeebäuche, Spottname der Saargemünder wegen ihrer Vorliebe für Kaffee	kein_Trinken	Trinken	Trinken
+LK00026	Kaffeebinz	Kaffeekanne	kein_Trinken	Other	other
+LK00032	Kaffeehôr	(eigentl. Kaffeehorn) Kaffeeschwester	kein_Trinken	Other	other
+LK00034	Kaffeesatz	Kaffeesatz	kein_Trinken	Other	other
+LK00036	Kaffeeseh	Kaffeesieb	kein_Trinken	Other	other
+LK00038	Kaffeetût	Kaffeeschwester	kein_Trinken	Other	other
+LK00144	kanone-voll	völlig betrunken	kein_Trinken	Other	other
+LK00569	Kischt	Rausch	kein_Trinken	Other	other
+LK00974	Konkel	Säuferin	kein_Trinken	Other	other
+LK01012	koren	kosten; versuchen, wie etwas schmeckt	kein_Trinken	Other	other
+LK01030	Koschthaus	Haus, in dem man beköstigt wird	kein_Trinken	Other	other
+LK01048	Kotzpenning	Gottespfennig, Trinkgeld, Almosen	kein_Trinken	Other	other
+LL00043	laden I	sich mit Speise u. Trank überladen	kein_Trinken	Other	other
+LL00147	Läppsert	Mensch, der im Essen u. Trinken nicht recht zugreift	kein_Trinken	Other	other
+LL00553	Lump	Lump, Verschwender, Trunkenbold	kein_Trinken	Other	other
+LM00422	Milchhawe	Milchtopf	kein_Trinken	Other	other
+LM00465	Minut	Kaffeegeschirr; Topf, in welchem der Kaffee schnell zubereitet werden kann	kein_Trinken	Other	other
+LM00556	Molken	Käsewasser in der Dickmilch	kein_Trinken	Other	other
+LW00164	Wässich	Molke, wässeriger Teil der Milch	kein_Trinken	Other	other
+LR00186	Rausch	Betrunkenheit	kein_Trinken	Other	other
+LR00242	regalieren	bewirten, die Zeche bezahlen	kein_Trinken	Other	other
+LR00242	regalieren	sich durch Speise u. Trank laben	kein_Trinken	Trinken	Trinken
+LR00400	Ribott	Rausch, Saufgelage	kein_Trinken	Other	other
+LR00673	Rusch	Rausch	kein_Trinken	Other	other
+LS00146	Satz I	Bodensatz, Niederschlag einer jeden Flüssigkeit	kein_Trinken	Other	other
+LS00468	schicker	betrunken	kein_Trinken	Other	other
+LS00775	Schluck I	Schluck, Zug	kein_Trinken	Trinken	Trinken
+LS00787	Schlupp I	Schluck, Zug, Mundvoll	kein_Trinken	Trinken	Trinken
+LS00908	Schapsbuddel	Schnapsflasche	kein_Trinken	Other	other
+LS00912	Schapskessel	Schnapsnase	kein_Trinken	Other	other
+LS00916	Schapslischt	Trinkerliste	kein_Trinken	Other	other
+LS00917	Schapsnas	Schnapstrinker	kein_Trinken	Trinken	Trinken
+LS00918	Schnapser	Schnapstrinker. Die Bewohner von Bettweiler (. Saargemünd) heißen Schnapser.	kein_Trinken	Other	other
+LS01001	Schnikert	Schnapstrinker	kein_Trinken	Trinken	Trinken
+LS01005	Schnips	kleiner Rausch	kein_Trinken	Other	other
+LS01117	schores	betrunken	kein_Trinken	Other	other
+LS01349	schwenken	jemanden durch Spendung geistiger Getränke zu gewinnen suchen	kein_Trinken	Trinken	Trinken
+LS01415	Seidel	u. n. Getränk- u. Flüssigkeitsmaß, die Halbe	kein_Trinken	Other	other
+LS01418	Seih	Seihe, feines Sieb für Kaffee, Milch u. dgl	kein_Trinken	Other	other
+LS01522	Siffer	Säufer, Trunkenbold	kein_Trinken	Other	other
+LS01523	Siffersch	Säuferin	kein_Trinken	Other	other
+LS01849	Spritzer	leichter Rausch	kein_Trinken	Other	other
+LS02015	Steiwer	kleiner Rausch	kein_Trinken	Other	other
+LS02065	sterrevoll	ganz betrunken	kein_Trinken	Other	other
+LS02144	Stiwer	Räuschchen	kein_Trinken	Other	other
+LS02220	strack	sinnlos betrunken	kein_Trinken	Other	other
+LS02432	Suckel	irgend ein Gegenstand, an dem gesogen wird, z. B. eine Zuckerstange	kein_Trinken	Other	other
+LS02447	Suff-lappe	Trinker, Säufer	kein_Trinken	Trinken	Trinken
+LS02449	Suffer	Säufer, Trunkenbold	kein_Trinken	Other	other
+LW00410	Winessich	Weinessig	kein_Trinken	Other	other
+LW00413	Wingart	Steueraufseher für Getränke, Steuerbote	kein_Trinken	Other	other
+LW00464	Wirt	Wirt, Gastwirt. Wdgn	kein_Trinken	Other	other
+LW00466	Wirtshus	Wirtshaus	kein_Trinken	Other	other
+LW00467	Wirtslitt	Wirte	kein_Trinken	Other	other
+LW00469	Wirtei	Wirtsgewerbe, Wirtschaft	kein_Trinken	Other	other
+LW00471	Wirtschaft	Wirtschaft, Wirtshaus	kein_Trinken	Other	other
+LW00478	Wisch	Wirtshausschild, Bier- oder Weinzeichen	kein_Trinken	Other	other
+LZ00034	Zapen	Zapfen am Faß, an der Flasche, am Gebälk, Eiszapfen	kein_Trinken	Other	other
+LZ00038	zappen	Wein, Bier vom Zapfen schenken	kein_Trinken	Other	other
+LZ00125	ziehen	zapfen	kein_Trinken	Other	other
+LZ00126	Zieh-stang	dehnbare Zuckerstange	kein_Trinken	Other	other
+LZ00202	Zuck	Zug, Ziehleistung, Zug beim Trinken	kein_Trinken	Trinken	Trinken
+EA00219	Adler	Adler. Häufig Wirtshausschild	kein_Trinken	Other	other
+EA00250	Aff	Rausch	kein_Trinken	Other	other
+EA01244	Ürten	Zeche, gemeinsamer Schmaus in einem Gasthaus	kein_Trinken	Other	other
+EF00161	Fëger	ein Rausch	kein_Trinken	Other	other
+EF00342	Vollheit	Trunkenheit, Zustand des Betrunkenseins	kein_Trinken	Other	other
+EF00447	Fahn, Fahnen	Rausch	kein_Trinken	Other	other
+EF00620	Viertel	Viertele eine Flasche, die 0,25 l fassen kann, sodann der Inhalt einer solchen Flasche	kein_Trinken	Other	other
+EF00832	Fass	Fass, hölzernes Gefäss, das meist zur Aufnahme von Flüssigkeiten, bes. von Wein, bestimmt ist	kein_Trinken	Other	other
+EF00951	Fisch	feste Bestandteile, die in einem vorgesetzten Getränk umherschwimmen, z. B. Pech im Bier und dgl	kein_Trinken	Other	other
+EF01297	Flasch	Flasche	kein_Trinken	Other	other
+EG00198	geiferen	Speichel oder Speise und Trank aus dem Munde fliessen lassen und dadurch die Kleider beschmutzen	kein_Trinken	Other	other
+EG00746	gunklen	Wein über die Strasse verkaufen	kein_Trinken	Other	other
+EG00861	Sufgurgel	Säufer	kein_Trinken	Other	other
+EG00861	Sufgurgel	hervorstehender Kehlkopf, was vom Trinken kommen soll	kein_Trinken	Other	other
+EG00945	Gas	Rausch	kein_Trinken	Other	other
+EG01144	Gutter(e)	Flasche, meist mit grossem Bauch, engem Halse und Giessschnabel, oft mit Stroh umflochten, Korbflasche; aus Glas oder Steingut; dient zum Aufbewahren von Kirsch- oder Pflaumenwasser, Schnaps, Wein, Essig, Petroleum; seltener auch eine kleine Flasche	kein_Trinken	Other	other
+EG01144	Gutter(e)	trunksüchtiges, altes Weib	kein_Trinken	Other	other
+EG01147	gutteren	gluckern, wie Wasser, das aus einer Flasche geschüttet wird	kein_Trinken	Other	other
+EG01382	Glas	Trinkglas	kein_Trinken	Other	other
+EG01382	Glas	Flasche	kein_Trinken	Other	other
+EG01697	grinen	Saft ausfliessen lassen von geschnittenen Reben	kein_Trinken	Other	other
+EH00171	Huch	Rausch	kein_Trinken	Other	other
+EH00171	Huch	Spottname für Personen beiderlei Geschlechts, die viel geistige Getränke zu sich nehmen	kein_Trinken	Trinken	Trinken
+EH00214	Hudel	liederliche, bes. in der Kleidung nachlässige Person; Lump, Säufer, wilder, ungestümer Mensch, schlechter Arbeiter, der alles nur obenhin macht	kein_Trinken	Other	other
+EH00479	Wirtshushocker	Stammgast, der immer in der Wirtschaft zu finden	kein_Trinken	Other	other
+EH00642	Windhals	langhalsige Flasche mit einem Rauminhalt von etwa	kein_Trinken	Other	other
+EH00857	Hahn(e)	Wirtshaus zum Hahn	kein_Trinken	Other	other
+EH00857	Hahn(e)	Rausch	kein_Trinken	Other	other
+EH01228	hops	ist angetrunken	kein_Trinken	Other	other
+EH01237	Hüps	Rausch	kein_Trinken	Other	other
+EH01413	Schrëpfhörnle, Schrëpfhörnel	kleines Bierglas	kein_Trinken	Other	other
+EH01490	Hirz	Rausch	kein_Trinken	Other	other
+EH01490	Hirz	Wirtshausschild	kein_Trinken	Other	other
+EH01600	Wirtshus	Wirtschaft, Gastwirtschaft	kein_Trinken	Other	other
+EH01674	Hutt(e)	Rausch	kein_Trinken	Other	other
+EH01683	Hut	Haut auf der Milch	kein_Trinken	Other	other
+EJ00209	jästig, jastig	in Gärung begriffen, brausend (Wein)	kein_Trinken	Other	other
+EK00019	Keib	Rausch	kein_Trinken	Other	other
+EK00064	Schöpfkübel	kleiner hölzerner Kübel zum Schöpfen von Wasser oder Wein	kein_Trinken	Other	other
+EK00069	Kachel(e)	irdenes Gefäss, Topf, mit rundem Boden und senkrechten Wänden, bes. zum Aufbewahren von Milch; Schüssel, grosse Kaffeetasse; Nachtgeschirr; Isolator der Telegraphenstange	kein_Trinken	Other	other
+EK00182	Kaffee, Kaffi	Kaffeehaus	kein_Trinken	Other	other
+EK00185	Kaffinell	Kaffeeschwester	kein_Trinken	Other	other
+EK00193	Käfer	leichter Rausch	kein_Trinken	Other	other
+EK00380	verkalchen	(den Kaffee) überzuckern	kein_Trinken	Other	other
+EK00427	Kam(e)rad	Rausch	kein_Trinken	Other	other
+EK00555	Kann	Kännchen, auch für Milch, Petrol u. s. w., bes. aber für Bier; ein Zehntel Liter enthaltend. In früherer Zeit wurde das Bier in Krügen aus Steingut, mit dem Zeichen	kein_Trinken	Other	other
+EK00577	Kanon(e)	Rausch	kein_Trinken	Other	other
+EK00942	Inkehr	Einkehr	kein_Trinken	Other	other
+EK00947	i(n) kehren	einkehren	kein_Trinken	Other	other
+EK01253	Kasten	Rausch	kein_Trinken	Other	other
+EK01280	Kist(e)	Rausch	kein_Trinken	Other	other
+EK01313	Käter	Weinrausch	kein_Trinken	Other	other
+EK01340	Kittel	Rausch	kein_Trinken	Other	other
+EK01385	Kuttel	dicke Person, Fresser, Säufer	kein_Trinken	Other	other
+EK01714	klutteren	plätschern, in Flüssigkeiten Blasen und gurgelnde Töne hervorbringen, z. B. beim Sieden, beim Sprudeln einer Quelle, beim Einschenken aus einer Flasche, beim Waschen, bes. beim Spielen im Wasser	kein_Trinken	Other	other
+EK01976	knautschen, knotschen	Wein mit Wasser vermengen	kein_Trinken	Other	other
+EK02087	Krueg	Trunkenbold, Säufer	kein_Trinken	Other	other
+EK02120	Krall(e)	Luftbläschen auf Wein od. Branntwein	kein_Trinken	Other	other
+EK02258	krärzen	prickeln (vom gährenden neuen Wein)	kein_Trinken	Other	other
+EK02568	Kräz(en)	Rausch	kein_Trinken	Other	other
+EK02580	Kritzer	kleiner Rausch	kein_Trinken	Other	other
+EL00342	Lader	Dampf, Rausch	kein_Trinken	Other	other
+EL00344	Lading	Rausch	kein_Trinken	Other	other
+EL00532	Durchluft	Wirtshaus	kein_Trinken	Other	other
+EL00559	Winlogel	Trunkenbold, Schimpfn. für einen Bewohner der oberels. Weingegend	kein_Trinken	Other	other
+EL00683	lack	wässerig, von Getränken, Früchten	kein_Trinken	Other	other
+EL00824	Lump	Lump, Verschwender, Trunkenbold, schlechter Mensch	kein_Trinken	Other	other
+EL00827	lumpen	nichts arbeiten und statt dessen im Wirtshaus liegen und trinken	kein_Trinken	Trinken	Trinken
+EL00951	Lind(en)	Wirtshausschild	kein_Trinken	Other	other
+EL01034	Füchtlappen	Trinker	kein_Trinken	Trinken	Trinken
+EL01180	Lappenlur(e), Lappenlür	Kaffeeschwester	kein_Trinken	Trinken	Trinken
+EL01229	usen	ablassen (Wein)	kein_Trinken	Other	other
+EL01574	Wirtslüt	Wirt und Wirtin	kein_Trinken	Other	other
+EM00635	Mëmmi	Trinker	kein_Trinken	Trinken	Trinken
+EM00899	mapull	betrunken	kein_Trinken	Other	other
+EM01245	Fëldmësser	Betrunkener	kein_Trinken	Other	other
+EN00031	Nëbel	Rausch	kein_Trinken	Other	other
+EN00094	nüechter(e)n	in der Tagesfrühe weder Speise noch Trank zu sich genommen habend	kein_Trinken	Other	other
+EN00478	Schnapsnas(e)	rote Nase eines Säufers	kein_Trinken	Other	other
+EN00481	Sufnas	Säufer	kein_Trinken	Other	other
+EP00149	Buch II	Bauch einer Flasche	kein_Trinken	Other	other
+EP00202	Büchs(e)	Flasche	kein_Trinken	Other	other
+EP00379	Bügel	Rausch	kein_Trinken	Other	other
+EP00542	bocken	übel riechen; schlecht schmecken, vom weichen Wein	kein_Trinken	Other	other
+EP00645	Boll II	Gefäß, in dem Glühwein aufgetragen wird	kein_Trinken	Other	other
+EP00919	bamberschieren	unnötig viel Geld verzehren, bes. im Wirtshaus	kein_Trinken	Other	other
+EP00922	Bample, Bampel	Flasche	kein_Trinken	Other	other
+EP01053	Kaffebohn(e)	Kaffeebohne	kein_Trinken	Trinken	Trinken
+EP01137	Strumpfbëndel	Schaum auf dem Bier	kein_Trinken	Trinken	Trinken
+EP01174	Bunden, Punten	Korkstopfen auf der Flasche	kein_Trinken	Other	other
+EP01191	Bëngel	Rausch	kein_Trinken	Other	other
+EP01282	bun(t)schen, bunzen	(Wein) fälschen, mit Wasser versetzen Westhalten	kein_Trinken	Other	other
+EP01325	bappig, bäppig	weich, vom Wein	kein_Trinken	Other	other
+EP02080	Position	ein gewöhnliches Trinkglas voll Schnaps	kein_Trinken	Trinken	Trinken
+EP02169	Buschong	Korkstöpsel, Pfropfen	kein_Trinken	Other	other
+EP02333	Gebot	beim Zutrinken scherzh. für frz. à votre santé in Verbind. mit dem kurzen à la vôtre in Alle Gebot Santé! wohl bekomm's!	kein_Trinken	Trinken	Trinken
+EP02361	Butëll(e)	Flasche	kein_Trinken	Other	other
+EP02366	Schnapsbutëll	Schnapsflasche	kein_Trinken	Other	other
+EP02376	Butik	kleine, unsaubere Wirtschaft	kein_Trinken	Other	other
+EP02415	Harbütel	Rausch	kein_Trinken	Other	other
+EP02545	bitzelëcht, bitzlig	prickelnd, vom Wein	kein_Trinken	Trinken	Trinken
+EP02699	Bettpfann(e)	Bettflasche	kein_Trinken	Other	other
+EP02814	pfutlen, pfuttlen	quallern, mit Geräusch hervordringen (wie Wasser aus einer Flasche)	kein_Trinken	Other	other
+EP03009	pflätschen	Wein und Branntwein heimlich verkaufen	kein_Trinken	Other	other
+EP03844	Brënner, Brenner	Branntweinbrenner	kein_Trinken	Other	other
+EP03849	Brënnet	soviel Branntwein man auf einmal brennen kann	kein_Trinken	Other	other
+EP03894	Brand	Rausch	kein_Trinken	Other	other
+EP03894	Brand	Inhalt eines Kessels, beim Destillieren von Branntwein	kein_Trinken	Other	other
+EP03894	Brand	lokal: Gelände, wo guter Wein wächst	kein_Trinken	Other	other
+EP03930	Brenz, Brënz	Rausch	kein_Trinken	Other	other
+EQ00056	Quast	Rausch	kein_Trinken	Other	other
+ER00069	Ribo(tt)	Rausch	kein_Trinken	Other	other
+ER00383	regalieren	bewirten, die Zeche bezahlen	kein_Trinken	Other	other
+ER00383	regalieren	sich durch Speise und Trank laben, sich's wohl schmecken lassen, sich an einer Lieblingsspeise satt essen	kein_Trinken	Other	other
+ER00670	Rämpes	leichter Rausch	kein_Trinken	Other	other
+ER01207	rösch	vom Wein, sauer	kein_Trinken	Trinken	Trinken
+ER01209	Rusch I	Rausch	kein_Trinken	Other	other
+ER01508	Ratzer	saurer Geschmack beim Wein	kein_Trinken	Other	other
+ES00043	Sabel	Rausch	kein_Trinken	Other	other
+ES00046	Schleifsabel	Rausch	kein_Trinken	Other	other
+ES00047	Schleppsabel	Rausch	kein_Trinken	Other	other
+ES00139	versuechen	kosten	kein_Trinken	Trinken	Trinken
+ES00281	ab sufen	durch übermässiges Trinken seine Gesundheit untergraben	kein_Trinken	Trinken	Trinken
+ES00283	bsoffen	betrunken	kein_Trinken	Other	other
+ES00287	versufen	durch Trinken verprassen	kein_Trinken	Trinken	Trinken
+ES00288	versoffen	den Trinker kennzeichnend	kein_Trinken	Other	other
+ES00288	versoffen	ertrunken	kein_Trinken	Other	other
+ES00300	Vollsufer	Säufer allg.	kein_Trinken	Other	other
+ES00302	Suffus	Säufer, Lump	kein_Trinken	Other	other
+ES00308	suffig	gut zum Trinken, trinkbar	kein_Trinken	Trinken	Trinken
+ES00485	Dudelsack	Betrunkener	kein_Trinken	Other	other
+ES00529	Schnappsack	Innere Tasche in Rock oder Weste, wohin man Gegenstände steckt, die man nicht gern verlieren will, u. a. auch die Schnapsflasche	kein_Trinken	Other	other
+ES00572	Katzenseckel	Trunkenbold	kein_Trinken	Other	other
+ES00668	sëlig, selig	glücklich, bes. im Rausch	kein_Trinken	Other	other
+ES01041	Milchsupp(e)	Suppe aus Milch	kein_Trinken	Other	other
+ES01273	Kaffeesatz	Bodensatz in der Kaffeekanne oder –tasse	kein_Trinken	Other	other
+ES01280	an setzen	anstellen, Schnaps, Essig u. Dergl.	kein_Trinken	Other	other
+ES01714	schicker	betrunken	kein_Trinken	Other	other
+ES01766	schël	hellrot gefärbt, vom Wein	kein_Trinken	Other	other
+ES01770	schiel	hellrot, vom Wein; frz	kein_Trinken	Other	other
+ES01823	Schild	Schild am Wirtshaus	kein_Trinken	Other	other
+ES01924	scheneros, schenerös	zurückhaltend im Essen und Trinken	kein_Trinken	Trinken	Trinken
+ES02012	in schënken	einschenken, von Getränken	kein_Trinken	Other	other
+ES02013	us schënken	Getränke ausschenken	kein_Trinken	Other	other
+ES02186	Schërben, Schirben, Schirmen	Milchtopf von 1 Lit. Inhalt	kein_Trinken	Other	other
+ES02246	Schassör	du hast einen Affen, bist betrunken	kein_Trinken	Other	other
+ES02278	Bettschisser	zottige, schwarze Rotwein-Traube	kein_Trinken	Other	other
+ES02536	Winschluch	Säufer	kein_Trinken	Other	other
+ES02601	schlifen	leicht angetrunken sein	kein_Trinken	Other	other
+ES02687	Schlegel	grosse, hohe Flasche; Demin. kleines Hohlmass für Hülsenbohnen	kein_Trinken	Other	other
+ES02725	Schluck	Schluck, Zug	kein_Trinken	Trinken	Trinken
+ES02739	Gschlamassel(s)	die Zeche	kein_Trinken	Other	other
+ES02764	Schlamper	grosse, blaue Traubenart, die selten reif wird. Der Wein erhält durch sie eine gefällige Farbe	kein_Trinken	Other	other
+ES03158	Schmier(e)	Zeche	kein_Trinken	Other	other
+ES03172	schmieren	den Wein verfälschen	kein_Trinken	Other	other
+ES03420	an schnallen	aufbürden, eine Lüge oder auch die Zeche im Wirtshaus	kein_Trinken	Other	other
+ES03508	schnäpslen	intr. nach Schnaps riechen	kein_Trinken	Other	other
+ES03509	verschnäpslen	in Schnaps vertrinken	kein_Trinken	Trinken	Trinken
+ES03510	Schnapser	Schnapstrinker	kein_Trinken	Trinken	Trinken
+ES03804	schwëblen, schwëflen	schwefeln, vom Wein	kein_Trinken	Trinken	Trinken
+ES03849	geschwullen, geschwollen	betrunken	kein_Trinken	Other	other
+ES03888	Schwan	Wirtshausschild	kein_Trinken	Other	other
+ES04354	Spitz, Spitzen	Rausch	kein_Trinken	Other	other
+ES04428	gesprickelt	leicht angetrunken und darum nicht recht bei Sinnen	kein_Trinken	Other	other
+ES04430	gespricklig	verklärt, vom Gesicht nach einem besseren Rausch	kein_Trinken	Other	other
+ES04526	gespritzt , gesprezt	ein wenig betrunken, halb verrückt	kein_Trinken	Other	other
+ES04532	Spritzer, Spretzer	leichter Rausch	kein_Trinken	Other	other
+ES04586	Staub	Rausch	kein_Trinken	Other	other
+ES04600	Stäüber	leichter Rausch	kein_Trinken	Other	other
+ES04639	Stüber	kleiner Rausch	kein_Trinken	Other	other
+ES04667	Stich	leichter Rausch	kein_Trinken	Other	other
+ES04677	stichlen	säuerlich werden (vom Wein)	kein_Trinken	Other	other
+ES04757	Stëfzen	Rausch	kein_Trinken	Other	other
+ES04830	uf stecken	um das Trinkgeld spielen, von den Musikanten bei Festen. Zu einer bestimmten Stunde verlassen Musiker und die Tanzenden, letztere paarweise, das Tanzlokal und begeben sich in die Wirtschaftsräume, woselbst von den Musikern	kein_Trinken	Other	other
+ES05133	Stümple, Stümpel	Rausch	kein_Trinken	Other	other
+ES05345	Stipper	Rausch	kein_Trinken	Other	other
+ES05402	Stipser	Rausch	kein_Trinken	Other	other
+ES05412	stierig	betrunken	kein_Trinken	Other	other
+ES05458	Sturm	Rausch	kein_Trinken	Other	other
+ES05601	Stütz(e)	Küferkübel, zugleich Hohlmass für Wein, mit verschiedenem Rauminhalt, in der Regel 10 l, aber auch 12-15. Die Liter sind gekennzeichnet durch eingetriebene Nägel oder Pflöcke	kein_Trinken	Other	other
+ES05640	Strubel	Rausch	kein_Trinken	Other	other
+ES05713	strack	sinnlos (steif) betrunken	kein_Trinken	Other	other
+ET00024	Tee	Teeblätter	kein_Trinken	Trinken	Trinken
+ET00077	täübelen	in der Betrunkenheit dumme Faxen machen	kein_Trinken	Other	other
+ET00137	Dächle, Dächel	Rausch	kein_Trinken	Other	other
+ET00223	betuech(t), betaücht	betrunken, und in diesem Zustande dann reich, zufrieden	kein_Trinken	Other	other
+ET00269	Dudel	Rausch	kein_Trinken	Other	other
+ET00272	bedudelt	betrunken	kein_Trinken	Other	other
+ET00282	Dudi	Rausch	kein_Trinken	Other	other
+ET00311	taüfen, täüfen	mit Wasser versetzen	kein_Trinken	Other	other
+ET00481	Dackel	Verwirrung, Betäubung, Taumel, Rausch	kein_Trinken	Other	other
+ET00532	dick I	geronnen, von der Milch	kein_Trinken	Other	other
+ET00631	tollicht	eingenommen, vom Kopf, sei es infolge zu starken Genusses geistiger Getränke, sei es infolge dumpfer Luft	kein_Trinken	Other	other
+ET00753	Dämpes,Dampes	Rausch	kein_Trinken	Other	other
+ET00756	Dampf	Rausch	kein_Trinken	Other	other
+ET00942	Tante	Hurenwirtin	kein_Trinken	Other	other
+ET01264	Turlitam, Tirlitam, Tirlitum, Turlutu	Rausch	kein_Trinken	Other	other
+ET01281	Türmel	Rausch	kein_Trinken	Other	other
+ET01396	Dusel	Rausch	kein_Trinken	Other	other
+ET01400	beduselt	betrunken	kein_Trinken	Other	other
+ET01401	duselig	leicht betrunken	kein_Trinken	Other	other
+ET01548	Dutt	Rausch	kein_Trinken	Other	other
+ET01844	uf tragen	auftischen	kein_Trinken	Other	other
+ET01862	Traget(e)	Rausch	kein_Trinken	Other	other
+ET01939	Druck	soviel auf einmal gepresst oder gekeltert wird	kein_Trinken	Other	other
+ET02153	tränken	das Vieh tränken, scherzh. auch vom Menschen: zu trinken geben	kein_Trinken	Trinken	Trinken
+EW00497	Wëll(e)	Rausch	kein_Trinken	Other	other
+EW00723	gewinnen	Wein abzapfen durch die kleine mit hölzernem Keil verschlossene Öffnung	kein_Trinken	Other	other
+EW00919	wërden	beim Kartenspiel die Zeche oder einen Teil derselben verlieren	kein_Trinken	Other	other
+EW00952	würflen	sich erbrechen, besonders infolge von Trunkenheit	kein_Trinken	Other	other
+EW01086	Wirt, Wurt, Wert	Wirt, Gastwirt	kein_Trinken	Other	other
+EW01088	Wirtinne, Wirten	Wirtin	kein_Trinken	Other	other
+EW01090	Wirtschaft	Wirtschaft, Wirtshaus	kein_Trinken	Other	other
+EW01297	Wäsch  I	Weinstein	kein_Trinken	Other	other
+EZ00047	verzëchen	verzechen	kein_Trinken	Other	other
+EZ00429	Zapfen	Zapfen am Fass, der Flasche, am Gebälk	kein_Trinken	Other	other
+EZ00429	Zapfen	Trinker	kein_Trinken	Trinken	Trinken
+EZ00429	Zapfen	Rausch	kein_Trinken	Other	other
+EZ00445	Vollzapfen	Trunkenbold	kein_Trinken	Other	other
+EZ00451	zapfen	Wein schenken	kein_Trinken	Other	other
+EZ00456	Zäpfer	Trinker	kein_Trinken	Trinken	Trinken
+EZ00475	Zopf	Rausch	kein_Trinken	Other	other
+EZ00494	verzehren	in einem Wirtshaus ausgeben (nicht bloss für Nahrung), konsumieren	kein_Trinken	Other	other
+EZ00613	Zottel	Hals einer Flasche; Ansatzstück einer Giesskanne	kein_Trinken	Other	other

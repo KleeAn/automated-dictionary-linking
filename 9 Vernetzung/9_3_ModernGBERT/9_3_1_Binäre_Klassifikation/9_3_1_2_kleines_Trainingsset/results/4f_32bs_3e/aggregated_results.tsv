@@ -1,0 +1,5 @@
+Metric	Mean	Std
+Accuracy	0.9453	0.0130
+Precision	0.9143	0.0358
+Recall	0.9358	0.0151
+F1-Score	0.9244	0.0162

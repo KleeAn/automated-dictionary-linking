@@ -1,0 +1,14 @@
+File: A_Trinken_deepseek_32b_basiskonzepte.tsv
+Rows: 1101
+∅ minimal path distance: 1.60
+∅ average path distance: 1.67
+
+Average distances per part-of-speech:
+Adjektiv: ∅ min = 0.00, ∅ avg = 0.00
+Substantiv: ∅ min = 1.33, ∅ avg = 1.37
+Verb: ∅ min = 2.29, ∅ avg = 2.41
+
+Average distances per concept group:
+Durst: ∅ min = 1.57, ∅ avg = 1.57
+Getränk: ∅ min = 1.14, ∅ avg = 1.19
+Trinken: ∅ min = 2.57, ∅ avg = 2.69

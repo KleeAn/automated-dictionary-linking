@@ -1,0 +1,197 @@
+@prefix tr: <http://example.org/trinken-vokabular#> .
+@prefix tree: <https://w3id.org/lemon-tree#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+tr:Trinken_Vokabular a skos:ConceptScheme ;
+    skos:prefLabel "Trinken-Vokabular"@de ;
+    dct:title "Konzeptvokabular zum semantischen Feld Trinken"@de ;
+    dct:type "Vocabulary" ;
+    dct:creator "Anne Klee" ;
+    dct:identifier <http://example.org/trinken-vokabular#> ; ### zu ergänzen ###
+    dct:description "Das Vokabular gruppiert Begriffe zu übergeordneten Konzepten, darunter Synonyme, partielle Synonyme und Unterbegriffe."@de ;
+    dct:description "Das Vokabular wurde zur Verknüpfung von Wörterbuchartikeln als Linked Open Data entwickelt."@de ;
+    dct:description "Als grundlegende Quelle diente die Konzeptsammlung in Openthausurus. Eine Ergänzung erfolgte durch historische Sachgruppenwörterbücher und GermaNet."@de ;
+    dct:description "Für weiterführende Informationen zur Entwicklung und Verwendung des Vokabulars siehe Klee, Anne (i.V.):"Automatisierte Methoden zur konzeptbasierten Vernetzung historischer Wörterbücher als Linked Open Data: Möglichkeiten und Herausforderungen". Dissertation."@de ;
+    dct:created "2025-04-02"^^xsd:date ;
+    dct:language "de" ;
+    dct:subject "Kontrolliertes Vokabular", "Taxonomie", "Wortfeld", "Trinken", "Getränke", "Wörterbuchvernetzung", "Linked Open Data" ;
+    dct:source "Openthesaurus (Stand: Januar 2025, CC-BY-SA 4.0)", <https://www.openthesaurus.de/> ;
+    dct:rights <https://creativecommons.org/licenses/by/4.0/> .
+
+tr:Trinken a skos:Concept ; 
+    skos:prefLabel "trinken"@de ;
+    skos:topConceptOf tr:Trinken_Vokabular ;
+    skos:narrower tr:Alkohol_trinken ;
+    skos:narrower tr:Langsam_kleine_Mengen_trinken ;
+    skos:narrower tr:Schnell_große_Mengen_trinken ;
+    skos:narrower tr:Austrinken ;
+    skos:narrower tr:Geräuschvoll_trinken ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q876776> .
+
+tr:Durst a skos:Concept ; 
+    skos:prefLabel "Durst"@de ;
+    skos:topConceptOf tr:Trinken_Vokabular ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q474187> .
+
+tr:Getränk a skos:Concept ; 
+    skos:prefLabel "Getränk"@de ;
+    skos:topConceptOf tr:Trinken_Vokabular ;
+    skos:narrower tr:Kaltgetränk ;
+    skos:narrower tr:Heißgetränk ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q40050> .
+
+tr:Alkohol_trinken a skos:Concept ;
+    skos:prefLabel "Alkohol trinken"@de ;
+    skos:inScheme tr:Trinken_Vokabular ;
+    skos:broader tr:Trinken ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q2647488> .
+
+tr:Langsam_kleine_Mengen_trinken a skos:Concept ;
+    skos:prefLabel "langsam, in kleinen Mengen trinken"@de ;
+    skos:inScheme tr:Trinken_Vokabular ;
+    skos:broader tr:Trinken .
+    
+tr:Schnell_große_Mengen_trinken a skos:Concept ;
+    skos:prefLabel "schnell, große Mengen trinken"@de ;
+    skos:inScheme tr:Trinken_Vokabular ;
+    skos:broader tr:Trinken .
+   
+tr:Austrinken a skos:Concept ;
+    skos:prefLabel "austrinken"@de ;
+    skos:inScheme tr:Trinken_Vokabular ;
+    skos:broader tr:Trinken .
+
+tr:Geräuschvoll_trinken a skos:Concept ;
+    skos:prefLabel "geräuschvoll trinken"@de ;
+    skos:inScheme tr:Trinken_Vokabular ;
+    skos:broader tr:Trinken ;
+    skos:closeMatch <https://www.wikidata.org/wiki/Q86915760> .
+
+tr:Kaltgetränk a skos:Concept ;
+    skos:prefLabel "Kaltgetränk"@de ;
+    skos:inScheme tr:Trinken_Vokabular ;
+    skos:broader tr:Getränk ;
+    skos:narrower tr:Alkoholfreies_Kaltgetränk ;
+    skos:narrower tr:Alkoholhaltiges_Kaltgetränk ;
+    skos:broadMatch <https://www.wikidata.org/wiki/Q40050> .
+
+tr:Heißgetränk a skos:Concept ;
+    skos:prefLabel "Heißgetränk"@de ;
+    skos:inScheme tr:Trinken_Vokabular ;
+    skos:broader tr:Getränk ;
+    skos:narrower tr:Alkoholfreies_Heißgetränk ;
+    skos:narrower tr:Alkoholhaltiges_Heißgetränk ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q19359564> .
+
+tr:Alkoholfreies_Kaltgetränk a skos:Concept ;
+    skos:prefLabel "Alkoholfreies Kaltgetränk"@de ;
+    skos:inScheme tr:Trinken_Vokabular ;
+    skos:broader tr:Kaltgetränk ;
+    skos:narrower tr:Wasser ;
+    skos:narrower tr:Saft ;
+    skos:narrower tr:Softdrink ;
+    skos:narrower tr:Kaltes_Milchgetränk ;
+    skos:broadMatch <https://www.wikidata.org/wiki/Q2647467> .
+
+tr:Alkoholhaltiges_Kaltgetränk a skos:Concept ;
+    skos:prefLabel "Alkoholhaltiges Kaltgetränk"@de ;
+    skos:inScheme tr:Trinken_Vokabular ;
+    skos:broader tr:Kaltgetränk ;
+    skos:narrower tr:Bier ;
+    skos:narrower tr:Wein ;
+    skos:narrower tr:Spirituose ;
+    skos:broadMatch <https://www.wikidata.org/wiki/Q154> .
+
+tr:Alkoholfreies_Heißgetränk a skos:Concept ;
+    skos:prefLabel "Alkoholfreies Heißgetränk"@de ;
+    skos:inScheme tr:Trinken_Vokabular ;
+    skos:broader tr:Heißgetränk ;
+    skos:narrower tr:Tee ;
+    skos:narrower tr:Kaffee ;
+    skos:narrower tr:Kakao ;
+    skos:broadMatch <https://www.wikidata.org/wiki/Q2647467> .
+
+tr:Alkoholhaltiges_Heißgetränk a skos:Concept ;
+    skos:prefLabel "Alkoholhaltiges Heißgetränk"@de ;
+    skos:inScheme tr:Trinken_Vokabular ;
+    skos:broader tr:Heißgetränk ;
+    skos:broadMatch <https://www.wikidata.org/wiki/Q154> .
+
+tr:Wasser a skos:Concept ;
+    skos:prefLabel "Wasser"@de ;
+    skos:inScheme tr:Trinken_Vokabular ;
+    skos:broader tr:Alkoholfreies_Kaltgetränk ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q7892> .
+
+tr:Saft a skos:Concept ;
+    skos:prefLabel "Saft"@de ;
+    skos:inScheme tr:Trinken_Vokabular ;
+    skos:broader tr:Alkoholfreies_Kaltgetränk ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q7892> .
+
+tr:Softdrink a skos:Concept ;
+    skos:prefLabel "Softdrink"@de ;
+    skos:inScheme tr:Trinken_Vokabular ;
+    skos:broader tr:Alkoholfreies_Kaltgetränk ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q147538> .
+
+tr:Kaltes_Milchgetränk a skos:Concept ;
+    skos:prefLabel "Kaltes Milchgetränk"@de ;
+    skos:inScheme tr:Trinken_Vokabular ;
+    skos:broader tr:Alkoholfreies_Kaltgetränk ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q1872262> .
+
+tr:Bier a skos:Concept ;
+    skos:prefLabel "Bier"@de ;
+    skos:inScheme tr:Trinken_Vokabular ;
+    skos:broader tr:Alkoholhaltiges_Kaltgetränk ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q44> .
+
+tr:Wein a skos:Concept ;
+    skos:prefLabel "Wein"@de ;
+    skos:inScheme tr:Trinken_Vokabular ;
+    skos:broader tr:Alkoholhaltiges_Kaltgetränk ;
+    skos:narrower tr:Sekt ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q282> .
+
+tr:Spirituose a skos:Concept ;
+    skos:prefLabel "Spirituose"@de ;
+    skos:inScheme tr:Trinken_Vokabular ;
+    skos:broader tr:Alkoholhaltiges_Kaltgetränk ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q12673554> .
+
+tr:Sekt a skos:Concept ;
+    skos:prefLabel "Sekt"@de ;
+    skos:inScheme tr:Trinken_Vokabular ;
+    skos:broader tr:Wein ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q321263> .
+
+tr:Tee a skos:Concept ;
+    skos:prefLabel "Tee"@de ;
+    skos:inScheme tr:Trinken_Vokabular ;
+    skos:broader tr:Alkoholfreies_Heißgetränk ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q6097> .
+
+tr:Kaffee a skos:Concept ;
+    skos:prefLabel "Kaffee"@de ;
+    skos:inScheme tr:Trinken_Vokabular ;
+    skos:broader tr:Alkoholfreies_Heißgetränk ;
+    skos:narrower tr:Ersatzkaffee ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q8486> .
+
+tr:Kakao a skos:Concept ;
+    skos:prefLabel "Kakao"@de ;
+    skos:inScheme tr:Trinken_Vokabular ;
+    skos:broader tr:Alkoholfreies_Heißgetränk ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q13261> .
+
+tr:Ersatzkaffee a skos:Concept ;
+    skos:prefLabel "Ersatzkaffee"@de ;
+    skos:inScheme tr:Trinken_Vokabular ;
+    skos:broader tr:Kaffee ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q1147571> .
+

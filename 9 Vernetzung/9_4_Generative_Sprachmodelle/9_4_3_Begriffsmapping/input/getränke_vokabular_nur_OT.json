@@ -1,0 +1,343 @@
+{
+  "Getränk": {
+    "Begriffe": [
+      "das Trinken",
+      "Drink",
+      "Gesöff",
+      "Getränk",
+      "Tropfen",
+      "Reiswein",
+      "Durstlöscher",
+      "Trank",
+      "Trunk"
+    ],
+    "Kaltgetränk": {
+      "Begriffe": [],
+      "Alkoholfreies_Kaltgetränk": {
+        "Begriffe": [
+          "Smoothie",
+          "Ganzfruchtgetränk"
+        ],
+        "Wasser": {
+          "Begriffe": [
+            "Arbeitersekt",
+            "Gänsewein",
+            [
+              "Kraneberger",
+              "Kranenberger"
+            ],
+            "Kranwasser",
+            "Kribbelwasser",
+            "Leitungswasser",
+            "Rohrperle",
+            "saurer Sprudel",
+            "Tafelwasser",
+            "Wasser",
+            "Wasser mit Zisch",
+            "Mineralwasser",
+            "Selters",
+            "Soda",
+            "Sodawasser",
+            "Sprudel",
+            "Sprudelwasser",
+            [
+              "Stilles Wasser",
+              "stilles Wasser"
+            ],
+            "Trinkwasser",
+            "Selterswasser"
+          ]
+        },
+        "Saft": {
+          "Begriffe": [
+            "Apfelsaft",
+            [
+              "Apfelsaftschorle",
+              "Apfelschorle"
+            ],
+            "Fruchtsaft",
+            "Most",
+            [
+              "Orangensaft",
+              "O-Saft"
+            ],
+            "Saft",
+            "Traubenmost",
+            "Gemüsesaft"
+          ]
+        },
+        "Softdrink": {
+          "Begriffe": [
+            [
+              "Coca-Cola",
+              "Cola"
+            ],
+            "Coke",
+            "Erfrischungsgetränk",
+            [
+              "Limonade",
+              "Limo"
+            ],
+            "Softdrink",
+            "Zuckerwasser",
+            "Brause"
+          ]
+        },
+        "Kaltes_Milchgetränk": {
+          "Begriffe": [
+            "Büchsenmilch",
+            "Dosenmilch",
+            [
+              "haltbare Milch",
+              "H-Milch"
+            ],
+            "Kondensmilch",
+            "Kuhmilch",
+            "Milch",
+            "Milchmischgetränk",
+            "Milchmixgetränk",
+            [
+              "Milchshake",
+              "Milkshake"
+            ],
+            "Schickermilch",
+            "Trinkmilch",
+            "Vollmilch",
+            "Hafermilch",
+            "Magermilch",
+            "Sauermilch",
+            "Sojamilch"
+          ]
+        }
+      },
+      "Alkoholhaltiges_Kaltgetränk": {
+        "Begriffe": [
+          "billiger Alkohol",
+          "Radler",
+          "Alsterwasser",
+          "Alster",
+          "Bier-Limonade-Mix",
+          "Cocktail",
+          "Longdrink",
+          "Shortdrink",
+          "Kurzer",
+          "Absacker",
+          "Honigwein",
+          "Met"
+        ],
+        "Bier": {
+          "Begriffe": [
+            "Bier",
+            "Gerstensaft",
+            "Flüssigbrot",
+            "Gerstenkaltgetränk",
+            "Gerstenkaltschalte",
+            "Hopfenkaltschale",
+            "Hopfentee",
+            "Krawallbrause",
+            "Maurerbrause",
+            "Ballerbrühe",
+            "Altbier",
+            "Weißbier",
+            [
+              "Pilsbier",
+              "Pils"
+            ],
+            "Kölsch",
+            "Helles",
+            "Hellbier",
+            "Kellerbier",
+            [
+              "Märzenbier",
+              "Märzen"
+            ],
+            "Leichtbier",
+            "Braunbier",
+            "Ale",
+            [
+              "Bockbier",
+              "Bock"
+            ],
+            "Starkbier",
+            "Dünnbier"
+          ]
+        },
+        "Wein": {
+          "Begriffe": [
+            "Wein",
+            "Rebensaft",
+            "Rotwein",
+            "Roter",
+            "Weißwein",
+            "Weißer",
+            [
+              "Roséwein",
+              "Rosé"
+            ],
+            "Tafelwein",
+            "Prädikatswein",
+            "Federweißer",
+            "Fruchtwein",
+            "Cidre",
+            "Apfelperlwein",
+            "Apfelschaumwein",
+            "Süßwein",
+            "Portwein",
+            "Likörwein",
+            "Grauburgunder",
+            "Palmwein",
+            "Sauser"
+          ],
+          "Sekt": {
+            "Begriffe": [
+              "Schaumwein",
+              "Perlwein",
+              "Sekt",
+              "Champagner",
+              "Schampus",
+              "Pickelbrause",
+              "Pickelwasser",
+              "Puffbrause",
+              "Krimsekt"
+            ]
+          }
+        },
+        "Spirituose": {
+          "Begriffe": [
+            "Schnaps",
+            "Schabau",
+            "Spirituose",
+            "Hochprozentiges",
+            "Zielwasser",
+            "Korn",
+            "Kornbrand",
+            "Gin",
+            "Wacholderbranntwein",
+            "Wacholderschnaps",
+            "Wodka",
+            "Obstbrand",
+            "Obstgeist",
+            "Obstler",
+            "Obstwasser",
+            "Likör",
+            "Amaretto",
+            "Mandellikör",
+            "Cassis",
+            "Johannisbeerlikör",
+            "Aprikosenbrand",
+            "Aprikosenschnaps",
+            "Marillenbrand",
+            "Marillenschnaps",
+            "Zwetschgenbrand",
+            "Zwetschgenschnaps",
+            "Zwetschgenwasser",
+            "Cognac",
+            "Weinbrand",
+            "Digestif",
+            "Verdauungsschnaps",
+            "Anisschnaps",
+            "Grappa",
+            "Tresterbrand",
+            "Tresterschnaps",
+            "Fusel",
+            "Kognak",
+            [
+              "Branntwein",
+              "Branntewein"
+            ],
+            "Feuerwasser"
+          ]
+        }
+      }
+    },
+    "Heißgetränk": {
+      "Begriffe": [],
+      "Alkoholfreies_Heißgetränk": {
+        "Begriffe": [
+          "Aufgussgetränk"
+        ],
+        "Tee": {
+          "Begriffe": [
+            "Tee"
+          ]
+        },
+        "Kaffee": {
+          "Begriffe": [
+            "Bodenseekaffee",
+            "Brühe",
+            "Java",
+            "Kaffee mit aufgeschäumter Milch",
+            "Kapuziner",
+            "Latte",
+            "Latte macchiato",
+            "Plörre",
+            "Wachmacher",
+            [
+              "Kaffee",
+              "Café"
+            ],
+            "Blümchenkaffee",
+            "Capuccino",
+            "Espresso",
+            "Milchkaffee",
+            [
+              "Mokka",
+              "Mocca",
+              "Mocha"
+            ],
+            "Lorke",
+            [
+              "Plempe",
+              "Plämpe"
+            ]
+          ]
+        },
+        "Ersatzkaffee": {
+          "Begriffe": [
+            "Ersatzkaffee",
+            "Kaffeeersatz",
+            "Caro-Kaffee",
+            "Fruchtkaffee",
+            "Gerstenkaffee",
+            "Kinderkaffee",
+            "Getreidekaffee",
+            "Malzkaffee",
+            "Muckefuck"
+          ]
+        },
+        "Kakao": {
+          "Begriffe": [
+            "Kakao",
+            "Heiße Schokolade",
+            "Kakaogetränk",
+            "Kakaomilch",
+            "Kakaotrunk",
+            "Trinkschokolade",
+            [
+              "Schokoladentrunk",
+              "Schokotrunk"
+            ]
+          ]
+        }
+      },
+      "Alkoholhaltiges_Heißgetränk": {
+        "Begriffe": [
+          [
+            "Jagertee",
+            "Jagatee",
+            "Jägertee"
+          ],
+          "Förstertee",
+          "Hüttentee",
+          "Feuerzangenbowle",
+          "Espresso mit Schuss",
+          "Kaffee mit Schuss",
+          "Irish Coffee",
+          "Glühwein",
+          "Punsch",
+          "Grog"
+        ]
+      }
+    }
+  }
+}

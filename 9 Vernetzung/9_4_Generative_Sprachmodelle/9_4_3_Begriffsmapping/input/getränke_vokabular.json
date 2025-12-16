@@ -1,0 +1,523 @@
+{
+  "Getränk": {
+    "Begriffe": [
+      "das Trinken",
+      "Drink",
+      "Durstlöscher",
+      "Flüssignahrung",
+      "Gesöff",
+      "Getränk",
+      "Trank",
+      "Trinkbares",
+      "Trinkware",
+      "Tropfen",
+      "Trunk",
+      "Reiswein"
+    ],
+    "Kaltgetränk": {
+      "Begriffe": [],
+      "Alkoholfreies_Kaltgetränk": {
+        "Begriffe": [
+          "Smoothie",
+          "Ganzfruchtgetränk",
+          "Eiskaffee"
+        ],
+        "Wasser": {
+          "Begriffe": [
+            "Arbeitersekt",
+            "Born",
+            "Brause",
+            "Brunnenwasser",
+            "Brunnewitzer",
+            "Gänsewein",
+            [
+              "Kraneberger",
+              "Kranenberger"
+            ],
+            "Kranwasser",
+            "Kribbelwasser",
+            "Lauterbacher",
+            "Lauterbrunner",
+            "Leitungswasser",
+            "Mineralwasser",
+            "Proletariersekt",
+            "Pumpenheimer",
+            "Quellwasser",
+            "Rohrperle",
+            "Sauerbrunnen",
+            "Säuerling",
+            "saurer Sprudel",
+            "Selters",
+            "Selterswasser",
+            "Siphon",
+            "Soda",
+            "Sodawasser",
+            "Spring",
+            "Spritzwasser",
+            "Sprudel",
+            "Sprudelwasser",
+            [
+              "Stilles Wasser",
+              "stilles Wasser"
+            ],
+            "Tafelwasser",
+            "Trinkwasser",
+            "Wasser",
+            "Wasser mit Zisch"
+          ]
+        },
+        "Saft": {
+          "Begriffe": [
+            "Ananassaft",
+            "Apfelsaft",
+            [
+              "Apfelsaftschorle",
+              "Apfelschorle"
+            ],
+            "Fruchtnektar",
+            "Fruchtsaft",
+            "Gemüsesaft",
+            "Karottensaft",
+            "Most",
+            "Multivitaminsaft",
+            "Nektar",
+            "Obstsaft",
+            [
+              "Orangensaft",
+              "O-Saft"
+            ],
+            "Saft",
+            "Süßmost",
+            "Tomatensaft",
+            "Traubenmost",
+            "Traubensaft"
+          ]
+        },
+        "Softdrink": {
+          "Begriffe": [
+            "Bitter Lemon",
+            "Brause",
+            "Brauselimonade",
+            [
+              "Coca-Cola",
+              "Cola"
+            ],
+            "Coke",
+            "Colagetränk",
+            "Eistee",
+            "Erfrischungsgetränk",
+            "Fassbrause",
+            "Ginger Ale",
+            "Ingwerbier",
+            "Lakritzenwasser",
+            [
+              "Limonade",
+              "Limo"
+            ],
+            "Orangeade",
+            "Orangenlimonade",
+            "Scherbet",
+            "Serbet",
+            "Sirup",
+            "Softdrink",
+            "Sorbet",
+            "Tonic Water",
+            "Zitronenlimonade",
+            "Zuckersaft",
+            "Zuckerwasser"
+          ]
+        },
+        "Kaltes_Milchgetränk": {
+          "Begriffe": [
+            "Bananenmilch",
+            "Büchsenmilch",
+            "Buttermilch",
+            "Dickmilch",
+            "Dosenmilch",
+            "Erdbeermilch",
+            "Eselsmilch",
+            "Frischmilch",
+            "gestandene Milch",
+            "Hafermilch",
+            [
+              "haltbare Milch",
+              "H-Milch"
+            ],
+            "Kokosmilch",
+            "Kondensmilch",
+            "Kuhmilch",
+            "Kuhsaft",
+            "Magermilch",
+            "Mandelmilch",
+            "Milch",
+            "Milchmischgetränk",
+            "Milchmixgetränk",
+            [
+              "Milchshake",
+              "Milkshake"
+            ],
+            "Pflanzenmilch",
+            "Reismilch",
+            "Sauermilch",
+            "saure Milch",
+            "Schickermilch",
+            "Sojamilch",
+            "Trinkmilch",
+            "Vollmilch",
+            "Ziegenmilch"
+          ]
+        }
+      },
+      "Alkoholhaltiges_Kaltgetränk": {
+        "Begriffe": [
+          "billiger Alkohol",
+          "Radler",
+          "Alsterwasser",
+          "Alster",
+          "Bier-Limonade-Mix",
+          "Biermischgetränk",
+          "Cocktail",
+          "Longdrink",
+          "Shortdrink",
+          "Kurzer",
+          "Absacker",
+          "Honigwein",
+          "Met"
+        ],
+        "Bier": {
+          "Begriffe": [
+            "Bier",
+            "Gerstensaft",
+            "Gerstentrank",
+            "Gerstenwein",
+            "Flüssigbrot",
+            "Gerstenkaltgetränk",
+            "Gerstenkaltschalte",
+            "Hopfenkaltschale",
+            "Hopfentee",
+            "Krawallbrause",
+            "Maurerbrause",
+            "Ballerbrühe",
+            "Hopfenblütentee",
+            "Hopfensaft",
+            "Hopfengetränk",
+            "Bräu",
+            "Altbier",
+            "Weißbier",
+            [
+              "Weizenbier",
+              "Weizen"
+            ],
+            "Hefeweizen",
+            [
+              "Pilsbier",
+              "Pils"
+            ],
+            [
+              "Bockbier",
+              "Bock"
+            ],
+            "Starkbier",
+            "Kölsch",
+            "Helles",
+            "Hellbier",
+            "Kellerbier",
+            [
+              "Märzenbier",
+              "Märzen"
+            ],
+            "Leichtbier",
+            "Dünnbier",
+            "Braunbier",
+            "Ale",
+            "Porter",
+            "Schwarzbier",
+            "Malzbier",
+            "Dunkelbier"
+          ]
+        },
+        "Wein": {
+          "Begriffe": [
+            "Wein",
+            "Rebensaft",
+            "Rotwein",
+            "Roter",
+            "Weißwein",
+            "Weißer",
+            [
+              "Roséwein",
+              "Rosé"
+            ],
+            "Tafelwein",
+            "Prädikatswein",
+            "Qualitätswein",
+            "Obstwein",
+            "Apfelwein",
+            "Federweißer",
+            "Fruchtwein",
+            "Sauser",
+            "Riesling",
+            "Bordeaux",
+            "Burgunder",
+            "Cidre",
+            "Apfelperlwein",
+            "Apfelschaumwein",
+            "Eiswein",
+            "Landwein",
+            "Süßwein",
+            "Portwein",
+            "Likörwein",
+            "Grauburgunder",
+            "Weißburgunder",
+            "Palmwein"
+          ],
+          "Sekt": {
+            "Begriffe": [
+              "Schaumwein",
+              "Perlwein",
+              "Sekt",
+              "Champagner",
+              "Schampus",
+              "Schumm",
+              "Pickelbrause",
+              "Pickelwasser",
+              "Puffbrause",
+              "Prosecco",
+              "Krimsekt"
+            ]
+          }
+        },
+        "Spirituose": {
+          "Begriffe": [
+            "Schnaps",
+            [
+              "Branntwein",
+              "Branntewein"
+            ],
+            "Schabau",
+            "Spirituose",
+            "Feuerwasser",
+            "Fusel",
+            "Hochprozentiges",
+            "Zielwasser",
+            "Korn",
+            "Kornbrand",
+            "Kornbranntwein",
+            "Gin",
+            "Wacholderbranntwein",
+            "Wacholderschnaps",
+            "Wodka",
+            "Obstbrand",
+            "Obstgeist",
+            "Obstler",
+            "Obstwasser",
+            "Obstschnaps",
+            "Likör",
+            "Amaretto",
+            "Mandellikör",
+            "Cassis",
+            "Johannisbeerlikör",
+            "Aprikosenbrand",
+            "Aprikosenschnaps",
+            "Marillenbrand",
+            "Marillenschnaps",
+            "Zwetschgenbrand",
+            "Zwetschgenschnaps",
+            "Zwetschgenwasser",
+            "Cognac",
+            "Kognak",
+            "Weinbrand",
+            "Digestif",
+            "Verdauungsschnaps",
+            "Magenbitter",
+            "Absinth",
+            "Aquavit",
+            "Lebenswasser",
+            "Goldwasser",
+            [
+              "Whiskey",
+              "Whisky"
+            ],
+            "Eierlikör",
+            "Kirsch",
+            "Kirschwasser",
+            "Kirschgeist",
+            "Kräuterlikör",
+            "Kräuterschnaps",
+            "Klarer",
+            "Rum",
+            "Zuckerrohrschnaps",
+            "Tequila",
+            "Brandy",
+            [
+              "Arrak",
+              "Arrack"
+            ],
+            "Pflaumenbranntwein",
+            "Kümmelbranntwein",
+            "Wermutbranntwein",
+            "Wermutschnaps",
+            "Anisbranntwein",
+            "Pfefferminzlikör",
+            "Anislikör",
+            "Anisschnaps",
+            "Grappa",
+            "Tresterbrand",
+            "Tresterschnaps",
+            "Sherry",
+            "Reisbranntwein",
+            "Reisschnaps"
+          ]
+        }
+      }
+    },
+    "Heißgetränk": {
+      "Begriffe": [],
+      "Alkoholfreies_Heißgetränk": {
+        "Begriffe": [
+          "Aufgussgetränk"
+        ],
+        "Tee": {
+          "Begriffe": [
+            "Tee",
+            "Teegetränk",
+            "Früchtetee",
+            "Kamillentee",
+            "Kräutertee",
+            "Pfefferminztee",
+            [
+              "Schwarztee",
+              "schwarzer Tee",
+              "Schwarzer Tee"
+            ],
+            "Fencheltee",
+            [
+              "Grüntee",
+              "grüner Tee",
+              "Grüner Tee"
+            ],
+            "Mate",
+            "Ostfriesentee",
+            "Hagebuttentee"
+          ]
+        },
+        "Kaffee": {
+          "Begriffe": [
+            "Blümchenkaffee",
+            "Bodenseekaffee",
+            "Bohnenkaffee",
+            "Brühe",
+            "Capuccino",
+            "Espresso",
+            "Filterkaffee",
+            "Geplämpe",
+            "Geschlapp",
+            "Instantkaffee",
+            "Java",
+            [
+              "Kaffee",
+              "Café"
+            ],
+            "Kaffee mit aufgeschäumter Milch",
+            "Kapuziner",
+            "Latte",
+            "Latte macchiato",
+            "Lorke",
+            "Lurke",
+            "Melange",
+            "Milchkaffee",
+            [
+              "Mokka",
+              "Mocca",
+              "Mocha"
+            ],
+            "Plampel",
+            [
+              "Plempe",
+              "Plämpe"
+            ],
+            "Plörre",
+            "Röstkaffee",
+            "Schwarzes Gold",
+            "Türkentrank",
+            "Wachmacher"
+          ]
+        },
+        "Ersatzkaffee": {
+          "Begriffe": [
+            "Ersatzkaffee",
+            "Kaffeeersatz",
+            "Caro-Kaffee",
+            "Fruchtkaffee",
+            "Gerstenkaffee",
+            "Getreidekaffee",
+            "Kornkaffee",
+            "Malzkaffee",
+            "Kinderkaffee",
+            "Muckefuck",
+            "Zichorienkaffee",
+            "Eichelkaffee"
+          ]
+        },
+        "Kakao": {
+          "Begriffe": [
+            "Kakao",
+            "Heiße Schokolade",
+            "Kakaogetränk",
+            "Kakaomilch",
+            "Kakaotrunk",
+            "Kakaotrank",
+            [
+              "Schokoladentrunk",
+              "Schokotrunk"
+            ],
+            [
+              "Schokoladentrank",
+              "Schokotrank"
+            ],
+            "Trinkschokolade",
+            "Schokolade",
+            [
+              "Schokoladengetränk",
+              "Schokogetränk"
+            ],
+            "Schokodrink",
+            "Milchkakao",
+            [
+              "Schokoladenmilch",
+              "Schokomilch"
+            ]
+          ]
+        }
+      },
+      "Alkoholhaltiges_Heißgetränk": {
+        "Begriffe": [
+          [
+            "Jagertee",
+            "Jagatee",
+            "Jägertee"
+          ],
+          "Förstertee",
+          "Hüttentee",
+          "Glühwein",
+          "Glühmost",
+          "Punsch",
+          "Bischof",
+          "Kardinal",
+          "Weinwarm",
+          "Feuerzangenbowle",
+          "Gewürzwein",
+          "Hippokras",
+          "Grog",
+          "Espresso mit Schuss",
+          "Kaffee mit Schuss",
+          "Irish Coffee",
+          "Hoppelpoppel",
+          "Krambambuli",
+          "Teepunsch",
+          "Pharisäer"
+        ]
+      }
+    }
+  }
+}

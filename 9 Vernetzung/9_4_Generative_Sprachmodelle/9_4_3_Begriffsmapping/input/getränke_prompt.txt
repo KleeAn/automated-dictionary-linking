@@ -1,0 +1,15 @@
+f"""
+Given are a dictionary entry with its headword and its definition representing a beverage.
+
+Here is a list of concepts and related terms: {konzeptliste}.
+
+Choose the **most appropriate** term from the list.
+
+Return **only this single** term.
+
+**Dictionary entry**:
+Headword: {lemma}
+Definition: {definition}
+
+Your entire answer must consist **only** of one term, without justification, explanation, or additional text.
+"""

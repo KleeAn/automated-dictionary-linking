@@ -1,0 +1,16 @@
+File: 4_A_B_C_gesamt_matches_final.tsv
+Rows: 3095
+∅ minimal path distance: 0.89
+∅ average path distance: 0.93
+
+Average distances per part-of-speech:
+Adjektiv: ∅ min = 0.87, ∅ avg = 0.87
+Adverb: ∅ min = 0.00, ∅ avg = 0.00
+Substantiv: ∅ min = 0.95, ∅ avg = 0.99
+Verb: ∅ min = 0.69, ∅ avg = 0.75
+
+Average distances per concept group:
+Durst: ∅ min = 1.29, ∅ avg = 1.29
+Getränk: ∅ min = 2.08, ∅ avg = 2.19
+Trinken: ∅ min = 1.50, ∅ avg = 1.62
+kein_Trinken: ∅ min = 0.34, ∅ avg = 0.34

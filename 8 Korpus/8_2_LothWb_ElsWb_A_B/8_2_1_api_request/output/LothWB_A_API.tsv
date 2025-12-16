@@ -1,0 +1,119 @@
+srcid	srclemma	tgtid	tgtlemma	tgtgram	concept_PfWb
+PA02561	&#x00c4;pfel-wein	LA00352	&#x00c4;bbel-win		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PA03164	auf-laden	LU00049	uf-laden		Trinken.Alkohol_trinken
+PA03957	aus-saufen	LU00253	us-suffen		Trinken.Austrinken
+PA04088	Aus-stich	LU00255	U'stalt	f.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PB02130	be-sabeln	LB00613	be-sabbelen		Trinken.Alkohol_trinken
+PB02160	be-schlagen	LB00632	be-schl&#x00f3;n		Trinken.Alkohol_trinken
+PB02736	Pfeffer-minz	LB00399	Peffer-mihl		Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee
+PB03008	Pflaster	LB00967	Plaster	m. f.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PB04011	blasen	LB00963	blasen	intr. v.	Trinken.Alkohol_trinken
+PB04398	blitzen	LB01061	bletzen	intr. v.,blitzen	Trinken
+PB04922	Polack	LB01194	Polak	m.	Getränk
+PB05580	Brand	LB01343	Brand	m.	Durst
+PB05629	Brannt(e)-wein	LB01350	Brannte-win	m.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PB06562	Br&#x00fc;he	LB01455	Brih	f.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PB07052	Pudel	LB01657	Puddel	m.	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+PB07266	pumpen	LB01698	pumpen	tr. v.	Trinken.Alkohol_trinken
+PB07510	b&#x00fc;rsten	LB00859	birschten	tr. v.	Trinken.Alkohol_trinken
+PD02202	Dick-milch	LD00353	Tessel	m.	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+PD03596	Trank	LD00695	Drank	m.,Trank	Getränk
+PD03599	tr&#x00e4;nken	LD00700	tr&#x00e4;nken	tr. v.	Trinken.Alkohol_trinken
+PD04435	trinken	LD00870	trinken	tr. v.	Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken; Trinken.Häufig_lange_trinken
+PD04691	Druck	LD00903	Drock	m.	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+PD04713	Dr&#x00fc;cker	LD00854	Dricker	m.	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+PD04968	dudeln	LD01049	dudeln	intr. v.	Trinken.Alkohol_trinken
+PD05712	Durst	LD01151	Durscht	m.	Durst
+PD05783	tuten	LD01184	tuten	intr. v.	Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken
+PE00282	Eichel-kaffee	LE00056	Eichelkaffee		Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffeeersatz
+PE00499	ein-binden	LI00055	in-binnen	tr. v.	Trinken.Alkohol_trinken
+PE00983	ein-tun	LI00061	in-dun	tr. v.	Trinken.Alkohol_trinken
+PE02324	Eulen-seiche	LI00021	Ile-seich	f.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+PF02311	ver-schwinden	LF00651	ver-schwannen	intr. v.	Trinken.Alkohol_trinken
+PF02320	ver-seibeln	LF00598	ver-sabbeln	tr. v.	Trinken.Alkohol_trinken
+PF02350	ver-sohlen	LF00667	ver-sohlen	tr. v.	Trinken.Alkohol_trinken
+PF04532	Vor-lauf	LF01160	Vor-laf	m.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PF05529	Fuchs	LF01297	Fuchs	m.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PF05806	Fusel	LF01369	Fusel	m.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PG00935	Ge-bruttel	LG00207	Ge-brudels	n.	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+PG02634	Ge-tr&#x00e4;nk	LG00244	Ge-drenks	n.	Getränk
+PG03154	Glas	LG00828	Glas	n.	Getränk
+PG03417	glucksen	LG00895	glucksen	intr. v.	Trinken.Schnell_große_Mengen_trinken;Trinken.Geräuschvoll_trinken
+PG03529	Gocko	LG00925	Gogo	m.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PG04443	Grundbirn(en)-branntwein	LG01180	gr&#x00ea;schten-d&#x00e4;ls	adv.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PG04745	G&#x00fc;ckes	LG00782	Giges	m.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PH01966	heben	LH00479	heppen	tr. v.	Trinken.Alkohol_trinken
+PJ00101	Jakob	LJ00020	Jakob		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PK00043	Kaffee	LK00024	Kaffee	m.	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffeeersatz
+PK00052	Kaffee-br&#x00fc;he	LK00060	Kalenner	m.	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+PK00762	Karst	LK00215	Karscht	m.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PK02440	kl&#x00e4;ppern	LK00631	kl&#x00e4;pperen	intr. v.	Trinken.Alkohol_trinken
+PK03477	Knupper	LK00872	Knuppert	m.,Knuppes	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PK04001	k&#x00f6;pfen	LK00993	k&#x00f6;ppen		Trinken.Alkohol_trinken;Trinken.Austrinken
+PK04340	Krabbel-an-der-Wand	LK01145	Krawel an der Wand	n.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PK05774	K&#x00fc;mmel	LK00462	Kimme	m.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PL00111	laden	LL00043	laden	tr. v.	Trinken.Alkohol_trinken
+PL00555	lappsen	LL00146	l&#x00e4;ppsen	tr. v.	Trinken
+PL00750	L&#x00e4;uer	LL00401	Lier	m.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PL01896	liefern	LL00472	liweren	tr. v.	Trinken.Alkohol_trinken
+PL02239	l&#x00f6;schen	LL00327	leschen	tr. v.	Trinken
+PL02325	lotteln	LL00484	loddlen		Trinken
+PL02520	lumpen	LL00565	lompen	intr. v.,lumpen	Trinken.Alkohol_trinken
+PL02629	l&#x00fc;pfen	LL00581	luppen	tr. v.	Trinken.Alkohol_trinken
+PL02668	lutschen	LL00609	lutschen	tr. v.	Trinken.Langsam_kleine_Mengen_trinken
+PM00011	machen	LM00005	machen		Trinken.Alkohol_trinken
+PM00202	mahlen	LM00070	malen	tr. v.	Trinken
+PM01010	Matte	LM00226	Matten	f.	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+PM01361	Meer-rettich	LM00342	Mer-reddich	m.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PM01838	Milch	LM00416	Milch	f.	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+PM02726	M&#x00f6;ppel	LM00601	Moppel	m.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PM02919	Mosel	LM00707	Musel	f.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PN00483	N&#x00e4;hts	LN00110	N&#x00e4;z	m.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PN00843	nehmen	LN00140	nemmen	tr. v.	Trinken
+PO00573	Olig	LO00094	Olich	m.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PR01901	Risser	LR00482	Risser	m.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PR02262	r&#x00f6;sten	LR00369	reschten I	tr. v.	Trinken.Alkohol_trinken
+PR02804	Rundung	LR00636	rum	adv.	Getränk
+PR02848	rupfen	LR00550	roppen		Trinken
+PS00181	Saft	LS00052	Saft	f.	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+PS00823	Sauer-&#x00e4;mpferich	LS02493	Suramper	m.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PS00860	Sauer-milch	LS02465	Sun	m.	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+PS00897	saufen	LS02448	suffen	tr. u. intr.	Trinken.Schnell_große_Mengen_trinken
+PS00907	Sauferei	LS02450	Sufferei	f.	Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken; Trinken.Häufig_lange_trinken
+PS01303	Sch&#x00e4;cher	LS00193	S&#x00e4;wer	m.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+PS01637	Schamas	LS00270	Schamas	m.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PS01660	Schampanjer (Champagner)	LS00279	Schampanjer	m.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein.Sekt
+PS02326	Schiefer	LS00488	Schiffer	m.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PS02374	schie&#x00df;en	LS00482	schiessen		Trinken.Alkohol_trinken
+PS03076	Schleh-branntwein	LS00708	Schlewe-schnabbs		Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PS03228	schlenkern	LS00698	schlenkeren	intr. v.	Trinken.Alkohol_trinken
+PS03901	schmieren	LS00840	schmeren	tr. v.	Trinken
+PS04243	Schnaps	LS00907	Schnaps	m.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PS04315	schn&#x00e4;rren	LS00957	schneiden, Schneider		Trinken.Alkohol_trinken
+PS04881	schnurren	LS01059	schnurren	intr. v.	Trinken.Alkohol_trinken
+PS04986	Schokolade	LS01088	Schokela(t)	m.	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kakao
+PS05045	sch&#x00f6;pfen	LS00437	scheppen	tr. v.	Trinken.Schnell_große_Mengen_trinken
+PS06158	schweappeln	LS01290	schwabbeln	intr. v.	Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken
+PS09424	Spritzer	LS01849	Spritzer	m.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk
+PS09465	Sprudel	LS01858	Spruddel	m.	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+PS09525	spulen	LS01865	spulen	tr. v.	Trinken.Schnell_große_Mengen_trinken
+PS10098	stauben	LS02014	steiwen	tr. v.	Trinken.Alkohol_trinken
+PS10171	stechen	LS01976	stechen		Trinken.Alkohol_trinken
+PS10586	stemmen	LS02035	stemmen	tr. v.	Trinken.Alkohol_trinken
+PS10811	Stieber	LS02015	Steiwer	m.	Durst
+PS11136	Stoff	LS02382	Stuft	m.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk
+PS11336	Storzen	LS02200	Storz	m.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier;Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PS11349	sto&#x00df;en	LS02208	stossen		Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken
+PS12380	st&#x00fc;rzen	LS02137	stirzen	tr. v.	Trinken.Alkohol_trinken
+PS12465	Suckel	LS02432	Suckel	f.	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+PS12471	suckeln	LS02433	sucklen	intr. v.	Trinken
+PS12524	s&#x00fc;ffeln	LS01524	sifflen	tr. v.	Trinken.Langsam_kleine_Mengen_trinken
+PU00207	&#x00fc;ber-sehen	LI00210	iwer-sihn	tr. v.	Trinken.Alkohol_trinken
+PW00614	wamschen	LW00080	wamschen	intr. v.	Trinken.Alkohol_trinken
+PW00931	Wasser	LW00150	Wasser	n.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+PW01677	Wein	LW00398	Wildhirn	m.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PW01705	weinen	LW00092	w&#x00e4;nen	intr. v.	Trinken.Alkohol_trinken
+PW01880	wei&#x00df;eln	LW00496	wisslen	tr. v.	Trinken.Alkohol_trinken;Trinken.Schnell_große_Mengen_trinken
+PW02528	Wieder-t&#x00e4;ufer	LW00357	Widder-buscht	m.	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+PW03721	Wurf	LW00590	Wurf I	m.	Getränk
+PZ01382	zupfen	LZ00187	zoppen	tr. v.	Trinken.Alkohol_trinken

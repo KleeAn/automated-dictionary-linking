@@ -1,0 +1,310 @@
+xml:id	Lemma	Lemma_bereinigt	Wortart	Level	Definition	Konzept	Label	Cosine_Score	Pred_Label
+PA02522	Apfel-most	Apfelmost	Substantiv	-	Apfelmost	Trinken	1	0.8750	1.0000
+PA03060	Auffüll-wein	Auffüllwein	Substantiv	-	Wein zum Auffüllen	Trinken	1	0.9637	1.0000
+PA04077	aus-stauben	ausstauben	Verb	3	austrinken	Trinken	1	0.9886	1.0000
+PA04088	Aus-stich	Ausstich	Substantiv	2	Beerenauslese, edelster Wein	Trinken	1	0.9456	1.0000
+PB02193	be-seibeln	beseibeln	Verb	2	betrinken	Trinken	1	0.9887	1.0000
+PB02736	Pfeffer-minze, -minz	Pfefferminze, Pfefferminz	Substantiv	2	Pfefferminztee	Trinken	1	0.9688	1.0000
+PB03733	Birnen-saft	Birnensaft	Substantiv	-	Birnensaft	Trinken	1	0.9686	1.0000
+PB04154	blau	blau	Substantiv	4a'b	Branntwein	Trinken	1	0.9784	1.0000
+PB04398	blitzen	blitzen	Verb	x'1.2d	trinken	Trinken	1	0.9975	1.0000
+PB04922	Polack	Polack	Substantiv	5	Rest eines Getränkes im Glas	Trinken	1	0.5794	1.0000
+PB05642	Branntwein-schnäpsel	Branntweinschnäpsel	Substantiv	-	ein Gläschen Schnaps	Trinken	1	0.9561	1.0000
+PB06029	Preß-most	Preßmost	Substantiv	-	durch Pressen gewonnener Obstsaft	Trinken	1	0.9469	1.0000
+PB06123	Briester	Briester	Substantiv	-	erste Milch nach dem Kalben	Trinken	1	0.9564	1.0000
+PB06370	prostern	prostern	Verb	-	trinken	Trinken	1	0.9975	1.0000
+PB06832	Bruttel-brühe	Bruttelbrühe	Substantiv	-	schlechtes Kaffeegetränk	Trinken	1	0.9516	1.0000
+PB07095	büffeln	büffeln	Verb	2	trinken	Trinken	1	0.9975	1.0000
+PB07266	pumpen	pumpen	Verb	1b	einen trinken	Trinken	1	0.9887	1.0000
+PB07749	Butter-milch	Buttermilch	Substantiv	-	Buttermilch	Trinken	1	0.9855	1.0000
+PD00571	Dämmer-schoppen	Dämmerschoppen	Substantiv	-	kleiner Abendtrunk	Trinken	1	0.9698	1.0000
+PD00850	daran-gießen	darangießen	Verb	-	einen Schoppen, ein Gläschen u.ä. trinken	Trinken	1	0.9401	1.0000
+PD01569	Tee	Tee	Substantiv	1	die getrockneten Blätter des Teestrauches und das daraus bereitete Getränk	Trinken	1	0.9254	1.0000
+PD02202	Dick-milch	Dickmilch	Substantiv	1	Dickmilch	Trinken	1	0.9827	1.0000
+PD02628	Dividenden-wasser	Dividendenwasser	Substantiv	-	Bier	Trinken	1	0.9964	1.0000
+PD03599	tränken	tränken	Verb	1c	trinken	Trinken	1	0.9975	1.0000
+PD04611	Tropfs-bier	Tropfsbier	Substantiv	-	Bier, das nach dem Einschenken vom Hahn abtropft	Trinken	1	0.9293	1.0000
+PD05776	Tut	Tut	Substantiv	-	Milch	Trinken	1	0.9940	1.0000
+PE00257	Ehr-wein	Ehrwein	Substantiv		auserlesener Wein, der aus besonderen Anlässen gereicht wird	Trinken	1	0.9373	1.0000
+PE00686	ein-läppern	einläppern	Verb	-	in kleinen Schlucken trinken	Trinken	1	0.9607	1.0000
+PE01315	Elfuhr-messe	Elfuhrmesse	Substantiv	-	Frühschoppen	Trinken	1	0.9447	1.0000
+PF04250	voll-laufen	volllaufen	Verb	2	sich betrinken	Trinken	1	0.9781	1.0000
+PF05529	Fuchs	Fuchs	Substantiv	x2d'g	rötlicher Wein	Trinken	1	0.9786	1.0000
+PG01375	Geißen-milch, Geiß-milch	Geißenmilch, Geißmilch	Substantiv	1	Ziegenmilch	Trinken	1	0.9824	1.0000
+PG03403	glucken	glucken	Verb	2	trinken	Trinken	1	0.9975	1.0000
+PG03653	Gori	Gori	Substantiv	2.1	geringer Wein, gärender Tresterwein	Trinken	1	0.9486	1.0000
+PH01844	Haus-rebe	Hausrebe	Substantiv	-	Spalierwein am Haus	Trinken	1	0.9503	1.0000
+PH04398	Hick-auf	Hickauf	Substantiv	-	schlechter Wein	Trinken	1	0.9889	1.0000
+PH05440	hinunter-schlenkern	hinunterschlenkern	Verb	-	schnell trinken	Trinken	1	0.9872	1.0000
+PH05461	hinunter-stürzen	hinunterstürzen	Verb	2	trinken	Trinken	1	0.9975	1.0000
+PK02285	Kirschen-wasser, Kirsch-wasser	Kirschenwasser, Kirschwasser	Substantiv	-	Branntwein aus Kirschen und Schnaps	Trinken	1	0.9486	1.0000
+PK04001	köpfen	köpfen	Verb	1c'g	eine Flasche Wein austrinken	Trinken	1	0.9606	1.0000
+PK04157	Korn-branntwein	Kornbranntwein	Substantiv	-	Branntwein aus Roggen	Trinken	1	0.9585	1.0000
+PL00095	Lacks-brühe, Lackels-	Lacksbrühe, Lackelsbrühe	Substantiv	-	schlechter Wein	Trinken	1	0.9889	1.0000
+PL00564	Lari	Lari	Substantiv	x	Verwässertes (z.B. Kaffee, Wein, Suppe)	Trinken	1	0.9203	1.0000
+PL02325	lotteln	lotteln	Verb	3	trinken	Trinken	1	0.9975	1.0000
+PM00202	mahlen	mahlen	Verb	2	trinken	Trinken	1	0.9975	1.0000
+PM02432	mit-trinken	mittrinken	Verb	-	am Trinken teilnehmen	Trinken	1	0.3389	0.0000
+PM02726	Moppel, Möppel	Moppel, Möppel	Substantiv	8	geringwertiger Wein	Trinken	1	0.9700	1.0000
+PM02853	Morgen-kaffee	Morgenkaffee	Substantiv	-	Morgenkaffee	Trinken	1	0.9690	1.0000
+PM02926	Most	Most	Substantiv	1b	unvergorener Saft gekelterter Äpfel, Birnen	Trinken	1	0.9376	1.0000
+PM02926	Most	Most	Substantiv	x1c	Obstwein	Trinken	1	0.9897	1.0000
+PN00011	Nabel-wärmer	Nabelwärmer	Substantiv	-	guter Schnaps	Trinken	1	0.9791	1.0000
+PR00122	Radler-maß	Radlermaß	Substantiv	-	Mischgetränk aus Bier und Limonade	Trinken	1	0.9433	1.0000
+PR00401	Rappser, Räppser	Rappser, Räppser	Substantiv	-	Tresterwein, Haustrunk	Trinken	1	0.9558	1.0000
+PR01551	Rhein-wasser	Rheinwasser	Substantiv	2	scherzhafte Bezeichnung des Ludwigshafener Biers	Trinken	1	0.8947	1.0000
+PR02848	rupfen	rupfen	Verb	2g	trinken	Trinken	1	0.9975	1.0000
+PS00963	Sau-gesüff	Saugesüff	Substantiv	-	minderwertiger, schlechter Wein	Trinken	1	0.9581	1.0000
+PS02339	Schiefer-wein	Schieferwein	Substantiv	-	minderwertiger Wein aus schieferigem Boden	Trinken	1	0.9478	1.0000
+PS02826	Schlamper, Schlämper	Schlamper, Schlämper	Substantiv	2	schlechter Wein	Trinken	1	0.9889	1.0000
+PS03608	Schlurpser	Schlurpser	Substantiv	1	Schluck, Trunk	Trinken	1	0.9562	1.0000
+PS04193	Schnalzer	Schnalzer	Substantiv	3	schlechter Wein	Trinken	1	0.9889	1.0000
+PS04979	Schoker	Schoker	Substantiv	-	Kaffee	Trinken	1	0.9937	1.0000
+PS04986	Schokolade	Schokolade	Substantiv	-	Süßigkeit aus Kakao, Milch und Zucker	Trinken	1	0.0167	0.0000
+PS05097	Schorle	Schorle	Substantiv	-	Wein und Mineralwasser (meist) je zur Hälfte vermischt	Trinken	1	0.9204	1.0000
+PS08372	Spät-lese	Spätlese	Substantiv	2	Wein aus spät geernteten Trauben, Wein höherer Qualitätsstufe	Trinken	1	0.9422	1.0000
+PS10098	stauben	stauben	Verb	5	einen trinken	Trinken	1	0.9887	1.0000
+PS12380	stürzen	stürzen	Verb	3b	ein Glas umdrehen, einen trinken	Trinken	1	0.9433	1.0000
+PS12524	suffeln, süffeln	suffeln, süffeln	Verb	1b	fortwährend übermäßig trinken	Trinken	1	0.9496	1.0000
+PS12524	suffeln, süffeln	suffeln, süffeln	Verb	1a	in kleinen Schlucken, genießerisch trinken	Trinken	1	0.9424	1.0000
+PW01284	Wegerich-tee	Wegerichtee	Substantiv	-	Kräutertee aus Wegerichblättern	Trinken	1	0.9551	1.0000
+PW01332	weg-machen	wegmachen	Verb	3	einen trinken	Trinken	1	0.9887	1.0000
+PW01677	Wein	Wein	Substantiv	1b	Traubensaft bzw. Most, unvergoren bzw. in Gärung befindlich	Trinken	1	0.9342	1.0000
+PW03707	Wupp-dich	Wuppdich	Substantiv	2b	Branntwein, Schnaps allgemein	Trinken	1	0.9525	1.0000
+PZ00847	zipfeln	zipfeln	Verb	-	in kleinen Schlückchen trinken	Trinken	1	0.9557	1.0000
+PZ00892	Zitronen-saft	Zitronensaft	Substantiv	-	Flüssigkeit der Zitrone und das daraus bereitete Getränk	Trinken	1	0.9382	1.0000
+PZ00893	Zitronen-wasser	Zitronenwasser	Substantiv	-	mit Zitronensaft gemischtes Wasser	Trinken	1	0.9470	1.0000
+PZ01154	Zucker-wein	Zuckerwein	Substantiv	-	(nur im Sommertagslied): Bezeichnung für süßen Wein	Trinken	1	0.9359	1.0000
+LS00792	Schluri	Schluri	Substantiv	2.	Spitzname für schlechten Kaffee	Trinken	1	0.9572	1.0000
+LW00150	Wasser	Wasser	Substantiv	2.	wässeriger Kaffee, dünne Suppe	Trinken	1	0.9082	1.0000
+LE00056	Eichelkaffee	Eichelkaffee	Substantiv		Eichelkaffee	Trinken	1	0.9620	1.0000
+LM00416	Milch	Milch	Substantiv		Milch	Trinken	1	0.9940	1.0000
+LB00183	Bäre-dreck	Bäredreck	Substantiv		Süßholzsaft	Trinken	1	0.9676	1.0000
+LK01060	Kowen-bretchen	Kowenbretchen	Substantiv		Gläschen Branntwein	Trinken	1	0.9572	1.0000
+LS00907	Schnaps	Schnaps	Substantiv		Schnaps	Trinken	1	0.9885	1.0000
+LD00971	Druff	Druff	Substantiv	1.	trüber Wein als Faßrest	Trinken	1	0.9503	1.0000
+LD00870	trinken	trinken	Verb		trinken	Trinken	1	0.9975	1.0000
+LB00626	be-schipsen	beschipsen	Verb	2.	sich betrinken	Trinken	1	0.9781	1.0000
+LG00627	Ge-seffs	Geseffs	Substantiv		Gesöffe, Säuferei, unmäßiges Trinken	Trinken	1	0.9410	1.0000
+LS00742	schlirpsen	schlirpsen	Verb	1.	schlürfen beim Trinken	Trinken	1	0.9520	1.0000
+EP03252	Plämpel, Bämpel	Plämpel, Bämpel	Substantiv	2.	träger, langsamer Mensch; schlechtes Getränk, insbes. dünner schwappelnder Kaffee	Trinken	1	0.6056	1.0000
+EW01182	Schüsselwasser	Schüsselwasser	Substantiv	2.	schlechter Kaffee; dünne, kraftlose Suppe	Trinken	1	0.9075	1.0000
+ET00025	Brusttee	Brusttee	Substantiv	1.	Brusttee	Trinken	1	0.9833	1.0000
+EG01127	Herrgöttel	Herrgöttel	Substantiv	2.	ein kleines Glas Bier, ein halber Schoppen, ein viertel Liter Wein	Trinken	1	0.9313	1.0000
+EG01048	Geist	Geist	Substantiv	2.	Weingeist, Alkohol	Trinken	1	0.9666	1.0000
+EL00463	Vorlauf	Vorlauf	Substantiv	2.	der erste Branntwein, der beim Branntweinbrennen herauskommt; er wird nicht getrunken, sondern zur Herstellung einer geringeren Güte Schnaps oder zu Einreibungen verwandt	Trinken	1	0.9182	1.0000
+EL01179	Lur(e), Lür	Lure, Lur, Lür	Substantiv	3.	schlechter Schnaps	Trinken	1	0.9794	1.0000
+EW01009	Wermuet	Wermuet	Substantiv	2.	Wermutbranntwein	Trinken	1	0.9635	1.0000
+EK01744	Kläw(n)er, Kläfler	Kläwner, Kläwer, Kläfler	Substantiv	2.	Wein daraus	Trinken	1	0.9836	1.0000
+EL01179	Lur(e), Lür	Lure, Lur, Lür	Substantiv	1.	leichter Wein, hergestellt durch Vermischen mit Wasser	Trinken	1	0.9439	1.0000
+EP01449	Bupperi	Bupperi	Substantiv	4.	schlechter Wein	Trinken	1	0.9889	1.0000
+EW00713	Truebwi(n), Trüebwi(n)	Truebwin, Truebwi, Trüebwin, Trüebwi	Substantiv		Trübwein, der letzte, nicht mehr klare W. aus einem Fasse	Trinken	1	0.9346	1.0000
+EG01147	gutteren	gutteren	Verb	1.	aus einem Fläschchen trinken	Trinken	1	0.9498	1.0000
+EL01080	lipplen	lipplen	Verb	2.	saufen (von der Katze)	Trinken	1	0.9488	1.0000
+ES02583	schleifen, schleipfen	schleifen, schleipfen	Verb	5.	trinken	Trinken	1	0.9975	1.0000
+ET01807	trudlen, truttlen	trudlen, truttlen	Verb	5.	trinken	Trinken	1	0.9975	1.0000
+EZ00453	zäpfen	zäpfen	Substantiv	2.	(ein Fass) anstechen; vom Fass trinken; trinken überhaupt	Trinken	1	0.9222	1.0000
+ES00291	Sufens, Saufens	Sufens, Saufens	Substantiv	1.	Zecherei	Trinken	1	0.0428	0.0000
+ES00286	us sufen	us sufen	Verb		leer saufen, leer trinken	Trinken	1	0.9583	1.0000
+ES00292	Gsuff(s)	Gsuffs, Gsuff	Substantiv	1.	anhaltendes Trinken	Trinken	1	0.9787	1.0000
+ES00306	süfflen, säufflen	süfflen, säufflen	Verb	2.	kleine Schlücke nehmen, aber anhaltend dabei bleiben	Trinken	1	0.0092	0.0000
+EZ00154	ziehe(n), ziegen	ziehen, ziehe, ziegen	Verb	2.	gierig trinken	Trinken	1	0.9684	1.0000
+PA01551	Ambuschur	Ambuschur	Substantiv	2	wer tüchtig im Trinken ist	Trinken	0	0.0137	0.0000
+PA02319	An-stich	Anstich	Substantiv	-	das Anstechen eines Fasses	Trinken	0	0.2261	0.0000
+PA02560	Apfel-trester	Apfeltrester	Substantiv	-	Rückstand beim Apfelkeltern	Trinken	0	0.0314	0.0000
+PB02190	be-schwipst	beschwipst	Adjektiv	-	angeheitert	Trinken	0	0.0035	0.0000
+PB02919	Pfetzer	Pfetzer	Substantiv	3	Trinker	Trinken	0	0.0041	0.0000
+PB03369	Bier-ausschank	Bierausschank	Substantiv	-	Bierausschank	Trinken	0	-0.0017	0.0000
+PB03373	Bier-blättel	Bierblättel	Substantiv	-	Bierfilz	Trinken	0	0.0174	0.0000
+PB04771	Bock-wirt	Bockwirt	Substantiv	-	Inhaber der Wirtschaft zum Bock in KL-Fischb	Trinken	0	-0.0102	0.0000
+PB05632	Branntwein-butelle	Branntweinbutelle	Substantiv	-	Schnapsflasche	Trinken	0	0.0001	0.0000
+PB05636	Branntwein-glas	Branntweinglas	Substantiv	1	Schnapsglas	Trinken	0	0.0504	0.0000
+PB05640	Branntwein-lump	Branntweinlump	Substantiv	-	Schnapssäufer	Trinken	0	0.0246	0.0000
+PB05678	Brast	Brast	Substantiv	1.5	Trinkgelage	Trinken	0	0.9692	1.0000
+PB06638	Brumm-kater	Brummkater	Substantiv	-	Katzenjammer mit vor Schmerzen brummendem Kopf	Trinken	0	0.0070	0.0000
+PB07106	Büffet-mamsell	Büffetmamsell	Substantiv	-	Büffetdame im Restaurant	Trinken	0	0.0319	0.0000
+PD00939	darauf-machen	daraufmachen	Verb	2a	vom ausgiebigen Alkoholgenuß	Trinken	0	0.0926	0.0000
+PD03110	torkelig	torkelig	Adjektiv	-	schwankend, bes. durch Trunkenheit	Trinken	0	-0.0169	0.0000
+PD03331	tot-schaskenen	totschaskenen	Verb	-	totsaufen	Trinken	0	0.0203	0.0000
+PD04036	Dreck-wirtschaft	Dreckwirtschaft	Substantiv	-	unsaubere Gastwirtschaft	Trinken	0	-0.0135	0.0000
+PD05049	Tümmeler	Tümmeler	Substantiv	-	Rausch	Trinken	0	0.0043	0.0000
+PD05219	Tüpfen	Tüpfen	Substantiv	2	Gefäß zum Trinken	Trinken	0	0.0566	0.0000
+PD05572	Turen-süffer	Turensüffer	Substantiv	-	wer zeitweise dem Trunk ergeben ist, Quartalssäufer	Trinken	0	-0.0093	0.0000
+PE00837	Ein-schenke	Einschenke	Substantiv	-	Schanktisch im Gasthaus	Trinken	0	-0.0146	0.0000
+PE00896	ein-seifen	einseifen	Verb	2b	zu übermäßigem Alkoholgenuß verleiten, vorsätzlich betrunken machen	Trinken	0	-0.0156	0.0000
+PE02405	Extra-stube	Extrastube	Substantiv	1	Nebenzimmer im Gasthaus für besondere Gäste	Trinken	0	0.0056	0.0000
+PF02146	ver-saufen	versaufen	Verb	1.3b	von Trunkenheit oder Trunksucht zeugend	Trinken	0	-0.0115	0.0000
+PF02250	ver-schnäuken	verschnäuken	Verb	1a	(Geld) für Näschereien ausgeben	Trinken	0	-0.0146	0.0000
+PF02659	ver-zapfen, -zäpfen	verzapfen, verzäpfen	Verb	2a	(durch den Faßzapfen) ausschenken	Trinken	0	-0.0227	0.0000
+PF04211	voll	voll	Adjektiv	1b'g	betrunken	Trinken	0	0.0117	0.0000
+PG01719	Gelze	Gelze	Substantiv	2	leichterer Rausch	Trinken	0	-0.0093	0.0000
+PG02845	Gewohnheits-trinker	Gewohnheitstrinker	Substantiv	-	notorischer Trinker	Trinken	0	-0.0016	0.0000
+PG03002	Gift-hütte	Gifthütte	Substantiv	-	schlechtes Gasthaus	Trinken	0	0.0040	0.0000
+PH00361	hagel-voll	hagelvoll	Adjektiv	-	stark betrunken	Trinken	0	0.0002	0.0000
+PH02969	Herbergs-mutter	Herbergsmutter	Substantiv	1	Herbergswirtin, Frau des Herbergswirts, des Besitzers einer Herberge	Trinken	0	-0.0212	0.0000
+PH07070	Humpen	Humpen	Substantiv	1	großes TrinkGefäß von 2 - 5 l Inhalt	Trinken	0	0.0390	0.0000
+PH07506	Huren-vater	Hurenvater	Substantiv	-	Inhaber einer Gastwirtschaft von zweifelhaftem Ruf	Trinken	0	-0.0014	0.0000
+PK00048	Kaffee-bohne	Kaffeebohne	Substantiv	1	Kaffeebohne	Trinken	0	0.0066	0.0000
+PK00510	Kantine	Kantine	Substantiv	-	Kantine	Trinken	0	0.0090	0.0000
+PK01435	Keller-balken	Kellerbalken	Substantiv	-	Kellnerin	Trinken	0	0.0054	0.0000
+PK04361	Kräch, Kräche, Krächen	Kräch, Kräche, Krächen	Substantiv	2	leichter Rausch	Trinken	0	-0.0017	0.0000
+PK05237	krotten-voll	krottenvoll	Adjektiv	-	völlig betrunken	Trinken	0	0.0000	0.0000
+PL02572	Lumpen-wirtschaft	Lumpenwirtschaft	Substantiv	1	schlechtes Gasthaus	Trinken	0	0.0040	0.0000
+PL02648	Lust, Lusten	Lust, Lusten	Substantiv	2	Gartenwirtschaft	Trinken	0	0.0329	0.0000
+PR00942	regalieren	regalieren	Verb	1	bewirten, freihalten	Trinken	0	0.0053	0.0000
+PR01472	Restaurant	Restaurant	Substantiv	-	Restaurant	Trinken	0	0.0313	0.0000
+PS02429	Schikores	Schikores	Substantiv	-	Trunkenheit, Rausch	Trinken	0	-0.0204	0.0000
+PS02430	schikorum	schikorum	Adjektiv	-	betrunken	Trinken	0	0.0117	0.0000
+PS02441	Schild-wirt	Schildwirt	Substantiv	-	zum Dauerausschank gekaufter Weine berechtigter Wirt	Trinken	0	-0.0166	0.0000
+PS03518	Schluck	Schluck	Substantiv	1	Menge, die auf einmal geschluckt wird; der einmalige Schluckvorgang	Trinken	0	0.0386	0.0000
+PS04279	Schnaps-kram	Schnapskram	Substantiv	-	Schnapsausschank	Trinken	0	0.0034	0.0000
+PS06297	Schwede	Schwede	Substantiv	2	Rausch	Trinken	0	0.0043	0.0000
+PS08616	Speise-karte	Speisekarte	Substantiv	-	Speisekarte	Trinken	0	0.0148	0.0000
+PS08618	Speise-kellner	Speisekellner	Substantiv	-	Kellner, der Speisen aufträgt	Trinken	0	-0.0048	0.0000
+PS10172	Stecher	Stecher	Substantiv	1d	der Stechheber, mit dem man Weinproben zieht	Trinken	0	0.0275	0.0000
+PS10820	Stiefel	Stiefel	Substantiv	1.2c	Wirtshausname	Trinken	0	-0.0120	0.0000
+PS11432	strack-voll	strackvoll	Adjektiv	-	schwer betrunken	Trinken	0	-0.0064	0.0000
+PS12346	Stürmer	Stürmer	Substantiv	2	Rausch durch Alkohol	Trinken	0	0.0028	0.0000
+PU01193	Uspes	Uspes	Substantiv	-	Wirt	Trinken	0	0.0334	0.0000
+PW01706	Wein-essig	Weinessig	Substantiv	-	aus Wein hergestellter Essig	Trinken	0	-0.0045	0.0000
+PW01789	Wein-schenke	Weinschenke	Substantiv	-	Gastwirtschaft mit Weinausschank	Trinken	0	-0.0041	0.0000
+PW01811	Wein-stube	Weinstube	Substantiv	-	einfache Weingaststätte	Trinken	0	0.0113	0.0000
+PW03187	Wirtin	Wirtin	Substantiv	1	Wirtsfrau, Ehefrau des Gastwirtes	Trinken	0	-0.0143	0.0000
+PW03190	wirtschaften	wirtschaften	Verb	4	eine Gastwirtschaft betreiben	Trinken	0	-0.0056	0.0000
+PW03213	Wirts-Mädchen	WirtsMädchen	Substantiv	-	Gastwirtstochter, oft gleichzeitig Kellnerin	Trinken	0	-0.0007	0.0000
+PW03219	Wirts-zimmer	Wirtszimmer	Substantiv	-	Wirtsstube	Trinken	0	0.0043	0.0000
+LB00146	Pans-bruder	Pansbruder	Substantiv		einer, der nur für seinen Bauch sorgt, der immer essen u. trinken möchte	Trinken	0	0.0564	0.0000
+LF00703	ver-suchen	versuchen	Verb		versuchen, kosten	Trinken	0	0.0045	0.0000
+LH00236	Här-geld	Härgeld	Substantiv		Handgeld, Trinkgeld	Trinken	0	0.0085	0.0000
+LR00400	Ribott	Ribott	Substantiv		Rausch, Saufgelage	Trinken	0	0.0433	0.0000
+LS02144	Stiwer	Stiwer	Substantiv		Räuschchen	Trinken	0	0.0084	0.0000
+LS02449	Suffer	Suffer	Substantiv		Säufer, Trunkenbold	Trinken	0	-0.0065	0.0000
+LW00410 	Winessich 	Winessich	Substantiv		Weinessig	Trinken	0	0.0316	0.0000
+LW00467	Wirtslitt	Wirtslitt	Substantiv		Wirte	Trinken	0	0.0090	0.0000
+EG01144	Gutter(e)	Guttere, Gutter	Substantiv	2.	trunksüchtiges, altes Weib	Trinken	0	0.0049	0.0000
+EH01228	hops	hops	Adjektiv	3.	ist angetrunken	Trinken	0	0.0076	0.0000
+EK00182	Kaffee, Kaffi	Kaffee, Kaffi	Substantiv	2.	Kaffeehaus	Trinken	0	0.0087	0.0000
+EL00532	Durchluft	Durchluft	Substantiv	1.	Wirtshaus	Trinken	0	-0.0026	0.0000
+EL01180	Lappenlur(e), Lappenlür	Lappenlure, Lappenlur, Lappenlür	Substantiv	3.	Kaffeeschwester	Trinken	0	0.0445	0.0000
+EM01245	Fëldmësser 	Fëldmësser	Substantiv	2.	Betrunkener	Trinken	0	0.0011	0.0000
+EP01137	Strumpfbëndel 	Strumpfbëndel	Substantiv	2.	Schaum auf dem Bier	Trinken	0	0.0237	0.0000
+EP01191	Bëngel	Bëngel	Substantiv	3.	Rausch	Trinken	0	0.0043	0.0000
+EP02080	Position	Position	Substantiv	2.	ein gewöhnliches Trinkglas voll Schnaps	Trinken	0	0.9336	1.0000
+EP02366	Schnapsbutëll	Schnapsbutëll	Substantiv		Schnapsflasche	Trinken	0	0.0001	0.0000
+EP02376	Butik	Butik	Substantiv	3.	kleine, unsaubere Wirtschaft	Trinken	0	0.0052	0.0000
+EP02415	Harbütel	Harbütel	Substantiv	2.	Rausch	Trinken	0	0.0043	0.0000
+EP03894	Brand	Brand	Substantiv	6.	Inhalt eines Kessels, beim Destillieren von Branntwein	Trinken	0	0.0605	0.0000
+ER01207	rösch	rösch	Adjektiv	2.	vom Wein, sauer	Trinken	0	0.0266	0.0000
+ER01508	Ratzer	Ratzer	Substantiv	2.	saurer Geschmack beim Wein	Trinken	0	0.0798	0.0000
+ES00302	Suffus	Suffus	Substantiv		Säufer, Lump	Trinken	0	0.0077	0.0000
+ES01714	schicker	schicker	Adjektiv		betrunken	Trinken	0	0.0117	0.0000
+ES03509	verschnäpslen	verschnäpslen	Verb		in Schnaps vertrinken	Trinken	0	0.9607	1.0000
+ES05402	Stipser	Stipser	Substantiv	2.	Rausch	Trinken	0	0.0043	0.0000
+ET00532	dick I	dick	Adjektiv	5.	geronnen, von der Milch	Trinken	0	0.0182	0.0000
+ET01548	Dutt	Dutt	Substantiv	2.	Rausch	Trinken	0	0.0043	0.0000
+EZ00445	Vollzapfen	Vollzapfen	Substantiv		Trunkenbold	Trinken	0	-0.0071	0.0000
+EZ00613	Zottel	Zottel	Substantiv	3.	Hals einer Flasche; Ansatzstück einer Giesskanne	Trinken	0	-0.0108	0.0000
+PR01115	Reib-eisen	Reibeisen	Substantiv	2a	zänkische Frau	Trinken	0	0.0146	0.0000
+PL01063	Leder-halfter	Lederhalfter	Substantiv	-	Lederhalfter	Trinken	0	-0.0009	0.0000
+PH04853	hinein-klettern	hineinklettern	Verb	-	hineinklettern	Trinken	0	0.0048	0.0000
+PK02178	Kirchen-vater	Kirchenvater	Substantiv	x	Kirchenpfleger, Messner	Trinken	0	0.0056	0.0000
+PZ00099	Zahn-schrupper	Zahnschrupper	Substantiv	-	Zahnbürste	Trinken	0	0.0376	0.0000
+PL02335	Lotterie	Lotterie	Substantiv	-	Lotterie	Trinken	0	0.0273	0.0000
+PH00178	häckeln	häckeln	Verb	'2	beim Gehen die Fußknöchel aneinander reiben	Trinken	0	-0.0080	0.0000
+PM00985	Material	Material	Substantiv	-	Material	Trinken	0	0.0422	0.0000
+PD01650	Deichsel-schraube	Deichselschraube	Substantiv	-	Stift an derDeichsel, der das Herausgleiten der Aufhaltkette verhindert	Trinken	0	-0.0103	0.0000
+PS08659	Spelle	Spelle	Substantiv	-	Stecknadel	Trinken	0	-0.0202	0.0000
+PD05469	durch-schlagen	durchschlagen	Verb	1b	eine Mauer durchbrechen	Trinken	0	-0.0184	0.0000
+PK00124	Kaft, Käft	Kaft, Käft	Substantiv	2a	eiserner Ring am Pflug, in dem das Sech mit einem Holzkeil festgeklemmt wird	Trinken	0	-0.0057	0.0000
+PK01399	keilen, keideln	keilen, keideln	Verb	x'1.2b	werfen, schleudern	Trinken	0	-0.0138	0.0000
+PH07312	Hunger-panz	Hungerpanz	Substantiv	-	Geizhals	Trinken	0	0.0167	0.0000
+PS04573	Schneller-bogen	Schnellerbogen	Substantiv	-	Armbrust als Spielzeug der Jungen	Trinken	0	0.0086	0.0000
+PF04895	vorwärts-gehen	vorwärtsgehen	Verb	-	gut vonstatten gehen, sich günstig entwickeln	Trinken	0	-0.0069	0.0000
+PH00884	Handel	Handel	Substantiv	1a	Kauf und Verkauf von Waren	Trinken	0	0.0160	0.0000
+PA03467	Auf-zug	Aufzug	Substantiv	1	Vorrichtung zum Heben von Lasten	Trinken	0	-0.0135	0.0000
+PB04074	Platsch-maul	Platschmaul	Substantiv	-	wer viel und Schlechtes über andere redet	Trinken	0	-0.0059	0.0000
+PD04933	Tuch-rock	Tuchrock	Substantiv	-	Tuchrock	Trinken	0	0.0167	0.0000
+PG01410	Geißler	Geißler	Substantiv	-	Metzger, der hauptsächlich Ziegen schlachtet	Trinken	0	-0.0021	0.0000
+PA03222	auf-pitteln	aufpitteln	Verb	-	auflockern	Trinken	0	-0.0061	0.0000
+PU00439	Um-lauf	Umlauf	Substantiv	1	Bewegung um etwas herum, Kreisbewegung	Trinken	0	0.0007	0.0000
+PL02319	Lotte	Lotte	Substantiv	'2.2b	offene Stelle auf dem zugefrorenen Rhein	Trinken	0	0.0036	0.0000
+PS05398	Schrott	Schrott	Substantiv	1	zerkleinerter, behauener Hartstein; Abfall beim Steinhauen	Trinken	0	-0.0166	0.0000
+PM00063	Mädchen, Mädel, Mäden	Mädchen, Mädel, Mäden	Substantiv	1b'd	ältere unverheiratete Frau	Trinken	0	-0.0016	0.0000
+PB06195	Priska	Priska	Substantiv	+	weibl. VN	Trinken	0	0.0139	0.0000
+PD02846	Toni	Toni	Substantiv	2	Hundename	Trinken	0	0.0161	0.0000
+PS03699	Schmal-weg	Schmalweg	Substantiv	+	Flurname	Trinken	0	0.0159	0.0000
+PR01147	Reichs-stein	Reichsstein	Substantiv	-	Backstein 25 cm lang, 12 cm breit	Trinken	0	-0.0235	0.0000
+PS08638	Speis-sieb	Speissieb	Substantiv	-	Sieb für Mörtel	Trinken	0	0.0015	0.0000
+PR00567	ratzen	ratzen	Verb	3b'd	sich streiten	Trinken	0	0.0395	0.0000
+PF01638	ver-ketzern	verketzern	Verb	2	falsch beschneiden (den Baum)	Trinken	0	-0.0214	0.0000
+PM01721	metzeln	metzeln	Verb	2	eine Schnur oder ähnliches durchreiben	Trinken	0	-0.0160	0.0000
+PH05789	hoch-tragen	hochtragen	Verb	-	hochtragen	Trinken	0	0.0130	0.0000
+PF04561	Form	Form	Substantiv	1a'a	Form zur Gestaltgebung bei Backwaren	Trinken	0	-0.0047	0.0000
+PS03957	Schmitz	Schmitz	Substantiv	2	Schultadel in Form eines Striches wegen Unterrichtsversäumnis	Trinken	0	-0.0137	0.0000
+PH03259	Herren-fastnacht	Herrenfastnacht	Substantiv	-	der Sonntag vor dem Aschermittwoch (als Beginn der Fastenzeit)	Trinken	0	0.0242	0.0000
+PK01061	Katheder	Katheder	Substantiv	2	Kopf	Trinken	0	0.0059	0.0000
+PH02841	heraus-pfetzen	herauspfetzen	Verb	-	den Schneider mit Pfetzen vertreiben, d.h. sich im neuen Kleid zeigen	Trinken	0	0.0226	0.0000
+PK04053	Kopf-schale	Kopfschale	Substantiv	x	Kopfschuppe	Trinken	0	0.0026	0.0000
+PG02264	Gesang-stunde	Gesangstunde	Substantiv	-	Gesangstunde	Trinken	0	0.1381	0.0000
+PF01025	Fenster-angel	Fensterangel	Substantiv	-	Haken, in die der Fensterflügel eingehängt wird	Trinken	0	-0.0066	0.0000
+PG02724	Ge-weed	Geweed	Substantiv	-	Flurname	Trinken	0	0.0159	0.0000
+PB03684	Birken-wald	Birkenwald	Substantiv	-	Birkenwald	Trinken	0	-0.0009	0.0000
+PF02253	ver-schneiden	verschneiden	Verb	2	kastrieren	Trinken	0	0.0095	0.0000
+PK00549	kapores, kapore	kapores, kapore	Adjektiv	2a	tot	Trinken	0	0.0103	0.0000
+PS05533	Schuh	Schuh	Substantiv	2a	die Klaue des Schafs	Trinken	0	0.0029	0.0000
+PH01155	Hanne-wackel	Hannewackel	Substantiv	2	Pantoffelheld	Trinken	0	0.0127	0.0000
+PM00177	Magnet	Magnet	Substantiv	-	Magnet	Trinken	0	0.0185	0.0000
+PG03172	glasig	glasig	Adjektiv	2	starr (bes. von den Augen des Betrunkenen)	Trinken	0	-0.0259	0.0000
+PA02377	Antoinette	Antoinette	Substantiv	-	weibl. Vorname	Trinken	0	0.0038	0.0000
+PZ00564	zickelig	zickelig	Adjektiv	1	närrisch, verrückt, sonderbar	Trinken	0	-0.0161	0.0000
+PN00333	Nacht-wandler	Nachtwandler	Substantiv	-	Schlafwandler	Trinken	0	0.0183	0.0000
+PH05241	hinter-lassen	hinterlassen	Verb	-	hinterlassen	Trinken	0	0.0461	0.0000
+PS11053	stöbern	stöbern	Verb	2	verscheuchen, fortjagen	Trinken	0	-0.0077	0.0000
+PD05200	Tüpfchens-kor	Tüpfchenskor	Substantiv	-	Gesindel	Trinken	0	0.0082	0.0000
+PB01348	Baum	Baum	Substantiv	4a	Teil des Schubkarrens	Trinken	0	0.0196	0.0000
+PS06499	Schwenken-horst	Schwenkenhorst	Substantiv	-	Flurname	Trinken	0	0.0159	0.0000
+PD03075	Dorf-spieß	Dorfspieß	Substantiv	+	Spieß des Dorfwächters	Trinken	0	-0.0007	0.0000
+PW01005	Wasser-jungfer	Wasserjungfer	Substantiv	1	Libelle	Trinken	0	0.0150	0.0000
+PO00307	Ochsen-stern	Ochsenstern	Substantiv	-	Umdeutung des Namens des schwedischen Feldherrn Oxenstierna in dem	Trinken	0	0.0017	0.0000
+PG02696	ge-waltig	gewaltig	Adjektiv	2	mit Machtbefugnis ausgestattet	Trinken	0	0.0130	0.0000
+PL00405	längden	längden	Verb	-	der Länge nach abmessen	Trinken	0	-0.0086	0.0000
+PS01983	Scheiden-katarrh	Scheidenkatarrh	Substantiv	-	eine Krankheit des Geschlechtsorgans der Kuh	Trinken	0	0.0172	0.0000
+PS03788	Schmeichlerei	Schmeichlerei	Substantiv	x	übertriebene Komplimente, oft nicht ganz aufrichtig	Trinken	0	0.0120	0.0000
+PS04470	Schnee-könig	Schneekönig	Substantiv	-	fiktive Gestalt	Trinken	0	0.0064	0.0000
+PM00789	Markt-meister	Marktmeister	Substantiv	+	Aufseher über das Marktwesen einer Stadt	Trinken	0	-0.0023	0.0000
+PM02919	Mosel	Mosel	Substantiv	1	Flurname (Fluß zum Rhein)	Trinken	0	-0.0207	0.0000
+PH07127	Hunds-buckel	Hundsbuckel	Substantiv	2	Flurname	Trinken	0	0.0159	0.0000
+PR01122	Reib-maschine	Reibmaschine	Substantiv	-	Küchengerät zum Zerkleinern (von Brot, Kartoffeln u.a)	Trinken	0	-0.0060	0.0000
+PK03599	Kochlöffel-schisser	Kochlöffelschisser	Substantiv	-	Junge, der am Pfingstmorgen verschläft	Trinken	0	-0.0060	0.0000
+PA00411	ab-lassen	ablassen	Verb	II	sich von einem, von etwas trennen	Trinken	0	0.0212	0.0000
+PD02280	Dieb-haus	Diebhaus	Substantiv	+	Gefängnis für Diebe	Trinken	0	0.0078	0.0000
+PZ00782	Zinken	Zinken	Substantiv	6a	ein spitzes Waldstück	Trinken	0	0.0003	0.0000
+PF04639	vor-rupfen	vorrupfen	Verb	-	Unangenehmes in Erinnerung bringen	Trinken	0	0.0102	0.0000
+PD04559	Drohnen-zelle	Drohnenzelle	Substantiv	-	Zelle, in der eine Drohne ausgebrütet wird	Trinken	0	-0.0006	0.0000
+PR02249	Roß-quecke	Roßquecke	Substantiv	-	die häufige Unkrautpflanze Agriopyrum repens	Trinken	0	-0.0161	0.0000
+LK00637	kläsper	kläsper	Adjektiv		schmächtig, unansehnlich, zart gebaut; geschmeidig	Trinken	0	-0.0152	0.0000
+LF00714	Ver-tattert, ver-daddert	Vertattert, verdaddert	Adjektiv		schwatzhaft	Trinken	0	0.0177	0.0000
+LL00307	Lenkert	Lenkert	Substantiv		Langbalken am Wagen	Trinken	0	-0.0011	0.0000
+LA00260	Angel	Angel	Substantiv	1.	Stachel, bes. der Biene	Trinken	0	-0.0150	0.0000
+LK00306	Kauze-kopp	Kauzekopp	Substantiv	1.	Kaulquappe	Trinken	0	0.0165	0.0000
+LF00048	Famill	Famill	Substantiv		Familie, Verwandtschaft	Trinken	0	0.0251	0.0000
+LK01148	Krebs	Krebs	Substantiv		Krebs (auch als Krankheit)	Trinken	0	0.0095	0.0000
+LF00537	ver-näjen	vernäjen	Verb		vernähen, zu Ende nähen	Trinken	0	-0.0107	0.0000
+LU00188	us-butschen	usbutschen	Verb		entgleiten	Trinken	0	0.0055	0.0000
+EF01011	Fëttich, Fëgten 	Fëttich, Fëgten	Substantiv	1.	Flügel  eines Vogels, einer Gans, einer Windmühle, eines Spinnrads; Rockflügel, Rockschoss, verächtl. herabhängende Fetzen	Trinken	0	-0.0105	0.0000
+EF00152	Fagotten	Fagotten	Substantiv		läppisches Zeug, Grimassen, wunderliche Gebärden und Bewegungen beim Sprechen	Trinken	0	-0.0012	0.0000
+ET01461	tuschieren	tuschieren	Verb		berühren	Trinken	0	0.0270	0.0000
+EA01459	iteren, intrücken	iteren, intrücken	Verb		wiederkäuen	Trinken	0	0.0350	0.0000
+ES03306	schnuben	schnuben	Verb	1.	schnauben	Trinken	0	0.0259	0.0000
+EL00106	Liber	Liber	Substantiv		Frank, Frankstück	Trinken	0	-0.0109	0.0000
+EA01015	opponieren	opponieren	Verb		refl. sich auflehnen, widersetzen	Trinken	0	-0.0107	0.0000
+ES02175	schuren II	schuren	Verb	1.	scheuern	Trinken	0	-0.0073	0.0000
+ER00518	Ruckerst	Ruckerst	Substantiv		beim Ballspiel der zwischen den vier Ecken belegene Raum	Trinken	0	0.0089	0.0000
+ES01350	Schaub I	Schaub	Substantiv	1.	Bund Stroh, gutes langes Roggenstroh S., schön geordnetes Dachstroh	Trinken	0	-0.0149	0.0000
+ES04648	Staches	Staches	Substantiv		schwacher, einfältiger Mensch	Trinken	0	0.0003	0.0000
+ES00713	Silinle	Silinle	Substantiv		kleine Nägel, 6 Linien lang Westhalten	Trinken	0	-0.0146	0.0000
+EM01386	Maschin(e)	Maschine, Maschin	Substantiv		Maschine, bes. Dreschmaschine	Trinken	0	-0.0234	0.0000
+EK01340	Kittel	Kittel	Substantiv	1.	Kittel, Rock	Trinken	0	0.0236	0.0000
+ES01167	Sass	Sass	Substantiv		Sitzplatz, kunstlos durch Erdanhäufung u. dergl. vor dem Hause hergestellt; hölzerner od. steinerner Block, der sich zum Sitzen eignet	Trinken	0	-0.0209	0.0000
+EM00128	Maicher, Maicherle 	Maicher, Maicherle	Substantiv		saurer Apfel	Trinken	0	-0.0074	0.0000
+EK01393	Kutter	Kutter	Substantiv		Bettdecke, wollene Decke	Trinken	0	-0.0169	0.0000

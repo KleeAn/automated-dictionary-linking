@@ -1,0 +1,289 @@
+=== Evaluation using column: Top_5 ===
+
+=== Overall metrics ===
+Weighted-Precision:    0.8134
+Weighted-Recall:       0.8366
+Weighted-F1:           0.7948
+Micro-Precision:       0.3895
+Micro-Recall:          0.8366
+Macro-Precision:       0.2994
+Macro-Recall:          0.4412
+Accuracy (at least one match):    664 of 706 entries (94.05%)
+
+=== Precision/Recall/F1 per concept ===
+                                 precision    recall  f1-score   support
+
+                       Absacker       0.00      0.00      0.00         0
+                            Ale       0.00      0.00      0.00         0
+                         Alster       0.00      0.00      0.00         0
+                   Alsterwasser       0.00      0.00      0.00         0
+                        Altbier       0.00      0.00      0.00         0
+                       Amaretto       0.00      0.00      0.00         0
+                 Anisbranntwein       0.50      1.00      0.67         1
+                      Anislikör       0.00      0.00      0.00         1
+                    Anisschnaps       0.03      0.50      0.05         2
+                  Apfelperlwein       0.84      1.00      0.91        16
+                      Apfelsaft       0.33      1.00      0.50         3
+               Apfelsaftschorle       0.00      0.00      0.00         0
+                Apfelschaumwein       0.00      0.00      0.00         0
+                   Apfelschorle       0.00      0.00      0.00         0
+                      Apfelwein       0.94      1.00      0.97        16
+                 Aprikosenbrand       0.00      0.00      0.00         0
+               Aprikosenschnaps       0.00      0.00      0.00         0
+                   Arbeitersekt       1.00      0.73      0.84        11
+                          Arrak       0.00      0.00      0.00         1
+                 Aufgussgetränk       0.00      0.00      0.00         0
+                    Ballerbrühe       0.00      0.00      0.00         0
+                           Bier       0.86      0.94      0.90        33
+              Bier-Limonade-Mix       0.17      1.00      0.29         1
+               Biermischgetränk       0.00      0.00      0.00         1
+                 Blümchenkaffee       0.00      0.00      0.00         0
+                           Bock       0.00      0.00      0.00         0
+                       Bockbier       0.07      1.00      0.13         2
+                 Bodenseekaffee       0.00      0.00      0.00         0
+                   Bohnenkaffee       0.67      1.00      0.80         2
+                    Branntewein       0.95      0.96      0.96       106
+                     Branntwein       0.95      0.94      0.95       106
+                      Braunbier       0.00      0.00      0.00         0
+                         Brause       1.00      0.36      0.53        11
+                          Brühe       0.79      0.64      0.71        36
+                    Buttermilch       0.60      1.00      0.75         3
+                   Büchsenmilch       0.14      1.00      0.25         1
+                           Café       0.00      0.00      0.00         0
+                    Caro-Kaffee       0.00      0.00      0.00         0
+                         Cassis       0.00      0.00      0.00         1
+                     Champagner       0.60      1.00      0.75         3
+                          Cidre       0.00      0.00      0.00         0
+                         Cognac       0.00      0.00      0.00         0
+                           Coke       0.00      0.00      0.00         0
+                           Cola       0.00      0.00      0.00         0
+                      Dickmilch       0.73      0.67      0.70        12
+                       Digestif       0.40      1.00      0.57         2
+                     Dosenmilch       0.00      0.00      0.00         0
+                          Drink       0.00      0.00      0.00         0
+                   Durstlöscher       0.00      0.00      0.00         0
+                       Dünnbier       0.00      0.00      0.00         0
+                   Eichelkaffee       0.67      0.67      0.67         3
+            Erfrischungsgetränk       0.00      0.00      0.00         0
+                   Ersatzkaffee       0.53      0.89      0.67         9
+                       Espresso       0.00      0.00      0.00         0
+            Espresso mit Schuss       0.00      0.00      0.00         0
+                    Federweißer       0.27      1.00      0.42         7
+                    Feuerwasser       0.01      1.00      0.02         1
+               Feuerzangenbowle       0.00      0.00      0.00         0
+                    Flüssigbrot       0.00      0.00      0.00         0
+                   Fruchtkaffee       0.00      0.00      0.00         0
+                     Fruchtsaft       0.67      1.00      0.80        12
+                     Fruchtwein       0.47      0.92      0.62        25
+                          Fusel       0.46      0.96      0.62        24
+                     Förstertee       0.00      0.00      0.00         0
+              Ganzfruchtgetränk       0.00      0.00      0.00         0
+                     Gemüsesaft       0.06      1.00      0.11         1
+                       Geplämpe       0.79      0.53      0.63        36
+                   Gerstenkaffe       0.00      0.00      0.00         1
+                  Gerstenkaffee       0.75      1.00      0.86         9
+             Gerstenkaltgetränk       0.00      0.00      0.00         0
+             Gerstenkaltschalte       0.00      0.00      0.00         0
+                    Gerstensaft       0.00      0.00      0.00         0
+                      Geschlapp       0.91      0.81      0.85        36
+                         Gesöff       0.00      0.00      0.00         0
+                 Getreidekaffee       0.69      1.00      0.82         9
+                        Getränk       0.96      0.92      0.94        52
+                            Gin       0.00      0.00      0.00         0
+                       Glühwein       0.40      1.00      0.57         2
+                         Grappa       0.00      0.00      0.00         1
+                  Grauburgunder       0.00      0.00      0.00         0
+                           Grog       0.00      0.00      0.00         0
+                      Gänsewein       0.00      0.00      0.00         0
+                        H-Milch       0.00      0.00      0.00         0
+                     Hafermilch       0.00      0.00      0.00         0
+                     Hefeweizen       0.50      0.50      0.50         2
+               Heiße Schokolade       0.00      0.00      0.00         0
+                       Hellbier       0.25      1.00      0.40         1
+                         Helles       0.00      0.00      0.00         1
+                Hochprozentiges       0.43      1.00      0.60         3
+                      Honigwein       0.12      0.50      0.20         2
+               Hopfenkaltschale       0.00      0.00      0.00         0
+                      Hopfentee       0.00      0.00      0.00         0
+                      Hüttentee       0.00      0.00      0.00         0
+                    IrishCoffee       0.00      0.00      0.00         0
+                        Jagatee       0.00      0.00      0.00         0
+              Johannisbeerlikör       0.20      1.00      0.33         1
+                       Jägertee       0.00      0.00      0.00         0
+                         Kaffee       0.55      0.67      0.60        18
+              Kaffee mit Schuss       0.00      0.00      0.00         0
+Kaffee mit aufgeschäumter Milch       0.00      0.00      0.00         0
+                   Kaffeeersatz       0.58      0.88      0.70         8
+                          Kakao       0.50      1.00      0.67         2
+                   Kakaogetränk       0.67      1.00      0.80         2
+                     Kakaomilch       0.33      0.50      0.40         2
+                     Kakaotrunk       0.00      0.00      0.00         0
+                      Kapuziner       0.00      0.00      0.00         0
+                     Kellerbier       0.00      0.00      0.00         0
+                   Kinderkaffee       0.00      0.00      0.00         0
+                         Kirsch       1.00      1.00      1.00         6
+                    Kirschgeist       1.00      1.00      1.00         6
+                   Kirschwasser       1.00      1.00      1.00         6
+                         Kognak       0.00      0.00      0.00         0
+                   Kondensmilch       0.00      0.00      0.00         0
+                           Korn       0.67      1.00      0.80         2
+                      Kornbrand       0.25      0.50      0.33         2
+                 Kornbranntwein       0.50      1.00      0.67         2
+                     Kornkaffee       0.69      1.00      0.82         9
+                    Kraneberger       0.00      0.00      0.00         0
+                     Kranwasser       0.00      0.00      0.00         0
+                  Krawallbrause       0.00      0.00      0.00         0
+                  Kribbelwasser       1.00      0.64      0.78        11
+                       Krimsekt       0.00      0.00      0.00         0
+                     Kräutertee       0.50      0.86      0.63         7
+                       Kuhmilch       0.74      0.93      0.82        15
+                         Kurzer       0.01      1.00      0.02         1
+                         Kölsch       0.00      0.00      0.00         0
+               Kümmelbranntwein       1.00      1.00      1.00         3
+                       Landwein       0.05      1.00      0.09         1
+                     Leichtbier       0.00      0.00      0.00         0
+                 Leitungswasser       0.00      0.00      0.00         0
+                          Likör       0.38      1.00      0.55         3
+                      Likörwein       0.00      0.00      0.00         0
+                           Limo       0.00      0.00      0.00         0
+                       Limonade       0.67      1.00      0.80         2
+                          Lorke       0.93      0.75      0.83        36
+                          Lurke       0.93      0.69      0.79        36
+                    Magenbitter       0.50      1.00      0.67         2
+                     Magermilch       0.00      0.00      0.00         1
+                     Malzkaffee       0.90      1.00      0.95         9
+                    Mandellikör       0.00      0.00      0.00         0
+                  Marillenbrand       0.00      0.00      0.00         0
+                Marillenschnaps       0.00      0.00      0.00         0
+                            Met       0.33      0.50      0.40         2
+                          Milch       0.50      0.88      0.64        24
+                    Milchkaffee       0.18      1.00      0.31         2
+                     Milchkakao       0.00      0.00      0.00         2
+              Milchmischgetränk       0.00      0.00      0.00         0
+                Milchmixgetränk       0.00      0.00      0.00         0
+                Milchschokolade       0.00      0.00      0.00         1
+                     Milchshake       0.00      0.00      0.00         0
+                      Milkshake       0.00      0.00      0.00         0
+                  Mineralwasser       0.88      0.64      0.74        11
+                          Mocca       0.00      0.00      0.00         0
+                          Mokka       0.00      0.00      0.00         0
+                           Most       0.14      1.00      0.24         5
+                      Muckefuck       0.22      1.00      0.36         2
+                         Märzen       0.00      0.00      0.00         0
+                     Märzenbier       0.09      1.00      0.17         1
+                         O-Saft       0.00      0.00      0.00         0
+                      Obstbrand       0.67      1.00      0.80         6
+                      Obstgeist       0.00      0.00      0.00         0
+                        Obstler       0.86      1.00      0.92         6
+                       Obstsaft       0.67      1.00      0.80        12
+                    Obstschnaps       0.30      1.00      0.46         6
+                     Obstwasser       0.55      1.00      0.71         6
+                       Obstwein       0.52      0.85      0.65        26
+                    Orangensaft       0.00      0.00      0.00         0
+                       Palmwein       0.00      0.00      0.00         0
+                       Perlwein       0.07      1.00      0.13         1
+                 Pfefferminztee       1.00      1.00      1.00         2
+             Pflaumenbranntwein       0.62      1.00      0.76         8
+                   Pickelwasser       0.00      0.00      0.00         0
+                       Pilsbier       0.00      0.00      0.00         0
+                        Plampel       1.00      0.75      0.86        36
+                         Plempe       0.94      0.83      0.88        36
+                         Plämpe       0.94      0.81      0.87        36
+                         Plörre       0.87      0.75      0.81        36
+                       Portwein       0.00      0.00      0.00         0
+                Proletariersekt       1.00      0.45      0.62        11
+                  Prädikatswein       0.43      1.00      0.60         6
+                     Puffbrause       0.00      0.00      0.00         0
+                         Punsch       0.00      0.00      0.00         0
+                  Qualitätswein       0.29      1.00      0.45         7
+                         Radler       0.00      0.00      0.00         1
+                      Rebensaft       0.00      0.00      0.00         1
+                       Reiswein       0.00      0.00      0.00         0
+                       Riesling       0.06      1.00      0.11         1
+                      Rohrperle       0.00      0.00      0.00         0
+                           Rosé       0.00      0.00      0.00         0
+                       Roséwein       0.00      0.00      0.00         0
+                          Roter       0.36      1.00      0.53         4
+                        Rotwein       0.45      1.00      0.62         5
+                            Rum       0.50      1.00      0.67         2
+                           Saft       0.53      0.91      0.67        11
+                   Sauerbrunnen       1.00      0.55      0.71        11
+                     Sauermilch       0.80      0.67      0.73        12
+                         Sauser       0.27      1.00      0.42         7
+                        Schabau       0.00      0.00      0.00         0
+                       Schampus       0.00      0.00      0.00         0
+                     Schaumwein       0.80      1.00      0.89         4
+                  Schickermilch       0.00      0.00      0.00         0
+                        Schnaps       0.96      0.94      0.95       106
+                     Schokolade       0.00      0.00      0.00         2
+               Schokoladenmilch       0.00      0.00      0.00         1
+               Schokoladentrunk       0.00      0.00      0.00         0
+                           Sekt       0.00      0.00      0.00         0
+                        Selters       1.00      0.36      0.53        11
+                  Selterswasser       1.00      1.00      1.00        11
+                     Shortdrink       0.00      0.00      0.00         0
+                          Sirup       1.00      1.00      1.00         2
+                       Smoothie       0.00      0.00      0.00         0
+                           Soda       1.00      0.55      0.71        11
+                     Sodawasser       1.00      1.00      1.00        11
+                      Softdrink       0.00      0.00      0.00         0
+                      Sojamilch       0.00      0.00      0.00         0
+                     Spirituose       0.50      0.75      0.60         4
+                   Spritzwasser       1.00      0.55      0.71        11
+                        Sprudel       1.00      0.91      0.95        11
+                  Sprudelwasser       1.00      0.73      0.84        11
+                      Starkbier       0.44      1.00      0.62         4
+                 Stilles Wasser       0.00      0.00      0.00         0
+                        Süßwein       0.07      1.00      0.14         2
+                    Tafelwasser       0.00      0.00      0.00         0
+                      Tafelwein       0.00      0.00      0.00         0
+                            Tee       0.80      1.00      0.89        16
+                          Trank       0.98      1.00      0.99        52
+                    Traubenmost       0.03      1.00      0.06         1
+                    Traubensaft       0.25      0.60      0.35         5
+                   Tresterbrand       0.00      0.00      0.00         2
+                 Tresterschnaps       0.00      0.00      0.00         2
+                     Trinkbares       0.73      0.15      0.25        53
+                        Trinken       0.00      0.00      0.00         1
+                     Trinkmilch       0.00      0.00      0.00         0
+                Trinkschokolade       0.00      0.00      0.00         0
+                    Trinkwasser       0.75      1.00      0.86         3
+                        Tropfen       0.00      0.00      0.00         0
+                          Trunk       1.00      0.98      0.99        52
+              Verdauungsschnaps       0.50      1.00      0.67         2
+                      Vollmilch       0.25      1.00      0.40         1
+                     Wachmacher       0.00      0.00      0.00         0
+            Wacholderbranntwein       0.00      0.00      0.00         0
+               Wacholderschnaps       0.00      0.00      0.00         0
+                         Wasser       0.75      1.00      0.86         3
+               Wasser mit Zisch       1.00      0.55      0.71        11
+                           Wein       0.90      0.90      0.90       208
+                      Weinbrand       0.00      0.00      0.00         0
+                     Weizenbier       0.67      1.00      0.80         2
+                       Weißbier       0.67      1.00      0.80         2
+                         Weißer       0.13      1.00      0.24         2
+                       Weißwein       0.18      1.00      0.31         2
+               Wermutbranntwein       0.25      1.00      0.40         2
+                        Whiskey       0.25      1.00      0.40         1
+                         Whisky       0.33      1.00      0.50         1
+                Zichorienkaffee       0.33      0.67      0.44         3
+                    Ziegenmilch       0.67      1.00      0.80         2
+                     Zielwasser       0.00      0.00      0.00         0
+              Zuckerrohrschnaps       0.00      0.00      0.00         1
+                   Zuckerwasser       0.17      1.00      0.29         1
+                Zwetschgenbrand       0.91      1.00      0.95        10
+              Zwetschgenschnaps       0.91      1.00      0.95        10
+               Zwetschgenwasser       0.91      1.00      0.95        10
+               billiger Alkohol       0.00      0.00      0.00         0
+                    das Trinken       0.93      0.98      0.95        52
+               gestandene Milch       0.69      0.92      0.79        12
+                 haltbare Milch       0.00      0.00      0.00         0
+                sauerer Sprudel       0.00      0.00      0.00        11
+                 sauererSprudel       0.00      0.00      0.00         0
+                    saure Milch       0.75      0.75      0.75        12
+                 saurer Sprudel       0.00      0.00      0.00         0
+
+                      micro avg       0.39      0.84      0.53      1897
+                      macro avg       0.30      0.44      0.32      1897
+                   weighted avg       0.81      0.84      0.79      1897
+                    samples avg       0.36      0.90      0.47      1897

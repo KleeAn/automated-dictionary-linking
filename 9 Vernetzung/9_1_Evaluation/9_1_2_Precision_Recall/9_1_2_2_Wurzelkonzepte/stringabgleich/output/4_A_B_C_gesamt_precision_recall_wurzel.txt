@@ -1,0 +1,23 @@
+=== Overall metrics ===
+Weighted-Precision: 0.9060
+Weighted-Recall:    0.9073
+Weighted-F1:        0.9048
+Micro-Precision:    0.9056
+Micro-Recall:       0.9073
+Macro-Precision:    0.8828
+Macro-Recall:       0.8660
+Accuracy (exact match of all predictions):    0.9057
+Accuracy (at least one match): 0.9079
+
+=== Precision/Recall/F1 per concept ===
+Label                 Precision     Recall   F1-Score    Support
+----------------------------------------------------------------
+Durst                    0.8276     0.8571     0.8421         28
+Getränk                  0.9191     0.7802     0.8440        728
+Trinken                  0.8772     0.8646     0.8708        347
+kein_Trinken             0.9073     0.9619     0.9338       1994
+
+=== Accuracy per concept group (at least one match) ===
+Trinken: 0.8646 (300/347)
+Getränk: 0.7802 (568/728)
+Durst: 0.8571 (24/28)

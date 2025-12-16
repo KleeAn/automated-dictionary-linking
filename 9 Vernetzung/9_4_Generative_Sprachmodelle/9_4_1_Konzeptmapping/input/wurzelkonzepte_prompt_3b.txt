@@ -1,0 +1,41 @@
+f"""
+**Examples**:
+
+Headword: busen
+Definition: trinken, den Durst löschen
+Answer: trinken
+
+Headword: Schlauderwasser
+Definition: dünner Kaffee
+Answer: Getränk
+
+Headword: lechern
+Definition: dürsten
+Answer: Durst
+
+Headword: Saufnase
+Definition: Säufer, Trunkenbold
+Answer: other
+
+**Task**:
+
+Given are a dictionary entry with its headword and its definition.
+
+Assign it to exactly one of the four categories:
+
+1. **trinken**
+
+2. **Durst** 
+
+3. **Getränk**
+
+4. **other**
+
+
+**Dictionary entry**:
+
+Headword: {lemma}
+Definition: {definition}
+
+Answer with **exactly one** of these four words: trinken, Durst, Getränk, other.
+"""

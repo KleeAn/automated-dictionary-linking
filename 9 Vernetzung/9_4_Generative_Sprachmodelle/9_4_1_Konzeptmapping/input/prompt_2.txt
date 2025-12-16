@@ -1,0 +1,28 @@
+Given are a dictionary entry with its headword and its definition.
+
+Perform a binary classification. Assign one of the two categories:
+
+**Trinken** = any explicit action of drinking a liquid, the description of thirst, or the beverage itself.
+If the lemma or definition clearly describes a beverage, thirst, or the act of drinking, always choose ‘Trinken’, even if additional aspects such as Ausschank, Servieren, or places are mentioned.
+
+**kein_Trinken** = everything else, in particular:
+      - activities such as Ausschank, Anzapfen, Einschenken,
+        Auftischen, Servieren 
+      - places (Wirtshaus, Kneipe), persons (Kellner, Wirt), vessels
+        (Glas, Krug), tools
+      - states such as betrunken, angeheitert, im Rausch      
+        preparation of beverages
+      - quantities      
+      - general gastronomy activities
+
+**Examples for Trinken**:
+trinken, nippen, schlürfen, austrinken, Wasser trinken, Bier, Wein, Saft, Durst, Durst stillen, Tee, Kaffee
+
+**Examples for kein_Trinken**:
+Ausschank, anzapfen, auftischen, Kellner, Wirtshaus, betrunken, Rausch, Bowle ansetzen, Fass anschlagen
+
+**Dictionary entry**:
+Headword: {lemma}
+Definition: {definition}
+
+Answer with **exactly one** word: Trinken or kein_Trinken.

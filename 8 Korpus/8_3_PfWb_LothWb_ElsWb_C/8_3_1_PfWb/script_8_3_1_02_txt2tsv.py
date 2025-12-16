@@ -1,0 +1,63 @@
+# ================================================================
+# Script for the conversion of Post-data in TXT to TSV format.
+# ================================================================
+
+import re
+import csv
+import os
+
+# ================================================================
+# Function: parse_line
+# Purpose: Extracts components from a structured line using regex
+# ================================================================
+def parse_line(line):
+    """
+    Parses a single line of the input file and extracts:
+    - lemma
+    - structural level
+    - grammatical information
+    - definition
+    """
+    pattern = r'^(.*?)_(.*?)\|(.*?)\\(.*?)#(\d+)$'
+    match = re.match(pattern, line)
+    if match:
+        lemma = match.group(1).strip()
+        level = match.group(2).strip()
+        grammar_info = match.group(3).strip()
+        definition = match.group(4).strip()
+        return lemma, grammar_info, level, definition
+    else:
+        print("No match for line:", repr(line.strip()))
+        return None
+
+# ================================================================
+# Function: process_file
+# Purpose: Reads a file line-by-line and writes parsed results to TSV
+# ================================================================
+def process_file(input_file, output_file):
+    """
+    Processes the input text file and writes extracted entries to a TSV file.
+    """
+    with open(input_file, "r", encoding="utf-8") as infile, \
+         open(output_file, "w", encoding="utf-8", newline="") as outfile:
+
+        writer = csv.writer(outfile, delimiter="\t")
+        writer.writerow(["Lemma", "POS", "Level", "Definition"])
+
+        for line in infile:
+            parsed = parse_line(line)
+            if parsed:
+                writer.writerow(parsed)
+
+# ================================================================
+# Main execution
+# ================================================================
+def main(prefix):
+    """
+    Runs the TXT to TSV conversion using the given file prefix.
+    """
+    input_file = f"output/{prefix}.txt"
+    output_file = f"output/{prefix}.tsv"
+
+    process_file(input_file, output_file)
+    print(f"File successfully converted: '{output_file}'")

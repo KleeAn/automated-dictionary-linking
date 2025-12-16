@@ -1,0 +1,14 @@
+File: 4_A_Trinken_matches_final.tsv
+Rows: 1101
+∅ minimal path distance: 1.88
+∅ average path distance: 1.99
+
+Average distances per part-of-speech:
+Adjektiv: ∅ min = 1.50, ∅ avg = 1.50
+Substantiv: ∅ min = 2.23, ∅ avg = 2.34
+Verb: ∅ min = 1.04, ∅ avg = 1.17
+
+Average distances per concept group:
+Durst: ∅ min = 1.29, ∅ avg = 1.29
+Getränk: ∅ min = 2.08, ∅ avg = 2.19
+Trinken: ∅ min = 1.50, ∅ avg = 1.62

@@ -1,0 +1,326 @@
+xml:id	Lemma	Wortart	Level	Definition	Konzept
+CA00042	ab-rahmen		1.	Rahm von der Milch wegnehmen	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CA00055	ab-schidden	tr. v.		(eigentl. abschütten) den bessern Teil von der Milch (den Rahm	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CA00253	Änes	n.	2.	Anisbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CA00262	Angläs		1.	f. weiße Wein-Flasche, drei Viertel Liter enthaltend	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CA00303	an-setzen	tr. v.	3.	anstellen; Brombeeren, Mirabellen, Chinawurzel usw. in Alkohol einweichen, um ein besonders hygienisches Likör herzustellen	Getränk
+CA00351	Appelvitz	m.		Apfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CB00004	Babbel-wasser	n.		Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CB00017	Bach	f.	2.	Wasserlache	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CB00070	Paipampel	m.		Schmetterling	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CB00127	Bank	f.	3.	Wasserbank	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CB00146	Pans-bruder	m.		einer, der nur für seinen Bauch sorgt, der immer essen u. trinken möchte	Trinken
+CB00183	Bäre-dreck			Süßholzsaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+CB00286	baschtisch	interj.		fast allg. plumps! (beim Fallen ins Wasser oder in den Schlamm	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CB00331	Paure-wein	m.		ungekelteter Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CB00394	be-duselt	adj.		angetrunken	Getränk
+CB00460	Peipleng	m.		Schmetlerling	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CB00479	Pek I			saurer Wein, aus Trestern hergestellt, indem man Wasser zusetzt u. das Gemisch einige Tage in einem Fasse stehen läßt	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CB00615	be-sawelt	adj.		betrunken	Getränk
+CB00626	be-schipsen		2.	sich betrinken	Trinken.Alkohol_trinken
+CB00676	be-trinken	refl. v.		sich betrinken	Trinken.Alkohol_trinken
+CB00724	Biboppert	m.		Schmetterling	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CB00755	Bier II			u. m. Bier	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+CB00829	Kaffis-binz			Kaffeekanne	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+CB00874	pisen	intr. v.	2.	zischen vom Wasser, wenn es auf einen heißen Gegenstand fällt	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CB00922	Plack	f.	1.	Metallplatte	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CB00974	platschen	intr. v.	1.	plätschern im Wasser, in einer Flüssigkeit herumarbeiten	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CB00975	plätschen		5.	plätschern im Wasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CB01088	Blos	f.	2.	Blasinstrument	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CB01103	Blotz-milch	f.		Buttermilch, die durch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CB01237	Pont I			Brückenschiff; Fähre, vermittels welcher Wagen, Pferde u. Vieh übers Wasser geführt werden	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CB01322	Brach			dicke Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CB01350	Brannte-win	m.		Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CB01457	Briling	m.		Frischling, junges Schwein, das nur mit heißem Wasser abgebrüht wird im Gegensatz zu dem mit Stroh gesengten Speckschwein	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CB01497	Brockel	m. f.	1.	geronnene Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CB01518	brommen	intr. v.	1.	brummen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CB01560	bruddelen	intr. v.	1.	Bezeichnung des Lautes, den das Wasser hervorbringt, wenn es aus einem Gefäß mit engem Hals herausfließt, brodeln, wallen	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CB01560	bruddelen	intr. v.	2.	mit Geräusch Wasser schlürfen (vom Vieh	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CB01560	bruddelen	intr. v.	3.	im Wasser herumplätschern	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CB01586	brunzen	intr. v.		brunzen, Wasser abschlagen. Das Glimpfwort lautet	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CB01611	brutlich	adj.	2.	abgebrüht (vom mehrfach aufgekochten Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+CB01660	puddlen	refl. v.	1.	im Wasser plätschern	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CB01660	puddlen	refl. v.	3.	sich im schmutzigen Wasser, im Kot wälzen. Reimspruch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CB01688	Bull	f.		Blase, die sich auf dem Wasser bildet	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CB01717	Pupeller			Schmetterling	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CB01735	Burwasser			Brunnenwasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CB01772	bu'stawieren			buchstabieren	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+CD00053	däfen	tr. v.	2.	Wein mit Wasser durchsetzen allg	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CD00081	Dam	f.	2.	Wasserjungfer	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CD00093	Damp	m.	3.	Rausch, Betäubung durch geistige Getränke	Getränk
+CD00124	Danz-dere-männchen	m.		Schlüsselblume. Die Kinder ziehen den Stempel aus der Blüte und stellen ihn mit dem Fruchtknoten auf stilles Wasser: er tanzt alsdann	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CD00215	Dei	m.		Krume	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CD00282	Dempel	m.		Tümpel, tiefe Stelle im Wasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CD00368	Dick-milch			(Dek-melech) f. sauer Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CD00392	dieschten	intr. v.		dursten	Durst
+CD00447	Dirmeler	m.	1.	Herumschlenderer	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CD00551	Tods-amen	m.		Metzeresch	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CD00590	tompen		2.	schlummern, nippen	Trinken.Langsam_kleine_Mengen_trinken
+CD00696	Drankâpel	m.		Weinapfel	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CD00697	Drank-bir	f.		Weinbirne	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CD00698	Drank-fâs	n.		Obstweinfaß	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CD00695	Drank	m.	1.	Apfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CD00700	tränken	tr. v.		fast allg. das Vieh auf die Tränke führen, ihm zu trinken geben	Trinken
+CD00701	dranken			s. trinken	Trinken
+CD00809	Trendel	m.	1.	Wasserstrudel	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CD00816	drenken			s. trinken	Trinken
+CD00818	Trep(s)		2.	Öffnung, Spalte, durch welche das Wasser sickert	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CD00818	Trep(s)		3.	Gläschen Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CD00863	Trillert	m.		Wasserwirbel	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CD00870	trinken	tr. v.		trinken	Trinken
+CD00927	Dronk	m.	1.	Trunk	Getränk
+CD00927	Dronk	m.	2.	Trank, heilkräftiges Getränk	Getränk
+CD00928	dronken	adj.	1.	betrunken	Getränk
+CD00971	Druff	m.	1.	trüber Wein als Faßrest	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CD01008	Drusenbrantwin	m.		fast allg. Branntwein aus Weinhefe gewonnen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CD01085	tunken		1.	untertauchen, eintauchen (Brot in die Milch, in den Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+CD01116	Tur II		2.	Runde	Getränk
+CD01134	Dürledü	m.		Brummschädel	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CD01139	Turne	f.	1.	Runde, für jeden am Tisch ein Glas	Getränk
+CD01143	Durren-oli			geschätztes Heilmittel auf dem Lande, bestehend aus Alkohol oder Öl, in welches die Werren eingetaucht werden	Getränk
+CD01151	Durscht	m.		Durst	Durst
+CD01155	durschtisch	adj.		durstig	Durst
+CD01164	Tusch I			Strunk	Getränk
+CD01185	tuten II			tüchtig trinken	Trinken
+CD01188	duttlen	intr. v.		trinken, saugen	Trinken
+CE00130	em	m.	2.	geronnen (von der Milch ges	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CE00259	er-dischteren	intr. v.		verdursten	Durst
+CE00266	erem	adv.	1.	wiederum	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CE00266	erem	adv.	3.	herum	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CF00107	Fassel	f.		kleiner, runder Behälter mit siebartigem Boden. Er wird auf ein Gefäß gestellt u. mit geronnener Milch gefüllt; die wässerigen Bestandteile sammeln sich in dem Gefäß, aus dem Übrigen wird Käse bereitet	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CF00197	Feldbir			Trankbirne	Getränk
+CF00221	fengen	tr. v.	2.	geronnene Milch kochen, um Käse daraus zu machen	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CF00426	ver-juppen		2.	sich vertun, von etwas zuviel essen od. trinken	Trinken
+CF00471	ver-krasch	adj.		verweint	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CF00496	ver-lechen	intr. v.	2.	austrocknen, verschmachten vor Durst	Durst
+CF00497	ver-leckeren	tr. v.		jemanden verwöhnen, wählerisch machen in Speise u. Trank	Getränk
+CF00706	ver-suffen		1.	ertrinken	Trinken
+CF00706	ver-suffen		2.	durch Trinken verprassen	Trinken
+CF00845	fillen I			Wasser in das Schuhzeug bekommen, z. B. wenn man durch einen Sumpf od. durch flüssigen Kot geht	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CF00916	Vir-schotz	m.		der erste Branntwein, der beim Brennen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CF00954	Vitz	m.		Obstwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CF00970	Fläm	f.		Anflug über der Milch; feines Häutchen; Flaum vom Ei, von Speisen und Getränken	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CF01021	Fleder-mus	f.	2.	Schmetterling	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CF01077	Flitter	m.		Schmetterling	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CF01121	voll	adj.	2.	betrunken	Getränk
+CF01125	Vollchit	f.		Betrunkenheit	Getränk
+CF01130	Föll-wein	m.		Füllwein, Wein zum Nach- und Auffüllen im Fasse	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CF01160	Vor-laf	m.		Vorlauf d. i. der erste Branntwein, der beim Brennen ausfließt. Er ist zu alkoholreich, um getrunken zu werden, u. dient zu Einreibungen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CF01272	frisch-melkich	adj.		frischmilchend (von der Kuh gesagt, die nach dem Kalben wieder zu Milch gekommen ist	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CF01369	Fusel	m.		geringer, schlechter Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CG00052	Galm	m.		Durst, Qualm, Gestank	Durst
+CG00244	Ge-drenks	n.	1.	Getränke	Getränk
+CG00244	Ge-drenks	n.	2.	das Trinken	Trinken
+CG00329	geien	intr. v.	2.	weinen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CG00339	Geischt	m.		Weingeist, Alkohol	Getränk
+CG00342	Geiwerjoggel	m.		jd. der sich beim Essen oder Trinken verunreinigt	Trinken
+CG00583	Ge-scheppels	n.		übermäßiges od. gewohnheitsmäßiges Trinken von Schoppen Bier od. Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+CG00621	ge-schwatt	adj.		betrunken	Getränk
+CG00627	Ge-seffs	n.		Gesöffe, Säuferei, unmäßiges Trinken	Trinken.Alkohol_trinken
+CG00688	Ge-supps	n.		Saugen, Geschlürf, schlürfendes Geräusch beim Trinken	Trinken
+CG00782	Giges I			schlechter Branntwein, Fusel	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CG00805	Giss	n.		Schwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CG00809	Gize	f.		Wasserläufer	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CG00899	Glugluk	n.		Gluckgluck (Geräusch beim Trinken od. Ausgießen einer Flüssigkeit	Trinken
+CG00921	Godrong	m.		Teer	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Tee
+CG00947	Gom	n.	4.	ein süßliches Getränk	Getränk
+CG00987	Grächen	m.		neuer Wein; Wein, der gerade trinkbar geworden. G. genannt wegen seiner grauen Farbe	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CG01012	granglich	adj.		weinerlich	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CG01050	Gräwel-wasser	n.		schlechter Branntwein, Fusel	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CG01136	grischen			weinen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CG01140	grittich	adj. u. adv.		gierig, meist vom Essen u. Trinken	Trinken
+CG01193	Grumberebrantwein			Kartoffelsprit	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CG01214	grunder-ernscht	adj.		grundernst	Getränk
+CH00055	Hake-mann			der Hakemann, der das Kind ins Wasser ziehen möchte	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CH00199	Häns-chen	n.		ein Achtel Liter Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CH00357	Heffen	f.	1.	Weinhefe	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CH00478	Heppen-nas			Krummnase	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CH00808	Hosbendel	n.		Strumpfband	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CH00907	Hundsmilich			Wolfsmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CI00062	in-durren	intr. v.		einschrumpfen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CI00095	in-schlagen	tr. v.		Obst, bes. Zwetschen in ein Faß füllen, um Schnaps herzustellen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CK00026	Kaffeebinz	f.		Kaffeekanne	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+CK00028	Kaffeebrih			schlechter Milchkaffee allg	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+CK00036	Kaffeeseh			Kaffeesieb	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+CK00038	Kaffeetût	f.		Kaffeeschwester	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+CK00024	Kaffee	m.	1.	Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+CK00024	Kaffee	m.	2.	Kaffeehaus	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+CK00044	Kahnen	m.		Kahm, Weinpilz; Schimmel auf Wein, Essig, Tinte u. dgl	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CK00183	Kabestusch	f.		Kohlstrunk	Getränk
+CK00237	Käsduch			(K.-dichel) n. leinenes Tuch, in welches die geronnene Milch getan wird, um sie von dem säuerlichen Milchwasser zu trennen	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CK00259	Kassis	m.	2.	Likör, der aus der Frucht derselben zubereitet wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CK00319	Kehr	f.		Drehung, Wendung mit Wagen od. Pflug; Umweg, Runde, Reihe	Getränk
+CK00343	Keizen	m.	2.	schlechter Wein, Krätzer	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CK00372	Kelterwein			Wein von gekelterten Trauben im Gegensatz zu	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CK00547	Kirsch	f.	2.	Kirschenschnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CK00620	Klam	f.	2.	ein vom Wasser eingerissener tiefer Einschnitt im Felde	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CK00666	Kleiesuffe			warmes Wasser mit K. vermischt als Schweinefutter	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CK00727	klotrn II			herumklettern	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CK00808	Knet-wasser	n.		lauwarmes Wasser zum Teigansetzen	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CK00898	Kochwasser			siedendes Wasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CK00969	Truwelkonfitür			Johannisbeersaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+CK00970	Grischelkonfitür			Stachelbeersaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+CK00971	Kittekonfitür			Quittensaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+CK00972	Brembeerekonfitür			Himbeersaft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+CK01024	Koschi	m.	3.	Transportschein für Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CK01060	Kowen-bretchen	m.		Gläschen Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CK01127	Krätz I			Schimmel an Früchten, am Wein usw	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CK01159	kreissen II			herumstrolchen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CK01301	Krotze-mann	m.		Wasserkobold, der die Kinder, die zu nahe ans Wasser gehen, hineinzieht	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CK01392	Kumet I	m.		Komet	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CK01397	Kump	f.	3.	Wassertümpel	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CK01481	Kwall	f.	1.	das Aufwallende des siedenden Wassers; Sprudel	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CK01490	kwatschen	intr. v.	2.	schallnachahmendes Geräusch, das entsteht, wenn man mit Schuhzeug einhergeht, in welches Wasser eingedrungen ist	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CK01494	kwellen		2.	quellen (vom Wasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CK01505	Kwetschwasser			Zwetschenbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CL00032	lack	m.		müde, matt, träge von der Hitze u. vom Durst	Durst
+CL00043	laden I		2.	viel trinken	Trinken
+CL00043	laden I		4.	sich mit Speise u. Trank überladen	Getränk
+CL00146	läppsen	tr. v.		nippen; essen od. trinken wie einer, dem es nicht recht schmeckt	Trinken.Langsam_kleine_Mengen_trinken
+CL00147	Läppsert	m.		Mensch, der im Essen u. Trinken nicht recht zugreift	Trinken
+CL00163	lätschen	intr. v.		mit den Händen im Wasser herumplätschern	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CL00196	lebbern	tr. v.		nippen' schlürfen	Trinken.Langsam_kleine_Mengen_trinken
+CL00292	Leiter II			Apparat zum Entrahmen der Milch. Auch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CL00328	Lê-schnur	f.		Schnur mit Angelhaken versehen, die man ins Wasser versenkt, um Fische zu fangen	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CL00401	Lier	m.		Holzapfelwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CL00467	literen		2.	tüchtig trinken	Trinken
+CL00523	lotsen	tr. v.		flötzen, flößen (auf dem Wasser schwimmen machen	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CL00565	lumpen	m.		allg. zechen, schlemmen	Trinken.Alkohol_trinken
+CM00015	Madam	f.	2.	Wasserjungfer	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CM00027	Mawebitter			Magenbitter	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CM00185	Mascht I		2.	Mastschwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CM00198	Maschtert	n.		Mastschwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CM00226	Matten	f.	1.	geronnene Milch, aus der Käse gemacht wird; Käsmatte	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CM00226	Matten	f.	2.	Wasser, das sich bei Käsebereitung von der dicken Milch absondert	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CM00280	Mehlsuffe			Trank mit beigemischtem M. für die Haustiere	Getränk
+CM00301	messich		2.	keine Milch gebend	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CM00317	Melkersch	f.		soviel Milch, als in einem Mal gemolken wird	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CM00320	Meller			Schmetterling	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CM00416	Milch	f.		Milch. Rda	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CM00419	Milchbrekel			in Milch eingeweichte Brotstückchen ibid	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CM00420	Milchbretche			Milchbrötchen	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CM00422	Milchhawe			Milchtopf	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CM00465	Minut	f.	2.	Kaffeegeschirr; Topf, in welchem der Kaffee schnell zubereitet werden kann	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+CM00470	Mirabell	f.	2.	Mirabellenbranntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CM00556	Molken	m.		Käsewasser in der Dickmilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CM00617	mos I			keine Milch mehr gebend	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CM00620	Moschketeller	m.		Muskatellertraube, –wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CM00677	Mupp	m.		schlechter, minderwertiger Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CM00713	Musikante-brih	f.		(eigentl. Musikantenbrühe) verächtl. für schlechten Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+CN00228	Ninni	f.		Milch in der Kindersprache	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CN00255	Niwo	m.	2.	Wasserwage	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CO00049	of-rämen	tr. v.		abrahmen, die Sahne von der Milch abschöpfen	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CO00062	Ohme	m.		Ohm, Flüssigkeitsmaß bes. für Wein (etwa 140 Lit	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CO00176	op-klappen	tr. v.	2.	am Wirtstisch Getränk bestellen, indem man mit dem Bierkrug od. dem Glase auf klopft	Getränk
+CO00248	Owes-dronk	m.		Abendtrunk	Getränk
+CO00251	Owesstrach	m.		die am Abend gemolkene Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CR00037	rädelen	tr. v.	2.	zuviel essen od. trinken	Trinken
+CR00162	Rattegift			allg. schlechter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CR00164	Ratteschwanz		b)	ganz runde Feile	Getränk
+CR00186	Rausch	m.	1.	Betrunkenheit	Getränk
+CR00204	Rbhisel			Weinberghäuschen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CR00242	regalieren		2.	sich durch Speise u. Trank laben	Getränk
+CR00330	Rend I			Runde	Getränk
+CR00400	Ribott	f.		Rausch, Saufgelage	Trinken.Alkohol_trinken
+CR00543	rond-erm		2.	ringsherum	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CR00630	rulieren	intr. v.	2.	herumstreifen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CR00636	rum	m.		herum	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CR00660	Runding	f.		Runde	Getränk
+CS00052	Saft	f.		u. n. Saft	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+CS00054	säften	intr. v.		Saft oder Flüssigkeit durchlassen, durchsickern	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Saft
+CS00166	Saubolle			Schweinekot	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CS00162	Saubirschde		a)	Schweineborsten	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CS00175	Saustall		a)	Schweinestall	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CS00177	Sau-dreck		1.	Schweinekot	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CS00197	säzen	intr. v.		nach Urin oder saurer Milch riechen	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CS00208	Schächer	m.	1.	Judenmetzger	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CS00221	schäden		2.	gerinnen, von der Milch, wobei sich Käsestoff u. Milchwasser trennen	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CS00229	schaffen		2.	in die Höhe steigen, gären vom Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CS00279	Schampanjer	m.		allg. Champagnerwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein.Sekt
+CS00327	Scharlacher	m.		Schnaps, sog. nach der Farbe	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CS00409	Schellee	m.		Sehweinskäse	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CS00422	schenen	tr. v.		(den Wein) klären	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CS00441	schepplen	intr. v.		trinken, mit dem Nebenbegriff des Gewohnheitsmäßigen	Trinken
+CS00468	schicker	adj.		betrunken	Getränk
+CS00650	Schlauder-wasser	n.		dünner Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+CS00742	schlirpsen	intr. v.	1.	schlürfen beim Trinken	Trinken
+CS00772	schlotzen	tr. v.	1.	schlürfen, mit Wohlbehagen trinken, schmatzen	Trinken
+CS00787	Schlupp I		2.	Gläschen Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CS00789	schluppen	intr. v.		einen Schluck tun, zechen	Trinken.Alkohol_trinken
+CS00790	schlurben	intr. v.	2.	schlürfen, geräuschvoll trinken	Trinken
+CS00792	Schluri	m.	2.	Spitzname für schlechten Kaffee	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+CS00821	Schmant	m.		Rahm auf der gekochten Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CS00824	schmatzen	tr. v.	2.	mit Wohlbehagen trinken	Trinken
+CS00907	Schnaps	m.		wie hd. Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CS00912	Schapskessel		b)	Schnapsnase	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CS01000	Schnik	m.		Fusel, schlechter Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CS01001	Schnikert	m.		Schnapstrinker	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CS01028	schnorren	intr. v.	1.	schnurren, sausen z. B. von Maschinen, vom Wasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CS01029	Schnorres	m.	2.	Gläschen Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CS01059	schnurren	intr. v.		schnurren, sausen, von Maschinen, vom Wasser usw	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CS01070	schocken	intr. v.		anstoßen mit den Gläsern, um auf das Wohl jds. zu trinken	Trinken
+CS01115	Schorbacher	m.		gewöhnlicher Kartoffelschnaps, der in	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CS01117	schores	n.		betrunken	Getränk
+CS01144	schrampen,	intr. v.		schrumpfen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CS01290	schwabbeln	intr. v.		sich hin u. her bewegen (vom Fett, Wasser u. dgl	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CS01349	schwenken	tr. v.	2.	spülen, durch Schwenken im Wasser reinigen	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CS01349	schwenken	tr. v.	3.	jemanden durch Spendung geistiger Getränke zu gewinnen suchen	Getränk
+CS01415	Seidel	m.		u. n. Getränk- u. Flüssigkeitsmaß, die Halbe	Getränk
+CS01418	Seih	f.		Seihe, feines Sieb für Kaffee, Milch u. dgl	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+CS01470	Sentimeter	m.		Zentimeter	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CS01478	Ser-wasser	n.		weiches Wasser (urspr. schwach fließendes Wasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CS01494	Setz-wo	f.		Wasserwage	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CS01524	sifflen	tr. v.		anhaltelnd u. viel trinken (meist ironisch	Trinken
+CS01563	Sirop	m.		Sirup	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Softdrink
+CS01713	Spenn	f.	1.	Muttermilch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CS01735	Spiel	n.	4.	Musikinstrument	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CS01822	Spreb	m.	2.	Krammetsvogel	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CS01837	Spret	m.	1.	Sprit, Spiritus, schlechter Schnaps	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CS01847	Spritz	f.	2.	Wasserguß	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CS01858	Spruddel	m.		Sprudel	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CS01859	spruddlen	intr. v.	1.	hervorsprudeln	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CS02218	Strach		3.	f. soviel auf einmal an Milch gemolken wird	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CS02255	Strechersch	f.		die Menge Milch, die beim einmaligen Melken erzeugt wird	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CS02304	strichen		2.	melken (die Milch durch streichen aus den Zitzen ziehen	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CS02357	Strump	m.		Strumpf	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CS02358	Strump-bändel	n.		Strumpfband	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CS02438	Sudel-wasser			Spülwasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CS02441	sudlen	tr. v.	4.	mit den Händen im Wasser arbeiten	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CS02444	Suff	f.		steifer Trank für Rindvieh u. Schweine; Küchenwasser zum Tränken des Viehs	Getränk
+CS02448	suffen	tr. u. intr.		saufen	Trinken.Alkohol_trinken
+CS02450	Sufferei	f.		Säuferei, anhaltendes Trinken, Trinkgelage	Trinken.Alkohol_trinken
+CU00094	Ule-watz	m.		Wildschwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CU00208	us-gen	tr. v.	2.	bei der Ernte, Wein- u. Obstlese ergiebig sein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CU00222	us-leren	tr. v.	1.	ausleeren, entleeren, ausschütten (Wasser aus einem Gefäß, Kartoffeln aus einem Sack	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CU00244	us-schwenken	tr. v.		fast allg. ausspülen, durch Schwenken im Wasser reinigen	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CU00253	us-suffen			fast allg. leer saufen	Trinken.Alkohol_trinken
+CW00077	Wampen	m.	2.	Rumpf	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CW00092	wänen	intr. v.		weinen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CW00094	Wangert			Weinberg	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CW00158	Wasserpurble			Wasserpocken	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CW00150	Wasser	n.	1.	Spülwasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CW00150	Wasser	n.	2.	wässeriger Kaffee, dünne Suppe	Getränk.Heißgetränk.Alkoholfreies_Heißgetränk.Kaffee
+CW00150	Wasser	n.	1.	Weihwasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CW00150	Wasser	n.	2.	in aller Frühe getrunkener Branntwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CW00164	Wässich	f.		Molke, wässeriger Teil der Milch	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Kaltes_Milchgetränk
+CW00168	Wät	f.		Untiefe im Wasser zur Pferdeschwemme u. Viehtränke	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CW00173	watschlen	intr. v.	2.	mit den Armen im Wasser herumrühren	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CW00368	Wierd	m.		Werder, wasserfreies Land; erhöhter Grund im Wasser eines Flusses od. Sees, der über dies hervorragt	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CW00386	Wih-wasser	n.	1.	Weihwasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CW00386	Wih-wasser	n.	2.	Schnaps, der in der Frühe getrunken wird	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CW00400	Wild-su		1.	Wildschwein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CW00407	Win	m.		Wein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CW00408	Winappel			Apfel, der sich bes. zur Bereitung von Obstwein eignet	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CW00409	Winblum			Weinschimmel	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CW00413	Wingart			Steueraufseher für Getränke, Steuerbote	Getränk
+CW00415	Winstän			Weinstein	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CW00433	Wingert	m.		Weinberg	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CW00439	Winkof	m.	1.	Trunk zur Bestätigung eines geschlossenen Kaufes od. Vertrags	Getränk
+CW00444	Winscho	m.		Glühwein	Getränk.Kaltgetränk.Alkoholhaltiges_Heißgetränk
+CW00472	Wirwel	m.		Wirbel, kreisförmige Bewegung in der Luft od. im Wasser	Getränk.Kaltgetränk.Alkoholfreies_Kaltgetränk.Wasser
+CW00478	Wisch	m.	4.	Wirtshausschild, Bier- oder Weinzeichen	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+CZ00035	abZ-biddel			kleine Bütte, aus der das Wasser durch eine Öffnung herausfließt, die mittels eines aZfens verschlossen werden kann. Der Schnapstrinker antwortet auf die Frage, wieviel Schnaps er wünscht	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose
+CZ00038	zappen		1.	Wein, Bier vom aZfen schenken	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Bier
+CZ00136	Ziller	n.		Sehweinskäse	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Wein
+CZ00202	Zuck	m.	1.	Zug, Ziehleistung, Zug beim Trinken	Trinken
+CZ00261	Zwelfer	m.		ein Schnaps zu 12	Getränk.Kaltgetränk.Alkoholhaltiges_Kaltgetränk.Spirituose

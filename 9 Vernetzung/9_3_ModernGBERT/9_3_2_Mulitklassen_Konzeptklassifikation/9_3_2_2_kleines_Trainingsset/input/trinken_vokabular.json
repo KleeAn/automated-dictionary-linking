@@ -1,0 +1,769 @@
+{
+  "Trinken": {
+    "Begriffe": [
+      "abtrinken",
+      "aufsaugen",
+      "den Durst löschen",
+      "die Kehle anfeuchten",
+      "die Kehle befeuchten",
+      "die Kehle benetzen",
+      "die Kehle herunterlaufen lassen",
+      "die Kehle schmieren",
+      [
+        "Durst löschen",
+        "seinen Durst löschen"
+      ],
+      [
+        "Durst stillen",
+        "seinen Durst stillen",
+        "den Durst stillen"
+      ],
+      "einsaugen",
+      "Flüssigkeit aufnehmen",
+      "nuckeln",
+      "saugen",
+      "schlucken",
+      "suckeln",
+      "trinken",
+      "ziehen"
+    ],
+    "Alkohol_trinken": {
+      "Begriffe": [
+        "Alkohol konsumieren",
+        "Alkohol trinken",
+        "antrinken",
+        "bechern",
+        "begießen",
+        "berauschen",
+        "bürsten",
+        "durch die Gurgel jagen",
+        "eine Flasche auspicheln",
+        "eine Flasche den Hals brechen",
+        "einen heben",
+        "einen über den Durst trinken",
+        "einen verlöten",
+        "einen zu Gemüte führen",
+        "einheizen",
+        "genehmigen",
+        "in die Kanne steigen",
+        "ins Glas schauen",
+        "kippen",
+        "kneipen",
+        "kübeln",
+        "kümmeln",
+        "nehmen",
+        "pfeifen",
+        "picheln",
+        "plätschern",
+        "pokulieren",
+        "pullen",
+        "Salamander reiben",
+        "saufen",
+        "säuseln",
+        "schlauchen",
+        "schmettern",
+        "schnäpseln",
+        "schnapsen",
+        "sich abschießen",
+        "sich bedudeln",
+        "sich beduseln",
+        "sich begigeln",
+        "sich behammeln",
+        "sich beknillen",
+        "sich beknüllen",
+        "sich beknüppeln",
+        "sich benebeln",
+        "sich besaufen ",
+        "sich besäuseln",
+        "sich beschickern",
+        "sich beschwipsen",
+        "sich betrinken",
+        "sich bezechen",
+        "sich die Birne wegschießen",
+        "sich die Birne zuhauen",
+        "sich die Hucke vollsaufen ",
+        "sich die Kante geben",
+        "sich die Kehle anfeuchten",
+        "sich die Kehle öhlen",
+        "sich die Nase begießen",
+        "sich einen ansaufen",
+        "sich einen auf die Lampe gießen",
+        "sich einen ballern",
+        "sich einen genehmigen ",
+        "sich einen hinter die Binde kippen",
+        "sich einen Rausch antrinken",
+        "sich einen zur Brust nehmen",
+        "sich sinnlos betrinken",
+        "sich volldröhnen",
+        "sich volllaufen lassen",
+        "sich vollsaufen",
+        "sich zudröhnen",
+        "sich zulaufen lassen ",
+        "sich zulöten",
+        "sich zusaufen",
+        "sich zuschütten",
+        "spendieren",
+        "süffeln",
+        "süppeln",
+        "tanken",
+        "trudeln",
+        "verdrücken",
+        "verlöten",
+        [
+          "verpitschen",
+          "eine Flasche Wein verpitschen"
+        ],
+        "vertilgen",
+        "wegballern",
+        "zechen",
+        "zischen",
+        "zu tief ins Glas gucken",
+        "zwitschern"
+      ]
+    },
+    "Langsam_kleine_Mengen_trinken": {
+      "Begriffe": [
+        "einen Schluck nehmen",
+        "in kleinen Schlucken trinken ",
+        [
+          "nippen",
+          "nippen an"
+        ],
+        [
+          "Schlückchen nehmen ",
+          "ein Schlückchen nehmen"
+        ],
+        "Schlückchen trinken",
+        "schlückchenweise trinken"
+      ]
+    },
+    "Schnell_große_Mengen_trinken": {
+      "Begriffe": [
+        "gierig aufsaugen",
+        "gierig einsaugen",
+        [
+          "heruntergießen",
+          "runtergießen"
+        ],
+        [
+          "herunterschütten",
+          "runterschütten"
+        ],
+        [
+          "herunterspülen",
+          "runterspülen"
+        ],
+        [
+          "herunterstürzen",
+          "runterstürzen"
+        ],
+        "hinabschütten",
+        "hinabstürzen",
+        "hineinkippen",
+        "hineinschütten",
+        "hinunterkippen",
+        "hinunterspülen",
+        "hinunterstürzen",
+        "kippen",
+        "reinkippen",
+        "reinschütten",
+        [
+          "herunterkippen",
+          "runterkippen"
+        ],
+        "wegkippen"
+      ]
+    },
+    "Austrinken": {
+      "Begriffe": [
+        "auslutschen",
+        "aussaugen",
+        "austrinken",
+        "entleeren",
+        "exen",
+        [
+          "leer trinken",
+          "leertrinken"
+        ],
+        "leeren",
+        "wegtrinken"
+      ]
+    },
+    "Geräuschvoll_trinken": {
+      "Begriffe": [
+        "geräuschvoll trinken",
+        "schlappen",
+        [
+          "schlürfen",
+          "schlurfen"
+        ]
+      ]
+    }
+  },
+  "Durst": {
+    "Begriffe": [
+      "ausgetrocknet sein",
+      "Bedürfnis zu trinken",
+      "Begierde nach Flüssigkeit",
+      "Brand",
+      "Drang zu trinken",
+      "Durst",
+      "Durst empfinden",
+      "Durst haben",
+      "Durst leiden",
+      "Durst verspüren",
+      "Durstempfinden",
+      [
+        "dürsten",
+        "dursten"
+      ],
+      "dürstend",
+      "Durstgefühl",
+      "Durstgefühl haben",
+      "durstig",
+      "durstig sein",
+      "Dürstigkeit",
+      "durstleidend",
+      "etwas trinken möchten",
+      "Flüssigkeitsbedarf",
+      "Flüssigkeitsdrang",
+      "Flüssigkeitsverlangen",
+      "Heißdurst",
+      [
+        "Kehle ist wie ausgedörrt",
+        "jemandes Kehle ist wie ausgedörrt"
+      ],
+      "lechzen",
+      "lechzend",
+      "Nachdurst",
+      "Trinkbedarf",
+      "Trinkbedürfnis",
+      "trinkgierig",
+      "Trinkverlangen",
+      "Verlangen nach Flüssigkeit",
+      "Verlangen nach Trinken",
+      "Verlangen zu trinken"
+    ]
+  },
+  "Getränk": {
+    "Begriffe": [
+      "das Trinken",
+      "Drink",
+      "Durstlöscher",
+      "Flüssignahrung",
+      "Gesöff",
+      "Getränk",
+      "Trank",
+      "Trinkbares",
+      "Trinkware",
+      "Tropfen",
+      "Trunk",
+      "Reiswein"
+    ],
+    "Kaltgetränk": {
+      "Begriffe": [],
+      "Alkoholfreies_Kaltgetränk": {
+        "Begriffe": [
+          "Smoothie",
+          "Ganzfruchtgetränk",
+          "Eiskaffee"
+        ],
+        "Wasser": {
+          "Begriffe": [
+            "Arbeitersekt",
+            "Born",
+            "Brause",
+            "Brunnenwasser",
+            "Brunnewitzer",
+            "Gänsewein",
+            [
+              "Kraneberger",
+              "Kranenberger"
+            ],
+            "Kranwasser",
+            "Kribbelwasser",
+            "Lauterbacher",
+            "Lauterbrunner",
+            "Leitungswasser",
+            "Mineralwasser",
+            "Proletariersekt",
+            "Pumpenheimer",
+            "Quellwasser",
+            "Rohrperle",
+            "Sauerbrunnen",
+            "Säuerling",
+            "saurer Sprudel",
+            "Selters",
+            "Selterswasser",
+            "Siphon",
+            "Soda",
+            "Sodawasser",
+            "Spring",
+            "Spritzwasser",
+            "Sprudel",
+            "Sprudelwasser",
+            [
+              "Stilles Wasser",
+              "stilles Wasser"
+            ],
+            "Tafelwasser",
+            "Trinkwasser",
+            "Wasser",
+            "Wasser mit Zisch"
+          ]
+        },
+        "Saft": {
+          "Begriffe": [
+            "Ananassaft",
+            "Apfelsaft",
+            [
+              "Apfelsaftschorle",
+              "Apfelschorle"
+            ],
+            "Fruchtnektar",
+            "Fruchtsaft",
+            "Gemüsesaft",
+            "Karottensaft",
+            "Most",
+            "Multivitaminsaft",
+            "Nektar",
+            "Obstsaft",
+            [
+              "Orangensaft",
+              "O-Saft"
+            ],
+            "Saft",
+            "Süßmost",
+            "Tomatensaft",
+            "Traubenmost",
+            "Traubensaft"
+          ]
+        },
+        "Softdrink": {
+          "Begriffe": [
+            "Bitter Lemon",
+            "Brause",
+            "Brauselimonade",
+            [
+              "Coca-Cola",
+              "Cola"
+            ],
+            "Coke",
+            "Colagetränk",
+            "Eistee",
+            "Erfrischungsgetränk",
+            "Fassbrause",
+            "Ginger Ale",
+            "Ingwerbier",
+            "Lakritzenwasser",
+            [
+              "Limonade",
+              "Limo"
+            ],
+            "Orangeade",
+            "Orangenlimonade",
+            "Scherbet",
+            "Serbet",
+            "Sirup",
+            "Softdrink",
+            "Sorbet",
+            "Tonic Water",
+            "Zitronenlimonade",
+            "Zuckersaft",
+            "Zuckerwasser"
+          ]
+        },
+        "Kaltes_Milchgetränk": {
+          "Begriffe": [
+            "Bananenmilch",
+            "Büchsenmilch",
+            "Buttermilch",
+            "Dickmilch",
+            "Dosenmilch",
+            "Erdbeermilch",
+            "Eselsmilch",
+            "Frischmilch",
+            "gestandene Milch",
+            "Hafermilch",
+            [
+              "haltbare Milch",
+              "H-Milch"
+            ],
+            "Kokosmilch",
+            "Kondensmilch",
+            "Kuhmilch",
+            "Kuhsaft",
+            "Magermilch",
+            "Mandelmilch",
+            "Milch",
+            "Milchmischgetränk",
+            "Milchmixgetränk",
+            [
+              "Milchshake",
+              "Milkshake"
+            ],
+            "Pflanzenmilch",
+            "Reismilch",
+            "Sauermilch",
+            "saure Milch",
+            "Schickermilch",
+            "Sojamilch",
+            "Trinkmilch",
+            "Vollmilch",
+            "Ziegenmilch"
+          ]
+        }
+      },
+      "Alkoholhaltiges_Kaltgetränk": {
+        "Begriffe": [
+          "billiger Alkohol",
+          "Radler",
+          "Alsterwasser",
+          "Alster",
+          "Bier-Limonade-Mix",
+          "Biermischgetränk",
+          "Cocktail",
+          "Longdrink",
+          "Shortdrink",
+          "Kurzer",
+          "Absacker",
+          "Honigwein",
+          "Met"
+        ],
+        "Bier": {
+          "Begriffe": [
+            "Bier",
+            "Gerstensaft",
+            "Gerstentrank",
+            "Gerstenwein",
+            "Flüssigbrot",
+            "Gerstenkaltgetränk",
+            "Gerstenkaltschalte",
+            "Hopfenkaltschale",
+            "Hopfentee",
+            "Krawallbrause",
+            "Maurerbrause",
+            "Ballerbrühe",
+            "Hopfenblütentee",
+            "Hopfensaft",
+            "Hopfengetränk",
+            "Bräu",
+            "Altbier",
+            "Weißbier",
+            [
+              "Weizenbier",
+              "Weizen"
+            ],
+            "Hefeweizen",
+            [
+              "Pilsbier",
+              "Pils"
+            ],
+            [
+              "Bockbier",
+              "Bock"
+            ],
+            "Starkbier",
+            "Kölsch",
+            "Helles",
+            "Hellbier",
+            "Kellerbier",
+            [
+              "Märzenbier",
+              "Märzen"
+            ],
+            "Leichtbier",
+            "Dünnbier",
+            "Braunbier",
+            "Ale",
+            "Porter",
+            "Schwarzbier",
+            "Malzbier",
+            "Dunkelbier"
+          ]
+        },
+        "Wein": {
+          "Begriffe": [
+            "Wein",
+            "Rebensaft",
+            "Rotwein",
+            "Roter",
+            "Weißwein",
+            "Weißer",
+            [
+              "Roséwein",
+              "Rosé"
+            ],
+            "Tafelwein",
+            "Prädikatswein",
+            "Qualitätswein",
+            "Obstwein",
+            "Apfelwein",
+            "Federweißer",
+            "Fruchtwein",
+            "Sauser",
+            "Riesling",
+            "Bordeaux",
+            "Burgunder",
+            "Cidre",
+            "Apfelperlwein",
+            "Apfelschaumwein",
+            "Eiswein",
+            "Landwein",
+            "Süßwein",
+            "Portwein",
+            "Likörwein",
+            "Grauburgunder",
+            "Weißburgunder",
+            "Palmwein"
+          ],
+          "Sekt": {
+            "Begriffe": [
+              "Schaumwein",
+              "Perlwein",
+              "Sekt",
+              "Champagner",
+              "Schampus",
+              "Schumm",
+              "Pickelbrause",
+              "Pickelwasser",
+              "Puffbrause",
+              "Prosecco",
+              "Krimsekt"
+            ]
+          }
+        },
+        "Spirituose": {
+          "Begriffe": [
+            "Schnaps",
+            [
+              "Branntwein",
+              "Branntewein"
+            ],
+            "Schabau",
+            "Spirituose",
+            "Feuerwasser",
+            "Fusel",
+            "Hochprozentiges",
+            "Zielwasser",
+            "Korn",
+            "Kornbrand",
+            "Kornbranntwein",
+            "Gin",
+            "Wacholderbranntwein",
+            "Wacholderschnaps",
+            "Wodka",
+            "Obstbrand",
+            "Obstgeist",
+            "Obstler",
+            "Obstwasser",
+            "Obstschnaps",
+            "Likör",
+            "Amaretto",
+            "Mandellikör",
+            "Cassis",
+            "Johannisbeerlikör",
+            "Aprikosenbrand",
+            "Aprikosenschnaps",
+            "Marillenbrand",
+            "Marillenschnaps",
+            "Zwetschgenbrand",
+            "Zwetschgenschnaps",
+            "Zwetschgenwasser",
+            "Cognac",
+            "Kognak",
+            "Weinbrand",
+            "Digestif",
+            "Verdauungsschnaps",
+            "Magenbitter",
+            "Absinth",
+            "Aquavit",
+            "Lebenswasser",
+            "Goldwasser",
+            [
+              "Whiskey",
+              "Whisky"
+            ],
+            "Eierlikör",
+            "Kirsch",
+            "Kirschwasser",
+            "Kirschgeist",
+            "Kräuterlikör",
+            "Kräuterschnaps",
+            "Klarer",
+            "Rum",
+            "Zuckerrohrschnaps",
+            "Tequila",
+            "Brandy",
+            [
+              "Arrak",
+              "Arrack"
+            ],
+            "Pflaumenbranntwein",
+            "Kümmelbranntwein",
+            "Wermutbranntwein",
+            "Wermutschnaps",
+            "Anisbranntwein",
+            "Pfefferminzlikör",
+            "Anislikör",
+            "Anisschnaps",
+            "Grappa",
+            "Tresterbrand",
+            "Tresterschnaps",
+            "Sherry",
+            "Reisbranntwein",
+            "Reisschnaps"
+          ]
+        }
+      }
+    },
+    "Heißgetränk": {
+      "Begriffe": [],
+      "Alkoholfreies_Heißgetränk": {
+        "Begriffe": [
+          "Aufgussgetränk"
+        ],
+        "Tee": {
+          "Begriffe": [
+            "Tee",
+            "Teegetränk",
+            "Früchtetee",
+            "Kamillentee",
+            "Kräutertee",
+            "Pfefferminztee",
+            [
+              "Schwarztee",
+              "schwarzer Tee",
+              "Schwarzer Tee"
+            ],
+            "Fencheltee",
+            [
+              "Grüntee",
+              "grüner Tee",
+              "Grüner Tee"
+            ],
+            "Mate",
+            "Ostfriesentee",
+            "Hagebuttentee"
+          ]
+        },
+        "Kaffee": {
+          "Begriffe": [
+            "Blümchenkaffee",
+            "Bodenseekaffee",
+            "Bohnenkaffee",
+            "Brühe",
+            "Capuccino",
+            "Espresso",
+            "Filterkaffee",
+            "Geplämpe",
+            "Geschlapp",
+            "Instantkaffee",
+            "Java",
+            [
+              "Kaffee",
+              "Café"
+            ],
+            "Kaffee mit aufgeschäumter Milch",
+            "Kapuziner",
+            "Latte",
+            "Latte macchiato",
+            "Lorke",
+            "Lurke",
+            "Melange",
+            "Milchkaffee",
+            [
+              "Mokka",
+              "Mocca",
+              "Mocha"
+            ],
+            "Plampel",
+            [
+              "Plempe",
+              "Plämpe"
+            ],
+            "Plörre",
+            "Röstkaffee",
+            "Schwarzes Gold",
+            "Türkentrank",
+            "Wachmacher"
+          ]
+        },
+        "Ersatzkaffee": {
+          "Begriffe": [
+            "Ersatzkaffee",
+            "Kaffeeersatz",
+            "Caro-Kaffee",
+            "Fruchtkaffee",
+            "Gerstenkaffee",
+            "Getreidekaffee",
+            "Kornkaffee",
+            "Malzkaffee",
+            "Kinderkaffee",
+            "Muckefuck",
+            "Zichorienkaffee",
+            "Eichelkaffee"
+          ]
+        },
+        "Kakao": {
+          "Begriffe": [
+            "Kakao",
+            "Heiße Schokolade",
+            "Kakaogetränk",
+            "Kakaomilch",
+            "Kakaotrunk",
+            "Kakaotrank",
+            [
+              "Schokoladentrunk",
+              "Schokotrunk"
+            ],
+            [
+              "Schokoladentrank",
+              "Schokotrank"
+            ],
+            "Trinkschokolade",
+            "Schokolade",
+            [
+              "Schokoladengetränk",
+              "Schokogetränk"
+            ],
+            "Schokodrink",
+            "Milchkakao",
+            [
+              "Schokoladenmilch",
+              "Schokomilch"
+            ]
+          ]
+        }
+      },
+      "Alkoholhaltiges_Heißgetränk": {
+        "Begriffe": [
+          [
+            "Jagertee",
+            "Jagatee",
+            "Jägertee"
+          ],
+          "Förstertee",
+          "Hüttentee",
+          "Glühwein",
+          "Glühmost",
+          "Punsch",
+          "Bischof",
+          "Kardinal",
+          "Weinwarm",
+          "Feuerzangenbowle",
+          "Gewürzwein",
+          "Hippokras",
+          "Grog",
+          "Espresso mit Schuss",
+          "Kaffee mit Schuss",
+          "Irish Coffee",
+          "Hoppelpoppel",
+          "Krambambuli",
+          "Teepunsch",
+          "Pharisäer"
+        ]
+      }
+    }
+  }
+}

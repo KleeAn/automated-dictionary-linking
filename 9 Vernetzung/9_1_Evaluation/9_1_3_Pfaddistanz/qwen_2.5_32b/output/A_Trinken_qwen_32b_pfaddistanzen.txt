@@ -1,0 +1,14 @@
+File: A_Trinken_qwen_32b_basiskonzepte_bearb.tsv
+Rows: 1101
+∅ minimal path distance: 1.01
+∅ average path distance: 1.09
+
+Average distances per part-of-speech:
+Adjektiv: ∅ min = 0.00, ∅ avg = 0.00
+Substantiv: ∅ min = 0.99, ∅ avg = 1.06
+Verb: ∅ min = 1.08, ∅ avg = 1.17
+
+Average distances per concept group:
+Durst: ∅ min = 0.61, ∅ avg = 0.61
+Getränk: ∅ min = 0.85, ∅ avg = 0.92
+Trinken: ∅ min = 1.39, ∅ avg = 1.47

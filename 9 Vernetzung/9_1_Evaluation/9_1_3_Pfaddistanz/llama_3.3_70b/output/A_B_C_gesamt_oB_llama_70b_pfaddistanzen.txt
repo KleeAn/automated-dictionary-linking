@@ -1,0 +1,16 @@
+File: A_B_C_gesamt_oB_llama_70b_basiskonzepte.tsv
+Rows: 3095
+∅ minimal path distance: 0.51
+∅ average path distance: 0.63
+
+Average distances per part-of-speech:
+Adjektiv: ∅ min = 0.41, ∅ avg = 0.41
+Adverb: ∅ min = 0.00, ∅ avg = 0.00
+Substantiv: ∅ min = 0.52, ∅ avg = 0.56
+Verb: ∅ min = 0.52, ∅ avg = 0.92
+
+Average distances per concept group:
+Durst: ∅ min = 0.64, ∅ avg = 0.64
+Getränk: ∅ min = 0.60, ∅ avg = 0.73
+Trinken: ∅ min = 1.15, ∅ avg = 1.95
+kein_Trinken: ∅ min = 0.37, ∅ avg = 0.37
