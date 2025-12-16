@@ -10,10 +10,10 @@ This repository contains the scripts, configuration files, and supplementary mat
 
 The material is organised according to dissertation chapters. For more information, see the documentation in the corresponding folders.
 
-* `7 Vokabular/`
-* `8 Korpus/`
-* `9 Konzeptmapping/`
-* `11 DiaLexBase/`
+* `7_Vokabular/`
+* `8_Korpus/`
+* `9_Konzeptmapping/`
+* `11_DiaLexBase/`
 * `Abbildungen/`
 
 ## Dictionaries
